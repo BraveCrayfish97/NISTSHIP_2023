@@ -1,0 +1,1264 @@
+Video #1
+a man is playing a guitar in a room with posters on the wall
+
+0.5204116 An Asian man playing an electronic guitar in an indoor setting.
+
+0.7440331 An Asian guitarist plays his guitar inside a bar with colorful posters on the wall.
+
+0.6621825 Young man with black hair wearing black leather jacket plays electric guitar inside a dark room surrounded by posters
+
+0.5015501 An Asian man in a black jacket playing a guitar indoors.
+
+0.518143 A man wearing a black jacket is playing a guitar indoors.
+
+Video #2
+a man in a blue shirt and sunglasses is driving a car on a sunny day
+
+0.7412727 Youngish Man with straw hat wearing sunglasses, a watch, in a blue shirt sitting in the driver's seat in a car wearing seatbelt passing a hill with trees during a cloudy day
+
+0.83645266 An Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+0.68219256 An Asian man wearing sunglasses and a hat is driving a car in the daytime.
+
+0.65378183 An Asian man in a blue t-shirt with a straw hat driving a car in the daylight.
+
+0.7401498 An Asian man wearing a straw hat, sunglasses and a blue short-sleeved shirt while driving a car.
+
+Video #3
+a shirtless man in a green robe is standing in a bathroom in front of a shower
+
+0.6436433 A white man bends forward while wearing a green bathrobe in a bathroom.
+
+0.58059144 A blonde man in a green bathrobe in a bathroom who gets startled.
+
+0.59333724 A white man wearing a green robe was picking something up in a bathroom but got scared.
+
+0.72399604 A man in a green bathrobe bends over slightly while standing in a bathroom.
+
+0.4677126 White male with short brown hair stands in a bathroom, bends forward and appears to be frightened of something as he jumps back.
+
+Video #4
+a large group of people are posing for a photo in front of a crowd
+
+0.48002952 A crowd of people cheering in an enclosed space.
+
+0.4247344 A group of Asian men and women in a group with happy faces and very well dressed indoors yelling as a group.
+
+0.5776217 A big group of mainly Asian people are cheering and smiling while taking a photo on and around an indoor stage.
+
+0.50787026 A large group of Asians take a photo with a nun in a room with white walls.
+
+0.4936698 Large gathering of people inside a hall shouting YEA as they show thumbs up
+
+Video #5
+a man in a purple shirt and jeans is standing on a trampoline in a room
+
+0.7140467 Man in a purple T shirt and blue jeans is jumping on a trampoline outdoors as another young man is watching him
+
+0.5993354 A man in a purple shirt jumps on a trampoline outside on a sunny day.
+
+0.5930767 A male wearing blue jeans and a purple t-shirt is jumping on a target in the middle of a trampoline outdoors while a little boy is excitingly watching.
+
+0.43890113 A video in slow motion of a person with a purple t-shirt with writing on it jumping in a trampoline outdoors in the daylight being watched by a young boy.
+
+0.43152314 A white male jumping high on a trampoline in the backyard of a house.
+
+Video #6
+a woman in a brown jacket is talking to the camera on a sunny day on a beach
+
+0.6116176 A Latino woman with brown shoulder-length hair talking at a construction site on a sunny day.
+
+0.4374155 A woman stands on a piece of property pointing and speaking in front of the camera.
+
+0.4391026 Young woman with long brown hair is standing outdoors in daylight in a desolated field as she talks in Spanish and explains about a house they owned at that location.
+
+0.42428046 A young woman with long brown hair and wearing a beige jacket speaking in Spanish with captions in English explaining what is left of her home, part of which is left and seen in the background.
+
+0.5545523 A lady wearing a white shirt and a brown jacket is outside talking and pointing at a land in the daytime.
+
+Video #7
+a man in a black shirt and shorts is sitting on a blue chair in a room with a group of people in a room
+
+0.35229325 A male doing contractions and a female is running in an indoor place while other people are watching
+
+0.37818 A bald white man seated observing dancers rehearsing dance movements indoors as seen in a mirror.
+
+0.55725724 several dancers dressed in black are performing dance movements inside a hall with a large mirror, while a partially bald man is sitting and watching.
+
+0.4776001 Three dancers are running around a large room in front of a mirror while other people in the room watch.
+
+Video #8
+a black bird with a red beak is standing on the rocks near the ocean on a sunny day
+
+0.76348835 A black bird with a long orange bill is pecking at the rock near a body of water on a sunny day.
+
+0.43588573 A black bird is probably eating on the shore while the waves are coming smoothly in front of it in the daytime.
+
+0.6510112 A black bird with a long orange beak picking food from the rocks next to a body of water in the sunlight,
+
+0.77544683 Black bird with a red beak is standing on rocks near a river looking for food inside the rock
+
+0.71730125 A black duck with an orange beak stands at the edge of the water
+
+Video #9
+a man is plowing a field with a green culter on a sunny day
+
+0.44555777 A wheel cultivator is used to prepare land for planting outside on a sunny day.
+
+0.44123822 Man's voice talks in Spanish as his one wheel plow is plowing outdoors in the sunshine.
+
+0.46500307 In the daylight, a rake is moving the earth around some plants as a man speaks in the background.
+
+0.3571264 Someone is plowing the ground using a hand wheel and talking in the daytime.
+
+0.5996504 A male using a farm tool to plow the earth in a field of plants on a sunny day.
+
+Video #10
+a bride and groom are standing in the grass with a veil on a sunny day in a garden
+
+0.50535053 A cartoon scene depicting a bride and groom with a photographer at an open green space with housing in the background on a sunny day
+
+0.4017247 A photo session for a bride and groom in a beautiful landscape surrounded by houses in the daytime.
+
+0.46022847 On a sunny day a married couple in their wedding attire are posing for pictures being taken by another man and a woman outside in the area with trees and houses in the background.
+
+0.38846725 Wedding photograph is taken by a photographer of the groom dressed in a black suit and a bride dressed in white dress and white vail, outdoors during daylight.
+
+0.5458639 Photographers take photos of a bride and groom outside on a sunny day with tropical surroundings.
+
+Video #11
+a man in a suit and glasses is talking to a man in front of a chart on a white board
+
+0.79131156 A man wearing glasses speaks in front of the camera discussing a chart that is being shown.
+
+0.537118 Middle aged with man with receding hairline and glasses is speaking in French indoors, explaining a chart
+
+0.6967319 A white man with gray hair and glasses, president of a corporation, is talking about a chart on the screen.
+
+0.3826704 A male wearing eyeglasses, white shirt and green jacket is explaining and presenting a graph about technology and cost on a screen.
+
+0.44347742 Headshot of a gray-haired white man wearing eyeglasses while giving a presentation with a slide of information beside him.
+
+Video #12
+a group of young men are kicking a soccer ball on a soccer field in a gym
+
+0.52045745 Young adult males playing soccer in an indoor venue.
+
+0.46861044 Young men, some in orange t-shirts and black shorts, are playing soccer, while a woman's voice is speaking in the background.
+
+0.5036657 A team of men in pink shirts play a game of soccer with another team in gray shirts.
+
+0.5175284 Two groups of males, one in gray and the other one in orange t-shirts are playing soccer while other people are watching.
+
+0.42125788 Two teams, one dressed in orange t-shirts, the other in gray t-shirts, are playing soccer while a woman speaks in the background.
+
+Video #13
+two men are standing in a field with a dead animal on a sunny day
+
+0.46824276 Two men are outside by an area where some soil has been moved and one man props a chair by the moved soil as the other man sits down on the chair.
+
+0.33671257 A man in plaid shirt, jeans and jacket is putting a chair or another man wearing jeans and white jacket to sit in the woods in the daytime.
+
+0.48029804 A man brings a chair for a man digging a hole to sit outside near an area with trees.
+
+0.40153745 Two men, one with a brown jacket, the other wearing a white long sleeve shirt,are outside in daylight during winter as one of them places a chair on the ground for the other.
+
+0.3318793 Two white males dressed casually in a wooded area with a folding chair and a shovel during the daytime.
+
+Video #14
+two black men in black jackets are dancing on the desert on a sunny day
+
+0.61664873 Two men with jackets are outside on a sunny day, in a barren land with blue cloudy sky and pose in very distinct positions.
+
+0.46002197 Two men standing in sand pose for a photo on a cloudy day.
+
+0.54666203 Two men standing outdoors on a cloudy day, in a desert as they perform yoga or Karate poses.
+
+0.42746255 Two males wearing jeans and black long-sleeved tops while posing in slow-motion against a backdrop of dry baked earth and a sky of white fluffy clouds.
+
+Video #15
+a person is holding a clear umbrella in front of a piece of glass on a table
+
+0.41083613 The hands of a white male handling a clear plastic contraption.
+
+0.34175575 A man's hand is manipulating and explaining an instrument wrapped in a big white plastic, with his fingers showing where to push and turn.
+
+0.42750818 A person uses their hand to put a plastic material together.
+
+0.46384037 Two men are holding a plastic object, one of them is stapling one side while the other one is describing it.
+
+0.40327725 A person's hand is seen inserting pins in a plastic see-through structure while a man is explaining it in the background.
+
+Video #16
+a group of people are standing in front of a jeep in a field near a herd of cattle on a sunny day
+
+0.634827 A group of people waving stand in front of an open vehicle outside on a sunny day.
+
+0.398077 A group of people of a variety of ethnic backgrounds are standing waving and cheering outdoors near trees, standing next to a mobile safari car
+
+0.5289687 Outdoor on a sunny day a group of people are posing and waving in front of a truck to the camera as a man in the background talks of a safari.
+
+0.35270372 A group of white and African men and women are waving their hands in front of a car during a safari in the daytime.
+
+0.44482908 A group of people standing and waving their hands near an open tourist truck in a dry forested area with nearby camp housing.
+
+Video #17
+a young man in a black jacket and hat is standing on a bench in the snow on a snowy day
+
+0.42690176 A white child dressed in black and ice skates gets up from a wooden bench in a snow-covered outdoor area and tries to ice skate.
+
+0.5021442 A girl wearing her ice skate shoes is getting up and looking sadly at another person outdoors where there are piles of snow in the daytime.
+
+0.67405856 Outdoors in the snow a young white person dressed in black with a gray cap gets up very carefully from a bench wearing ice skaters.
+
+0.54575914 A white child dressed in snow attire on skates is getting up from a bench as we see snow and high rise buildings in the background.
+
+0.6903812 A young boy in a black snow suit gets up from a wooden bench outside surrounded by snow.
+
+Video #18
+a black and white cat is playing with a bookcase in a room
+
+0.44751292 A back and white dog is lying down on a bookshelf while three other dogs are walking and eating indoors in the daytime.
+
+0.6075945 While music is playing in the background the video shows a hallway indoors with a bookshelf full of books and magazines and white tile floors as two white and black dogs move into the area.
+
+0.7700198 Black and white dog lying on a bookcase filled with books inside a room as 3 other black and white dogs walk in.
+
+0.60968757 A small black and white dog sleeps on a wooden bookcase while some other puppies sniff the tile floor.
+
+0.609167 Four fluffy white and black dogs in a house near a bookshelf and couch.
+
+Video #19
+a suspended light fixture in a room with a blue wall
+
+0.5464094 Indoor space with rectangular wires suspended from a brown ceiling.
+
+0.56349707 A metal mobile in the shape of squares and rectangles hangs from a ceiling in a room with recessed and white lights.
+
+0.53944993 A modern piece of art made of metal wires is attached to a rod inside a room with blue walls and purple ceiling.
+
+0.43021968 Indoors, two geometric metal forms are hanging from a strip in a tan ceiling and a bluish white wall in the background while focusing on just one of the geometric figures.
+
+0.4978111 An indoor place with white walls where some metal objects are hung from an orange ceiling.
+
+Video #20
+a group of star wars stormtroos are walking in a park on a sunny day
+
+0.39918205 A group of people dressed in white astronaut costumes walk across a grassy area with two women and a boy.
+
+0.34155077 5 People dressed in white uniforms covered head to toe, are walking outdoors among trees in daylight accompanied by 3 people without uniforms.
+
+0.4996811 Outdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+0.49821588 Some people in star war costumes are accompanied by other people and walking outdoors in the daytime.
+
+0.4151347 Several people walking in a lush green park dressed in white costumes
+
+Video #21
+a woman in a red shirt is holding a glass of beer in front of a group of people on a city street
+
+0.37042677 Two red-head white women at a daytime outdoor event with food stalls on a cobblestone street.
+
+0.43403512 A woman is standing up outdoors in the daytime, holding two drinks in her hands, and talking about how she is having a good time at a festival while another lady is smilingly looking at her.
+
+0.50099623 Outdoors on a sunny day, a woman with long red hair and a red jacket is telling the camera that she is at a festival while another woman with a colorful stripe blouse looks on, and tents and people are seen in the background.
+
+0.48566157 Two white women standing outdoors in a festival as one of them describes what a lovely time they have, as they stand in front of two males and a tent with more people.
+
+0.47771057 A woman holding two cups talks into the camera while another woman smiling in a colorful striped shirt stands beside her and watches outside on a sunny day.
+
+Video #22
+a young man and a woman are sitting on a bench in a room talking to each other
+
+0.5160382 Indoors, both a young man in a black jacket with a white t-shirt with thin black stripes and a young woman with long black hair and a blue and pink jacket are seated and the woman is talking about a play while she scratches her arm.
+
+0.572023 An Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+0.6603504 A woman in a blue jean shirt sits next to a man on a bench talking into the camera.
+
+0.5759746 A young woman with long brown hair sits next to a young man wearing a jacket and striped shirt in a dark room lit by artificial lights while she scratches her arm.
+
+0.61726147 An Asian man and woman are dressed casually and seated on a bench indoors talking.
+
+Video #23
+a blue boat is floating in the water on a sunny day on a lake in the mountains
+
+0.55421215 Two boats by themselves in the water parked while mountains and calm weather is surrounding the area.
+
+0.76324314 On a cloudy evening two boats are gently floating on a lake surrounded by mountains.
+
+0.48420507 Two boats tied to a dock move as the waves hit them outside on a cloudy day.
+
+0.5804343 Two boats are in the water attached to the shore with some mountains in the background in the daytime.
+
+0.6656959 Outdoors on a cloudy day or at dusk with mountains in the background, two boats anchored at a dock are in a body of water.
+
+Video #24
+a woman is lying on a surf board in the ocean on a sunny day
+
+0.31490913 A young girl climbing onto a yellow, green, and red waterboard with a while male standing nearby in the body of water and the cityscape of an urban area in the background.
+
+0.5231663 A young girl in a bathing suit climbs on a colorful surfboard in a body of water on a cloudy day as another person watches from the water.
+
+0.33872905 A small boy in the water gets up on a surfboard as an older man watches him.
+
+0.3242134 A child is getting on top of a surfboard on the beach accompanied by a male adult in the daytime.
+
+0.52288496 On a sunny day in the water with a skyline in the background, a young girl is trying to get on a surfboard while a man in a blue and white jacket looks on.
+
+Video #25
+a man in a black hoodie is working on a car in a garage with a man in front of it
+
+0.7095964 In fast motion, men are working on the front hood of a black car indoors in a garage.
+
+0.36627746 Four males are taking turns in checking and fixing a car in an indoor workshop.
+
+0.43859473 Three mechanics look under the hood of an automobile inside a garage.
+
+0.61669207 In a garage filled with repair items indoors lit by artificial light, 3 men are working on a black car as its hood is open
+
+0.76272595 Two white males working under the hood of a black car in a garage.
+
+Video #26
+a group of young men are kicking a soccer ball on a soccer field
+
+0.49766108 Two all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+0.6120572 Two groups of men, one in green and the other one in black are playing soccer in an outdoor field in front of a white building in the daytime.
+
+0.44434613 In a field with a white building in the background in the daylight, two teams, one in orange and one in yellow/green, are playing soccer.
+
+0.62106645 A group of young people running around and kicking a ball outdoors in daylight in a grassy area next to a building.
+
+0.48875052 A group of men in lime green and orange vests play field hockey in front of a large white building.
+
+Video #27
+a bride and groom are walking down the aisle of a wedding ceremony with a little girl in a pink dress
+
+0.3280837 Celebration in an Asian setting indoors as a couple walks through a door decorated with fancy white curtains while a man in glasses is registering the event in a book.
+
+0.5093256 While Indian music is playing in the background, inside and a little girl dressed in pink is excited, people dressed in costumes watch as couples begin to enter the room.
+
+0.43882895 An Indian wedding ceremony where an old man is signing some papers and a youngman is entering the place accompanied by an old lady.
+
+0.44227237 An Indian wedding party is entering an aisle with people seated on either side.of the indoor space.
+
+Video #28
+two young asian women in a white shirt and black skirt are dancing in front of a wall
+
+0.45472497 Two young ladies practicing dance moves in an indoor space.
+
+0.86781424 Two young girls in white blouses and black skirts dance in front of a white wall with writing on it.
+
+0.7582188 Two young girls both dressed in white shirts and black skirts are dancing indoors next to a white wall to upbeat music.
+
+0.6694365 Indoors two young women with black hair wearing white shirts and black short skirts are dancing and having fun to music playing in the background.
+
+0.65246654 Two girls wearing white tops and black skirts are dancing indoors, one of them is pretending to pull the other girl.
+
+Video #29
+a man in a white shirt is sitting on a bed in front of a tv in a room with a group of people
+
+0.51037276 People are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+0.5291428 Indoors some people are watching a tv showing people in bed, one with a phone, another looking at a magazine.
+
+0.5227119 On a wide bed covered in white sheet and 3 white pillows one man is lying with head bent down over a book while another is sitting next to him holding a phone in his hand.
+
+0.5266077 People in a movie theater are watching a movie with two men lying on a bed and a child gets in the bed with them.
+
+0.4460755 One Black male seated on a beige couch looking at an electronic and a second Black laying on the same couch looking at a photo album in a room.
+
+Video #30
+a group of cards are on a table in a room on a table in front of a group of people
+
+0.5611851 Ten cards with colorful drawings on a wooden table in a room.
+
+0.32027763 A male adult is talking to a little girl about some paintings displayed on a table indoors.
+
+0.44602287 On a tan table indoors there are 9 cards with envelopes being displayed.
+
+0.7047741 Greeting cards on a wooden table are being videotaped in a room with people.
+
+Video #31
+a man in a black and white striped shirt is sitting at a table with a group of people in a meeting
+
+0.5175268 Three women and two men sit at a table and look at something to the right of them.
+
+0.45660776 Five young people are sitting around a table covered with papers and a laptop computer, listening as one of them talks at night indoors.
+
+0.4263553 Indoors in a conference-like room with a screen in the background, 3 young women are listening as one takes notes while a young with a white t-shirt of the two men present speaks.
+
+0.3416917 A man is talking while three women and another male are listening, taking notes and looking at a screen or board indoors at night.
+
+0.51976866 Three young women and two young men seated at a table in a classroom.
+
+Video #32
+a silhouette of a woman is shown in a profile against a white background
+
+0.60891676 Headshot of a woman in a side view profile silhouette.
+
+0.55290395 A black silhouette of a woman with long hair against a white wall singing a song.
+
+0.585006 A silhouette of a woman is talking in a room with a white wall.
+
+0.60246694 A young woman with long hair in a black shadow with a white background sings.
+
+Video #33
+a football game is played on a football field at night
+
+0.69442654 A broadcaster describes the end of a semifinal football game as the players move around the field.
+
+0.42839274 Two teams, one in while and the other in red and black, are playing the SEC semifinals in a big stadium in the daytime.
+
+0.53542536 A team of lacrosse players in white uniforms run across a field.
+
+0.55882233 A Lacrosse sport team in white uniforms are playing in a ballpark
+
+0.6494403 A football team running off the field at an outdoor stadium.
+
+Video #34
+a man in a suit is sitting on a chair in a living room with a group of people in a living room
+
+0.487526 Inside a house in the daylight, two young couples, being filmed in black and white, are seated in the living room with a piano as one of the men states that he and his wife are leaving and one of the women tells him that they just got there.
+
+0.6080895 A man sitting down on a chair is talking about leaving with his wife to a female lying down on a couch while the wife and a man are sitting down on another couch inside a house in the daytime.
+
+0.7794358 Two young men and women sit in a living room .
+
+0.32325688 Two white couples are sitting and talking in a multi level house with piano and art work on the wall during daylight.
+
+0.51042044 Two white males and two white females sitting in a living room with a piano and artwork on the walls.
+
+Video #35
+a man in a white shirt is bowling at a bowling alley
+
+0.70589864 A middle-aged male bowling at a bowling alley.
+
+0.5479573 Man takes his turn and throws the ball in a bowling alley after he glances at a screen .
+
+0.6572441 A man in a bowling alley throws a ball down the lane.
+
+0.5584111 A man is playing bowling indoors.
+
+0.6690297 A moderately heavy set white man with a white shirt with a stripe is throwing the green bowling ball in a bowling ball place/ring.
+
+Video #36
+a man is looking at a laptop computer with a picture of a woman in a dress on the screen
+
+0.7738034 A man watches a computer screen with a woman modeling an outfit.
+
+0.5127231 Man with a beard watches a video screen as a young model with long hair in a long white coat poses several poses.
+
+0.64837843 With music playing in the background, a man is looking at a computer with women modeling clothes.
+
+0.5127927 A man is watching a model's photos on a laptop indoors.
+
+0.67398167 A white male viewing photos of a white female in a long-sleeved outfit on a computer screen.
+
+Video #37
+a man in a white shirt and black pants is sitting on the edge of a bed in front of a window
+
+0.75668323 A young man, dressed in a white T-shirt, black slacks and glasses, is seated on the side of a bed near a window, putting his shoes on.
+
+0.80729514 A man is sitting on a bed next to a window and wearing black shoes in the daytime.
+
+0.60667086 In a bedroom with a large floor window in the daylight, a young man in black pants and white t-shirt is putting on his black shoes while music is playing in the background.
+
+0.6781965 Young asian man with white shirt and black pants bends over to put his shoes on while sitting inside on a bed during daylight.
+
+0.62466717 An Asian man sitting on the side of the bed puts on his shoes and laces them.
+
+Video #38
+a man in a suit and hat is holding a sign in front of a stone wall on a city street
+
+0.536269 A man is carrying a sign and exhaustedly running in a street in the daytime.
+
+0.5583664 Outdoors in a street, with music playing in the background, a man in a suit with a hat carrying a hand-made sign runs and stops out of breath.
+
+0.5942153 Man with suit, tie and a hat runs forward next to a wall at night carrying a sign says Digital brain Cave.'
+
+0.5664438 A man in a black suit holding a sign that says digital brain cave is running and stops to hold onto a concrete wall to catch his breath.
+
+0.51965433 A white man, dressed in a suit and tie with a hat, is walking fast down a sidewalk holding a large sign that reads in large black letters: Digital Brain Save
+
+Video #39
+a bride in a white wedding dress is walking down the stairs with a bouquet of flowers in her hand on a sunny day
+
+0.64607286 A white woman dressed in a bridal gown and holding a bouquet of red roses poses at the bottom of a broad yellow staircase.
+
+0.45827675 A bride holding red roses throws kisses into the camera and her husband joins her kissing her cheek in front of a long staircase.
+
+0.6180555 White woman wearing a bridal white dress holding red flowers throws a kiss, while standing next to a yellow and pink building.
+
+0.6270366 Outdoors by the steps of a yellow building, in the daytime, a bride dressed in white one off the shoulder dress, with a bouquet of red roses, kisses the screen.
+
+0.36797398 A bride is smilingly kissing and looking at the camera outdoors where there is a lot of people and another bride and groom.
+
+Video #40
+a young woman in a white fur coat is sitting at a bar with a green ball in her hands
+
+0.5316249 A young woman with long brown hair in a red dress with a white fuzzy shawl is chewing gum and finishing using her lipstick proceeds to put it in her purse.
+
+0.5225584 A lady is wearing full makeup, red dress, and white fur is putting makeup in her purse indoors.
+
+0.4848972 A woman with a white drape around her shoulders puts her lipstick and compact into her purse inside a room.
+
+0.5156286 Young woman with long brown hair with white shawl looks into a small green makeup mirror indoors at night.
+
+0.428044 A white woman with a bouffant hairstyle and in a white fuzzy collar is putting makeup items into a purse.
+
+Video #41
+a group of people are standing around a motorcycle on a sunny day
+
+0.77687967 A crowd of people standing around a white vehicle and a motorcycle on a sunny day in the middle of a street.
+
+0.753064 People are watching a motorcycle and a white van, during a sunny day.
+
+0.7734102 A group of men are standing around and looking at a large motorcycle outside on a sunny day.
+
+0.5137439 A motorcycle is blocking the way of a minibus and a big crowd of people are standing and watching in the daytime.
+
+0.65110713 Outdoors on a sunny day in a foreign place, a car and a motorcycle are blocking each other as people gather to see the commotion.
+
+Video #42
+a woman is holding a black hat and a microphone in front of a microphone in a room
+
+0.5111457 A man in a black leather jacket talks into the camera while holding up a cap with gold trim.
+
+0.49194363 White Man with long brown hair and glasses speak into a Microphone holding up a blue cap with gold rim.
+
+0.5590302 A man with long blonde hair and glasses wearing a leather jacket is holding a cap while talking into a microphone seated indoors.
+
+0.59158784 A white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+0.62343395 A middle-aged white male speaking into a microphone while holding up a black cap with a yellow insignia.
+
+Video #43
+a man is walking with a flashlight in front of a car at night on the street
+
+0.6114541 A person walking at night in an unlit outdoor parking lot, tries to open the driver's side door of a locked car.
+
+0.40451387 A lady coming out of a house is trying to unlock a metallic car but can't at night.
+
+0.5162137 With eerie music playing in the background at night, a person walks toward a golden brown sporty car, tries to open the car door and it is locked.
+
+0.639264 In a dark night in a city a man walks up to an orange car and tries to open the car door.
+
+0.7397487 A man walks to a car parked under a lamp post at night
+
+Video #44
+a man in a orange jacket and hat is sitting at a table in front of a group of people under a tent outside on a sunny day
+
+0.46288657 A white male dressed in a red outfit is seated at a table outdoors on grass, while several other people are gathered around him.
+
+0.41413242 An Asian lady is sitting under a tent outdoors in the daytime, stretching her hands while being surrounded by other people.
+
+0.55958486 Outdoors in a field in the cold during the day, a person with an orange jacket with a hood and yellow vest wearing a black ballcap with the letter B , has his arms open to the sides palms up while sitting down and others are standing around this person.
+
+0.64651155 Man in an orange outfit sits next to a small table outdoors in daylight surrounded by other people, and holds out his hands to the side.
+
+0.7354193 A man in a red outfit with an orange vest sits meditating surrounded by a group of people outside on a sunny day.
+
+Video #45
+a person is holding a bag with scissors in it on a table in a kitchen
+
+0.3098046 A collection of medical instruments are laid out on a beige cloth on a table.
+
+0.42398334 Surgical instruments on a white cloth on a table in a dark room as a woman talks in German.
+
+0.34084004 Inside in a dark area on a white cloth on top of a chair, there is a set of scissors and other equipment while a basin also with a cloth inside is seeing behind it,
+
+0.3874322 Some surgery tools are laid in a pouch while a lady is talking.
+
+Video #46
+a young asian woman in a white dress is sitting under a tree in the woods on a sunny day
+
+0.5831375 A young white woman, in a lavender and white dress, is seated on the ground at the base of a very large tree in a heavily forested area.
+
+0.5873009 Woman in a colorful dress sits and lays down flowers in a forest at night time, as a voice describes her actions
+
+0.5125896 A lady sits in front of a large tree and places flowers on the ground.
+
+0.46349362 A lady is laying down some flowers on the ground in front of a tree in the woods and a background voice is playing.
+
+0.55249965 Outside by a giant tree trunk a young woman with black hair and a floral print dress is seated on the ground by the tree trunk and places a yellow/mustard flower in the ground where there are some branches arranged on the ground.
+
+Video #47
+a young man in a blue shirt is sitting in front of a mixing desk in a recording room
+
+0.5673858 A young man with black hair and a blue t-shirt with a large white flower imprinted on the front is seated inside a room in the daytime in front of a large music arrangement keyboard while listening intensively to someone speaking.
+
+0.4578021 A youngman in a light blue t-shirt is sitting next to a sound system indoors and listening to another man talking to him.
+
+0.6541889 A man in a blue shirt with a flower on it sits in front of a keyboard and talks into the camera.
+
+0.6465342 Young man with brown hair in a light green shirt sits inside a room next to a window and an instrument.
+
+0.5116387 A white male seated in an office in front of black equipment near a window.
+
+Video #48
+three young boys and a woman are sitting at a table in front of a table with a boy and a girl
+
+0.71357363 Three young white children at a wooden table in a room in front of beige curtains.
+
+0.6531029 Three children with light brown hair, one boy dressed in red t-shirt, another boy dressed in blue t-shirt and a girl dressed in a green shirt are in front of a table while the girl is explaining her work to others.
+
+0.5096835 A girl, named Ashley, is sitting between her two younger siblings, Addison and Elliot, and talking about writing comics upon her dad's wish.
+
+0.7743985 A young girl and two boys sit in front of the camera talking in a room with a white drape behind them.
+
+0.8077241 Two young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+Video #49
+a group of bridesmaids are walking in a room in a wedding dress in a room with a woman
+
+0.624458 A bride in white with 2 young girls is white are being helped with their dresses by three other women as they stand inside a room in daylight.
+
+0.6026294 A group of people are taking photos of a bride and her wedding party in a large bedroom.
+
+0.4449399 Two women and a man are taking photos of a bride and two little girls in white indoors in the daytime while two ladies are fixing the bride's dress in the back.
+
+0.5996856 Indoors in a large bedroom in the daytime, a bride dressed with her wedding gown is having her picture taken with two young little girls also dressed in white and two adult women one dressed in green and the other in blue.
+
+0.6322195 A bride in her wedding gown and other young women posing for a picture in a large large room.
+
+Video #50
+a person is holding a glass of water and a goldfish in a glass on a green table with a lego frame
+
+0.67266595 A goldfish in a wine glass on a green table with two people wiping away water residue.
+
+0.71648985 Hands of a young child place a glass with goldfish in it inside a colorful frame on a green backing.
+
+0.57928795 A wine glass with goldfish in it spills on a green surface surrounded by wooden blocks and someone wipes it up.
+
+0.4418395 A male and female are wiping a green board and putting a cup filled with water and has a fish on it.
+
+0.58366406 Two people are arranging a congratulatory space by placing some words on a green mat and placing a goldfish in a champagne glass which is spilling water on the green mat.
+
+Video #51
+a woman in a yellow vietnamese hat is cooking food in a bowl on the street on a sunny day
+
+0.6933506 Outdoors in the daytime in a market place street, a woman with a Vietnamese hat wearing a yellow jacket and pink slacks, is bending down preparing some food in two bowls.
+
+0.3202286 An Asian lady is sitting on the ground, cutting vegetables in two metal balls while a youngman is taking off a motorcycle with a female on the back in a street in the daytime.
+
+0.51024383 A young Asian man in a blue and white shirt takes off on a motorcycle passing a woman stooping on the street cutting up food.
+
+0.47785679 Asian woman with Vietnamese hat squats in the street cooking something in a pot as a motorcyclist drives by.
+
+0.4396624 Two young Asians riding a motorcycle on an urban street and an Asian woman in a straw hat, kneeling at curbside chopping green onions.
+
+Video #52
+a bride and groom are walking down the aisle of a wedding ceremony with a group of people
+
+0.40908358 A white bride and groom dancing at an indoor venue, and guests standing on the sides applauding them.
+
+0.55255795 A bride and groom are dancing indoors while the people are clapping and happy for them.
+
+0.451136 At a wedding party inside a ballroom, a recently married couple are joy dancing while guests look on and clap.
+
+0.34890085 White bride with blonde hair dances with black groom in a gray suit as onlookers are clapping inside a room.
+
+0.54005265 A newly married couple dance as they walk down the aisle while their guests clap.
+
+Video #53
+a man in a white shirt is opening the door of a blue car with an electric fuel nozzle
+
+0.5924541 A man in blue pants hooks an electric charger up to his car outside on a sunny day.
+
+0.63772607 A person's hands are opening the fuel lock and placing the fuel line into a gray car
+
+0.62184584 Outside in the daytime, a man in gray pants and a white shirt is plugging his electric silver car to the charge while a man speaks in the background.
+
+0.60296214 A man is charging a blue electric vehicle with a background voice of a male.
+
+0.639775 A white male charging an electric vehicle.
+
+Video #54
+a young black woman with long curly hair is holding a piece of paper in her hands outside on a sunny day
+
+0.46152568 A young African American girl opens an envelope and gets excited outside on a sunny day.
+
+0.46347392 Black woman reads out of a large paper and shows a surprised expression on her face in the daytime sitting next to trees.
+
+0.6112747 A young woman with long black very curly hair and big eyes is outside reading some papers to herself and as she reads her eyes get bigger and she has a surprised expression on her face.
+
+0.455644 A black girl with black hair is outdoors in the daytime reading a letter and gets excited and happy about it.
+
+Video #55
+a soccer team is scores a goal on a soccer field
+
+0.64497983 A soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+0.5598147 Soccer team players wearing striped white and blue t-shirts and black shorts are about to play soccer in an outdoor field in the daytime and the crowd is cheering for them.
+
+0.59108496 Outside in a soccer field, a team is congratulating each other as people in the stadium cheer.
+
+0.44766462 A team in black pants and white tops accompanied by a coach wearing black are walking on a field as spectators are watching
+
+0.535498 A soccer team runs onto the field giving each other a hand slap as they pass each other outside on a sunny day.
+
+Video #56
+a person is flying with a parachute on a sunny day in the sky over a field
+
+0.59503084 On a clear sunny day outside with a beige field in the background, a person is taking a picture of a colored parachute in front as you see the photographer's tennis shoes appear in the camera shot.
+
+0.32651132 A person in an orange and blue hot balloon is about to land while another one wearing black shoes is following him/her in the daytime.
+
+0.77022487 A person is above some hang gliding through the sky on a sunny day.
+
+0.5511424 Colorful paraglider is observed from above by a person whose legs and shoes are showing on a sunny day above fields, near trees.
+
+0.41431987 A person gliding in the air over trees and farmland with an orange and blue glider i the foreground.
+
+Video #57
+a group of tanks are in a field on a cloudy day
+
+0.581443 Military tanks maneuvering in grassy area during the day.
+
+0.56158715 Three tanks carrying black flags with people in them are lining up on a grassy field during daylight
+
+0.68566245 A military tank joins two others in a field on a sunny day.
+
+0.3861885 Three artillery tanks are in a big field in the daytime while a background voice of a male is talking about the size of the region and the capital.
+
+0.34330305 Outdoors, in a field in the daytime, in a video within a video, three military tanks are seen as one is moving around and a man is talking in the background.
+
+Video #58
+a young asian man in a green shirt is talking to a group of children in a room
+
+0.45706633 Asian children are listening to a performance of singing as one of them smiles widely as he turns toward the other children.
+
+0.5454767 Three young boys sitting with a group of other children are engaged in what is being said and laugh inside an area with slat walls.
+
+0.3418519 Some Hispanic children are happily listening to some people's singing indoors in the daytime
+
+0.64311165 Inside in the daytime, a group of young kids and in particular 3 black haired boys, one in an orange t-shirt, another with a white shirt and the other with a green shirt, are listening and smiling to someone singing.
+
+0.5701871 Several young Asian children seated closely together in a room smiling.
+
+Video #59
+a pair of diamond earrings are on a table
+
+0.47889847 A pair of dangling jeweled-earrings attached to a black cardboard on a wooden table.
+
+0.5838854 While there is a man singing in the background, the camera spans over a table where there is a pair of floral shinny, dangling earrings in a display carton.
+
+0.49307984 Diamond or crystal earrings are being displayed while a background song is playing.
+
+0.7773985 A pair of new rhinestone earrings lay on a table.
+
+0.69272923 A pair of glass or Diamond earrings placed on a small black carton is shown on a table as a voice sings in the background.
+
+Video #60
+a side view mirror of a car with a man and a woman in it is shown in the rear view mirror
+
+0.69450825 A young woman with long black hair and smoking a cigarette is seen through the side mirror of a car.
+
+0.6810356 A reflection of a woman holding her cellphone and sitting inside a car is displayed in the car's mirror at night.
+
+0.7367176 A woman sits inside of a car and you can see her smoking a cigarette through the side mirror.
+
+0.80664366 A woman's face is shown in a car's side view mirror as she smokes a cigarette while sitting in a car.
+
+0.78275555 A white woman in the driver's seat of a parked car with a cigarette in her left hand and a view of her face in the driver's side rear view mirror.
+
+Video #61
+a young boy in a black and white plaid shirt is singing in a room with a guitar
+
+0.6615018 A young white male dressed in a black and white long-sleeved shirt and a black and tan cap in a large indoor room with hardwood floors and a wall of windows.
+
+0.6890954 A young Asian boy with checkered shirt and baseball hat sings a song while a young girl in a ponytail is dancing behind him inside a room with a glass door and windows during daytime.
+
+0.74769855 A young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+0.51382136 A boy is singing in the front of a big room and a girl is dancing in the back in the daytime.
+
+0.6305026 During the day, a young boy in a checkered back and white shirt and a sideways ball cap is inside a studio with mirrors singing rap as a woman is dancing in the background.
+
+Video #62
+a black and white cat is lying on the floor in a room on the floor with a woman
+
+0.67358303 A man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+0.79652953 A woman with black hair and black pants and top is lying on her side on a white kitchen floor.
+
+0.7505062 Inside a house, a woman with black hair and dressed in black is lying on the floor surrounded by cabinets.
+
+0.48657146 A lady is lying down on the floor in a living room while a loud background music is on and a voice saying 'Vivian Blue'.
+
+0.771643 A young woman dressed in black, lying on the floor of a home.
+
+Video #63
+two men are sitting on a couch in a room with a mickey mouse t - shirt and headphones on
+
+0.4918367 Three young adult males wearing T-shirts and seated closely together on a couch in a room with green walls and adult art.
+
+0.3131806 Three youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+0.67254096 Indoors in a blue room, three young men, one is wearing a black t-shirt with 3 stars, the middle man who is bald and is wearing a black t-shirt with a W, and the 3rd man wearing a black and white Mickey Mouse t-shirt, are sitting in a couch while the man with the 3 stars shirt is talking and the other 2 are reacting sadly.
+
+0.4443172 Three young men, two with black hair, one bald in the middle rubbing his temples,, are sitting on a couch as one of them is speaking in Spanish.
+
+0.472532 A man is talking, another is rubbing his head and the third one is listening as they sit next to each other in a room.
+
+Video #64
+a tiger is lying in the water on a sunny day
+
+0.4477174 A tiger relaxing in water near a rock outcropping, while birds chirp in the background.
+
+0.5951546 A tiger is lying down on a rock in the water in the daytime and behind him more rocks.
+
+0.5579964 A tiger is resting in a pool of water with rocks in the background.
+
+0.45622167 A brown and white striped tiger is resting in the water, next to big rocks lifts his head as birds chirp in the background
+
+0.7448443 A tiger lays in a stream of water next to large boulders near the water's edge outside on a sunny day.
+
+Video #65
+a soccer player in a red shirt and black shorts is lying on the grass with a soccer ball on the field
+
+0.5617176 Athletes in red shirts are on the ground doing push ups outside on a field on a sunny day.
+
+0.5671661 Seven young men, some in red shirts, some in green, are warming up on a littered field next to a bicycle.
+
+0.64795816 Outdoors in a field, 4 men, 3 wearing red t-shirts and one wearing a white t-shirt, are doing pushups in the field next to a soccer ball and a parked bicycle.
+
+0.45603457 Three players in red t-shirts and one player in white t-shirts are doing pushups on the ground outdoors in the daytime.
+
+Video #66
+a person is hanging from a hang glider in the air on a sunny day
+
+0.5617322 A person holds on to a kite controller outside on a cloudy day.
+
+0.34817728 Outdoors, a person is flying and manipulating some strings.
+
+Video #67
+a group of people are playing basketball on a basketball court in a park on a sunny day
+
+0.60415643 Outside in the daytime in a basketball area, a group of people, young children, youngsters and families are spending the day outside having fun and playing games, in specific there are some people with yellow plastic baskets trying to catch items being thrown to them.
+
+0.5555217 A group of people are outside in the daytime, some of them are playing a game of catching balls in baskets.
+
+0.717044 A group of people are playing a game in which people are throwing balls into a yellow basket outside on a field on a sunny day.
+
+0.50513494 Many people gathered during daylight at an outdoor park surrounded by trees and high rises are engaging small children in a race involving throwing balls into a cardboard.
+
+0.59955525 A group of young people in a park in the middle of a city playing 'basketball' with small plastic baskets held by hand to catch the balls.
+
+Video #68
+a young black girl in a school uniform is sitting at a desk in a classroom with her hands folded
+
+0.79234934 A young Black girl seated at a desk in a classroom with her hands folded together in prayer.
+
+0.5111852 Inside a classroom in the daytime, a little girl with long brown hair pulled back wearing a checkered blue and white uniform, is praying the Hail Mary.
+
+0.5509661 A Catholic girl is wearing a uniform, sitting down at school and praying to Virgin Mary in the daytime.
+
+0.6887482 A young girl in a school uniform holds her hands together as she is praying in a classroom.
+
+0.7004336 Young child dressed in a school uniform, sits at a desk with pictures behind her and puts her hands together as she recites a prayer.
+
+Video #69
+a man in a military uniform is standing in front of a bride and groom outside on a sunny day
+
+0.5539379 Young man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+0.54766715 A groom prepares to put a ring on his bride's finger during the wedding ceremony outside on a sunny day.
+
+0.4956365 A groom is wearing the marine uniform and taking a necklace from his friend while the bride is smiling and happy outdoors in the daytime.
+
+0.5407084 With music in the background, outside in a forest area during the day, a young military man in his uniform is marrying a young lady wearing a white wedding dress and veil and is at the point of the ceremony where he gets the rings from his friend also in uniform.
+
+0.49224493 A bride in a white wedding gown and a groom in military uniform at an outdoor wedding ceremony.,with lush green trees in the background.
+
+Video #70
+a group of people in santa claus costumes are walking in a parade on a city street during the day
+
+0.44230837 On a bright sunny day, a crowd of people in red Santa Claus caps and suits gathered together in a city.
+
+0.44623357 A big group of people dressed as Santa Clauses are standing and interacting in a park surrounded by trees and high rise buildings,
+
+0.6268153 A group of people dressed like Santa gather in a park on a sunny day.
+
+0.49185908 A big crowd of people wearing Santa Clause uniforms are gathering in a square in a big city in the daytime.
+
+0.34844193 In a park during the daytime with music in the background, a group of Santa Clauses congregate having fun.
+
+Video #71
+a young asian woman in a white shirt is standing in the woods on a cloudy day
+
+0.51960033 Outside in a forest in the fall in the daytime, two women dressed in white with half shaved heads and black hair, are in this forest with one walking around the forest in the distance and the other standing still near the camera..
+
+0.6080904 A woman wearing a white dress is standing in the woods in the daytime while a clone of her is moving in the background.
+
+0.7517978 A woman in a white dress walks towards another woman standing still in the woods on a sunny day.
+
+0.55166644 Young woman dressed in white with half shaved head stands in a forest during winter at daytime, as another girl in white approaches her.
+
+0.58325547 A white woman in a white dress walking amongst trees without leaves towards another white woman standing still in a clearing during daytime.
+
+Video #72
+a man in a yellow shirt is standing in the back of a bus on a sunny day
+
+0.37411067 A red, white and blue tourist boat floats closely alongside another boat with a few passengers.
+
+0.46320727 With music in the background during the day, a white diving boat with red and blue stripes and a tire hanging on the side is pulling into the dock along another boat where a lady in yellow looks on.
+
+0.4512219 A small passenger boat colored red white and blue, in a river pulls up next to a group of people during daylight.
+
+0.5524884 A red white and blue boat pulls up beside another boat with an African American woman dressed in yellow on a sunny day.
+
+Video #73
+two bicyclists are crossing a suspension bridge on a river on a cloudy day
+
+0.6103039 A man and woman walk their bikes across a bridge over water and stop to talk on a cloudy day.
+
+0.47100565 A young man and a woman with bicycles wearing helmets stand on a footbridge over a river surrounded by trees on a cloudy day.
+
+0.5618357 Outdoors during the day with a river and mountains in the background, a man and a woman are walking alongside their bikes and crossing a bridge.
+
+0.37354985 A man and woman are wearing their helmets, and walking on a bridge on top o a river with their bikes in the daytime.
+
+0.37904626 Two young people on bicycles on a bridge over a body of water surrounded by a forest.
+
+Video #74
+a woman in a white skirt and black jacket is walking in front of a window with a bag on her head
+
+0.4722251 A person in a costume walks then stops and pulls his head back.
+
+0.62607324 A creature in a white shirt disguised as an animal walks across a stage and moves his head up and down inside a dark room.
+
+0.51737934 While music is playing in the background, a person with a white cape and a mask that has a long wide nose, is walking slowly sideways and slightly lifts his/her head at the end.
+
+0.62234885 Someone is wearing a white shirt and animal-like black mask, and walking inside a room.
+
+0.3291053 A person dressed up in an animal costume to look like a wolf.
+
+Video #75
+a man in brown shoes is standing on the floor in a room on a wooden floor
+
+0.4984747 A white man with a tan outfit and brown shoes moves his foot and knee from left to right foot repeatedly.
+
+0.6048978 A man wearing glasses, gray pants and black shoes is moving his feet and showing others inside a room.
+
+0.7584532 A man wearing khaki pants standing on a wooden blonde floor is wearing and moving his left black shoe sideways.
+
+0.60557765 On a wooden floor we see two people's single shoe as one of the shoes moves sideways, with a quick flash of a person's face.
+
+0.49069175 A man in beige pants and black shoes twists his foot from left to right.
+
+Video #76
+a group of people are marching on the street with a drum in the street during the day
+
+0.7434133 Outside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+0.587349 Some people are celebrating while walking in the street singing, dancing, playing instruments, and holding signs in the daytime.
+
+0.6989443 A group of people walk in a parade holding a red banner in the middle of the street on a sunny day.
+
+0.4562654 Parade outdoors of many Asian people with one of them playing the drum, another row carrying a big red banner during a cloudy day.
+
+0.64452356 A group of casually dressed people parading down the middle of a city street with banners and instruments.
+
+Video #77
+a man in a white jiu - jik is sitting on the floor in a gym with a man in a yellow belt
+
+0.5577014 A white male and a an Asian male engaged in a jiu jitsu match on a yellow mat with both wearing white uniforms .
+
+0.56687325 Two males wearing white attires shown in a sitting position on a yellow carpet indoors.are entangled in a karate fight as another person walks by
+
+0.5428593 Two men in karate outfits wrestle on a yellow mat on the floor while others watch.
+
+0.3975956 Two youngmen are wearing white Tae Kwon doo and practicing on the floor indoors while people are watching.
+
+0.5433783 Indoors in a gym on top of a yellow mat, two young men wearing white karate uniforms are wrestling but separate and one walks away toward the end of the video.
+
+Video #78
+a man in a pink jacket and shorts is walking in a field with a soccer ball on a sunny day
+
+0.6376241 White man wearing a yellow jacket walks across a field carrying a silver helmet in one hand and a backpack in the other hand during daylight.
+
+0.6251417 A man walks across a field holding a silver helmet and passes a parachute on the ground on a sunny day.
+
+0.4194885 A man is walking outdoors in the afternoon holding a helmet in one hand and a bag in the other hand.
+
+0.60702205 Outdoor during the day in a field, a man wearing a light tan shirt and khaki short pants is walking with a silver head shield and some cords along side a bulk on the ground of cloths.
+
+0.5292105 A white male wearing a salmon colored top and tan shorts, while carrying a silver helmet and black gear while walking across a field during the daytime.
+
+Video #79
+a sailboat with a blue sail is sailing in the ocean on a sunny day
+
+0.925805 A white boat with blue and black sails sailing on the ocean on a sunny day.
+
+0.6025047 In the daytime in a body of water from the sky, a sailboat with blue and black sails with white lettering spelling PAPREC, is smoothly traveling in the water.
+
+0.73286706 A blue sailing boat is sailing in a beautiful blue sea in the daytime.
+
+0.52855295 Someone is parasailing on a small boat in a large body of water on a sunny day.
+
+0.8428065 Small sailboat with blue sails is gliding and turning on the blue water on a sunny day.
+
+Video #80
+a man in a black jacket is talking to a white man in a room with a little girl in a room
+
+0.62715316 Two white adult males and a young blonde-haired white girl in a building.
+
+0.6088019 Two men, one with short black hair, the other gray haired are talking as the gray haired person guides a small girl and walks with her toward the young one indoors during the day.
+
+0.63500226 A man with gray hair introduces his daughter to another man in a room with a glass wall.
+
+0.6694331 A man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+0.73415077 Indoors, a man with white hair wearing a leather jacket on top of black t-shirt softly takes a little blond girl while talking to another man with black hair dressed in a black suit who smiles at the little girl.
+
+Video #81
+a man with a helmet and a backpack is riding a bike on a path in a park on a sunny day
+
+0.5657458 Outdoors during the day, a man with gray long white hair and a small beard wearing a black t-shirt and yellow pants and protective head gear and carrying a black backpack in his back, is riding an open vehicle on a park.
+
+0.6257527 A man with a beard and mustache is walking on his scooter and wearing a helmet and a backpack in a park in the daytime.
+
+0.9126663 A man in a helmet rides a scooter on a path in a park on a sunny day.
+
+0.5859954 Older man with white ponytail and beard wearing a helmet drives a scooter-like vehicle through a park with trees during a cloudy day.
+
+0.45359725 An older white adult male with long gray hair, gray beard and a black helmet standing up and riding an electric scooter in a park during the daytime.
+
+Video #82
+a man in a yellow shirt and glasses is talking to a group of people on a sunny day
+
+0.4483131 A man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+0.53081334 A man wearing eyeglasses is talking on a big microphone outdoors in the daytime and other people are listening to him.
+
+0.76124156 Outside on a sunny day, a man wearing glasses and a yellow t-shirt surrounded by other people is talking through using a hand microphone.
+
+0.5913306 Middle aged man with glasses shouts into a loudspeaker in Spanish while a group of 8 young people watch and check their phones during a sunny day outdoors in a park setting.
+
+0.6475261 A man surrounded by people listening to him is speaking through a microphone outside on a sunny day.
+
+Video #83
+a man in a white protective suit and mask is painting a wall in a room with a round window
+
+0.50106347 A man in a white outfit is leaning forward and hanging from the wall when the constraints break and he falls forward in a room with a large clock on the wall.
+
+0.46851692 Black man in white gown is tied to the wall with his head bent over blocking a big clock, but falls ahead toward the floor after we hear a shot .
+
+0.45248082 Indoors in a room with a large wall clock reading almost 9:00 and some letters presenting a title, a man with black hair dressed in a white tunic is hanging by some ropes as one snaps and he begins to fall.
+
+0.36845228 A man in white gown is tied to a robe from his back and the robe got broken.
+
+0.52496976 A person dressed in white falls forward towards the floor of a room.
+
+Video #84
+a white tiger is inside a cage in a zoo on a sunny day
+
+0.840023 Two black and white tigers are in a large cage outside on a sunny day.
+
+0.73474973 Camera moves from a cage with two striped tigers to another cage with another tiger lying down in a zoo setting outdoors on a sunny day.
+
+0.46238604 In the daytime two white tigers are shown in a huge cage while a man and a woman speak in the background on the major expenses of this locale.
+
+0.40805367 A lion and leopard are in one cage and another leopard is alone in another cage and a background voice of a man and a woman talking about the medical expenses of the animals.
+
+0.8665632 Three tigers in cages outside on a sunny day.
+
+Video #85
+a man and a woman are kissing on a tv screen in a room
+
+0.5433278 A computer screen showing a white man and a white woman caressing each other and starting to dance.
+
+0.5699767 A man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+0.56095695 In a TV on top of a credenza in a room with a white wall, a segment of a premier night movie is being shown as a young man dressed all in black and a young woman in a white dress are dancing in the movie Dirty Dancing.
+
+0.61387193 A scene of a young girl and a young man from the movie 'Dirty Dancing' is shown on the screen of a TV set on a table indoors as a shadow of a person passes by/
+
+0.43260726 A person is walking towards a television showing the movie Dirty Dancing inside a room.
+
+Video #86
+a group of people are riding sleds down a snow covered slope on a sled on a sunny day
+
+0.36231035 Outside in the snow in the daytime, a bobsled with 3 people and carrying the American flag are coming down the hill as a photographer takes their picture.
+
+0.41066408 Three people are ice skating in a small cart outdoors in the daytime while the people are cheering and someone is filming them.
+
+0.63687193 A person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+0.4324226 Three people on a snowmobile racing down a snow trail during the daytime.
+
+Video #87
+a young man and a woman are talking to each other on the beach near a body of water on a sunny day
+
+0.6520809 A white woman wearing a pink top and a white man wearing an orange jacket, standing outside during the day near a small body of water and talking to each other.
+
+0.54785997 Young woman with pigtails , bathing suit and pink blouse holds up a small green bucket to offer a clam to a young man in a red jacket during a sunny day on the beach
+
+0.5970956 A young woman in a pink shirt shows a young man in an orange jacket a green bucket then they walk away outside near water on a sunny day.
+
+0.35518995 A lady, holding a green bucket, is asking a man if he wants a clam but he said maybe later, held her hand and walked away together outdoors in the daytime
+
+0.5530538 Outside in a sunny day near a beach, a woman with black hair in pigtails wearing a pink beach cover up offers a clam from a green bucket to a young blond man wearing a red and white windbreaker carrying a golf club who tells her that he may take it later as they walk hand in hand together away from the camera.
+
+Video #88
+a man with a mustache is sitting at a table in a room with a pink ball and a man in a black
+
+0.7603098 Young man with black hair beard and mustache looks into a red ball, then looks up in surprise inside a room,
+
+0.6466339 A man in a black shirt holds a pink object and speaks to someone in front of him inside a room with a yellow wall.
+
+0.5878406 A man with black hair, mustache and beard looks confused at a red object in front of another person and a voice is saying Robbio.
+
+0.52689546 Indoors a man with black hair, a mustache and goatee beard wearing a black t-shirt, looking at something and looking puzzled says 'blond' in Spanish.
+
+0.7662797 A Latino man with a mustache and beard, wearing a black T-shirt and looking at a red and white ball while facing a person with unnaturally red hair in a room.
+
+Video #89
+a man in a trench coat is talking to a man in a hat and coat in a room with a group of men
+
+0.44957754 Four middle-age white males dressed in uniforms standing in a room looking at and handling a small object.
+
+0.37067375 Indoors, in what appears to be an old black and white film, a group of soldiers look at a bottle which one of the soldiers shows the camera and all do not know what it is.
+
+0.44465038 A man in a military uniform holds something in his hand and shares it with other men standing near him inside a room with brick columns.
+
+0.4258763 Five men in army uniform look at items pulled out from a box by one of the men in a scene from an old black and white movie.
+
+Video #90
+a woman in a white shirt and yellow gloves is working at a desk in a room with stacks of food on it
+
+0.3479886 Some workers are packaging some food indoors.
+
+0.5005914 A woman in a white uniform is packaging sausages in plastic wrap in a room with a sink and soap dispenser.
+
+0.47999308 A person in white uniform covers trays with transparent plastic while another person in white is standing inside a room.
+
+0.5701731 A person dressed in a white lab coat and yellow gloves placing a file in clear plastic, while standing close to a desk piled high with files.
+
+Video #91
+a man in a white shirt and black vest is holding a red tie in front of a fireplace in a room with a deer head
+
+0.6617724 A white male dressed in black and white checked long sleeved shirt and a black vest, standing in front of an unlit fireplace while tied up with a burgundy metal device.
+
+0.43395826 Man with black hair and mustache tries to squeeze himself into a red tennis racket indoors next to a wall and a bar filled with little bottles.
+
+0.69445467 A manin a black and white shirt has his head and one hand stuck inside a red tennis racket in a room with a fireplace.
+
+0.6256399 Indoors in a room with a boar head on the wall, a young man with black hair and a curly upturn mustache dressed in a white with black stripes shirt and a vest, is trying to get out of a red contraption while narrating the film.
+
+Video #92
+a young black man in a black shirt is standing in front of a white board in a room with a blackboard
+
+0.5928484 An African American man teaches a lesson on a black board in a room.
+
+0.54860586 Brown skinned man stands near a blackboard explaining the drawing on the board inside a room during daytime.
+
+0.46344462 Indoors a Black man with glasses and a t-shirt is explaining a diagram of a pregnant woman drawn in a blackboard.
+
+0.7173036 A young Black man standing in front of a blackboard with a chalk drawing of a female.
+
+Video #93
+a bride and groom are kissing in front of a wedding cake in a room with people
+
+0.59250134 A white bride and a Black groom feeding each other wedding cake in an enclosed venue with other people standing in the background.
+
+0.49609113 A black groom and white bride are feeding each other from their wedding cake indoors in the daytime while all the presents are on their feet watching and filming them.
+
+0.5844602 Indoors in a reception hall during the daytime, a married couple, a black groom and white bride, are giving each other the wedding cake while the guests look on and some take pictures.
+
+0.5458884 Black man and white woman in wedding dress are feeding each other with cake during a wedding celebration inside a hall during daytime.
+
+0.7072656 A bride and groom share their wedding cake while their guests watch in a room.
+
+Video #94
+a hand is stirring a cup of coffee on a saucer on a table
+
+0.72807264 The hand of a person putting something into a cup of coffee and stirring with a spoon.
+
+0.48318842 Some woman is putting a sugar cube in a cup of tea and stirring it while another woman is walking nearby indoors.
+
+0.65614414 Indoors on a table a small white cup of espresso coffee is being added to a cube of sugar and stirred.
+
+0.6722454 A person's hand drops a white pill into a cup of coffee and stirs it with a spoon indoors.
+
+0.6050559 Someone places a lump of sugar in a cup of coffee on a table.
+
+Video #95
+a group of men and women are dancing on a stage in front of a crowd
+
+0.5772522 A woman sings while a band plays and people perform on a stage in an auditorium.
+
+0.5447673 Performance on a big stage of Asian group of musicians, singers and dancers as they perform in front of flags and a big banner inside an auditorium.
+
+0.37757993 Indoors on a stage decorated with banners and blue and white panels, a band is playing and some others are dancing and singing during a rehearsal.
+
+0.60218525 A group of people dancing on an indoor stage while the band is playing behind them.
+
+0.49852332 A musical group performing on a stage in an indoor venue.
+
+Video #96
+two elderly women are standing at a food stand in a market at night
+
+0.4083327 An adult female wearing an orange jacket and orange cap and black slacks, while handling the cloth covering on a food display in a market.
+
+0.38370934 Two people in red shirts are putting up a display of red skirts in front of a store window during night time.
+
+0.39829814 Two women are putting up a red drape in front of a store front.
+
+0.3354539 A female worker wearing a red uniform and hat is looking weird while letting the stand cover go.
+
+0.4013196 A young woman with a back ponytail wearing an orange jacket and a ballcap and another woman in a black vest are covering a stand filled with candy and other things.
+
+Video #97
+a woman in a black coat is sitting on a bench and talking to a woman on a bench in front of a white
+
+0.7610427 Outside in the daytime in the cold, a blond young girl is sitting on a bench while another young woman with black hair is talking to her.
+
+0.6057736 An angry blond lady is sitting on a bench outside in the daytime talking to another lady who is standing up and looks happy.
+
+0.7548809 A woman in a black outfit talks to another woman sitting on a bench outside on a sunny day.
+
+0.6689984 A blonde and black haired women are talking as one sits on a bench, and the other talks while standing outdoors in a daylight near a house and a row of garages,
+
+0.60960835 Two white females, both dressed in black and outside during the day in front of garages.
+
+Video #98
+a man in a suit is holding a bouquet of flowers with a group of people outside on a sunny day
+
+0.70146334 A young Asian man dressed in a gray suit, standing outside in a crowd of people and holding a bouquet of flowers.
+
+0.53401685 A young Asian man wearing a gray suit is carrying flowers while others gather around him, some fanning him, others taking his picture.
+
+0.5740908 An Asian man is holding a bouquet of flowers and surrounded by other Asian people who are filming him outdoors in the daytime.
+
+0.53386384 An Asian man holds flowers in his hands as he stands with others talking.
+
+0.6189245 Asian man holding flowers during a gathering of other Asians as they smile and talk to him.outdoors on a sunny day.
+
+Video #99
+a red and black rooster is standing on a tree outside on a sunny day
+
+0.6463919 A colorful rooster crows sitting on a tree trunk during daylight.
+
+0.76993436 A rooster stands in front of a tree looking around outside on a sunny day.
+
+0.38556254 A rooster is crowing outside in the daytime.
+
+0.46636483 Outside in the daytime by a tree a rooster begins to sing.
+
+0.5437226 A red rooster outside during daytime
+
+Video #100
+a man in a black shirt and jeans is walking down a hallway with a bag on the floor in a building
+
+0.46754712 A young white male dressed in jeans, a black T-shirt and sneakers handling framed artwork in an interior space.
+
+0.4946821 Three workers walk into a corridor lined with paintings sitting on the floor inside during daylight.
+
+0.7106984 A man in a black shirt walks toward a piece of art that is on the floor.
+
+0.5738459 A man wearing a black t-shirt and blue jeans is picking up a painting laid on the floor in an indoor art exhibition in the daytime.
+

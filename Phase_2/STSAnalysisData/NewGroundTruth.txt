@@ -1,0 +1,4 @@
+ELT_01.ELT01.run1.primary NEW GT
+1 0.5324339 an individual is playing the guitar and singing while sitting in his room
+
+ELT_01.ELT01.run2 NEW GT
