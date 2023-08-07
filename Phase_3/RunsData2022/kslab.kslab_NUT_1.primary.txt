@@ -1,0 +1,2311 @@
+Task=D
+loss=categorical crossentropy
+runType=IV
+1 0.14285714285714285 Image may contain  person  playing a guitar and on stage.
+2 0.14285714285714285 A woman driving a car with her hands on the steering wheel.
+3 0.17006876448586522 A man wearing a green shirt in a bathroom with a mirror.
+4 0.14893631557034037 A group of people posing for a group photo at a fashion show.
+5 0.19480101173715425 A woman wearing purple pants with her leg in the air.
+6 0.24137838993284294 A woman standing on a beach next to a row of wind turbines.
+7 0.18367647858256506 A group of people dancing in a room with chairs.
+8 0.14285714285714285 A black bird with a red beak standing on some rocks.
+9 0.2500045050966022 A green plant in the ground with a green irrigation system.
+10 0.10000000000000002 A bride and groom are standing in the grass.
+11 0.14285714285714285 A screenshot of a person talking to a chart with a line graph.
+12 0.14285714285714285 A group of people playing soccer on a field.
+13 0.14285714285714285 Two men standing in a field next to a tree.
+14 0.1621648092496194 Two men are dancing on a salt field.
+15 0.17647053315043434 A hand holding a piece of metal on top of a boat.
+16 0.14285714285714285 A group of people standing in front of a safari vehicle.
+17 0.18182261300077301 A boy is standing on a bench in the snow.
+18 0.14285714285714285 A cat sitting on the floor in a library.
+19 0.19780568629405315 A geometric light fixture hangs from the ceiling in a stairwell.
+20 0.14285714285714285 A group of people in star wars costumes walking in a park.
+21 0.14285714285714285 A woman holding a glass of beer in a crowd of people.
+22 0.16071440625558034 A man and a woman sitting on chairs in a room.
+23 0.17948733092836106 Two boats in the water near a dock on a lake.
+24 0.14285714285714285 A person riding a wave on a surfboard in the ocean.
+25 0.1714303987685335 A group of men working on a car in a garage.
+26 0.14285714285714285 A group of people playing soccer on a field.
+27 0.14285714285714285 A man writing on a piece of paper with a pen.
+28 0.21976913219452704 Two women are dancing in a room.
+29 0.21212293256863363 A blurry picture of a person in front of a window.
+30 0.14285714285714285 A group of cards on a table on a.
+31 0.14285714285714285 A group of people sitting around a table with a laptop.
+32 0.14285714285714285 A silhouette of a woman against a white background.
+33 0.15555564114434056 American football players on the field during a game.
+34 0.14285714285714285 A group of people sitting in a living room.
+35 0.14285714285714285 A man is standing at a bowling alley.
+36 0.21212538767651307 A person watching a video on a laptop computer.
+37 0.18367647858256506 A man in a suit and shoes on a wood floor.
+38 0.15037612323605618 A man holding a sign on the side of a wall.
+39 0.18797296200585198 A video of a bride and groom walking down the stairs.
+40 0.17949092254664503 A woman with a microphone in front of a mirror.
+41 0.14285714285714285 A man on a motorcycle in front of a police car.
+42 0.14285714285714285 A woman wearing a police officer hat speaks into a microphone.
+43 0.14285714285714285 A city at night with lights on in the windows.
+44 0.16666666666666669 A distorted image of a woman sitting on a table with an umbrella.
+45 0.14285714285714285 A bunch of tools sitting on top of a bag.
+46 0.22580632612781748 One of the villagers came and laid a flower by it as virgin does in the.
+47 0.14285714285714285 A man sitting in a recording studio with a synthesizer.
+48 0.14285714285714285 A woman and two children sitting at a table.
+49 0.15555564114434056 A group of people standing in a living room with a bride.
+50 0.17948836963477616 A man is playing a game of game board.
+51 0.21008598265703016 A man on a motorbike and a woman on a street.
+52 0.14285714285714285 A bride and groom walking down the aisle at a wedding.
+53 0.14285714285714285 A man pumping gas into a car at a gas station.
+54 0.16484060591174957 A woman with long hair in the back of a car.
+55 0.14285714285714285 The team celebrates after scoring a goal.
+56 0.14285714285714285 A person flying a colorful parachute over a field.
+57 0.14285714285714285 A black and white photo of a tank in a field.
+58 0.1707332209372817 A group of young children are standing in a room.
+59 0.14285714285714285 A reflection of a person on the water.
+60 0.14285714285714285 A woman talking on a cell phone in a car mirror.
+61 0.14285714285714285 Two people walking in a room with wood flooring and white walls.
+62 0.18367647858256506 A dog laying on the floor in a kitchen.
+63 0.14285714285714285 A group of people sitting on a couch.
+64 0.14285714285714285 A tiger laying in the water.
+65 0.14285714285714285 A group of people playing soccer on a field.
+66 0.16326486870468349 A person is flying a drone in a field.
+67 0.14285714285714285 A crowd of people playing with a hula hoop.
+68 0.14285714285714285 A young girl sitting at a desk in a classroom with her hands crossed.
+69 0.14285714285714285 A bride and groom standing in a park with their wedding party.
+70 0.14285714285714285 A crowd of people wearing santa hats in a city street.
+71 0.16666666666666669 A woman walking down a dirt road in the woods.
+72 0.16071440625558037 A man taking a picture of a boat on a train.
+73 0.14285714285714285 People walking across a bridge over a river.
+74 0.14285714285714285 A black and white photo of a window.
+75 0.14285714285714285 A man standing on a wooden floor with his shoe on the floor.
+76 0.15527936160714284 A group of people walking down a street.
+77 0.14893631557034034 Two young men sitting on the floor at a judo match.
+78 0.18919054716472825 A man and a woman walking in a field with a soccer ball.
+79 0.14285714285714285 A sailboat in the water with a blue sail.
+80 0.14285714285714285 A man standing next to another man in an office.
+81 0.14285714285714285 A man riding a skateboard down a street.
+82 0.16279097439518705 A man talking on a cell phone in a crowd of people.
+83 0.16326486870468349 A man is pulling a clock on a wall.
+84 0.18797296200585198 A polar bear in a cage at a zoo.
+85 0.14285714285714285 A television screen with a man and a woman on it.
+86 0.19354501411388125 A man riding a sled down a snow covered slope.
+87 0.14285714285714285 A woman with her hair in a pink robe on the beach.
+88 0.14285714285714285 A man holding a skateboard in front of a mirror.
+89 0.18519895115996637 Two men standing in a room talking to each other.
+90 0.14285714285714285 A screenshot of a kitchen with food on the counter.
+91 0.2608618235699931 A man wearing a tie and holding a stick in his mouth.
+92 0.1714309077830212 A man is standing in front of a chalk board.
+93 0.14285714285714285 A bride and groom cutting their wedding cake.
+94 0.21428819244241976 A black and white photo of a cup of coffee on a table.
+95 0.14285714285714285 A group of people on a stage on a concert stage.
+96 0.16071440625558037 A person standing in front of a food stand.
+97 0.1555556411443406 Two women sitting on a bench talking to each other.
+98 0.16071440625558034 A group of people standing in front of a window.
+99 0.14285714285714285 A rooster standing on a wire next to a tree.
+100 0.14117384632465432 A group of people walking down a hallway in a museum.
+101 0.17562714254385808 A pair of jeans hanging on a wall.
+102 0.1714292593544947 A woman is getting her earrings put on her ear.
+103 0.14546063680347232 A person holding a plate of food with meat on it.
+104 0.16554119846932036 A young boy standing by a lake with ducks.
+105 0.1111111111111111 Two women sitting in a room talking and drinking wine.
+106 0.1111111111111111 A group of people sitting at a desk with a computer.
+107 0.17777976173677945 A woman with her face behind a glass.
+108 0.14715128185255294 A man wearing glasses is laughing and holding his hands up in the air.
+109 0.14189768341708422 A man is working on a kite on the grass.
+110 0.1750010783107052 A person standing on top of a skyscraper with smoke coming out of it.
+111 0.125 Image may contain  person  playing a musical instrument and on stage.
+112 0.125 A person holding a yellow ball in their hands.
+113 0.125 A man playing a violin in front of a woman.
+114 0.19443835414520935 A man in a green suit walking down a street.
+115 0.125 And for a long time we were quiet because we couldnt think of anything.
+116 0.2221991090459543 Two men standing in a river with a fish.
+117 0.12903231499756426 A man standing in front of a table with a spoon.
+118 0.125 A group of people standing in front of a store window.
+119 0.11111111111111113 A woman sitting at a picnic table reading a paper.
+120 0.14285714285714285 A model walks the runway at a fashion show.
+121 0.1984130405055263 A man looking out the window of a train.
+122 0.17142925935449468 A group of people playing basketball on a basketball court.
+123 0.14285714285714285 A group of people singing and dancing at a party.
+124 0.14285714285714285 A park bench and some trash on the grass.
+125 0.18367259455222418 A person in a cave looking at a picture.
+126 0.14285714285714285 A man working on the engine of a car.
+127 0.17073182859744854 A man working on a piece of wood while another man looks on.
+128 0.2068919631696317 A woman standing on top of a child in front of a fountain.
+129 0.14285714285714285 A man holding a remote control in his hand.
+130 0.20834077514631646 A man holding a sword in the dark.
+131 0.14285714285714285 A man walking next to a row of boats.
+132 0.14285714285714285 A man sitting at a table looking at a tv.
+133 0.14285714285714285 A woman pouring a drink at a bar with bottles of alcohol.
+134 0.14285714285714285 A person pouring liquid into a pot of food on a table.
+135 0.1714259572254081 A shadow of a person on the ground in a garden.
+136 0.14285714285714285 A body of water with some ice on it.
+137 0.17073322093728166 A group of women sitting at a table working on papers.
+138 0.14285714285714285 A rainbow trout swimming in the water.
+139 0.18797296200585206 A man standing next to two bikes in a room.
+140 0.16279097439518705 The side of a truck with a sticker on it.
+141 0.2100836558886929 A person holding a microwave on a conveyor belt.
+142 0.18182056245268535 A man looking at a picture of a tree with animals.
+143 0.16666666666666666 A pair of gloves and a scarf sitting on a wooden bench.
+144 0.16666666666666666 A woman sitting at a table with two other women.
+145 0.1818224575183355 A group of motorcycles racing on a track in front of a crowd.
+146 0.17006876448586522 An image of the side of an airplane with a message on it.
+147 0.22221627108941172 A black and white photo of the sun shining over a field.
+148 0.22857012067522323 A blurry image of a person standing on a building.
+149 0.20000110358569223 A man is standing on the stairs with a dog.
+150 0.16279097439518705 A large crowd of people in a park at night.
+151 0.17143418487619466 A woman looking out of a window at the rain.
+152 0.16279097439518705 A man sitting on a bus looking out the window.
+153 0.17006876448586522 A close up of a dog in the dark.
+154 0.14285714285714285 The inside of a bus with a man and a woman sitting at the counter.
+155 0.21008365588869288 A woman in a green room with a camera and a desk.
+156 0.1714292593544947 A man riding a skateboard on a rail in the water.
+157 0.1552793616071429 A woman with long blonde hair standing in front of a window.
+158 0.22219910904595425 A man standing on the beach with his hands in the air.
+159 0.14285714285714285 A group of people standing in a park.
+160 0.14285714285714285 A man playing a guitar in front of a projector screen.
+161 0.1836736151936769 A man kneeling down in front of a counter in a store.
+162 0.2142892250129926 A sign for a ski resort in the snow with mountains.
+163 0.14285714285714285 A person writing on a paper with a pen.
+164 0.14285714285714285 A crowd of people at a parade in front of a building.
+165 0.22580632612781748 A man with glasses looking out of a window.
+166 0.15126045698608662 A woman in a black dress standing in front of a white wall.
+167 0.14285714285714285 Two people laying on rocks in front of a train.
+168 0.19047846462292983 A group of people standing in front of a glass door.
+169 0.18115925520833337 A man holding a skateboard and talking on a cell phone.
+170 0.1648350413482266 A man riding a snowboard down the stairs in the snow.
+171 0.18750014063151033 A man is standing next to a red train.
+172 0.14285714285714285 A group of giraffes on a stage with people watching.
+173 0.22222371949568717 A man holding a wheel on a machine.
+174 0.14285714285714285 A car that is sitting in a parking lot.
+175 0.17073182859744856 A man riding a snowboard down a snow covered slope.
+176 0.14285714285714285 A view of the trees from the window of a car.
+177 0.14285714285714285 A group of people preparing food at a buffet table.
+178 0.18181552010224358 A woman sitting in a room with a laptop.
+179 0.14285714285714285 A close up of a cup of coffee.
+180 0.16666666666666666 A room with a curtain and a chair in front of a window.
+181 0.1935550255550384 A bride and her family posing for a picture at a wedding.
+182 0.1999991449778482 A man preparing food in a pan on a stove.
+183 0.17073322093728166 An empty swimming pool in the winter.
+184 0.14285714285714285 A man in a hat talking to a woman on a street.
+185 0.1714292593544947 A man sitting at a table talking to two other people.
+186 0.14285714285714285 A man standing next to a statue in a factory.
+187 0.14285714285714285 A woman on a tv screen with two other people on it.
+188 0.19047846462292983 A picture of a building with a fire and a person standing in it.
+189 0.18367259455222415 A cat laying on the floor next to a piece of wood.
+190 0.14285714285714285 A person grabbing a piece of wood from a tree.
+191 0.14285714285714285 A young man smoking a cigarette in a shower.
+192 0.14285714285714285 A man standing at a counter eating food at a restaurant.
+193 0.14285714285714285 A group of people dancing on a dance floor.
+194 0.14285714285714285 A woman in a fur coat standing on a bus.
+195 0.16666666666666666 Three men in suits standing next to each other.
+196 0.23808614679856716 A hand holding an egg on a coffee machine.
+197 0.187972962005852 A piano in a room with a stool.
+198 0.14285714285714285 A group of people sitting around a table talking.
+199 0.14285714285714285 A group of men standing on top of a projection screen.
+200 0.16216878104809634 A man with a beard laying on a bed.
+201 0.17949092254664506 An empty street with a bottle and a bottle of soda on the ground.
+202 0.17073322093728163 A man walking through a living room holding a piece of paper.
+203 0.14285714285714285 A woman holding a bouquet of flowers with a group of people.
+204 0.1785778072682713 A woman swimming in the ocean with a diver.
+205 0.14893631557034034 A man in a helicopter looking out of the door of a plane.
+206 0.1627908100721885 A woman standing on a stage with a microphone.
+207 0.17949092254664503 A young child is playing with a toy car.
+208 0.18367401938793373 A young woman with a weapon in a mirror.
+209 0.14285714285714285 A woman holding a microphone with a group of girls.
+210 0.15555564114434056 A television screen with people playing soccer on it.
+211 0.14285714285714285 A person riding a motorcycle through a field of crops.
+212 0.16666666666666666 A video of a tent in the snow in front of a mountain.
+213 0.2380935440257212 A man riding a motorcycle down a street.
+214 0.14285714285714285 A herd of sheep grazing in a field near mountains.
+215 0.14285714285714285 A woman in a white dress holding a bouquet of flowers.
+216 0.14285714285714285 A group of people standing in a room with one person laying down on the floor.
+217 0.14285714285714285 A woman sitting at a table with a pizza.
+218 0.16279097439518708 A person flying a kite in the sky.
+219 0.14285714285714285 A man holding a wine glass and a person holding a finger up to a glass.
+220 0.14285714285714285 A man doing a trick on a skateboard in a park.
+221 0.1607144062555803 A woman standing in front of a painting in a room.
+222 0.19049960747848327 A man in a suit and tie with a dog.
+223 0.14285714285714285 A young child standing in front of a herd of sheep.
+224 0.2499937890634115 A woman standing in the woods talking to a man.
+225 0.14285714285714285 A person riding skis down a snow covered slope.
+226 0.19354624310442375 A man sitting in front of a book shelf.
+227 0.14285714285714285 A man sitting in the shadows in a dark room.
+228 0.16666666666666666 An old building with a door and a dirt road.
+229 0.21741443227325447 A girl holding a green flag and a wooden stick.
+230 0.17949092254664503 A man and a woman standing next to flags.
+231 0.14285714285714285 A wooden sign in a window with a spider web on it.
+232 0.14285714285714285 A man standing in front of a whiteboard giving a presentation.
+233 0.14285714285714285 A group of people playing basketball in a city street.
+234 0.16216878104809634 The lights are reflected in the water at night.
+235 0.14285714285714285 A group of people climbing on a rock.
+236 0.1904784646229298 A person holding a painting on a bed.
+237 0.14285714285714285 A group of men playing a game of soccer on a field.
+238 0.14893631557034034 A chef preparing food in a kitchen with containers of strawberries.
+239 0.1627905363606352 A man performs a trick on a skateboard in a parking lot.
+240 0.1627909743951871 A large group of girls with their hands up in a crowd.
+241 0.1904784646229298 A person standing in a dark room with a toothbrush.
+242 0.14285714285714285 An older woman sitting in a chair in front of a library.
+243 0.18367259455222415 A man and a woman are looking in a mirror.
+244 0.22857012067522314 A black and white photo of a person in a toilet.
+245 0.1607144062555804 A group of men walking around a swimming pool.
+246 0.14285714285714285 A man riding a motorcycle down a street under a bridge.
+247 0.14285714285714285 A man and two women sitting at a table.
+248 0.14285714285714285 Two men sitting in chairs talking on a stage.
+249 0.14285714285714285 A woman in a hijab is holding a microphone.
+250 0.14285714285714285 A flock of ducks swimming in a body of water.
+251 0.2000096435036409 A man sitting on the side of a boat in the water at night.
+252 0.1714292593544947 A group of people walking down a street pulling a cart.
+253 0.18367259455222418 A person walking in front of a train.
+254 0.14893631557034034 A woman sitting at a desk with a news anchor.
+255 0.187972962005852 A man helping a woman up a rock.
+256 0.1904691331379385 A tow truck is parked on the side of a street.
+257 0.18367259455222415 A man is standing in the water in a river.
+258 0.14285714285714285 A group of three people sitting on a table with a box on their heads.
+259 0.22581063691882358 A little boy is playing with a ball in the grass.
+260 0.2068922931412053 A model of a garden with plants in a greenhouse.
+261 0.14285714285714285 A man is shoveling snow on a ski slope.
+262 0.14893631557034034 A group of people playing soccer on a field.
+263 0.18797023243460276 A kite flying over the ocean on the beach.
+264 0.1714341848761947 A person holding two plastic bags walking down stairs.
+265 0.18367647858256506 A man standing in the dark with a microphone.
+266 0.21008598265703018 A man and woman in costumes are dancing in a room.
+267 0.14285714285714285 A group of workers working on a piece of equipment in the water.
+268 0.17142925935449466 A group of people riding bikes on a track.
+269 0.14285714285714285 A group of men standing in a crowd.
+270 0.17949092254664503 A video of a person in a red costume talking on a cell phone.
+271 0.187972962005852 A dark room with a window.
+272 0.1978031771172129 A man sitting on a couch with a baby and a cat.
+273 0.14285714285714285 A man riding a wave on a surfboard in the ocean.
+274 0.17006876448586522 A woman holding a rabbit in a crowd of people at a party.
+275 0.17857780726827133 A baby sitting on a bed looking at a little boy.
+276 0.14285714285714285 A group of people wearing costumes on the beach.
+277 0.14285714285714285 A man standing next to a fallen tree in the woods.
+278 0.14285714285714285 A horse standing on the side of a dirt road.
+279 0.14285714285714285 A group of people playing basketball on a basketball court.
+280 0.17142595722540804 A man in a suit is looking at another man.
+281 0.14285714285714285 A deer skull and horns in a glass case.
+282 0.19047846462292983 A little girl with long hair standing in the snow.
+283 0.21428806015898716 A woman talking to another woman in a room.
+284 0.18367259455222415 A man is water skiing in the ocean.
+285 0.1904784646229298 A woman is petting a dog on a couch.
+286 0.14285714285714285 A group of people standing around in a room.
+287 0.14285714285714285 A man is standing on top of a mountain.
+288 0.18115925520833337 A man wearing a tie and sunglasses on a city street.
+289 0.19480101173715436 A group of drones flying in formation in the sky.
+290 0.14285714285714285 A woman standing on the beach looking out at the ocean.
+291 0.20833195390516276 A woman standing in a kitchen with a stove.
+292 0.15555564114434062 A man dressed as a knight in front of a crowd of people.
+293 0.14285714285714285 A group of people walking on the beach with dogs.
+294 0.17142795904369976 A screenshot of a game of knights on a field.
+295 0.1607144062555803 A crowd of people with their hands in the air.
+296 0.21427867503311787 A close up of a sewing machine in a dark room.
+297 0.14285714285714285 A group of people standing in the water.
+298 0.18182336009527333 A little girl in a pink dress standing in a room.
+299 0.14285714285714285 A man standing on a stage holding a piece of paper.
+300 0.18918918125176412 A man sitting on a beach under a straw umbrella.
+301 0.14285714285714285 Two people standing in the middle of an empty auditorium.
+302 0.14285714285714285 A group of young boys sitting on a soccer field with a coach and a team.
+303 0.14285714285714285 A bride and groom getting ready for their wedding ceremony on the beach.
+304 0.14285714285714285 A child walking down a dirt path next to rocks.
+305 0.1648406059117496 A close up of a camera lens with a drop of water in it.
+306 0.1904784646229298 A man and a woman standing in a hallway with a door to a building.
+307 0.2068919631696318 A man with long hair standing in front of a building.
+308 0.17073322093728166 A man laying on his back on a pink bed.
+309 0.14285714285714285 A man with headphones standing next to a piano.
+310 0.14285714285714285 A young man holding a slice of pizza in front of a fence.
+311 0.1555556411443406 A bride and groom standing in front of a white car.
+312 0.1891905471647282 A man and a woman in a martial arts fight in a gym.
+313 0.14285714285714285 A man and a woman standing around a table at night.
+314 0.14285714285714285 A woman sitting at a table with a plate of food.
+315 0.18367647858256506 A body of water with a reflection of trees in it.
+316 0.21428819244241964 A man kneeling on the ground with a child.
+317 0.14285714285714285 A person playing a piano with their hand on the keyboard.
+318 0.17142925935449468 A man and a woman looking at each other in front of a window.
+319 0.17006876448586522 A man playing a cello on a stage.
+320 0.14285714285714285 A door handle on a window with a curtain.
+321 0.14285714285714285 A group of people standing around a tent in the woods.
+322 0.14285714285714285 A man and a woman sitting at a table with a laptop.
+323 0.22580944367153286 A man standing in front of a door looking at his cell phone.
+324 0.14285714285714285 A man wearing a hat and sunglasses.
+325 0.14285714285714285 A man painting a mural on the side of a building.
+326 0.179490922546645 A crowd of people holding flags in a stadium.
+327 0.14285714285714285 A group of people skiing down a snow covered slope.
+328 0.18519873009517407 A person is standing on a pier on the water.
+329 0.1555556411443406 A crowd of people walking up and down the stairs at a concert.
+330 0.16279097439518708 A woman holding an umbrella in a crowd of people.
+331 0.14285714285714285 A view of the ocean from the window of a submarine.
+332 0.2592618493882166 Two cows are standing on a dock next to a man.
+333 0.16279097439518708 A hand holding a lower care tv business card.
+334 0.14285714285714285 A person holding a cell phone in their hands.
+335 0.14285714285714285 A group of people riding skateboards on a street.
+336 0.18367647858256506 A crowd of people walking around an indoor ice rink.
+337 0.2142881924424197 A young girl walking down the street in front of a building.
+338 0.21212538767651304 A group of people standing around a table with a cake.
+339 0.16666666666666666 A screenshot of an older mans face with the words legione ccie iele.
+340 0.14285714285714285 A computer screen with a picture of a tv on it.
+341 0.14285714285714285 A group of people standing in a wrestling ring behind a fence.
+342 0.18367259455222415 A shadow of a person in the dark.
+343 0.17856812911266065 A man riding a skateboard on a ramp at a skate park.
+344 0.23809354402572125 A man is talking to another man in a room.
+345 0.14285714285714285 A group of people sitting at a desk in a dark room.
+346 0.17948807250087687 A group of ice hockey players on an indoor ice rink.
+347 0.14285714285714285 A group of people sitting around in a classroom.
+348 0.14285714285714285 A flock of birds flying in the sky over a field.
+349 0.187972962005852 A person is holding a vase with a stick.
+350 0.14285714285714285 A man and a woman standing in a kitchen.
+351 0.14285714285714285 A man and a woman in a balcony with a curtain.
+352 0.21212544945875186 A man wearing a costume in a bathroom.
+353 0.14285714285714285 A young boy is kneeling down holding a basket.
+354 0.16279097439518705 A person riding skis down a snow covered slope.
+355 0.15555564114434056 A group of women walking down a street.
+356 0.14285714285714285 A man sitting in a boat holding a fishing rod on a lake.
+357 0.20689950044257055 A child pouring glue into a vase on a table.
+358 0.21212538767651296 A view of a ski lift with a mountain in the background.
+359 0.14285714285714285 A group of children playing in a swimming pool.
+360 0.1851987300951741 A person is getting into the back of a truck.
+361 0.17241438644535026 A person laying down in a field of grass.
+362 0.14285714285714285 A person is holding a pair of scissors.
+363 0.14285714285714285 A crocodile is swimming in the water.
+364 0.18918952277829193 A man is looking down the street in a car.
+365 0.14285714285714285 A woman in a wedding dress holding a piece of cake.
+366 0.14285714285714285 A person cutting a piece of paper on a desk.
+367 0.14285714285714285 A man and a woman sitting in a chair talking to each other.
+368 0.17949092254664503 A row of flags on the side of a building.
+369 0.14285714285714285 Two small islands in the middle of the ocean on a boat.
+370 0.20000434369393288 A little girl is smiling at a woman.
+371 0.14285714285714285 A group of people playing soccer on a field.
+372 0.18918994110779472 A woman sitting at a desk talking on a cell phone.
+373 0.16279097439518708 A man in a suit with his hands on his hair.
+374 0.20689196316963177 A golfer holding a flag on a golf course.
+375 0.20000110358569215 A woman in a white dress playing a violin on a stage.
+376 0.14285714285714285 A person is pouring a cup of coffee on a table.
+377 0.16666666666666666 Two people are standing on a glass door in a building.
+378 0.14285714285714285 A group of people playing soccer on a field.
+379 0.14893631557034034 A view out of an airplane window of a plane wing.
+380 0.1904784646229298 A woman is sitting in front of a computer.
+381 0.187972962005852 A person walking in the woods with a dog.
+382 0.17073322093728166 Two women sitting in a bar talking to each other.
+383 0.14285714285714285 A man standing next to a bike on the grass.
+384 0.17949092254664503 Two men are shaking hands on a street.
+385 0.18181535059671838 A group of children standing around a table with a birthday cake.
+386 0.14285714285714285 A group of people standing around a man standing at a microphone.
+387 0.1512604569860866 A man eating a hot dog while wearing a hat.
+388 0.14285714285714285 A baby wearing a chef hat holding a donut and a pastry.
+389 0.14285714285714285 A man wearing headphones and a woman in a room.
+390 0.19047846462292983 A man riding a skateboard down the side of a pool.
+391 0.14285714285714285 The sun sets over the mountains in a field.
+392 0.14285714285714285 Two men standing on a hill with trees and mountains.
+393 0.14285714285714285 A reflection of a person in a window.
+394 0.14893631557034034 A person is cutting a piece of nail with a pair of scissors.
+395 0.183676478582565 A woman laying on a bed with a cat.
+396 0.14285714285714285 A group of people hiking up a mountain.
+397 0.16216878104809634 A man taking a picture of a lake and mountains.
+398 0.18918994110779475 The bride and groom at the altar during their wedding ceremony.
+399 0.17142872755291091 A person is flying a parachute in the sky.
+400 0.17006876448586522 Two little girls standing next to a wall with a stuffed animal.
+401 0.14285714285714285 A woman crouching down on a sidewalk next to a green pole.
+402 0.14285714285714285 A man wearing headphones on a tv show.
+403 0.14285714285714285 A woman carrying a child walking down a garden path.
+404 0.15384659496490055 A woman in a yellow dress is standing in a lobby.
+405 0.14285714285714285 A man and woman sitting at a table with wine glasses.
+406 0.17142925935449468 A woman in a floral dress standing next to a suitcase.
+407 0.14893631557034034 A person laying on the ground next to a dog.
+408 0.14285714285714285 A pair of columns in front of a wall with a fractal pattern on it.
+409 0.1707332209372817 A person cutting up food on a cutting board with a knife.
+410 0.14285714285714285 A banner is held up on the street in front of a building.
+411 0.2121244882430646 A baseball player throwing a ball to a batter at a game.
+412 0.16666666666666669 A car driving on a race track with smoke coming out of it.
+413 0.14893631557034034 A man standing in front of a red wall holding his hand up to his face.
+414 0.18367401938793376 A close up of rocks and gravel with the words guide vibes on it.
+415 0.14285714285714285 The inside of a house with rubble and a person in the background.
+416 0.14285714285714285 A woman sitting in front of a sewing machine.
+417 0.14285714285714285 Image may contain  person  playing a musical instrument  on stage and guitar.
+418 0.21212538767651296 A close up of a person wearing heels on a red table.
+419 0.14893631557034034 Two men standing in a room with a ball.
+420 0.14285714285714285 A man standing in front of a fire truck.
+421 0.16483504134822652 A basket full of eggs on the ground.
+422 0.14285714285714285 A woman with black hair and a white wall.
+423 0.14285714285714285 A woman in a red dress walking down a runway.
+424 0.14285714285714285 A man standing in front of a refridgerator filled with gasoline.
+425 0.19047846462292986 A man in red socks and boots is jumping in a skate park.
+426 0.17006876448586522 A man standing on a track with his hand up in the air.
+427 0.17073322093728166 A crowd of people walking down a city street in santa hats.
+428 0.14285714285714285 A man standing in front of a small house.
+429 0.14285714285714285 A man playing a guitar in a room with other people.
+430 0.19047846462292983 A person opening a box on a table.
+431 0.2142881924424196 A man standing in a room holding a stick.
+432 0.14285714285714285 A group of women in red sashes walking down a street.
+433 0.1935462431044238 A bride and groom looking at each other.
+434 0.18367647858256506 A person sitting on a bench in front of a restaurant.
+435 0.19047846462292983 A snow covered tractor in the snow at night.
+436 0.1555556411443406 A group of blue inflatable containers on a field with a person holding a gun.
+437 0.23999928344534366 A man walking out of an airplane door.
+438 0.14285714285714285 A man wearing a mask and a group of masked men.
+439 0.16807503539877827 A boy in a green shirt is cutting something with a scissors.
+440 0.14285714285714285 A group of cricket players playing a game of cricket.
+441 0.14285714285714285 A man is standing in front of a whiteboard.
+442 0.2121229760749329 A scene of a table with shoes and a glass ball.
+443 0.14285714285714285 A man holding a book in front of a rock.
+444 0.197805686294053 Two people are riding bikes on a dirt.
+445 0.16279053636063517 A man standing in a room with a red car on the wall.
+446 0.14285714285714285 The dark rum is being poured into a blender.
+447 0.17142795904369976 A pool of water with people swimming in it.
+448 0.17006876448586522 A man standing in a crowd of people.
+449 0.1785681291126606 A woman is hanging a piece of cloth on a wall.
+450 0.14285714285714285 A woman standing at a table on a news show with a tv in the background.
+451 0.17390175437219701 A young girl is playing with a pair of headphones.
+452 0.14285714285714285 A bottle of wine and two purses on a shelf.
+453 0.14285714285714285 A man in a yellow shirt holding a microphone.
+454 0.14285714285714285 An aerial view of a farm with hay crops and a fence.
+455 0.14285714285714285 A man and a woman standing on a red carpet.
+456 0.14285714285714285 A boy and a girl standing behind a fence.
+457 0.1648350413482266 A woman in a leopard print dress holding her hand up in the air.
+458 0.14285714285714285 A blurry photo of a room with a lot of bottles and lights.
+459 0.16216878104809637 A crowd of people walking down a street.
+460 0.21212538767651304 A person standing in a room with bags on the floor.
+461 0.187972962005852 A man riding a dirt bike in the desert.
+462 0.1627909743951871 A man standing in a room with a garage door.
+463 0.2142786750331178 A group of men working on a bench in the sand.
+464 0.16666666666666666 A man riding a bike down a city street.
+465 0.19480101173715436 A white box sitting on top of a table.
+466 0.14285714285714285 A group of people playing basketball in a gym.
+467 0.19999999987582362 A man and a woman sitting on the floor in a temple.
+468 0.1555556411443406 A group of people sitting around a table with food.
+469 0.14285714285714285 A drop of water on a tree branch.
+470 0.17240982483255296 A reflection of two people holding a bag of food on a street.
+471 0.16807503539877833 A man with his mouth open talking to the camera.
+472 0.14285714285714285 Two geese are swimming in the water near a dock.
+473 0.23999444550274607 A close up of a piece of white plastic.
+474 0.16279097439518708 A rhino walking through a field of tall grass.
+475 0.14285714285714285 A baby is laying on the floor with a wheel.
+476 0.14285714285714285 A statue of a woman in a booth at a christmas market.
+477 0.16666666666666666 A man holding a microphone and looking at a cell phone.
+478 0.14285714285714285 A woman sitting at a table with a vase of flowers.
+479 0.17949092254664503 A bride and groom standing on the deck of a boat.
+480 0.16666666666666666 A man in a suit and bowler hat sitting on a chair.
+481 0.17142925935449468 A man and a woman wearing ski gear talking to each other.
+482 0.14285714285714285 A man sitting in a bathroom mirror looking at himself in the sink.
+483 0.14285714285714285 A man and a woman sitting in a field.
+484 0.14285714285714285 A man and a woman walking through a park.
+485 0.16326486870468349 Two men standing next to each other in a room.
+486 0.14893631557034034 A woman is painting a picture of a painting on a mirror.
+487 0.14285714285714285 A man walking a black cat on a leash.
+488 0.17948807250087695 A man in a green shirt holding a chicken.
+489 0.14285714285714285 A man sitting at a desk using a computer.
+490 0.16216878104809637 A man sitting in a car in the back seat.
+491 0.17073190577539213 A man holding a camera on a tripod in front of a building.
+492 0.17073322093728172 A man is watering a field with a water hose.
+493 0.17006876448586522 A woman eating a chocolate donut next to a man.
+494 0.14285714285714285 A room full of statues in a cave.
+495 0.14285714285714285 We will be looking at the time when the maximum concentration.
+496 0.18367401938793382 A group of people standing in a green truck.
+497 0.1621648092496194 A car parked on the side of a dirt road.
+498 0.16326486870468349 A woman wearing a mask standing in the desert.
+499 0.14893631557034034 Two people sitting at a table holding cell phones and a camera.
+500 0.18367259455222418 A young girl standing in a field with her arms outstretched.
+501 0.19480101173715436 A man standing on top of another mans head in a boxing ring.
+502 0.14285714285714285 A person typing on a computer keyboard.
+503 0.16807503539877827 A man is holding a piece of food in his hand.
+504 0.14285714285714285 A group of people skiing down a snow covered slope.
+505 0.14285714285714285 A woman sitting at a desk with her hand in a mirror.
+506 0.1552793616071429 A woman with a strap on her neck.
+507 0.14285714285714285 A young boy holding a toy gun at a table.
+508 0.17073322093728166 A woman walking into a living room with a couch.
+509 0.14285714285714285 A wooden table and chairs on a patio.
+510 0.19480519480519437 A group of people playing a game of soccer on a field.
+511 0.18516704347196325 A man playing percussion on a drum set in the dark.
+512 0.1891899411077947 A hand is reaching out to write letters on a stone wall.
+513 0.1512604569860866 A young man with a beard and a dark complexion is looking to the side with.
+514 0.187972962005852 A man wearing a hat sitting next to a tree.
+515 0.19047846462292986 A woman holding a bird in a field.
+516 0.16666666666666666 A group of young men standing in a street.
+517 0.14285714285714285 A man standing in front of a body of water.
+518 0.16666666666666666 A bride and groom kiss in front of their wedding party.
+519 0.1836737186252205 A man and a woman are getting in the back of a car.
+520 0.14285714285714285 A woman sitting at a desk talking on her cell phone.
+521 0.1836740193879337 A man standing in front of a clock.
+522 0.14285714285714285 A woman walking down a sidewalk looking at her cell phone.
+523 0.14285714285714285 A man is standing in front of a door.
+524 0.14285714285714285 A man standing at a podium in front of a group of people in a classroom.
+525 0.15555564114434056 A man riding a skateboard in front of a building.
+526 0.16071576581629002 A woman is getting out of a black car.
+527 0.1714292593544947 A woman wearing a hat and laughing with her mouth open.
+528 0.14285714285714285 A person riding a bike down a street.
+529 0.17142925935449468 A man sitting at a table with a vase of flowers.
+530 0.2142780539581768 A woman standing in a room with a dog.
+531 0.14285714285714285 A group of men standing around a fire in a field.
+532 0.16071440625558026 A group of men sitting at a table talking to each other.
+533 0.14285714285714285 Two men standing next to each other in a dark room.
+534 0.2100859826570302 Two men standing in a room talking to each other.
+535 0.17949092254664503 A crowd of people standing on a train.
+536 0.15126045698608662 A nun standing in a crowd of people.
+537 0.20689245502237041 A man and a woman standing next to each other with food.
+538 0.16807503539877827 A man holding a sign on a desert road.
+539 0.1904996074784833 A group of people climbing on the side of a waterfall.
+540 0.14285714285714285 A woman carrying a green surfboard in the woods.
+541 0.21428806015898716 A woman sitting at a table in a garden with a dog.
+542 0.14285714285714285 A man driving a car with his hands on the steering wheel.
+543 0.16484060591174954 A rock with moss on it on the ground.
+544 0.18516704347196336 A man sitting in a chair in front of a piano.
+545 0.16071440625558034 A man is sitting in a urinal in a bathroom.
+546 0.18181524608246677 Two meerkats are standing in the dirt.
+547 0.14285714285714285 A person riding a bike down a dirt road in the woods.
+548 0.17856898978557287 A person laying on the floor in a crowd of people.
+549 0.14285714285714285 An older man sitting on a bench by the water.
+550 0.14285714285714285 A group of people standing on a building on the beach.
+551 0.18367259455222418 A man holding a gun in a movie.
+552 0.14285714285714285 A man standing in front of a camera.
+553 0.14285714285714285 A woman wearing a hijab and glasses on a bus.
+554 0.14285714285714285 A man is standing next to a table with a chair.
+555 0.20000110358569226 A man holding a green surfboard in the water.
+556 0.1512604569860866 A group of people in a raft in the water near a waterfall.
+557 0.14893631557034037 A man in a suit and tie with a quote.
+558 0.1552793616071429 A man standing in the grass near a water fountain.
+559 0.14285714285714285 A man wearing glasses talking on a cell phone.
+560 0.187972962005852 A man in a hat sleeping with a watch on his arm.
+561 0.14285714285714285 A man and a woman standing in front of a food stand.
+562 0.19479979932256303 Two men standing in front of a painting of a beach.
+563 0.14285714285714285 A tennis match is shown in a stadium at night.
+564 0.16666666666666669 A man reaching for a book on a shelf in a bookstore.
+565 0.14285714285714285 A view of the city of istanbul with mosques and minarets.
+566 0.14893631557034034 A man standing in front of a mirror holding a microphone.
+567 0.19047846462292983 A man in a white shirt is looking at the camera.
+568 0.14285714285714285 A blurry picture of a person looking out of a window.
+569 0.1794873987096351 Two men are cutting a bush in a park.
+570 0.14285714285714285 A dog walking on a dirt path next to rocks.
+571 0.17142795904369967 A woman in a green dress walking down the aisle at a wedding.
+572 0.14285714285714285 A birthday cake with a happy birthday set on it.
+573 0.14285714285714285 A man sitting on the floor with a bunch of green vegetables.
+574 0.18797296200585206 A man walking down a street next to a white wall.
+575 0.14285714285714285 A black ladle dripping into a pot of black liquid.
+576 0.14285714285714285 A group of people sitting at a table in a restaurant.
+577 0.16071440625558034 A red car driving down a road with mountains in the distance.
+578 0.14285714285714285 A man sitting at a desk in front of a computer monitor.
+579 0.2258125446408311 A person holding a pair of scissors in the water.
+580 0.21428819244241964 A man is milking a cow on a metal bucket.
+581 0.15555564114434062 A person is writing on a piece of paper.
+582 0.1794909225466451 A group of women in dresses posing for a group photo.
+583 0.24000922187101084 A green dress with a purple flower on it.
+584 0.17073322093728166 A silhouette of a man standing in front of a window with his arms up.
+585 0.14285714285714285 A man standing in front of a window.
+586 0.14285714285714285 A group of people standing on a soccer field.
+587 0.17073322093728166 A group of football players hugging each other on a basketball court.
+588 0.19479979932256297 A man painting a mural on a wall with a glue gun.
+589 0.16666666666666666 The sky is white.
+590 0.14285714285714285 A mural of a woman on a wall on a city street.
+591 0.21427867503311784 A baby girl with her hand on her face.
+592 0.14285714285714285 A person holding a toothbrush in front of a wall.
+593 0.18518482799601588 A person swimming in a pool in the water.
+594 0.14285714285714285 How can heritage learners be supported  a picture of a young boy eating a piece.
+595 0.16326486870468349 A tortoise is sitting in the grass.
+596 0.17949092254664503 A group of people sitting around a table with food.
+597 0.14285714285714285 A black and white photo of a waterfall.
+598 0.17143090778302125 A man and a woman standing together in a hallway.
+599 0.18919018886232833 A group of people sitting on a bench looking at their cell phone.
+600 0.187972962005852 A woman standing in a tub in front of a wall covered in graffiti.
+601 0.14285714285714285 Two women sitting at a table with papers and a laptop.
+602 0.14285714285714285 An old man sitting on a chair in front of a market.
+603 0.14285714285714285 A group of men singing and dancing in a dark room.
+604 0.14285714285714285 A person is cutting a piece of paper with scissors.
+605 0.16666666666666666 A man sitting on a gym bench with his head in his hands.
+606 0.14285714285714285 A reflection of a soldier in a glass window.
+607 0.14285714285714285 A man and a woman sitting in a car at night.
+608 0.15555564114434056 A person holding a remote control looking at a display of remote control products.
+609 0.14285714285714285 A person wearing boots and shoes in the grass.
+610 0.14285714285714285 A woman is playing frisbee with a dog.
+611 0.21428063221572952 A man jumping in the air in front of a wall of posters.
+612 0.1904784646229298 A man with a small screen in front of a camera.
+613 0.14285714285714285 A young boy is blowing water into his face.
+614 0.14285714285714285 A man and a dog standing next to a tree.
+615 0.193552269314554 A reflection of a man standing in a glass door.
+616 0.18367259455222415 A man doing a trick on a skateboard in front of a mural.
+617 0.14893631557034034 A man standing on a stage in front of a red circle.
+618 0.21212538767651296 A display of candy and other sweets in a store.
+619 0.1851987300951741 A man in a suit is standing in front of a symphony orchestra.
+620 0.14285714285714285 A couple of swans swimming in a lake.
+621 0.1512604569860866 A woman standing in front of a mirror.
+622 0.14285714285714285 A group of people in safety gear standing around a table.
+623 0.14285714285714285 A crowd of people standing outside of an energy night race.
+624 0.18367647858256506 A row of bottles sitting on a window sill.
+625 0.14285714285714285 A man walking down a road next to a mountain.
+626 0.14285714285714285 A man and a woman standing in front of a movie poster.
+627 0.14285714285714285 Two people walking down the street with their scooters.
+628 0.17948759706101963 A group of surfers riding a wave in a river.
+629 0.1512604569860866 A bride and groom walking down a hill next to the ocean.
+630 0.16279097439518705 We still havent had a strong repression just warnings that we cant have.
+631 0.14285714285714285 A reflection of a woman in a mirror with a flower.
+632 0.17948759706101947 A man with glasses and a soldier in the background.
+633 0.14285714285714285 A group of people on a ski lift in the snow.
+634 0.14285714285714285 A woman is looking at her cell phone while a man walks.
+635 0.18918994110779472 A woman with pink hair standing in a park.
+636 0.14893631557034034 A hand using a tool on a sewing machine.
+637 0.1552793616071429 A group of wrestlers wrestling on a pink floor.
+638 0.14893631557034034 A person sitting in a cluttered room with a sink.
+639 0.1794909225466451 A blurry image of a person standing in a train station.
+640 0.1935547956292137 Two children kneel in the dirt making a clay pot.
+641 0.16807503539877827 A white car is parked on the street.
+642 0.14285714285714285 A flock of birds flying over a city at night.
+643 0.14285714285714285 A girl in a dress is standing in a field.
+644 0.16071440625558034 Two people are hanging from a parachute in the air.
+645 0.14285714285714285 A man is painting a picture of crucifixes on a wall.
+646 0.16071440625558034 A woman is talking on her cell phone in a store.
+647 0.14893631557034034 A group of people wearing silver costumes and a woman with a leaf on her face.
+648 0.1648350413482266 A man riding a skateboard down a street.
+649 0.14285714285714285 A man and a woman sitting on the beach looking at each other.
+650 0.14893631557034037 Two men on the beach looking at a cell phone.
+651 0.14285714285714285 A blurry picture of a bridge over a river.
+652 0.17142872755291091 A screenshot of a brick floor with a blue ball on it.
+653 0.14285714285714285 A group of men boxing in a boxing ring.
+654 0.14893631557034034 A silhouette of a tree with a sunset in the background.
+655 0.16279097439518705 A group of people riding bikes on a dirt.
+656 0.17006876448586522 A group of houses on the water next to a boat.
+657 0.20000080258024383 A group of men sitting around a table with drinks.
+658 0.19354363406027003 A group of people playing football on a field.
+659 0.14285714285714285 A group of people standing in a room with a girl with dreadlocks.
+660 0.1707332209372817 A man sitting at a table with a piece of bread.
+661 0.15555564114434053 A man cooking food on a pan in a kitchen.
+662 0.18367361519367692 A man with his hands on his head on the side of a road.
+663 0.14285714285714285 A man wearing a hat and glasses and a jacket.
+664 0.14285714285714285 A person working on a drawing with a dice on a table.
+665 0.14285714285714285 A large elephant walking down a dirt road.
+666 0.21212538767651307 This is an image of a football game in a stadium.
+667 0.14285714285714285 A woman in a black dress and a crowd of people.
+668 0.16326486870468349 A green iguana sitting on a wooden bridge in a zoo.
+669 0.1785681291126606 A view from a window of a train.
+670 0.18750014063151033 A car on the beach with people standing around it.
+671 0.14285714285714285 Two women in a room with their hands in the air.
+672 0.21428819244241964 A person holding a bundle of hose in a car.
+673 0.18367259455222418 A screenshot of a space ship in the stars.
+674 0.15555564114434062 A man holding up a peace sign while a group of motorcyclists are parked.
+675 0.17073202019162584 A woman holding a yellow bag with a stuffed dog.
+676 0.16071440625558034 A group of people doing karate in a martial arts class.
+677 0.14285714285714285 A group of children standing on skis in the snow.
+678 0.14285714285714285 A man with headphones playing a guitar.
+679 0.1794909225466451 A group of people standing around a bar with drinks.
+680 0.18367361519367692 A hole in a stone wall with a persons face in it.
+681 0.17073322093728166 A group of people watching a man on a skateboard in front of a crowd.
+682 0.14285714285714285 A man riding a skateboard down a street in front of a building.
+683 0.14285714285714285 A person is pressing a piece of metal with their fingers.
+684 0.14285714285714285 A clear black sky.
+685 0.14285714285714285 A view of a city from the top of a hill.
+686 0.14285714285714285 A group of people standing in a field with a crowd of tents.
+687 0.17949092254664503 A man sitting at a desk in a room with a laptop.
+688 0.15555564114434053 A man riding a wave on a surfboard in the ocean.
+689 0.18518457695826726 A shadow of a person sitting on a bowling ball.
+690 0.14285714285714285 A man flying a kite on top of a green field.
+691 0.14285714285714285 A young man in a white tank top holding a guitar.
+692 0.17142795904369976 A group of people standing in a dark room.
+693 0.14285714285714285 A girl sitting in a chair holding a piece of paper.
+694 0.14285714285714285 A bride in a white dress standing in front of a wall.
+695 0.1904784646229298 A man crawling through a cave with stalactites.
+696 0.14285714285714285 A herd of horses standing in a body of water.
+697 0.14285714285714285 A woman dancing on a stage in the dark.
+698 0.17006876448586522 A man and a woman leaning against a tree.
+699 0.14285714285714285 A man sitting in front of a laptop computer.
+700 0.14285714285714285 A group of people standing on a dirt race track.
+701 0.14285714285714285 A man running through a field with a wedding dress.
+702 0.14285714285714285 A man and a woman looking at each other in a park.
+703 0.18181484130410966 A man standing in the stands at a baseball game.
+704 0.16279054916284638 A man in an orange suit with luggage at an airport.
+705 0.22580754067289172 An old man standing in front of a black and white picture.
+706 0.14285714285714285 A group of snow covered trees in a forest.
+707 0.14285714285714285 A group of fire trucks parked in a parking lot.
+708 0.18367647858256506 A man holding a book with a child sitting next to him.
+709 0.19047568015546407 A man is walking through a door in a dark room.
+710 0.14285714285714285 A man riding a snowboard on top of a car.
+711 0.16216480924961943 A crowd of people at a concert at night.
+712 0.17006876448586522 A reflection of a person walking in a puddle of water.
+713 0.14285714285714285 A person sitting on a chair with their hand in a bowl.
+714 0.14285714285714285 A man walking down a street at night.
+715 0.14285714285714285 A bride and groom holding a sign at a wedding ceremony.
+716 0.18181741630364606 A bride and groom standing in front of a mirror at a wedding.
+717 0.19354363406027014 Two police officers talking to a man on a street.
+718 0.14285714285714285 When the dagger takes to the side it is held by the slot.
+719 0.17143418487619463 A woman sitting on a couch in the dark with a laptop.
+720 0.14285714285714285 A wooden bridge in the middle of a forest.
+721 0.16807503539877833 A stuffed animal laying on top of a wrestling match.
+722 0.19479979932256294 A view of a parking garage from inside a building.
+723 0.14285714285714285 A child laying in a hammock in the yard.
+724 0.14285714285714285 A person is riding a bike on a court.
+725 0.14285714285714285 A screenshot of a man in the dark with the question are you scared.
+726 0.16071440625558034 A plant growing out of a white container on a table.
+727 0.21930178900682742 A woman standing in front of a mirror talking to another woman.
+728 0.2272678470266799 A woman sitting at a table using a laptop computer.
+729 0.14285714285714285 A man standing on a field with a soccer ball.
+730 0.16128969982310679 Two people crossing a street at night with an umbrella.
+731 0.14285714285714285 A small plane sitting on top of a field.
+732 0.16666666666666669 A group of people on a boat in the water.
+733 0.14285714285714285 Image may contain  person  on stage and playing a musical instrument.
+734 0.14285714285714285 An aerial view of a city at night.
+735 0.1948123735637914 A person typing on a laptop computer on a table.
+736 0.14285714285714285 How to paint a christmas scene on your wall.
+737 0.14285714285714285 A man sitting at a table in the dark.
+738 0.19354624310442392 A man standing next to a chair with a cat on it.
+739 0.1714292593544947 A group of people playing baseball on a field.
+740 0.2100836558886929 An image of a person petting a dog.
+741 0.18367647858256506 A bride and groom riding a bike down the street.
+742 0.187972962005852 A woman with long black hair looking down at her laptop.
+743 0.14285714285714285 A woman standing on a rock next to a river.
+744 0.1552793616071429 A young boy laying on the ground with his head on the floor.
+745 0.187972962005852 A man and a woman standing on a beach.
+746 0.14285714285714285 A group of people on a stage in a performance.
+747 0.16666666666666669 A clear black sky.
+748 0.14285714285714285 A man holding a fish on a boat in the water.
+749 0.2400085268069675 A man running down a highway with signs on the side of the road.
+750 0.17006876448586522 A cat is walking on a rug on the floor.
+751 0.19354624310442398 A man talking to a man in a book store.
+752 0.14285714285714285 A group of people standing next to a river.
+753 0.22580632612781754 A man standing on top of a sign in front of the letters of the arts.
+754 0.18182261300077301 A woman driving a car with a man in the passenger seat.
+755 0.1621648092496194 A young man standing in a park with a bike.
+756 0.22221627108941172 A group of women standing in a bar with drinks.
+757 0.14285714285714285 A bird sitting in the sand on the beach.
+758 0.14285714285714285 A woman is wearing a mask and working on a machine.
+759 0.187972962005852 A bride and groom getting married in a church.
+760 0.187972962005852 A woman standing on a stage holding a guitar.
+761 0.14285714285714285 Two women sitting at a table talking to each other in a restaurant.
+762 0.14285714285714285 A group of men on a stage playing a video game.
+763 0.18918994110779472 A bride and groom dancing at a wedding party.
+764 0.14285714285714285 An old car is driving down a city street.
+765 0.16807503539877833 A woman standing in front of a table with a laptop.
+766 0.18367647858256506 A woman is holding a picture of a woman with her face.
+767 0.14285714285714285 A black and white photo of a man playing a saxophone.
+768 0.16279097439518705 A group of football players on a field playing a game.
+769 0.21428635595258932 A blurry image of a group of people in a restaurant.
+770 0.14285714285714285 The parking lot is full of cars in a parking lot.
+771 0.17142925935449468 A demolition crane is seen next to an unfinished building.
+772 0.14285714285714285 A group of dancers in red costumes on a stage.
+773 0.1552793616071429 A bowl of food with bacon in it on a table.
+774 0.14285714285714285 A woman playing a violin in front of a piano.
+775 0.14285714285714285 A blue and yellow school bus with people in it.
+776 0.16071440625558034 A diver dives into the water in a pool.
+777 0.19047846462292983 A woman is riding a bike with a dog in a cart.
+778 0.20000085830441897 A man and a woman sitting in a car.
+779 0.17949092254664503 A picture frame sitting on top of a desk with a phone.
+780 0.16279097439518708 A man is being lifted by a crane in front of a crowd.
+781 0.14285714285714285 A man with a toothbrush in his mouth.
+782 0.14285714285714285 A man playing a guitar in front of a mirror.
+783 0.14285714285714285 A group of horses running in a field.
+784 0.16279097439518708 A man standing in a room holding a piece of paper.
+785 0.14285714285714285 Two young girls are holding hands while walking through a shopping mall.
+786 0.22221632418687387 A woman holding a glass of wine in front of a group of people.
+787 0.16666666666666666 A wedding reception in a church with chandeliers.
+788 0.14285714285714285 A man in a wetsuit on a boat in the ocean.
+789 0.16279097439518705 A man standing on a dirt track next to an orange cone.
+790 0.15527936160714284 A man kneeling down in the sand on a desert.
+791 0.20000434369393288 A woman sitting at a table in a restaurant with a laptop.
+792 0.17949092254664503 A man standing on top of a pool with chairs.
+793 0.21428588439262303 A screenshot of a computer screen with a picture of dice.
+794 0.14893631557034034 Three young girls dressed up in costumes in a classroom.
+795 0.14285714285714285 A group of people sitting on the floor in a room.
+796 0.19047846462292983 A person laying in the water in a lake.
+797 0.18367259455222415 A woman standing in front of a mirror holding a cell phone.
+798 0.14285714285714285 A girl drawing on a wall in her art studio.
+799 0.14285714285714285 A group of people walking down a city street.
+800 0.16666666666666666 A bride and groom posing with their children at their wedding.
+801 0.14285714285714285 A man and a woman talking in front of a fireplace.
+802 0.14285714285714285 A group of people in a boat on a river.
+803 0.14285714285714285 A man stirring a bowl of food in a kitchen.
+804 0.18367401938793373 A woman throwing a wedding dress into a car.
+805 0.16666666666666669 A black and white photo of a toilet bowl.
+806 0.14285714285714285 A person walking on a sidewalk next to a building.
+807 0.2142881924424196 A city street with motorcycles and palm trees.
+808 0.14893631557034034 A man singing into a microphone in the dark.
+809 0.2400075396032512 A man standing on top of a snow covered slope at night.
+810 0.18367647858256503 A man holding a camera and a woman standing in a room.
+811 0.19354624310442375 A woman standing in a restaurant holding a cell phone.
+812 0.14285714285714285 A group of people posing for a group photo at a wedding.
+813 0.14285714285714285 A man sitting at a table in front of a window.
+814 0.1904691331379385 How to make a window frame out of wood.
+815 0.14285714285714285 A man with his hands on his shoulders.
+816 0.17856812911266062 A truck driving through a field of dirt.
+817 0.16326486870468349 A person sitting at a table with a green chair.
+818 0.14285714285714285 A man and a woman standing in front of a black curtain.
+819 0.17949092254664503 A man with a microphone in front of a soccer net.
+820 0.14893631557034037 A group of musicians playing instruments in a park.
+821 0.14285714285714285 A group of men on a field playing a game of soccer.
+822 0.19841304050552627 A close up of the front of a car.
+823 0.14285714285714285 A group of people walking down a busy street.
+824 0.18797296200585206 A man riding a skateboard at a skate park.
+825 0.14285714285714285 A group of people cutting a cake on a table.
+826 0.18367647858256506 A group of people standing around a table with food.
+827 0.1875001406315104 A man in a suit and tie sitting on the beach.
+828 0.14285714285714285 A man climbing on a rock climbing wall.
+829 0.14285714285714285 A woman playing a cello in a bar with a man playing a piano.
+830 0.14285714285714285 A group of people sitting in chairs watching a man speak in front of a crowd.
+831 0.15306055500000007 Two men standing in a kitchen with their backs to each other.
+832 0.1512604569860866 A man holding a microphone to a woman in a room.
+833 0.17142925935449468 Image may contain  person  playing a musical instrument and on stage.
+834 0.14285714285714285 A group of police officers in yellow vests standing in a street.
+835 0.14285714285714285 A man riding a skateboard on a ramp at a skate park.
+836 0.16279097439518708 A group of women dressed up in costumes standing in front of a beauty salon.
+837 0.1794909225466451 A man and a woman walking out of a building.
+838 0.183676478582565 A man standing next to a pile of toilet paper.
+839 0.14285714285714285 A man throwing a frisbee in the sky.
+840 0.155555579166277 A baby lion sitting in front of a brick wall.
+841 0.16666666666666669 A white kitchen with a bar and white chairs.
+842 0.14285714285714285 Three people sitting at a table with a man holding a bottle.
+843 0.1648350413482266 A man sitting at a table on a boat.
+844 0.17949092254664503 A priest holding a little girl in a church with a candle.
+845 0.19998855262302945 A woman is working on a sewing machine.
+846 0.1948123735637914 A woman sitting on a couch in the dark.
+847 0.14285714285714285 Two women running on the beach with their hands in the air.
+848 0.14285714285714285 Two men sitting on a couch playing a video game.
+849 0.1607144062555803 A man pushing a motorcycle in a boat in the water.
+850 0.19354454590016282 A man taking a picture of a truck on a dirt road.
+851 0.14285714285714285 Two pictures of a man preparing food in a kitchen and a woman preparing a turkey.
+852 0.18797296200585198 A man sitting on a chair in front of a television.
+853 0.22222371949568717 A body of water with trees on the side of it.
+854 0.2121253876765131 A man walking through an airport with people sitting on benches.
+855 0.14285714285714285 The street signs are above a yellow yield sign.
+856 0.1935445459001628 A person is holding a light on a wire.
+857 0.187972962005852 A pot full of broccoli and other vegetables.
+858 0.14285714285714285 A man is fixing another mans tie in a mirror.
+859 0.14285714285714285 A group of trees on the top of a hill.
+860 0.187972962005852 A man building a wooden frame in the snow.
+861 0.15527936160714284 A house with a pond in front of it.
+862 0.14285714285714285 A black cow standing next to a fence.
+863 0.2142569852312585 A blurry image of a man in a suit walking down the street.
+864 0.14285714285714285 A group of women in black and red costumes dancing in the street.
+865 0.14285714285714285 Person giving a presentation to a group of people in a room.
+866 0.17949092254664503 A man sitting in front of a computer with a girl working on a computer.
+867 0.18181524608246669 A person is putting food into an oven.
+868 0.16071440625558034 A young boy is playing with a toy engine.
+869 0.21428922501299263 Two people are standing in the snow with snowboards.
+870 0.18919450523899667 A man sitting on a train holding a glass of water.
+871 0.17006876448586522 A woman walking through the snow on skis.
+872 0.14285714285714285 A tennis player standing on a tennis court  are you gonna take me home tonight.
+873 0.15555564114434056 A person holding a piece of wood with a face on it.
+874 0.18518457695826723 A pair of hands attaching a camera to a bike strap.
+875 0.14285714285714285 A guitar on the floor of a room in a warehouse.
+876 0.19047846462292986 A man in a white robe standing on a balcony overlooking the ocean.
+877 0.16326486870468349 A man in a suit and hat standing in a room.
+878 0.15555564114434056 A group of people walking into a building at night.
+879 0.15555564114434053 A man is sitting in a helicopter cockpit.
+880 0.14285714285714285 A person standing on a ladder in front of a drawing of an elephant.
+881 0.19780568629405315 A room with a green wall and a ceiling.
+882 0.17143418487619466 A man with red hair and a brown jacket is looking at something.
+883 0.17142928208942482 A group of kittens in a yellow cage.
+884 0.17948759706101963 A man standing in front of a mirror talking to a woman.
+885 0.14285714285714285 A man and a woman walking on a bridge in the woods.
+886 0.14285714285714285 A man standing on a city street with a crowd of people.
+887 0.14285714285714285 A man sitting on top of a large rock.
+888 0.1794875970610196 A woman is taking a picture of a ball on the street.
+889 0.20000415767011126 A woman is opening a door to a house.
+890 0.17073202019162587 A woman walking down a road holding a bottle of water.
+891 0.18367259455222415 A woman is holding a pair of scissors.
+892 0.21427805395817684 A man walking down a stairs next to a tree.
+893 0.1891902996692963 A crowd of people walking down a street at night.
+894 0.14285714285714285 A group of women in colourful dresses standing under a tree.
+895 0.16326486870468349 A view of the windshield of a car in the rain.
+896 0.1978032394567746 A scene from the movie short track vii.
+897 0.16279097439518705 Two men in a car looking at the camera while one is holding a red phone.
+898 0.14285714285714285 A group of men on a stage playing guitar and singing.
+899 0.14285714285714285 A man sitting in a chair in an office.
+900 0.15555564114434053 A group of people playing a game of cricket on a field.
+901 0.14285714285714285 A group of people standing around in a room.
+902 0.14285714285714285 A woman playing a piano and a woman standing next to a piano.
+903 0.21930178900682742 A drawing of a woman on top of a notebook.
+904 0.14285714285714285 A woman wearing glasses and a hat standing in front of a whiteboard.
+905 0.17073206315985978 A group of young children playing a game on a basketball court.
+906 0.16666666666666666 A man in a suit talking into a microphone.
+907 0.14285714285714285 A woman walking in a parking lot at night.
+908 0.1714292593544947 A woman looking out of a window in a restaurant.
+909 0.17006876448586522 A man holding his hands together while sitting on a bed.
+910 0.16666666666666666 A woman is holding a large blanket in a room.
+911 0.14285714285714285 A hot air balloon flying in the sky.
+912 0.21212538767651296 Two men are holding an award and one is holding a clipboard.
+913 0.14285714285714285 A hand is holding a small toy.
+914 0.14285714285714285 A group of people holding up signs in a protest.
+915 0.14285714285714285 A man flying through the air while riding skis on a mountain.
+916 0.14285714285714285 A man riding skis down a snow covered slope.
+917 0.21427859807975452 A pink car is parked in a parking lot.
+918 0.14285714285714285 A man standing in front of a wall of pictures.
+919 0.17073189877454692 A group of women are laughing and talking on a bus.
+920 0.14285714285714285 A group of people riding surfboards on a wave in the ocean.
+921 0.14285714285714285 A man and a woman looking at each other.
+922 0.1999885526230293 A man in a red hat hiking up a mountain.
+923 0.17073322093728166 A bride and groom posing for a picture on their wedding day.
+924 0.21976913219452704 A woman is cleaning a window with a yellow sponge.
+925 0.14285714285714285 People walking around the side of a building.
+926 0.16279097439518708 A collection of family photos on a table.
+927 0.14285714285714285 A person walking down a sidewalk wearing black shoes.
+928 0.1904691331379385 A shirtless man standing in a bathroom next to a sink.
+929 0.14285714285714285 A group of people sitting on a subway train.
+930 0.17006876448586522 A woman sitting at a table in a room.
+931 0.1607144062555803 A person holding a pan of food on a table.
+932 0.14893631557034034 A woman walking through a grocery store with a shopping cart.
+933 0.18519895115996643 A person taking a picture of a dog with a camera.
+934 0.14285714285714285 A woman holding her hand up to a black dog.
+935 0.2142881924424197 A man standing in the middle of a coral reef in the ocean.
+936 0.2500020297136775 A group of young men posing in front of a white car.
+937 0.1935436340602701 A man is standing in a boot on the floor.
+938 0.18797296200585198 A man in a hospital room looking down at a patient.
+939 0.14285714285714285 A boat is docked in the water near a small town.
+940 0.14285714285714285 A man riding a bike on a ramp.
+941 0.18797296200585195 A person skiing down a snow covered slope next to a river.
+942 0.1978031771172129 A white sheet is hanging from a tractor in a field.
+943 0.14285714285714285 A book with a picture of a tree in a field.
+944 0.1555556411443406 A man holding his hands up in front of a shelf of bottles.
+945 0.14285714285714285 A woman sitting at a table with a plate of food.
+946 0.18367647858256506 A boy running with a bag in the yard.
+947 0.14285714285714285 A small boat in the water next to a dock.
+948 0.16279097439518705 A woman sitting in a chair looking at her cell phone.
+949 0.18919450523899667 A man in a green boat in a body of water.
+950 0.17240580293842878 A hand holding a piece of fish on a table.
+951 0.1935548239916292 A sword hanging from a chain on a wooden table.
+952 0.16071440625558034 A bride and groom cutting their wedding cake in a restaurant.
+953 0.17006876448586522 A fire hydrant with a yellow.
+954 0.14285714285714285 Two chickens in a chicken coop behind a fence.
+955 0.14285714285714285 A man running on a basketball court in a gym.
+956 0.18181524608246669 A man flying a helicopter while talking on a cell phone.
+957 0.1627909743951871 A man talking on a cell phone in front of a screen.
+958 0.17073322093728166 A group of people standing around with hats on.
+959 0.187972962005852 A man holding a cell phone in a shoe store.
+960 0.14285714285714285 A group of men and women sitting in front of a crowd.
+961 0.14285714285714285 Two men sitting on a couch playing guitars.
+962 0.14285714285714285 A man is playing a keyboard in front of a projector screen.
+963 0.14285714285714285 A girl sitting in the cockpit of an airplane.
+964 0.18367647858256506 A girl with her hand on her face looking in a mirror.
+965 0.14285714285714285 A man sitting in a car looking out of the window.
+966 0.18367647858256506 People walking in a park with kites on the grass.
+967 0.17144043397693076 An image of a comet in the dark sky.
+968 0.14285714285714285 A variety of makeup and cosmetics on a table.
+969 0.19841304050552624 A man and a woman standing in front of columns.
+970 0.14285714285714285 A person walking down a hallway in a building.
+971 0.1552793616071429 A man riding a skateboard down a dirt hill.
+972 0.17006876448586522 A man walking down a hallway in a building.
+973 0.17949092254664503 A small bird is standing in the water.
+974 0.21427859807975452 A boy and a girl in a library with a police officer.
+975 0.14285714285714285 A dark room with a projector on a table.
+976 0.16666666666666666 Two people standing on a bridge over the water.
+977 0.18516704347196328 A group of people sitting on a bus holding coffee cups.
+978 0.21212538767651307 A woman riding a bike down the street with a suitcase.
+979 0.14285714285714285 A dolphin swimming in the water next to a net.
+980 0.14285714285714285 A woman sitting next to a tree in front of a building.
+981 0.14285714285714285 A large group of people marching down a street with flags and cars.
+982 0.21976913219452704 A waterfall in a canyon with mountains and waterfalls.
+983 0.17949092254664498 A group of people sitting around a table making crafts.
+984 0.14285714285714285 A bride and groom walking on a bridge.
+985 0.16129545658170402 A man in a red shirt is dancing in a crowd of people.
+986 0.14285714285714285 A woman in a red jacket is standing on a rock.
+987 0.14285714285714285 People sit at tables outside a restaurant on a city street.
+988 0.14285714285714285 A person is pulling up yellow curtains on the back of a truck.
+989 0.21047898067368323 A boy is climbing on a rock next to a waterfall.
+990 0.18367259455222418 A woman with long hair standing in front of a mirror.
+991 0.19230713244817496 A person is digging in the dirt with a shovel.
+992 0.20000434369393288 A close up of a brick wall with a building in the background.
+993 0.16666666666666669 A room filled with wooden furniture and a white wall.
+994 0.17142795904369976 A silhouette of a person holding a guitar in the dark.
+995 0.21212194161831674 A group of men riding bikes on a street at night.
+996 0.1607144062555804 A man sitting in a dark room looking at his cell phone.
+997 0.16666666666666666 A child is reaching into a car seat with graffiti on it.
+998 0.14285714285714285 A person is sitting in a cave.
+999 0.16071440625558037 A little boy is sitting next to a bird statue.
+1000 0.1693529627163708 A young girl is skating on an indoor ice rink.
+1001 0.1111111111111111 A group of people standing on a beach flying a kite.
+1002 0.13279157126015348 A group of people standing under a table.
+1003 0.14814991692894544 A man sitting in a truck with a paper on the steering wheel.
+1004 0.11951325465609716 A man is sitting in front of a tv.
+1005 0.125 A group of swans swimming in a water fountain.
+1006 0.187972962005852 A woman cutting a cake with a man wearing a hat.
+1007 0.14285714285714285 A group of people watching a movie in a dark room.
+1008 0.125 A woman in a white dress blowing smoke.
+1009 0.1904834087700887 A man feeding a bird on the rocks.
+1010 0.16666865654506363 A man in a red jacket holding skis and a white helmet.
+1011 0.16498770117097206 A close up of a hand holding a piece of paper.
+1012 0.14285714285714285 A man riding skis down a snow covered slope.
+1013 0.14285714285714285 A young man holding a flag on a city street.
+1014 0.125 A group of steps in a skate park with a crowd.
+1015 0.1111111111111111 A man holding a woman in front of a wall.
+1016 0.11765252477914481 A man walking in a park next to a bench.
+1017 0.21428588439262303 A woman standing on a dock over the water.
+1018 0.1488101689251321 A dining room with a table and a woman standing in the window.
+1019 0.1655405933396651 A person walking down some stairs in a dark room.
+1020 0.125 The building where the apartment is located.
+1021 0.16071440625558034 A man is playing a saxophone on a man with a puppet on his head.
+1022 0.17006876448586522 A man and a woman walking down a hall     into a room.
+1023 0.14062541083984367 A person stirring a pot of food on a stove.
+1024 0.19047537328870395 A group of people standing around in a room.
+1025 0.13333332514165658 The car is being pulled by a plane on the tarmac.
+1026 0.21008365588869288 A man holding a bottle of alcohol in a restaurant.
+1027 0.18115925520833337 A woman holding a cell phone in her hand.
+1028 0.166638273249169 A video of a man with a water gun in a crowd.
+1029 0.1333327578719177 A man sitting in a chair reading a book.
+1030 0.12857081618655697 A woman is cutting a red cloth on a table.
+1031 0.15686260814935882 A group of people and animals standing in the dirt.
+1032 0.14285714285714285 A man sitting at a desk talking to a woman in an office.
+1033 0.1327925051734413 A man working on a computer in a window.
+1034 0.11111111111111112 A garden with green grass and pink flowers.
+1035 0.1 A woman sitting in a car looking out of the window.
+1036 0.16279097439518708 A yellow bird laying on the ground in the dirt.
+1037 0.125 A young girl riding a surfboard in the ocean.
+1038 0.19998173317850126 A person is pressing a remote control on an oven.
+1039 0.125 A view of a machine in a room.
+1040 0.14285714285714285 A man and a woman standing in a river.
+1041 0.14285714285714285 A man with curly hair talking to another man.
+1042 0.16666865654506355 A person is looking at a paper plane in a field.
+1043 0.12328747648114824 A woman sitting on a bench on the side of the street.
+1044 0.16326530612244872 A silhouette of people waiting in an airport terminal.
+1045 0.14285714285714285 A man screaming in front of a psp magazine and a picture of a woman.
+1046 0.17073189877454695 A group of people standing in a train station with tents.
+1047 0.10000000000000002 A bride and groom standing next to a swimming pool.
+1048 0.1545888767361112 A man standing next to a horse pulling a carriage.
+1049 0.18367647858256506 A group of musicians playing instruments in a room.
+1050 0.16340139080576088 A bride and groom at their wedding ceremony.
+1051 0.1111111111111111 Two women walking down a sidewalk in front of a building.
+1052 0.14513948343880045 A little girl standing in the snow holding up her hand.
+1053 0.12857081618655697 A man with a scarf on his face in a room.
+1054 0.125 A reflection of a person in a rear view mirror of a car.
+1055 0.125 A man writing on a paper in front of a mirror.
+1056 0.1111111111111111 A man and a woman standing behind a sign with the letters dc.
+1057 0.23076987978645552 A group of glass jars with food inside of them.
+1058 0.1111111111111111 A woman in a white dress standing in the woods.
+1059 0.11111111111111112 A man is sitting on a couch with snow on him.
+1060 0.10000000000000002 A man standing next to a car in a parking lot.
+1061 0.13960616773567347 A group of people are dancing in a dark room.
+1062 0.11395405222237975 A woman in a red dress sitting in a chair with a remote control.
+1063 0.125 A little boy walking in the water in a field.
+1064 0.16665125564152744 A man is pushing his bike through a chain link fence.
+1065 0.1666719828352517 A group of people in white turbans and a woman sitting in a chair with.
+1066 0.125 A group of people standing around a man in a white suit.
+1067 0.125 A woman laying on the ground in front of a church.
+1068 0.12962983370556647 A man is hanging from a power line in a garden.
+1069 0.125 A football player dives for the ball during a game.
+1070 0.12307717705310252 A race car on display at a car show.
+1071 0.16214925317053722 A man is standing next to a table with his hands on his leg.
+1072 0.13227570571122854 A man is working on a boat in the water.
+1073 0.1111111111111111 A fountain at night at the water fountain show.
+1074 0.14619880597469898 A black and white photo of a dog on a baseball field.
+1075 0.15126045698608662 A man in a green shirt is preparing food at a bar.
+1076 0.1250003651909722 A man riding a skateboard at a skate park.
+1077 0.1111111111111111 A view of the wing of an airplane on a runway.
+1078 0.16000152709647514 A soldier holding a dead animal in the grass.
+1079 0.1904748308848156 A person is standing on top of a stove.
+1080 0.125 A group of people holding an irish flag in a parking lot.
+1081 0.13458915199903593 A man is holding a basket of eggs.
+1082 0.1 An aerial view of a church with a forest in the background.
+1083 0.1111111111111111 A man sitting in a car with his eyes closed.
+1084 0.12000009163968516 A birds egg in a nest in the grass.
+1085 0.12903231499756423 A crowd of people walking down a city street with police officers.
+1086 0.17948733092836106 A man in a yellow jacket is pulling a bird out of the water.
+1087 0.20999342313834277 A woman standing in a room holding up a mirror.
+1088 0.125 A person walking in the snow wearing snowpants and boots.
+1089 0.125 Two women sitting in chairs talking to each other at a presentation.
+1090 0.1111111111111111 A person holding a glass plate with a yellow flower on it.
+1091 0.1481412297684841 A man sitting on a couch with a pillow on it.
+1092 0.1428571423321215 A woman and a child in front of a red truck.
+1093 0.1111111111111111 A young man reading a book next to an old tv.
+1094 0.13635925256036252 A person laying on the floor with a pillow and a remote control.
+1095 0.19841304050552627 A group of people standing on a beach under a blue sky.
+1096 0.125 A man riding a motorcycle with a side car.
+1097 0.15217581885841194 A woman wearing a black hat and makeup on a tv screen.
+1098 0.11111111111111113 A woman is looking at her reflection in a mirror.
+1099 0.15384632156708752 A man wearing sunglasses sitting in a car.
+1100 0.1333331726918534 A man and a woman laughing in a crowd on a city street.
+1101 0.1111111111111111 A woman looking at a wedding dress in a window.
+1102 0.15384691553561008 A woman walking on a rock in the woods.
+1103 0.1644763417551206 A man riding in a boat on a river.
+1104 0.15000246793842276 A group of people in santa claus costumes marching in a parade.
+1105 0.11111111111111113 A group of men sitting around a table talking.
+1106 0.125 A person walking on a beach near the ocean.
+1107 0.14285714285714285 A dining room with tables and chairs in a restaurant.
+1108 0.14285646242950767 Two whales are swimming in the ocean.
+1109 0.1111111111111111 A group of skiers standing on top of a mountain.
+1110 0.1111111111111111 A woman standing in front of a camera in a hair salon.
+1111 0.1111111111111111 A man looking out of a window of a building.
+1112 0.125 A man driving a car in the dark at night.
+1113 0.16447634175512058 A man cleaning a glass display case on a table.
+1114 0.16279097439518708 A man sitting in a bus wearing a suit and tie.
+1115 0.11111111111111113 A person riding a snowboard down a snow covered slope.
+1116 0.125 A piece of paper on a wall with writing on it.
+1117 0.125 A person on a skateboard on a ramp.
+1118 0.14633598875820877 A group of cyclists in a crowd of people.
+1119 0.1785681291126607 A screenshot of a video editing program in premiere pro cc.
+1120 0.125 A screenshot of two men looking at each other.
+1121 0.1111111111111111 A white chair sitting on a sandy beach.
+1122 0.125 A man in a shirt and tie talking to another man.
+1123 0.15685057651662995 A woman with blood on her chest holding a bird.
+1124 0.153849711558959 A man is walking on a trampoline in a wrestling ring.
+1125 0.18918931415685347 A man standing in a dark room with a camera.
+1126 0.15217151410570523 A man and a young girl are standing in a store with a display of games.
+1127 0.15384971155895902 A blurred picture of a room with rows of beds.
+1128 0.1111111111111111 A group of girls sitting around a table looking at a laptop computer.
+1129 0.10000000000000003 A man and a woman sitting on a couch.
+1130 0.14814774047289253 The back of a food truck with a person cutting into the side of the vehicle.
+1131 0.14285714285714285 A person standing on a paddle board in the water.
+1132 0.14881016892513213 Two men playing in a room with a green carpet.
+1133 0.1562830888099624 A black and white photo of children in a crowd.
+1134 0.11764733424782806 A woman sitting on a bench with a stuffed animal.
+1135 0.14285714285714285 A group of people with their hands in the air.
+1136 0.1607188149560005 A man walks through a forest with trees and plants.
+1137 0.14285714285714285 A large ship in the middle of the ocean.
+1138 0.1505450835722827 A young boy holding a paper plate with a chocolate cake.
+1139 0.16071352023319613 A house with a swimming pool and palm trees.
+1140 0.1111111111111111 A man with sunglasses on his head by a swimming pool.
+1141 0.16666595162761597 The bride and groom kiss on the grass in a garden.
+1142 0.16666666666666624 A man is being held up by another man on a street.
+1143 0.125 Two men wrestling on a red mat in front of a crowd.
+1144 0.16161944049338112 A woman standing in front of a window looking at her cell phone.
+1145 0.125 A man and a woman walking down a red carpet.
+1146 0.14285775914639082 A man sitting on a subway train with other passengers.
+1147 0.14285676011659806 A group of people playing a game of football on a field.
+1148 0.18181484130410966 A group of volleyball players playing a game on a volleyball court.
+1149 0.1333349252360509 A performance on the stage of a theater with red lights.
+1150 0.125 A group of men working on a telescope in a building.
+1151 0.125 The bride walking down the aisle at her wedding.
+1152 0.150535620393548 A picture of a bowling alley with bowling balls and bowling pins.
+1153 0.11428540809327847 A dog is sitting on a boat in the water.
+1154 0.19047738376023335 A man holding a box in a room full ofuffed up beds.
+1155 0.15381651563624635 A little girl is looking down at the ground.
+1156 0.1 A view of the sand dunes in the desert.
+1157 0.1316890104714627 A person riding a bike down a trail in the woods.
+1158 0.125 A group of superheroes flying over a city.
+1159 0.14285714285714285 A group of alligators swimming in the water.
+1160 0.125 A group of women sitting around a table eating food.
+1161 0.14285714285714285 A dog playing in the water in a swimming pool.
+1162 0.18367401938793376 A bride and groom walking down the aisle in a church.
+1163 0.1794909225466451 A man and a woman standing in a kitchen looking at each other.
+1164 0.14285714285714285 A man riding a bike through a field of grass.
+1165 0.1648346849555786 A person is touching a screen in the dark.
+1166 0.14285646242950767 A silhouette of a man and a woman standing in front of each other.
+1167 0.14285714285714285 A man is washing his hands under a faucet.
+1168 0.13333285703398873 A woman playing a drum with a microphone in front of a drum kit.
+1169 0.125 A couple of white doors with graffiti on them.
+1170 0.125 A toy train is on a table with a book.
+1171 0.20000815281156856 A man is holding a skateboard in a skate park.
+1172 0.1111111111111111 People hold up a blue banner with a picture of a woman on it.
+1173 0.1481487284242017 A man standing in a crowd of people holding protest signs.
+1174 0.11111111111111112 A group of people standing together on a stage.
+1175 0.1 A man is working on the back of a garbage truck on a busy city street.
+1176 0.14939156832012146 A woman standing in front of a shelf of shoes.
+1177 0.16666778962176526 A man sitting on a rock on top of a mountain.
+1178 0.1555561546167762 A man in a boat pulling a diver into the water.
+1179 0.1 A man holding a skateboard next to some bikes.
+1180 0.1 A man working on a pipe in a factory.
+1181 0.16664418964734162 A man and a woman in a dark room.
+1182 0.13235325102880655 Two people in a car talking to each other in a movie.
+1183 0.14285714285714285 A man standing in a field holding a bottle of water.
+1184 0.125 A man riding a bike down a sidewalk.
+1185 0.11111111111111113 A uniform is hanging on a window.
+1186 0.13411340196973875 Two women sitting on a couch talking to each other.
+1187 0.18367259455222418 A woman with her hand on a pair of scissors.
+1188 0.13043501310677377 A picture of two men sitting next to each other in a gold frame.
+1189 0.16666666666666666 A group of people standing next to a rock.
+1190 0.125 A bride and groom holding up their wedding rings.
+1191 0.11111111111111113 A man and a woman sitting on a porch with flowers.
+1192 0.1512604569860866 A woman is looking out the window of a car.
+1193 0.14285714285714285 A bird is flying in front of a mirror.
+1194 0.24000852680696744 Three white gas tanks lined up next to each other.
+1195 0.1555556411443406 A man sitting at a table with a bowl of food and a glass of water.
+1196 0.14285714285714285 A group of people standing in a room.
+1197 0.14285714285714285 An old woman dancing in a crowd of people.
+1198 0.187972962005852 A man is welding a wooden wall with a power drill.
+1199 0.14285714285714285 A man standing in front of a building with his hands up.
+1200 0.21212538767651296 A man riding a bike down a street with a group of people.
+1201 0.19047846462292983 A man walking in front of an ancient building.
+1202 0.16071440625558037 A group of girls in blue dresses holding flowers.
+1203 0.18918994110779472 A man holding a fish in the water.
+1204 0.14285714285714285 A group of people walking in the rain in a field.
+1205 0.20689196316963177 A group of people walking through a garden with a dog.
+1206 0.17006876448586522 A man wearing a bow tie and a white shirt.
+1207 0.16326486870468349 A blurry image of a person walking into a room.
+1208 0.14285714285714285 A man holding a piece of wood on the beach.
+1209 0.14285714285714285 A young boy is looking at the rocks.
+1210 0.1714259572254081 A group of people standing around a camera in a room.
+1211 0.19480223936843807 A black and white photo of a person with a hat.
+1212 0.14893631557034034 A man sitting in a car looking out the window.
+1213 0.1714259572254081 A man holding a skateboard in the back of a car.
+1214 0.14285714285714285 A man riding a horse down a hill.
+1215 0.19047846462292983 A person cutting a teddy bear with a pair of scissors.
+1216 0.14285714285714285 A man holding a piece of paper in a room with a guitar.
+1217 0.18367259455222415 A person is petting a dog in a box.
+1218 0.14285714285714285 A group of people sitting in a classroom listening to a presentation in front of them.
+1219 0.1714285714285713 A close up of a microwave in a glass case.
+1220 0.21008365588869288 A man riding a bike down a city street.
+1221 0.14285714285714285 A man wearing a cowboy hat and holding a guitar.
+1222 0.21008365588869288 A person is standing in the dark with a light.
+1223 0.1555556411443406 A group of men and women walking down a street.
+1224 0.16666666666666669 A person walking down a street at night.
+1225 0.14285714285714285 A man working on a wooden shed in a garden.
+1226 0.22580632612781754 A man and woman holding hands at a table with a glass of wine.
+1227 0.14285714285714285 A group of people standing in a crowd at an outdoor ceremony.
+1228 0.14285714285714285 A man singing into a microphone on a stage.
+1229 0.14285714285714285 A woman is sitting on the rocks in a river.
+1230 0.17006876448586522 A man standing in a parking lot next to a car.
+1231 0.17142795904369976 A woman with long hair and a white candle.
+1232 0.17949092254664503 A woman wearing a costume and holding a snowboard.
+1233 0.16666666666666666 A bottle of bourbon and a box of bourbon on a table.
+1234 0.14285714285714285 A bridge over a river in the jungle.
+1235 0.24509759853680838 A group of people standing in a room.
+1236 0.16807503539877833 A pizza sitting on top of a stove.
+1237 0.16279097439518708 Two people walking up a snow covered slope on skis.
+1238 0.14285714285714285 A group of people standing in a field with a red tent.
+1239 0.14285714285714285 A man with glasses and a stuffed animal.
+1240 0.20000140060970023 A man riding a bike down a sandy beach.
+1241 0.18181535059671838 An old man sitting at a table with a laptop.
+1242 0.1627905363606352 A man cutting another mans hair at a barber shop.
+1243 0.17006785714285716 A group of people sitting on the roof of a building.
+1244 0.14285714285714285 A group of people walking down a busy city street.
+1245 0.16071440625558034 A group of musicians playing instruments in a band.
+1246 0.14285714285714285 A group of men playing instruments on a stage.
+1247 0.14285714285714285 A group of people standing in a living room.
+1248 0.19045363137699797 Two women standing in the street holding a stuffed animal.
+1249 0.18367647858256506 A man and a girl standing in front of a door.
+1250 0.16807503539877822 A man standing in a field of red plants.
+1251 0.19047846462292983 A red tractor is driving in the dirt.
+1252 0.1555556411443406 A man is wrestled to the ground by a cow in a crowd of people.
+1253 0.1794909225466451 A group of people sitting on a couch with a gun.
+1254 0.14285714285714285 A large group of fish swimming in the water.
+1255 0.14285714285714285 A man in a kitchen preparing food in a pot.
+1256 0.21212441522103695 A person swimming in the water under a wave.
+1257 0.14285714285714285 A man playing a guitar on a stage.
+1258 0.22221743638321687 A group of people standing in a messy room.
+1259 0.14285714285714285 A group of people holding protest signs.
+1260 0.19480101173715422 A dark room with the lights off and nothing in it.
+1261 0.20000434369393283 A girl sitting at a table with a blue coffee mug.
+1262 0.15555564114434062 A man running with a soccer ball in a dark room.
+1263 0.14285714285714285 A tractor is parked on the beach.
+1264 0.1794909225466451 A bride talking on the phone in front of a red door.
+1265 0.18367259455222418 The sky is pitch black and it is night.
+1266 0.187972962005852 A man is standing on a bridge over a river.
+1267 0.16071440625558034 A man is water skiing on the lake.
+1268 0.1904691331379385 A tree in front of a snow covered river.
+1269 0.14285714285714285 Two men standing in front of a camera in a room.
+1270 0.21427951495328776 A man with a guitar talking to another man in a park.
+1271 0.14893631557034037 A man laying on the floor on a wooden deck.
+1272 0.16279097439518705 A video camera hanging from a helicopter in the woods.
+1273 0.14285714285714285 A large bird flying through a cloudy blue sky.
+1274 0.14285714285714285 A group of women dancing in a room.
+1275 0.14285714285714285 Two people riding horses down a road in the snow.
+1276 0.22580632612781754 A man and a woman looking at a piece of paper.
+1277 0.18918924953104585 A group of people are standing on a ramp with guns.
+1278 0.16807503539877824 A man standing next to a car next to an orange cone.
+1279 0.1607144062555803 A man holding a camera in front of a table with equipment.
+1280 0.18367647858256506 A group of people holding a sign at a protest.
+1281 0.16666666666666669 A group of people standing around and talking to each other.
+1282 0.14285714285714285 A man standing in front of a table with boxes on it.
+1283 0.1794883696347762 A man with his face pressed up against a wall.
+1284 0.17857780726827133 A sign in a glass display case with a blue hat on top.
+1285 0.14285714285714285 A man swimming underwater in the ocean.
+1286 0.14285714285714285 A person is standing on the floor with their bare feet.
+1287 0.16279097439518705 A woman performing a yoga pose on a table with a woman standing next to her.
+1288 0.17142925935449463 A dragonfly perched on the stem of a plant.
+1289 0.19354454590016282 A group of people standing in a crowd in a park.
+1290 0.14285714285714285 A blue sky with a white cloud.
+1291 0.14285714285714285 A group of women dancing in a dance studio.
+1292 0.14285714285714285 Image may contain  person  playing a musical instrument and on stage.
+1293 0.18367401938793376 A girl sitting on a tree branch reading a book.
+1294 0.14285714285714285 A baby wearing glasses sitting in a high chair.
+1295 0.16666666666666666 Two young girls walking down a street in an alley.
+1296 0.16807503539877827 A man helping a boy cut a cake with a spoon.
+1297 0.1785681291126606 A picture of clouds in the sky with the fallalis 2017 logo.
+1298 0.14285714285714285 A man in a suit standing in front of a orchestra.
+1299 0.1648350413482266 A group of people with their hands up in a crowd.
+1300 0.1794873483520275 A group of people walking along a river with a barge.
+1301 0.16666666666666669 A group of people holding boxes and skis on the snow.
+1302 0.19354624310442375 A man standing on a hill with a crowd of people.
+1303 0.17948836963477616 A man standing in a kitchen with a tray of food.
+1304 0.14285714285714285 A man is standing in the dark in a museum.
+1305 0.14893631557034034 A man holding a child holding an orange balloon at a park.
+1306 0.14285714285714285 A man standing at a podium in front of a table.
+1307 0.18918994110779466 A skate park with a person on a ramp.
+1308 0.179490922546645 A young man standing in front of a wall with paintings on it.
+1309 0.16666666666666666 A man and a woman holding hands.
+1310 0.14285714285714285 A woman and a child are in a movie.
+1311 0.16666666666666669 Two men sitting at a desk talking to each other.
+1312 0.1512604569860866 Two people playing in the snow at a park.
+1313 0.18367647858256506 A man sitting in a classroom with a computer screen.
+1314 0.14285714285714285 A woman standing outside of a house holding a pot of food.
+1315 0.14285714285714285 A group of boats docked in the water near buildings.
+1316 0.14285714285714285 A woman standing at a podium in front of a microphone.
+1317 0.17948759706101952 A group of people standing around a man in a swimming pool.
+1318 0.17143418487619458 The back of a car parked in a parking lot.
+1319 0.14285714285714285 A poster of a young man on the wall of a building.
+1320 0.14285714285714285 A man standing on top of a white box.
+1321 0.14285714285714285 The bride and her bridesmaids pose for a picture on a golf course.
+1322 0.16807503539877827 A group of people standing around a fire in the street.
+1323 0.2142780539581768 A man standing in a room holding a cigarette.
+1324 0.18796989339604153 A view of a river from the side of a boat.
+1325 0.14285714285714285 A bus parked on the side of a street with people getting on it.
+1326 0.18797296200585198 An aerial view of the ferris wheel at night.
+1327 0.1935535725133572 A man with a bald head sitting in a room.
+1328 0.18367395685524635 A group of people sitting at a table with a plate of food.
+1329 0.15555564114434062 A couple of men sleeping in the back of a helicopter.
+1330 0.14893631557034043 A shirtless man with cans of beer in front of a screen.
+1331 0.20001426031993008 A man standing next to another man in a boxing ring.
+1332 0.14285714285714285 Two people are riding skateboards down a narrow road.
+1333 0.20689196316963165 Two ducks are swimming in a lake.
+1334 0.18115925520833331 A man sitting in a chair holding a protest sign.
+1335 0.14285714285714285 A man and a woman standing in front of a fountain.
+1336 0.17142836488952579 The tunnel is seen from the inside of a car.
+1337 0.17949092254664503 A man sitting on a couch with a little girl on his face.
+1338 0.14285714285714285 A young boy climbing a rock climbing wall.
+1339 0.1978031771172129 A woman with long black hair standing in a room.
+1340 0.21212219548232614 A group of people playing with a soccer ball in the water.
+1341 0.17073202019162587 A painting on the wall of a building with a bunch of papers on it.
+1342 0.14285714285714285 A man standing in a kitchen looking at a piece of paper.
+1343 0.14285714285714285 A man wearing a hat and a scarf on the beach.
+1344 0.14285714285714285 A man wearing a cowboy hat standing on the beach.
+1345 0.21212194161831677 A group of men in white t shirts are standing around and one of them is.
+1346 0.14285714285714285 A group of men and women dancing in a room.
+1347 0.17142795904369976 A woman holding a bag of fruit in a field.
+1348 0.16666666666666669 A woman with long hair standing in front of a mirror.
+1349 0.17142813546316962 A man riding a bike down a dirt road.
+1350 0.14285714285714285 A man sitting on a couch talking on a cell phone.
+1351 0.18367395685524635 A blurry photo of a fountain in a lobby.
+1352 0.14285714285714285 A woman in a pink dress walking in a train station.
+1353 0.14285714285714285 A man sitting on a table next to another man working on a machine.
+1354 0.14285714285714285 A group of people riding horses down a trail.
+1355 0.14285714285714285 A man and a woman sitting in front of guitars and a table.
+1356 0.14285714285714285 A man sitting on a bench in a park.
+1357 0.14285714285714285 A man sitting in a pile of garbage in a field of trash.
+1358 0.17142595722540804 A man is playing a guitar on a stage.
+1359 0.19045363137699783 A person climbing up a cliff with trees.
+1360 0.1552793616071429 Three men sitting in a room with their arms crossed.
+1361 0.16071440625558034 A group of children pose for a picture on a beach.
+1362 0.14285714285714285 A crowd of people watching wrestlers on a stage in a auditorium.
+1363 0.14285714285714285 A group of children are gathered around a table with candles.
+1364 0.14285714285714285 A man sitting on a bench in the grass.
+1365 0.16666666666666666 A view of a city street from a window.
+1366 0.14285714285714285 A soldier standing next to a woman in a hospital bed.
+1367 0.21212538767651307 A man climbing a rock wall on a mountain.
+1368 0.22857012067522314 A man standing on the side of a road.
+1369 0.187972962005852 A woman is playing golf on a golf course.
+1370 0.14285714285714285 A group of clowns sitting around a table.
+1371 0.14285714285714285 A group of people dancing at a wedding.
+1372 0.14285714285714285 A photo of a page of a book with handwriting in it.
+1373 0.14285714285714285 Two men in wheelchairs watching a man in a wheelchair.
+1374 0.19047846462292983 A man standing in front of a curtain talking to another man.
+1375 0.14285714285714285 A group of people standing on rocks near a body of water.
+1376 0.14285714285714285 A man wearing a helmet is talking into a microphone.
+1377 0.14285714285714285 A group of people standing around a table.
+1378 0.14285714285714285 A person is standing in the dark with a green light.
+1379 0.14285714285714285 A close up of a gas pump with two clocks on it.
+1380 0.18181484130410971 A woman walking a dog on the beach.
+1381 0.14285714285714285 A group of children in wheelchairs are holding balloons that spell out the word 100.
+1382 0.14285714285714285 A man playing a trumpet in front of a brick wall.
+1383 0.18750014063151038 A man in a costume is holding a teddy bear.
+1384 0.19780568629405315 A person sitting at a table with a glass of orange juice.
+1385 0.17073202019162587 A kite flying in a cloudy sky.
+1386 0.14285714285714285 A man riding a skateboard down a road on a snowboard.
+1387 0.181822613000773 A man riding a skateboard in the middle of a lake.
+1388 0.17949092254664503 The side of a building with a street light.
+1389 0.1512604569860866 A hand holding a pen in front of a pile of books.
+1390 0.14285714285714285 A crowd of people walking down a city street.
+1391 0.14285714285714285 A caterpillar sitting on a yellow flower.
+1392 0.14285714285714285 A view of a lake from a train.
+1393 0.16807503539877822 A person is holding a cell phone up to a door.
+1394 0.21212544945875186 A video of three men playing guitar and singing.
+1395 0.14285714285714285 An aerial view of a train traveling around a house.
+1396 0.2069042313624397 A bird in the middle of a body of water.
+1397 0.14285714285714285 A group of people sitting in a bus.
+1398 0.14285714285714285 Image may contain  person  on stage  playing a musical instrument and concert.
+1399 0.16326486870468349 A man standing in the snow wearing skis.
+1400 0.14285714285714285 A person riding a bike in the tall grass.
+1401 0.17142836488952579 A group of people holding awards in front of a sign.
+1402 0.16666666666666666 A woman with glasses holding a baby in the dark.
+1403 0.17006876448586525 A man and a woman dancing in front of a temple with their hands in the.
+1404 0.2142785980797545 A woman in a white dress with feathers and a tree.
+1405 0.20000085830441897 A chef in a restaurant preparing food on a stove.
+1406 0.19354465941751461 A door with a door handle and a person walking through it.
+1407 0.20000168834229082 A woman playing a violin on a crowded street.
+1408 0.17073322093728166 A man is getting his hair cut by two people.
+1409 0.1648346934336904 A man in a yellow shirt holding a metal rod with a red ball on it.
+1410 0.16279097439518705 A group of people with balloons on a stage at a concert.
+1411 0.18919450523899664 A group of people standing next to a car with a sign on it.
+1412 0.1555556411443406 A woman driving a car with a dog in the front seat.
+1413 0.1904784646229298 A woman in black shorts holding a flag on her leg.
+1414 0.19354465941751464 A man in a yellow shirt throwing a condom to another man on a street.
+1415 0.17006876448586522 A man standing in a market next to a row of cages.
+1416 0.1891899411077947 A group of people climbing up a mountain next to a waterfall.
+1417 0.14893631557034034 A man in a yellow shirt and a green hat cutting a red towel.
+1418 0.17391989333716634 A person is cutting up some fruit in a box.
+1419 0.18919054716472827 A person on a stage with a camera and purple light.
+1420 0.14285714285714285 A group of people flying a kite in the mountains.
+1421 0.14285714285714285 A man sitting at a table with a motorcycle helmet.
+1422 0.23376818255503767 The inside of a lime green car at a car show.
+1423 0.14285714285714285 A man sitting on a log next to a bike.
+1424 0.17242537370116837 A boat in the water on a lake.
+1425 0.1714285714285713 A man standing on top of a mountain looking at his cell phone.
+1426 0.17856812911266057 A view of a building in the middle of a city.
+1427 0.14285714285714285 A man is standing on a train.
+1428 0.18367401938793376 A person dipping a tomato into a glass bowl of ketchup.
+1429 0.1555556411443406 A man wearing a black vest and a hat talking to another man.
+1430 0.17006876448586522 A police officer standing in the middle of a crowd of people.
+1431 0.19047846462292983 A cave in a rock with water in it.
+1432 0.1714292593544946 A group of dancers on a stage in a performance.
+1433 0.14285714285714285 Two people walking in the snow in a forest.
+1434 0.14285714285714285 That is what it looks like.
+1435 0.18181552010224356 A dog standing next to a tree in the grass.
+1436 0.14285714285714285 A man and a woman performing a dance on a stage.
+1437 0.187972962005852 The arm of a person holding a guitar on a stage.
+1438 0.16666666666666666 A large rock in the water in a river.
+1439 0.14285714285714285 A group of people in the water near a river.
+1440 0.14285714285714285 A man standing in a living room playing a video game.
+1441 0.17142872755291091 A group of people standing in a room with a person holding a microphone.
+1442 0.14285714285714285 A group of women sitting around a table.
+1443 0.21008598265703016 A reflection of a person riding a skateboard in a tunnel.
+1444 0.16666666666666666 A woman in a wedding dress cutting a wedding cake.
+1445 0.14285714285714285 A group of people standing on a beach near a body of water.
+1446 0.14285714285714285 A man flying a parachute over a field.
+1447 0.14285714285714285 A man and a woman talking at a networking event.
+1448 0.21428806015898721 A man sitting in a mirror in front of a camera.
+1449 0.14285714285714285 A hand pointing at a drawing of a group of people.
+1450 0.18367647858256506 A group of men playing basketball on a basketball court.
+1451 0.16326486870468349 A man climbing a rock climbing wall in a dark room.
+1452 0.16666666666666666 A group of people standing on a sidewalk next to a fence.
+1453 0.16326486870468349 A group of people constructing a metal frame around a tree.
+1454 0.14285714285714285 A young girl is playing a piano.
+1455 0.16071440625558034 A person holding two books in their hands.
+1456 0.17142595722540813 A woman dressed up as a superhero talking to two people.
+1457 0.16326486870468349 A little boy playing a piano.
+1458 0.19047846462292983 A person walking on a log with a person on the ground.
+1459 0.14893631557034034 A group of men are doing pushups on the dance floor at a party.
+1460 0.16071440625558034 A man on a boat filled with water bottles.
+1461 0.14285714285714285 A woman in a black dress playing a black piano.
+1462 0.14285714285714285 A man sitting on a couch holding a pink pillow.
+1463 0.1935436340602701 A man with an elephant on his shoulders.
+1464 0.14285714285714285 Three men in a bathroom washing their hands in a sink.
+1465 0.14285714285714285 A group of people standing around a small child in the grass.
+1466 0.17073322093728166 A person walking down a street at night.
+1467 0.1904691331379385 A crowd of people walking and riding bikes on a busy city street.
+1468 0.14285714285714285 A man laying on a couch with his feet up on a cell phone.
+1469 0.14285714285714285 A large field of brown grass with a hill in the background.
+1470 0.14285714285714285 A woman laying on the floor with neon lights.
+1471 0.21428819244241964 A man holding a child in a room.
+1472 0.21212538767651304 A screenshot of a person standing on a basketball court in a park.
+1473 0.16666666666666669 A group of people sitting on a boat in the ocean.
+1474 0.14285714285714285 A man wearing glasses and a brown shirt is holding his hand up to his chin.
+1475 0.17142925935449466 A woman wearing an orange life jacket in the water.
+1476 0.14285714285714285 A group of people in a market with signs on the wall.
+1477 0.18367647858256506 A man standing in a living room next to a couch.
+1478 0.181822613000773 A little boy walking on a balcony next to a fence.
+1479 0.16279097439518705 A person riding a bike in a skate park.
+1480 0.23808747765625887 A jeep driving down a dirt road in a tree.
+1481 0.1960844593257433 A bride and groom blowing bubbles on their wedding day.
+1482 0.16279097439518708 A man holding a surfboard over his head on the beach.
+1483 0.14285714285714285 A black and white photo of a person in a store.
+1484 0.17006876448586522 A group of women standing around in a room.
+1485 0.2142846936442615 Two men are standing next to a banana.
+1486 0.14285714285714285 A man smoking a cigarette in front of a book shelf.
+1487 0.21739130451441335 A person standing in a restaurant with water on the floor.
+1488 0.15555564114434062 A group of turtles standing next to each other on the ground.
+1489 0.19479979932256303 A man riding a wave in a pool of water.
+1490 0.14285714285714285 A white dog is standing next to a tree.
+1491 0.19354624310442392 A young boy playing in a room full of boxes.
+1492 0.17142595722540804 A woman sitting at a desk using a laptop computer.
+1493 0.17142925935449468 A man holding a guitar and a girl holding a red balloon.
+1494 0.14285714285714285 A group of children are standing in a room.
+1495 0.21427867503311787 A person is running down a city street.
+1496 0.16326486870468349 A woman talking on her cell phone in a store.
+1497 0.17949092254664503 A man and a little girl standing by a river with a fish.
+1498 0.178577621407839 A woman eating a piece of cake on a table.
+1499 0.16216878104809634 A black and white portrait of a woman wearing a dress.
+1500 0.14285714285714285 A group of men standing in front of a door.
+1501 0.16071440625558034 A group of people standing around motorcycles at a rally.
+1502 0.21930178900682742 A close up of a sewing machine with a blue cloth in a metal bowl.
+1503 0.18367647858256506 A man holding a large red banner on a city street.
+1504 0.1607144062555803 A campsite with a tent and a bike in the woods.
+1505 0.14285714285714285 Two men playing a game of monopoly on the floor.
+1506 0.1999982685845874 A bride holding a bouquet of flowers in a black dress.
+1507 0.18367259455222418 A boy in a blue jacket is fixing a bike tire.
+1508 0.14285714285714285 A woman is sitting on a table with a box.
+1509 0.14285714285714285 A group of men standing next to a white car.
+1510 0.14285714285714285 A young boy riding a bike down a dirt road.
+1511 0.14285714285714285 A man is cleaning a window in a building.
+1512 0.16279097439518705 A group of people on a stage wearing costumes and playing drums.
+1513 0.17142925935449466 A woman standing in a room with her arms outstretched.
+1514 0.18367259455222418 A stream in a wooded area with a person walking.
+1515 0.14285714285714285 A man is walking down an escalator in a clear plastic suit.
+1516 0.16279097439518705 A man standing in a pool of water on the beach.
+1517 0.14285714285714285 A group of young men and women standing in front of a projected wall with people.
+1518 0.14285714285714285 A blurry picture of a hallway with blue pillars.
+1519 0.18750014063151033 A person holding up a picture of two people wearing hats.
+1520 0.18797023243460276 A man is standing in a crosswalk on a street.
+1521 0.14285714285714285 A man playing a guitar in a music studio.
+1522 0.14285714285714285 A man wearing headphones in front of a microphone.
+1523 0.18797296200585203 A man and a woman on a boat overlooking the water.
+1524 0.17006876448586522 A man climbing up a tree in the woods.
+1525 0.1627905363606352 A woman smiling while looking at her cell phone.
+1526 0.17142925935449466 A group of young men standing in front of a glass wall.
+1527 0.2337708945090562 A woman laying in the sand on the beach.
+1528 0.1785681291126606 A person stirring a bowl of food with a spoon.
+1529 0.20000434369393288 A bunch of sacks filled with beans and other produce at a market.
+1530 0.1552793616071429 A view of the beach and the ocean from a cliff.
+1531 0.21212538767651296 A man in a suit and bow tie talking to another man.
+1532 0.18181524608246674 A man standing in front of a group of people.
+1533 0.17949092254664506 A person walking on a train track on a bridge.
+1534 0.14285714285714285 A group of people sitting around a table in a classroom.
+1535 0.16071440625558034 The bride and her maid of honor pose for a picture at a wedding.
+1536 0.1714292593544947 A pot of boiling water in a kitchen sink.
+1537 0.1512604569860866 A man riding a skateboard down a street.
+1538 0.15555564114434062 A person cutting paper with scissors on a table.
+1539 0.15555564114434056 An older woman standing in front of a man in a suit.
+1540 0.14285714285714285 A man singing into a microphone while another man looks on.
+1541 0.17949092254664506 A man in a hat playing a guitar with instruments on the floor.
+1542 0.1714292593544947 A small black dog standing in front of a door.
+1543 0.17949092254664503 A group of people on a stage with bride and groom.
+1544 0.14285714285714285 A large group of people running in a race.
+1545 0.18367647858256503 A woman getting out of a car in the rain.
+1546 0.18367401938793376 Three women swimming in a swimming pool.
+1547 0.14285714285714285 A man standing on a skateboard in a skate park.
+1548 0.14285714285714285 Two children playing basketball on a basketball court.
+1549 0.14285714285714285 A group of people sitting around a table with a man holding a picture.
+1550 0.14285714285714285 A woman walking across a bridge in the forest.
+1551 0.14285714285714285 An older man wearing headphones sitting in a car.
+1552 0.14285714285714285 A group of people dressed up as clowns on a stage.
+1553 0.1978032394567746 A dog walking on a rock in the water.
+1554 0.21976913219452704 A man standing in a kitchen reaching for a cabinet.
+1555 0.21212544945875186 A person is walking up a escalator.
+1556 0.19047846462292983 A man and a woman standing in the water.
+1557 0.14285714285714285 A group of people riding bikes down a street at night.
+1558 0.1904784646229298 A man and a child standing next to a school bus.
+1559 0.14285714285714285 A man standing in front of a mirror with his arm in the air.
+1560 0.16279097439518708 A hand holding a glass of red wine.
+1561 0.14893631557034043 A baby laying on a blanket next to two tennis rackets.
+1562 0.1552793616071429 A reflection of a person in a window of a plane.
+1563 0.21212538767651307 A person flying through the air over a field.
+1564 0.14285714285714285 A man sitting at a table in a room.
+1565 0.14285714285714285 Two people looking at a bird in the sky.
+1566 0.1714283648895258 A white dress is standing in the water.
+1567 0.19480101173715436 A man holding a glass ball on a stage.
+1568 0.14285714285714285 A crowd of people standing in front of a building.
+1569 0.14285714285714285 A basketball game is being played in the gym of a school.
+1570 0.14285714285714285 Two people walking a dog in a field.
+1571 0.1935462431044238 A crowd of people standing around with their hands up.
+1572 0.14285714285714285 Image may contain  person  on stage and playing a drum kit.
+1573 0.19354624310442392 A person pulling a sled with a child on it in the snow.
+1574 0.20689333798846282 A woman with long black hair sitting on the floor.
+1575 0.19354731779912637 A person standing in a room with a blue chair.
+1576 0.1552793616071429 A young woman standing in front of the capitol building.
+1577 0.14285714285714285 A man standing in front of a mirror talking to a woman.
+1578 0.14285714285714285 A man standing next to a pillar of smoke.
+1579 0.16071440625558034 A man climbing a rock wall on a cliff.
+1580 0.21428819244241967 A group of people standing around in a room.
+1581 0.14285714285714285 A group of people walking down a street with a flag.
+1582 0.14285714285714285 A screenshot of a computer screen with a webpage on it.
+1583 0.22222869530213202 A group of people are sitting in a mall near a door.
+1584 0.2142881924424196 A group of people standing on the steps of a building.
+1585 0.1512604569860866 A person riding a bike on a tennis court.
+1586 0.14285714285714285 A black dog is standing on a rug in a crowd of people.
+1587 0.17949092254664503 A car driving down a dirt road next to a hill.
+1588 0.14285714285714285 A group of people skiing down a snow covered slope.
+1589 0.2121211848731639 A woman standing in front of a podium holding a protest sign.
+1590 0.14285714285714285 A young man playing a cello in front of a graffiti wall.
+1591 0.1794909225466451 A bride and groom getting off a horse drawn carriage.
+1592 0.14285714285714285 A crowd of people standing in a room.
+1593 0.18367647858256506 A man in a white shirt and tie smoking a cigarette in front of a mirror.
+1594 0.18367647858256506 A group of people standing around a tent.
+1595 0.14285714285714285 A little girl with red hair walking down a crowd of people.
+1596 0.14285714285714285 A man wearing a helmet with a red bull sticker on it.
+1597 0.14285714285714285 The bride and groom holding hands at their wedding.
+1598 0.21930178900682742 A turtle swimming in the ocean with a diver.
+1599 0.17073189877454692 A man on his knees on the floor on a basketball court.
+1600 0.1512604569860866 A person walking down stairs in a narrow alley.
+1601 0.17949092254664503 A crowd of people on a skateboard ramp at a skate park.
+1602 0.14285714285714285 A group of people standing on top of a roof with ropes.
+1603 0.18919018886232836 Two girls walking down the street in a crowd.
+1604 0.14285714285714285 A man standing in a market with fruits and vegetables.
+1605 0.17241502471671327 A no parking sign in front of a red bus.
+1606 0.21737072758766218 A man holding a bunch of watermelons in a market.
+1607 0.17949092254664503 A man cutting a piece of wood on a table.
+1608 0.14285714285714285 A man and four children walking down a street.
+1609 0.15555564114434053 A group of people sitting in a room with their hands on their faces.
+1610 0.18797296200585206 A group of people sitting around a table in a room.
+1611 0.14285714285714285 A girl with a ponytail and a man in a field.
+1612 0.17142595722540804 A woman wearing a red sweater with blonde hair and a bookshelf.
+1613 0.14285714285714285 A man sitting at a desk working on a piece of paper.
+1614 0.14285714285714285 A view of a field with buildings on the side of a road.
+1615 0.14285714285714285 A house with the front door open.
+1616 0.18367259455222418 A group of umbrellas on a sidewalk next to trees.
+1617 0.1978032394567746 A woman in a red coat and a man in a hat walking down a street.
+1618 0.14285714285714285 A group of people standing around a woman in a red dress.
+1619 0.19355502555503834 Two boats on the beach with people walking.
+1620 0.2069013933304733 A girl is cutting a piece of paper with a woman and a little girl.
+1621 0.14285714285714285 A woman is dancing on a stage with neon lights.
+1622 0.14285714285714285 A man and a woman sitting at a table talking.
+1623 0.21428819244241964 A bird is swimming in a body of water.
+1624 0.14285714285714285 A clear black sky.
+1625 0.17142925935449474 A group of young men are sitting on the ground.
+1626 0.14285714285714285 A building with a sign on top of it.
+1627 0.17949092254664503 A group of people sitting at a restaurant near the water.
+1628 0.18367647858256506 A man standing in front of a window.
+1629 0.19481153390092198 The reflection of a building in a glass window.
+1630 0.16666666666666666 A clear black sky.
+1631 0.19047846462292983 A man looking into a mirror in a room.
+1632 0.16326486870468349 A man is standing in the snow with horses.
+1633 0.14285714285714285 Two children are playing in the snow.
+1634 0.14285714285714285 An encounter is a divine message movie review.
+1635 0.16279097439518708 A group of naked men standing in a shower.
+1636 0.21428922501299252 A man is laying down in a boat in the water.
+1637 0.14285714285714285 A woman in a blue dress standing next to a bride in a white dress.
+1638 0.20689138423504275 A blue truck parked on the side of a street.
+1639 0.14285714285714285 A man walking into the ocean with a surfboard.
+1640 0.21008598265703016 A person holding a piece of rope in their hands.
+1641 0.17073322093728172 A group of women sitting at a table talking to each other.
+1642 0.14285714285714285 A blurry image of a person in a crowd.
+1643 0.14285714285714285 A woman is looking through a glass window.
+1644 0.16484060591174957 A man and a woman sitting at a table eating food.
+1645 0.14285714285714285 A man taking a picture of himself in a bathroom.
+1646 0.18181535059671838 A woman standing in front of a projection screen holding a microphone.
+1647 0.1948010117371543 A man in an orange shirt and a hat on a train.
+1648 0.14285714285714285 A group of people in a field with graffiti on a wall.
+1649 0.18919054716472816 A group of people standing around a bar with a person pouring alcohol into a bottle.
+1650 0.1648346849555786 Two birds are flying over a bird in the desert.
+1651 0.18367647858256506 A man walking down a street next to a wall.
+1652 0.14285714285714285 A man riding a bike in front of a crowd.
+1653 0.14285714285714285 A screenshot of a snow covered slope with the words yellow fall.
+1654 0.14285714285714285 A group of people standing next to a fence.
+1655 0.20000168834229087 A man wearing a hat and sunglasses talking on a cell phone.
+1656 0.17142992887959554 A person holding a child in a yellow raincoat on the beach.
+1657 0.1794874432758692 A woman sitting in a car in the dark.
+1658 0.14285714285714285 Two people climbing on a rock in the woods.
+1659 0.14285714285714285 A hand using a computer keyboard with a monitor screen.
+1660 0.17948836963477613 A black and white photo of a rope in the water.
+1661 0.14893631557034034 A group of people standing around a table at a party.
+1662 0.23809721644825976 A man standing on the side of a hill.
+1663 0.14285714285714285 A person wearing a helmet and holding a camera.
+1664 0.19354530099367415 A soccer player kicking a soccer ball on a field.
+1665 0.14285714285714285 A red car parked on the street in front of a house.
+1666 0.16666666666666666 A clear black sky.
+1667 0.20000080258024383 A screenshot of a garden with a tree and flowers in it.
+1668 0.1552793616071429 A man riding a bike down a city street.
+1669 0.14285714285714285 A group of people playing in a skate park.
+1670 0.14285714285714285 A statue of a man and a woman standing next to a tree.
+1671 0.18796989339604153 An old airplane with a face painted on the side of it.
+1672 0.14285714285714285 A group of people laying on surfboards in the ocean.
+1673 0.14285714285714285 A tea cup and a plate on a wooden table.
+1674 0.14285714285714285 A man in a wet suit holding a paddle in the water.
+1675 0.17142857142857126 A man holding a sign in front of a building.
+1676 0.21428922501299263 A man in a suit and tie holding on to a pole.
+1677 0.17948788039457741 A person eating food on a plate on a table.
+1678 0.16279097439518705 A man wearing a santa claus suit and a white wig.
+1679 0.14285714285714285 A woman sitting on a bench in front of a building.
+1680 0.14285714285714285 A screenshot of a man and a woman talking to each other.
+1681 0.1794909225466451 A group of people standing in the dark.
+1682 0.16279081007218854 A man in a chefs hat looking into a kitchen window.
+1683 0.14285714285714285 Three girls sitting at a table laughing and drinking coffee.
+1684 0.18797023243460276 A person is holding a black tire.
+1685 0.2142780539581768 A woman is holding her head in a hospital bed.
+1686 0.14285714285714285 A couple of people sitting at a table.
+1687 0.14285714285714285 Two men sitting at a table eating food and talking.
+1688 0.17142795904369976 A group of cows standing in a dark cave.
+1689 0.14285714285714285 A group of people sitting in chairs in a dark room.
+1690 0.17073322093728166 A man is sitting at a table holding a chain.
+1691 0.16216480924961935 Two police officers standing on a busy city street.
+1692 0.19047846462292983 A woman is singing into a microphone at a podium.
+1693 0.14285714285714285 An image of a floor with a piece of wood on it.
+1694 0.16326486870468349 A person is in the air on skis in the snow.
+1695 0.18367259455222418 A woman with her hand on her shoulder in a film.
+1696 0.18367647858256506 A person holding a cell phone in their hand.
+1697 0.14285714285714285 A person climbing a rock in the woods.
+1698 0.14285714285714285 A group of people walking on a street at night.
+1699 0.14285714285714285 A bunch of umbrellas hanging on a wall.
+1700 0.14285714285714285 A person holding a remote control in their hand.
+1701 0.21212118487316384 A red balloon flying in a blue sky with clouds.
+1702 0.16666666666666666 A face in the rocks of a cliff.
+1703 0.16071440625558034 A man wearing a green hoodie laying on a bed.
+1704 0.16326486870468349 A man sitting on a bench playing an old piano.
+1705 0.14285714285714285 A man holding a glove in his hand.
+1706 0.14285714285714285 A man and a woman standing in front of a brick wall.
+1707 0.14285714285714285 A man and a woman standing at a podium with signs.
+1708 0.14285714285714285 A dining room with a table and a window.
+1709 0.14285714285714285 A man wearing a red shirt and a baseball cap smiling.
+1710 0.20000080258024383 A bride and groom standing in the grass outside a castle.
+1711 0.14285714285714285 A man standing on a tennis court holding a racket.
+1712 0.18919450523899667 A man riding a skateboard on a ramp at a skate park.
+1713 0.17142795904369976 A group of hippos swimming in the water.
+1714 0.14285714285714285 A model is taking a picture of herself in front of a mirror.
+1715 0.2173851651860569 A close up of a person holding a water bottle.
+1716 0.18919054716472825 A group of young girls standing in a classroom with their hands on their hair.
+1717 0.14285714285714285 A screenshot of a person standing in a dark room.
+1718 0.16071440625558034 A group of people standing next to two cars.
+1719 0.1512604569860866 A group of people riding bikes down a road.
+1720 0.2121244882430646 A woman standing in front of a flower shop.
+1721 0.1904784646229298 A man is walking down the street with a shopping cart.
+1722 0.1904691331379385 A man in an airplane flying in the sky.
+1723 0.14285714285714285 A red and white plane flying over a runway.
+1724 0.14285714285714285 A man holding a plate of food in a kitchen.
+1725 0.20000080258024386 A group of people holding hands with a knife.
+1726 0.19780568629405312 A bride and groom sitting on a swing in a garden.
+1727 0.14285714285714285 A man in a pond with plants in the water.
+1728 0.1512604569860866 A woman holding a paddle on a boat with a dog.
+1729 0.14285714285714285 A young boy sitting on a drum set.
+1730 0.15037612323605615 A group of people standing in a living room.
+1731 0.187972962005852 A bride and groom looking at each other at their wedding.
+1732 0.20000027970213552 A woman in a white dress standing next to an ice cream truck.
+1733 0.16216878104809634 A group of people riding a wave in the ocean.
+1734 0.15555564114434062 A man standing on the back of a boat.
+1735 0.20689149628828812 A man standing in a room with a lamp.
+1736 0.14285714285714285 Two men playing guitars in a dark room.
+1737 0.1648350413482266 A woman standing next to a desk in a room.
+1738 0.183676478582565 A dragon statue on a staircase with a crowd of people.
+1739 0.1600302121875748 A bride and groom standing at a desk.
+1740 0.16666666666666666 A bouquet of purple and white flowers.
+1741 0.1794874432758692 Two older women sitting on a bench in front of a pond.
+1742 0.1794880725008769 Two women in white shirts walking down a street.
+1743 0.1904784646229298 An image of a train on the tracks.
+1744 0.18367259455222418 A bunch of ducks are standing together in a cage.
+1745 0.15555564114434062 A woman is standing on a deck overlooking a river.
+1746 0.18367259455222418 A person riding a skateboard around a pool of water.
+1747 0.14285714285714285 A bride and groom hugging in a field.
+1748 0.19047846462292986 A woman in a red dress and a man with a sword.
+1749 0.14285714285714285 A woman wearing black shoes standing on a wooden floor.
+1750 0.16326486870468349 A man and a woman are standing in the grass.
+1751 0.19047846462292986 A person standing next to a car at night.
+1752 0.14285714285714285 A large dump truck is being loaded into a truck.
+1753 0.14285714285714285 A woman playing a guitar on a stage at night.
+1754 0.1552793616071429 A white sticker on the front of a car in the dark.
+1755 0.14285714285714285 A man in a wet suit on a surfboard in the water.
+1756 0.18367647858256506 A baby wrapped in a pink towel with a blanket.
+1757 0.17949092254664503 A group of people standing on the side of a rock cliff.
+1758 0.21930178900682745 A little boy walking down the aisle at a wedding.
+1759 0.14285714285714285 A small house in the middle of a forest.
+1760 0.1999982685845874 A man and two children standing in front of a house.
+1761 0.19355560386572637 Two women looking in a mirror with their eyes closed.
+1762 0.14285714285714285 A man sitting at a desk in front of a laptop computer.
+1763 0.14285714285714285 A group of women holding glasses of champagne.
+1764 0.14285714285714285 A black and white photo of two women standing around a table.
+1765 0.14285714285714285 A woman playing a flute in a dark room.
+1766 0.14285714285714285 People sitting at a table working on laptops.
+1767 0.14285714285714285 Two women sitting in bed reading a book.
+1768 0.14285714285714285 A family sitting on a couch in a living room.
+1769 0.14285714285714285 Two young boys sitting at a table in a train.
+1770 0.14285714285714285 A market with fruits and vegetables on the street.
+1771 0.181822613000773 A man and a woman standing in the water under a waterfall.
+1772 0.14285714285714285 A woman is looking at her hair in a mirror.
+1773 0.18181792152938356 A man using a laptop computer with smoke coming out of it.
+1774 0.21428806015898727 A woman sitting next to a woman standing.
+1775 0.14285714285714285 A man kneeling down in the dirt.
+1776 0.179488072500877 An image of an elephant sitting on a stage in front of a crowd.
+1777 0.20689315888557244 A person writing chinese calligraphy on a table.
+1778 0.17948836963477618 A man standing in a basketball court holding a game controller.
+1779 0.14893631557034034 A group of people are working in a garden.
+1780 0.14285714285714285 A man sitting on a rock fishing in the ocean.
+1781 0.1904691331379385 A person holding a bowl with a dog.
+1782 0.14285714285714285 A couple of people standing in a field.
+1783 0.14285714285714285 A man wearing an orange vest with writing on it.
+1784 0.14285714285714285 A person driving a tractor through a field of trees.
+1785 0.14285714285714285 Two men sitting at a table drinking coffee and one is holding a candle.
+1786 0.16326486870468349 A person standing on a balcony holding on to a railing.
+1787 0.14285714285714285 A group of people sitting on a stage with a camera.
+1788 0.1794879026656402 A man in a yellow shirt playing on a pink inflatable attraction.
+1789 0.14285714285714285 A view of a beach with a fence and a wave on it.
+1790 0.22221398866092823 A young man is standing next to a car.
+1791 0.16484060591174957 A boat riding a large wave in the ocean.
+1792 0.14285714285714285 Two men sitting at a table talking on sky watch tv.
+1793 0.14285714285714285 A woman is wrestled to the floor by a group of paramedics.
+1794 0.17949092254664503 A man is holding up a glass of water.
+1795 0.2571450613923813 A car is parked in a parking lot.
+1796 0.14285714285714285 A group of people on a basketball court at night.
+1797 0.14285714285714285 A woman standing in a closet next to a wardrobe full of clothes.
+1798 0.19355560386572637 A man and a woman walking down a road next to a car.
+1799 0.14285714285714285 A group of people standing on a beach.
+1800 0.17006876448586522 Two women wearing hoodies and sunglasses sitting on a bench.
+1801 0.15555564114434062 A small plane sitting on top of an airport runway.
+1802 0.16666666666666669 A couple of people standing next to a window.
+1803 0.14285714285714285 A woman holding a little girl in a hospital bed.
+1804 0.14285714285714285 A man looking at a laptop computer with a person on the screen.
+1805 0.14285714285714285 A bartender is walking around a bar in a restaurant.
+1806 0.21428600506275725 A person holding a vase of flowers in front of a mirror.
+1807 0.17006876448586522 A man is working on a mosaic on the beach.
+1808 0.194799799322563 A person holding a kite in a river.
+1809 0.14285714285714285 A man sitting on rocks next to a river.
+1810 0.16279054916284635 A group of people standing in a room holding wine glasses.
+1811 0.18367647858256506 Two birds are flying over a field of grass.
+1812 0.14285714285714285 A man standing next to a car with a trailer on top of it.
+1813 0.16666666666666666 Two chefs sitting at a table in front of a microphone.
+1814 0.14893631557034034 A group of people sitting at tables in a room.
+1815 0.14285714285714285 Image may contain  person  playing a musical instrument and on stage.
+1816 0.14285714285714285 A man in a white shirt and glasses sitting at a laptop.
+1817 0.14285714285714285 A man riding a bike down a dirt road in the woods.
+1818 0.14285714285714285 A group of people watching a man on a golf course.
+1819 0.16666666666666669 A man playing a guitar in a band.
+1820 0.14285714285714285 A group of people posing for a picture at a wedding.
+1821 0.18367647858256503 Those days of rupture and wonder and a flower against a fence.
+1822 0.190475373288704 A woman standing on a bridge over a river.
+1823 0.14285714285714285 A paraglider flying over a mountain with a lake in the background.
+1824 0.1794909225466451 A group of people watching a man doing martial arts in a gym.
+1825 0.14285714285714285 A group of people going up an escalator.
+1826 0.14285714285714285 Most of the plunge is pinkish whitemost of the flock of flamingos.
+1827 0.14285714285714285 A man and a woman standing in a purple room.
+1828 0.1891899411077947 A person wearing a gas mask and holding a smoke inhaler.
+1829 0.1707332209372817 A man climbing a wall on a patio with a table and chairs.
+1830 0.1978031771172129 A man and a woman standing next to a sign that says summer welcome.
+1831 0.16666666666666666 A white rose in a field of white flowers.
+1832 0.14893631557034043 A man in a white shirt holding a blue sign.
+1833 0.14285714285714285 A group of people standing on a cliff over a body of water.
+1834 0.199979695334652 A door to a cell phone tower with a sign on it.
+1835 0.16326486870468349 A reflection of two people fishing in a river.
+1836 0.2100836558886929 A woman in a pink dress standing against a white background.
+1837 0.2121253876765131 A man standing in front of a book shelf.
+1838 0.17006876448586522 A man climbing up the side of a rocky cliff.
+1839 0.18115925520833337 A person is standing in the snow with a yellow bucket.
+1840 0.14285714285714285 A man playing a cello on a stage with other musicians.
+1841 0.14285714285714285 A crowd of people walking around a zoo enclosure.
+1842 0.2000002797021355 An old man wearing a white shirt is praying.
+1843 0.17949092254664503 A group of people walking down a busy street with bikes.
+1844 0.20689196316963177 A person wearing blue gloves cutting a piece of glass with scissors.
+1845 0.17073322093728166 A group of people camping under a rock in the snow.
+1846 0.16326486870468349 A man is standing in front of a piano.
+1847 0.16279097439518708 A woman in a hijab looking at the camera.
+1848 0.16216878104809637 A man and woman standing in front of a wedding cake.
+1849 0.1512604569860866 A man and a woman are standing in an empty parking lot.
+1850 0.19049163193493304 A man standing in a body of water.
+1851 0.15555564114434053 A woman in a white dress holding a bird.
+1852 0.18367259455222415 A tree that has fallen on the ground.
+1853 0.14285714285714285 A snow covered mountain with a truck and people on it.
+1854 0.14285714285714285 A poster for the land jim jones concert is shown in a dark room.
+1855 0.18367259455222418 A painting of two people with bikes.
+1856 0.19355560386572637 A woman standing in a room next to a window.
+1857 0.18367259455222418 A woman is cutting her hair in a salon.
+1858 0.14285714285714285 Two ballet dancers in white shoes on the floor.
+1859 0.14285714285714285 A young girl with blue hair smiling and holding her hand up to her face.
+1860 0.17142795904369976 A little boy is looking in a yellow shopping basket.
+1861 0.14285714285714285 A person spraying a car windshield with a spray gun.
+1862 0.1607144062555803 A young boy sitting on a wall next to a wall.
+1863 0.14285714285714285 A video of a woman with her face on a tv screen.
+1864 0.16326486870468349 A person riding a skateboard in a pool.
+1865 0.14285714285714285 A man standing in the water near a pond.
+1866 0.14285714285714285 A group of people standing under a blue arch at the beach.
+1867 0.14285714285714285 A man riding a wave on a surfboard at the beach.
+1868 0.19047537328870398 A car parked in front of a group of people.
+1869 0.18367259455222418 Two men hugging each other in front of a building.
+1870 0.14893631557034034 A man in a red shirt walking on a fence.
+1871 0.24138149894619712 A black and white photo of the ocean with a sunset.
+1872 0.17241438644535026 A man riding a skateboard down the side of a tennis court.
+1873 0.14285714285714285 A woman sitting on a surfboard on the beach.
+1874 0.14285714285714285 A dead tree in the snow with a blue sky.
+1875 0.20689397316868915 A man standing next to a dog laying on a red floor.
+1876 0.187972962005852 A bride and groom standing in a hallway with a black door.
+1877 0.14285714285714285 A man flying through the air on a zip line.
+1878 0.14285714285714285 A woman holding a child while talking on a cell phone.
+1879 0.14285714285714285 A man sitting at a table with a white table top on a stage with people.
+1880 0.21930178900682742 A man standing in front of a house with a car.
+1881 0.18797296200585206 A person swimming in the water with a shark.
+1882 0.14285714285714285 A brown and white cow standing next to a tree.
+1883 0.1999844832809262 A man stepping out of a car with a woman in it.
+1884 0.14285714285714285 A group of people walking through a forest.
+1885 0.14285714285714285 A man is sitting next to a fire.
+1886 0.1612916364422537 Two women are sitting on the ground in a cave.
+1887 0.23808614679856716 A man standing at a counter in a kitchen.
+1888 0.21976913219452698 A person is holding a blade in front of a machine.
+1889 0.14285714285714285 A group of cars racing on a dirt road.
+1890 0.1714292593544947 An orange bird is standing in the water.
+1891 0.14285714285714285 A group of people wearing hard hats standing in front of a building.
+1892 0.1555556411443406 A group of people standing in a dark room with the text saying to dont.
+1893 0.18367361519367692 A piece of paper on a wall with instructions on it.
+1894 0.14285714285714285 A group of people sitting in wheelchairs in a room.
+1895 0.14285714285714285 A crowd of people walking down a city street.
+1896 0.22221627108941172 A man looking out of a train window at pigeons.
+1897 0.25926184938821645 A group of men standing on a street.
+1898 0.14285714285714285 A person is holding a pair of scissors.
+1899 0.14285714285714285 A man and a child sitting at a table by the water.
+1900 0.19998855262302942 A group of monkeys are playing on a bathroom sink.
+1901 0.14285714285714285 A man sitting next to another man on a bench.
+1902 0.1512604569860866 A group of people standing in front of a mirror.
+1903 0.14285714285714285 A body of water with ice and snow on it.
+1904 0.21212544945875186 A bride and groom standing at the altar at a wedding ceremony.
+1905 0.16666666666666666 A woman in an apron standing in a crowd of people.
+1906 0.14285714285714285 A group of people sitting at tables in a restaurant.
+1907 0.14893631557034034 A person is sculpting a sculpture with a knife.
+1908 0.16071440625558034 A man and a woman standing in the snow.
+1909 0.18367259455222418 A man in a wrestling ring with a woman in the air.
+1910 0.18367259455222418 A woman standing in a kitchen with a knife.
+1911 0.17142925935449463 A group of people standing in front of a window.
+1912 0.17073322093728166 A bridge with a blue sky in the background.
+1913 0.17949092254664503 A man flying through the air with skis and a parachute.
+1914 0.17073322093728166 A group of people working on tires in a garage.
+1915 0.14285714285714285 A group of people sitting at a table with papers.
+1916 0.20689397316868924 A shirt with a picture of politician on it.
+1917 0.14285714285714285 A man wearing a hat is sitting at a table in a restaurant.
+1918 0.14285714285714285 A group of monkeys sitting on top of a temple.
+1919 0.277780085856303 A man sitting on the side of the street with bags.
+1920 0.19354624310442373 A man riding a wave on a surfboard in the water.
+1921 0.19354512723898437 A person using a pair of nails on a glass window.
+1922 0.17073322093728166 A man wearing a tank top standing in a crowd of people.
+1923 0.187972962005852 A man is standing in front of a projection screen.
+1924 0.14285714285714285 A man standing in front of a woman sitting at a desk in an office.
+1925 0.14285714285714285 A group of people sitting around a table with a box.
+1926 0.1891902996692962 A woman smiling with her mouth open.
+1927 0.14285714285714285 A book and a brochure on a table.
+1928 0.1707318038617734 A group of people dressed in costumes are standing outside a building.
+1929 0.14285714285714285 A group of young boys in a martial arts class.
+1930 0.14285714285714285 A bird sitting on a wooden bird feeder.
+1931 0.1935494201702501 A shadow of a person standing in a dark room.
+1932 0.1724253737011684 A man in a red shirt is looking at a paper.
+1933 0.1794909225466451 A group of students sitting in a classroom listening to a lecture.
+1934 0.18796989339604153 A man sitting on top of a flag.
+1935 0.16326486870468349 A person is lighting a candle on a record player.
+1936 0.19354909933569484 A man standing on a subway train looking out the window.
+1937 0.17949092254664506 A group of people standing on bikes on a street.
+1938 0.16279097439518708 A man standing in front of a desk with papers on it.
+1939 0.17073322093728166 A fish swimming in the water with the word idee.
+1940 0.14285714285714285 The bride and groom exchange vows during their wedding ceremony.
+1941 0.18797296200585206 A man is working with a yellow hose on the street.
+1942 0.14285714285714285 A man standing in a room with balloons and a cake.
+1943 0.14285714285714285 A man walking a cow down a path with two cows.
+1944 0.14285714285714285 An empty stadium with green grass in front of it.
+1945 0.17073206315985978 The car is parked in the garage of the house.
+1946 0.18367647858256506 Two men in a restaurant preparing food on plates.
+1947 0.17241438644535023 A reflection of a man in an ice sculpture in front of a building.
+1948 0.14285714285714285 A group of children holding stuffed animals in a classroom.
+1949 0.16666666666666666 A person is preparing food on a plate.
+1950 0.21212118487316384 A man walking down the street in front of a building.
+1951 0.19780568629405315 A man standing in a living room next to a lamp.
+1952 0.14893631557034037 A hand holding a tablet computer in front of a brick wall.
+1953 0.14285714285714285 A brown dog is standing in the sand.
+1954 0.14285714285714285 A group of people dancing on a dancefloor at a wedding.
+1955 0.14285714285714285 A man on a stage with flames.
+1956 0.16484060591174957 A woman working at a sewing machine in a workshop.
+1957 0.14285714285714285 A baseball player is standing on a field.
+1958 0.14285714285714285 A waterfall on the side of a rocky mountain.
+1959 0.14285714285714285 A man sitting next to a camera in the woods.
+1960 0.14285714285714285 Three men walking next to a car in a parking lot.
+1961 0.14285714285714285 People sitting around a fire in the dark.
+1962 0.1851947343077489 A person riding a bike in the woods.
+1963 0.14285714285714285 A man laying on top of a bed.
+1964 0.14285714285714285 A bride and groom holding hands at a wedding ceremony.
+1965 0.15999506363626256 A man in the dark with the words a total disruption on his shoulders.
+1966 0.16326486870468349 The footage shows a person standing in front of an open refrigerator.
+1967 0.14285714285714285 A black bird standing on the side of a city street.
+1968 0.18367259455222415 An aerial view of a river with a train on it.
+1969 0.1948123735637914 A man in a dark room looking up at the camera.
+1970 0.16807503539877833 A man riding a wave on a kayak in the water.
+1971 0.17143418487619466 A man is kneeling down in the grass planting a garden.
+1972 0.18919018886232836 A girl in a white dress standing in a hallway.
+1973 0.14285714285714285 A man riding a skateboard down a ramp in a skate park.
+1974 0.16071440625558034 A bunch of plates of food on a table.
+1975 0.24509759853680835 A house with snow in front of it and a car in the driveway.
+1976 0.14285714285714285 A man sitting under a tree in a field.
+1977 0.19480101173715422 A group of people sitting on the ground with their shoes on.
+1978 0.17073202019162584 A woman standing in a kitchen holding a cup of coffee.
+1979 0.14893631557034034 A street sign on the side of a building.
+1980 0.14285714285714285 A screenshot of a man sitting at a table in a room.
+1981 0.16807503539877827 A view of a field of palm trees.
+1982 0.14285714285714285 A man riding a skateboard in a parking lot.
+1983 0.14285714285714285 People crossing a busy city street in front of a building.
+1984 0.1648406059117496 A person jumping in the water in the ocean.
+1985 0.17948836963477607 A boy sitting on the ground with a baseball bat.
+1986 0.1607144062555803 A group of apples on a table in a tent.
+1987 0.14285714285714285 A person holding a cell phone in a green light.
+1988 0.14285714285714285 A woman standing in the front yard of a house.
+1989 0.14285714285714285 A group of white plastic bottles in front of a fence.
+1990 0.16666666666666666 A black background with a group of people on the bottom.
+1991 0.14285714285714285 A red train is going through a tunnel.
+1992 0.1621648092496194 A man climbing on a rock in a cave.
+1993 0.17142795904369976 A dog standing on a field next to a person with a dog.
+1994 0.14285714285714285 A young child standing on a colorful floor.
+1995 0.14285714285714285 A woman pushing a man in a wheelchair under a bridge.
+1996 0.14285714285714285 A group of people sitting on a picnic blanket.
+1997 0.18516704347196325 A man standing on a field in the grass.
+1998 0.14285714285714285 A view of the inside of an airplane with seats.
+1999 0.14285714285714285 A woman driving a car with a child in the drivers seat.
+2000 0.14285714285714285 A man in a suit talking to another man at a convention.
+2001 0.18367259455222418 A puppet holding a guitar is standing next to a person.
+2002 0.14285714285714285 Two women standing next to each other looking at each other.
+2003 0.14285714285714285 Two men sitting on a couch talking to each other.
+2004 0.18518544741979445 A woman holding two children in front of a house.
+2005 0.16807503539877827 A young girl with red headphones sitting on the floor.
+2006 0.2142892250129926 A man sitting in the back of a rally car with a flag on the windshield.
+2007 0.17949092254664503 A woman holding a dog at a wedding.
+2008 0.15555564114434056 A close up of a woman holding a green thread in her hands.
+2009 0.14285714285714285 A person holding a baby hand in their hand.
+2010 0.14285714285714285 A boat sitting on the beach in the sand.
+2011 0.22222260767272983 A person is cleaning a green bottle with a bottle brush.
+2012 0.14285714285714285 A woman sitting on a stone bench.
+2013 0.14285714285714285 A woman sitting in a row of chairs in the dark.
+2014 0.14285714285714285 A bride and groom walking in a park.
+2015 0.18367647858256506 A scientist in a laboratory with a bottle and a snake.
+2016 0.14285714285714285 A woman walking down a dirt road with crops on her head.
+2017 0.22221721548441925 A person with a hair cut on their knee.
+2018 0.18367259455222418 A pair of sunglasses sitting on top of a table.
+2019 0.14285714285714285 A sailboat on the water at sunset.
+2020 0.16279097439518708 A woman standing in front of a projector screen in a room.
+2021 0.14285714285714285 A man sitting on a table in a dark room.
+2022 0.14285714285714285 A man in a wet suit walking down a street holding a surfboard.
+2023 0.14285714285714285 A woman standing in a room next to a filing cabinet.
+2024 0.18115925520833337 A mannequin in a dress and a top hat on a stage.
+2025 0.14285714285714285 A woman with green eyes wearing a scarf and hood.
+2026 0.17073182859744856 A man standing on a stage holding a microphone.
+2027 0.187972962005852 A bird standing in the middle of a body of water.
+2028 0.20689333798846282 A man is hiking on a trail in the mountains.
+2029 0.1948010117371543 A person riding a skateboard at a skate park.
+2030 0.19354454590016273 A group of people in a large room with white walls and ceiling.
+2031 0.14285714285714285 A man sitting on a couch holding a video game controller.
+2032 0.16071440625558034 A group of people standing around a table with red balloons.
+2033 0.14285714285714285 A man standing in front of a projected image of a woman.
+2034 0.14285714285714285 Two young girls holding a picture of a palm tree.
+2035 0.1512604569860866 A ski lift in the middle of a snow covered forest.
+2036 0.14285714285714285 Image may contain  person  on stage  playing a musical instrument and concert.
+2037 0.155555579166277 A person in a kitchen kneading dough in a bowl.
+2038 0.2068913842350427 A man on a cliff on the side of a road.
+2039 0.19481237356379127 A group of people standing around a metal bench.
+2040 0.18797296200585206 A man is petting a horse in an arena.
+2041 0.14285714285714285 A man laying down with his head on a table.
+2042 0.1904691331379385 A black and white picture of a slot machine.
+2043 0.1607144062555804 A man standing on a pier looking at the ocean.
+2044 0.17073322093728166 A person playing baseball in a park with trees.
+2045 0.2337708945090562 A white bird is standing on a fish.
+2046 0.16484060591174957 A woman in a swimming pool with a fish.
+2047 0.16279097439518705 A man riding a duck in the water.
+2048 0.18367259455222418 A man in a green jacket is holding a cell phone.
+2049 0.17948836963477616 A man standing in a room with a bunch of bikes on the wall.
+2050 0.14285714285714285 A table with a cake and flowers on it.
+2051 0.14285714285714285 A group of people sitting around a table at a halloween party.
+2052 0.14285714285714285 A group of people walking on a trail in the woods.
+2053 0.19354624310442375 A person cutting up a piece of meat on a plate.
+2054 0.14285714285714285 A person using a cell phone while reading a book.
+2055 0.1552793616071429 A man wearing a suit and tie and looking at the camera.
+2056 0.17948788039457733 How to fold a pair of scissors in a plastic bag.
+2057 0.14285714285714285 Two people are walking down a dirt road.
+2058 0.14285714285714285 A woman standing in front of a map of the continents of the world.
+2059 0.21741443227325444 A monkey is climbing on a fence.
+2060 0.20000168834229087 A man walking down the street with a cane.
+2061 0.16071440625558037 A man interacts with two children in the snow.
+2062 0.187972962005852 A woman holding up a piece of paper.
+2063 0.18367259455222418 A man is walking up a stainless steel escalator.
+2064 0.18918994110779472 A man doing a trick on a skateboard on a ramp.
+2065 0.14285714285714285 A woman laying on a couch with two people standing over her.
+2066 0.19354985113911632 An image of a person sleeping on the ground at night.
+2067 0.14285714285714285 A person wearing a hat and glasses.
+2068 0.14285714285714285 A man with blood on his shirt holding a bloody scarf.
+2069 0.14285714285714285 A man laying in a bed with his eyes closed.
+2070 0.1836736151936769 A person skiing down a snow covered slope.
+2071 0.21212538767651312 Two men in suits standing in a living room with a bouquet of flowers.
+2072 0.17949092254664503 A reflection of a woman standing in a door.
+2073 0.16279097439518708 A man and a woman smiling at each other.
+2074 0.14285714285714285 A man standing on a stage in front of a projection screen.
+2075 0.14285714285714285 Two people riding bikes down a dirt road.
+2076 0.14285714285714285 A police officer standing next to a man holding a box.
+2077 0.14285714285714285 A woman laying on a bed in a hospital room.
+2078 0.21212297607493302 A man holding a cup of coffee in the dark.
+2079 0.14285714285714285 A man standing in the dark in front of a window.
+2080 0.14285714285714285 A man standing in the grass next to a sprinkler.
+2081 0.22221526188023932 A man typing on a cell phone in front of a clothing store.
+2082 0.1707332209372817 A pink bathroom with a white curtain and lights on the window.
+2083 0.1555556411443406 A man standing next to a mailbox in a field.
+2084 0.17949092254664503 A man on a skateboard in front of a crowd.
+2085 0.14285714285714285 A group of people riding bikes down a mountain.
+2086 0.14285714285714285 A man and a woman sitting on a couch in a room.
+2087 0.14285714285714285 A man and a woman sitting on a couch.
+2088 0.14285714285714285 A view of the ocean from under the water.
+2089 0.14285714285714285 A woman wearing a red scarf holding a guitar.
+2090 0.14285714285714285 A man sitting in a red movie theater seats.
+2091 0.18367259455222415 A red flower with green foliage in the background.
+2092 0.17073322093728166 A church on the top of a snow covered hill.
+2093 0.14285714285714285 A small fish hiding in a coral reef.
+2094 0.193546243104424 A man and a woman standing next to a car.
+2095 0.14285714285714285 Two people walking in front of a car in the snow.
+2096 0.14285714285714285 A monkey sitting on top of a wall with a bottle.
+2097 0.14285714285714285 Image may contain  person  on stage and playing a musical instrument.
+2098 0.14285714285714285 A crowd of people at a festival at night.
+2099 0.14285714285714285 A person sitting at a table with pieces of jigsaw puzzles.
+2100 0.2000007268073326 A man riding a bike in the middle of a street.
+2101 0.1512604569860866 A woman handing a glass of wine to a little girl.
+2102 0.21428819244241964 Two women sitting on a couch in a room.
+2103 0.28000448378904497 A man standing on a dock fishing in the ocean.
+2104 0.14285714285714285 An image of a parking lot with cars and a blue building.
+2105 0.21738947879677134 A man with a mohawk on his head and a woman with her hair.
+2106 0.14285714285714285 A group of football players are standing on a field.
+2107 0.14285714285714285 A person riding a dirt bike on a dirt track.
+2108 0.14285714285714285 A person walking in front of a building with columns.
+2109 0.14285714285714285 A woman holding a baseball bat and a ball on a field.
+2110 0.1851670434719633 A woman singing into a microphone while sitting at a piano.
+2111 0.17948744327586919 A black and white photo of a sign on the street.
+2112 0.14285714285714285 A table with bowls of food on it.
+2113 0.1904691331379385 A video of a man on a tv screen.
+2114 0.18367259455222415 A girl with blood on her face eating a piece of cake.
+2115 0.16279097439518708 A group of people walking on a roller coaster.
+2116 0.18918885101904412 A television screen with a man and a woman on it.
+2117 0.18919054716472825 Three men in santa hats playing musicians in a store.
+2118 0.1904784646229298 A woman with long hair standing in a kitchen.
+2119 0.20000110358569226 A person pouring coffee into a bowl on a table.
+2120 0.16071440625558034 A woman smoking a cigarette in the dark.
+2121 0.14285714285714285 A group of people standing on a stage with a piano.
+2122 0.14285714285714285 A bride singing into a microphone while another bride looks on.
+2123 0.16807503539877824 A man cooking food on a grill at night.
+2124 0.14285714285714285 A view of a canal filled with boats and buildings.
+2125 0.14285714285714285 An older man sitting on a couch in a living room.
+2126 0.21741443227325435 A woman holding a guitar in a room.
+2127 0.14285714285714285 A girl looking out of a window near a lake.
+2128 0.1555556411443406 A group of people walking in a dark room with a man wearing a mask.
+2129 0.1512604569860866 A man walking down a street holding a megaphone.
+2130 0.1978031771172129 A man with long hair is standing in the grass.
+2131 0.14893631557034034 A man giving a speech at a podium in front of a table.
+2132 0.17006876448586522 A train with steam coming out of a window.
+2133 0.14285714285714285 A group of people jumping in the air with a sunset in the background.
+2134 0.17142857142857132 A woman holding a glass and smiling at a man.
+2135 0.15527936160714284 A man in a costume standing in the mud with a hammock.
+2136 0.19354480967778165 A person spreading frosting on a cake with a knife.
+2137 0.20690332829343816 A little girl standing on a basketball court in a house made of bamboo.
+2138 0.187972962005852 A man laying a mattress on a bed in a room.
+2139 0.14285714285714285 Two men in suits talking to each other in a clothing store.
+2140 0.14285714285714285 A man with skis and a helmet is going up a mountain.
+2141 0.17857394760400086 A dog on a leash in the grass at night.
+2142 0.14285714285714285 Two giraffes standing on the side of a road with cars.
+2143 0.187972962005852 A bird is standing in the middle of a field.
+2144 0.14285714285714285 A person standing in the dark with their hands outstretched.
+2145 0.16279053636063517 A man in a car with a group of people in the back.
+2146 0.17142987991159633 A man in a black jacket is hugging another person.
+2147 0.14285714285714285 This is a very big cake on a table.
+2148 0.21428806015898716 A bolt in the middle of a wooden table.
+2149 0.14285714285714285 A bedroom with a blue bed and a vanity with a mirror.
+2150 0.16071440625558037 A man doing a trick on a skateboard at a skate park.
+2151 0.17142833570143923 A man wearing a mask and gloves holding ski poles on a ski slope.
+2152 0.14285714285714285 A woman laying in a bed with a blanket.
+2153 0.16666666666666666 The background is yellow in color.
+2154 0.187972962005852 A large green plant with white flowers on it.
+2155 0.14285714285714285 A reflection of two people standing in front of a building.
+2156 0.187972962005852 A man and a woman walking in the fog.
+2157 0.14893631557034034 A man and a woman standing in a field with a basket.
+2158 0.16216480924961937 A man with a camera in front of his face.
+2159 0.14285714285714285 Two penguins standing on a rock next to a cave.
+2160 0.14285714285714285 A woman riding a skateboard through orange cones in a city.
+2161 0.14285714285714285 A group of people walking down a city street with dogs.
+2162 0.18181524608246677 A man hanging from a tree in the woods.
+2163 0.14285714285714285 People walking down a city street at night.
+2164 0.17142795904369976 A man with a beard standing in a store.
+2165 0.2258072107620442 A man sitting on a chair in a room with a man walking.
+2166 0.20000434369393283 A woman standing in a living room with her hand up to her face.
+2167 0.14285714285714285 A person is putting toppings on a pizza on a counter.
+2168 0.14285714285714285 Two young boys wearing boxing gloves in a room.
+2169 0.14285714285714285 A cell phone sitting on top of a wooden table.
+2170 0.14285714285714285 A black and white photo of a bride and groom at a wedding.
+2171 0.14285714285714285 A cluster of lights in the night sky.
+2172 0.14285714285714285 A woman standing in a kitchen with heritled her little tv.
+2173 0.1714341848761946 A man with a puppet on his head talking to another man.
+2174 0.14285714285714285 A woman carrying a suitcase down a hallway.
+2175 0.21740902345164353 A man is holding a bird on top of another man.
+2176 0.187972962005852 A person riding a snowboard down a snow covered tree.
+2177 0.1555556411443406 A group of people sitting around a table with a white sheet on it.
+2178 0.15555564114434053 A group of women in graduation gowns standing outside of a building.
+2179 0.1794909225466451 A group of people sitting around a table with art on it.
+2180 0.14285714285714285 Two girls standing next to a car with their belongings.
+2181 0.14285714285714285 A group of people marching in a parade in front of a building.
+2182 0.16326486870468349 A man working on a piece of glass on a table.
+2183 0.14285714285714285 A group of people playing soccer on a field.
+2184 0.14285714285714285 A man playing a guitar by a lake.
+2185 0.18918994110779472 A group of people running on a tennis court.
+2186 0.14285714285714285 An old shutter door on the side of a building.
+2187 0.14285714285714285 A group of people sitting on the beach with their dogs.
+2188 0.14285714285714285 A crowd of people walking on a beach at sunset.
+2189 0.19780317711721293 A young man wearing headphones standing in front of a camera.
+2190 0.18516704347196328 A man with a backpack walking across a street.
+2191 0.14285714285714285 A man standing in a dark room holding a cell phone.
+2192 0.16071440625558034 A man doing a trick in the air on a skateboard.
+2193 0.14285714285714285 A woman with her eyes closed and her hands on her face.
+2194 0.1552793616071429 An old man holding a bow and arrow in a field.
+2195 0.14285714285714285 A car driving on the tarmac of an airport runway.
+2196 0.14285714285714285 A blurry photo of a wall with blue graffiti on it.
+2197 0.19480101173715433 A group of people sitting on a bench in a park.
+2198 0.14285714285714285 A group of girls playing with hula hoops in a park.
+2199 0.19479979932256297 A woman is looking at a chocolate tree.
+2200 0.16279054916284633 A group of basketball players playing on a basketball court.
+2201 0.19999826858458747 A classroom with chairs and a large monitor on the wall.
+2202 0.181822613000773 A man hanging off of a parachute in the sky.
+2203 0.15555564114434056 A man with no shirt standing in a dirt field.
+2204 0.17949092254664506 A man and a boy talking to each other.
+2205 0.16279097439518708 A group of people standing around a person on a bike.
+2206 0.15555564114434053 Two police officers on horses in a crowd of people.
+2207 0.18367647858256506 A man is holding a dog in his arms.
+2208 0.14285714285714285 A brown dog with its tongue sticking out.
+2209 0.14285714285714285 A man holding a donut on a city street.
+2210 0.14285714285714285 A man wearing sunglasses and an orange headband.
+2211 0.14285714285714285 A man riding a snowboard down a snow covered slope.
+2212 0.22221627108941172 A person is holding a drum in the woods.
+2213 0.14285714285714285 A man riding a scooter in a park with people sitting on benches.
+2214 0.21428806015898716 A man standing behind a camera on a helicopter.
+2215 0.14285714285714285 A woman putting up a poster on a wall.
+2216 0.14285714285714285 A man looking at the door of a house.
+2217 0.17142836488952573 A woman holding a bouquet of flowers on a street.
+2218 0.14285714285714285 A man in a red jacket holding a fish in a lake.
+2219 0.16071440625558034 A close up of a blue and white vase.
+2220 0.15555564114434056 The dome of the pantheon in rome with a hole in the middle.
+2221 0.14285714285714285 A bride and groom kiss on their wedding day.
+2222 0.1512604569860866 A pile of jeans hanging on a clothes line in front of a house.
+2223 0.14285714285714285 Three men sitting at a table in a meeting room.
+2224 0.21427951495328762 A group of people standing next to a pile of rubble.
+2225 0.14285714285714285 A person skiing down a snow covered slope under a ski lift.
+2226 0.2399934809222427 A person touching a tree with green leaves.
+2227 0.16666666666666666 The background is green and black.
+2228 0.15555564114434056 A man is holding a camera on a tripod in a park.
+2229 0.20000168834229076 A large cloud of smoke coming from a truck on a race track.
+2230 0.1607144062555803 A plate of food on a red and white table.
+2231 0.14285714285714285 A clear black sky.
+2232 0.14285714285714285 A man and a woman walking on a pier.
+2233 0.14285714285714285 Three ducks standing on the grass near a body of water.
+2234 0.14285714285714285 A man and a woman sitting on a couch talking.
+2235 0.16279097439518705 A woman is preparing food in a kitchen.
+2236 0.14285714285714285 A man riding a bike in a parking lot.
+2237 0.14285714285714285 Two tigers standing next to each other in a cage.
+2238 0.23809721644825965 A pot of soup on a stove with a spoon.
+2239 0.16483469343369045 A man sitting at a table with a blue wall.
+2240 0.17006876448586522 A painting of a priest standing in a church.
+2241 0.1627909743951871 A group of people sitting at a table in a restaurant.
+2242 0.16071440625558034 Two wrestlers wrestle in a wrestling ring at night.
+2243 0.19046913313793842 A person standing on a rock next to a river.
+2244 0.14285714285714285 A basketball court is shown in a gym in this screenshot of a basketball game.
+2245 0.14285714285714285 A man in a black suit standing in front of a purple screen.
+2246 0.14285714285714285 A woman standing in front of a projector screen with a quote on it.
+2247 0.14285714285714285 A wooden bench with four hoses sticking out of it.
+2248 0.16216878104809637 A man and a woman sitting at a table talking to each other.
+2249 0.1948123735637914 A water hose hanging under a wooden table.
+2250 0.17006876448586522 A man in a suit and tie sitting on a chair.
+2251 0.18367259455222415 A shark swimming in the water in the ocean.
+2252 0.2258105675764159 A man laying on the floor of a wrestling match on a red floor.
+2253 0.14285714285714285 A man swimming in a river with people in a boat.
+2254 0.14285714285714285 A woman standing in a room with a picture on the wall.
+2255 0.14285714285714285 A teddy bear sitting in front of a glass door.
+2256 0.17948807250087695 A group of young boys and girls standing together on a basketball court.
+2257 0.16216878104809634 Two chickens looking at each other in a chicken coop.
+2258 0.14285714285714285 A person holding a book with their hands.
+2259 0.16279097439518705 Three people standing on the beach looking at the ocean.
+2260 0.14285714285714285 A black suit hanging on a wall.
+2261 0.14285714285714285 A man playing a guitar and a woman standing next to him.
+2262 0.17073322093728163 A woman and two children walking down a hallway.
+2263 0.18918994110779477 A woman sitting on the floor preparing food in a pot.
+2264 0.14285714285714285 A crowd of people watching hot air balloons in the sky.
+2265 0.14285714285714285 A group of paint cans with paintbrushes on a table.
+2266 0.17006876448586522 A group of planes flying in the sky.
+2267 0.19354363406027003 An old photo of a man sitting at a table.
+2268 0.1978031771172129 A blurry image of a person in front of a window.
+2269 0.14285714285714285 A person cutting a cucumber with a knife.
+2270 0.16279097439518705 A group of people standing around a fire at night.
+2271 0.14285714285714285 A woman holding a baby in a hospital bed.
+2272 0.17006785714285713 A man is driving a forklift down a street.
+2273 0.14285714285714285 A group of women sitting around a table talking.
+2274 0.18797296200585203 A woman with long blonde hair brushing her teeth.
+2275 0.17948759706101958 A person with their feet on a table with scissors.
+2276 0.17948807250087695 A little girl is looking at a horse behind a fence.
+2277 0.14893631557034034 A woman walking down the street wearing a dress and a car.
+2278 0.16326486870468349 A man climbing up a tree in a forest.
+2279 0.14285714285714285 Three young people standing on the steps of the supreme court building.
+2280 0.14285714285714285 A group of people sitting at a table in a restaurant.
+2281 0.14285714285714285 A silhouette of a person walking in the dark.
+2282 0.17073202019162587 A flock of pigeons flying in a city square.
+2283 0.14285714285714285 A table with pictures and other items on it.
+2284 0.16216878104809637 A group of people standing in the water in a river.
+2285 0.14285714285714285 A man in a white dress jumping in a courtyard.
+2286 0.23810519933001234 A man riding skis on a rope in the water.
+2287 0.17142595722540804 A man sitting in a park holding an apple in his hands.
+2288 0.14285714285714285 A snow covered slope with trees on a mountain.
+2289 0.14285714285714285 A couple of people walking across a suspension bridge over a lake.
+2290 0.16326486870468349 A group of people laying on a beach in the water.
+2291 0.14285714285714285 A man getting out of a red car.
+2292 0.1879698933960415 A woman is standing on a train with a backpack.
+2293 0.18367647858256506 A man planting a yellow flower in the grass.
+2294 0.14285714285714285 A person riding a bike down a street.
+2295 0.17006876448586522 A man riding a wave on a boat in the ocean.
+2296 0.18797296200585206 A group of people standing around a buffet line at a convention.
+2297 0.17142872755291091 A person is wind surfing in the ocean.
+2298 0.21930178900682742 A man riding a skateboard down the steps.
+2299 0.14285714285714285 A row of motorcycles parked in a garage.
+2300 0.17949092254664503 An older woman wearing a hat and a red scarf.
+2301 0.16807503539877833 A woman talking to another woman in a room.
+2302 0.21212448824306457 A man is standing in front of a giant statue of a horse.
+2303 0.181822613000773 A man laying in the sand on the beach.
+2304 0.14285714285714285 A group of people sitting on a train using laptops.
+2305 0.1714292593544947 A group of people climbing into a cave.
+2306 0.14285714285714285 A woman in a white dress standing in front of a mirror.
+2307 0.14285714285714285 A logo for the ncaa cbs tv show.
+2308 0.21212538767651307 A woman holding a book in her hand.

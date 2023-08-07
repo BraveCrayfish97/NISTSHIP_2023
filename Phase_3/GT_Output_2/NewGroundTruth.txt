@@ -1,0 +1,162 @@
+1 0.5324339>0.5119 an individual is playing the guitar and singing while sitting in his room
+
+4 0.38199103>0.3618 an asian women's soccer team is shown in this video
+
+1 0.5431479>0.5119 two young men, one wearing glasses and the other with dark hair are playing guitars in an indoor room
+
+4 0.36693832>0.3618 two young men, dressed in white shirts and black pants are dancing on the street at night
+
+1 0.6535039>0.5119 in man plays playing and guitar sings guitars with room
+
+2 0.7368075>0.7096 in young man with wearing sunglasses car shirt and the, on while talking
+
+4 0.44828647>0.3618 an group asian people is in and black front audience the students
+
+1 0.5324339>0.5119 an individual is playing the guitar and singing while sitting in his room
+
+4 0.36693832>0.3618 two young men, dressed in white shirts and black pants are dancing on the street at night
+
+3 0.7473629>0.56365 A man wearing a green shirt in a bathroom with a mirror.
+
+4 0.43479112>0.3618 A group of people posing for a group photo at a fashion show.
+
+5 0.5192113>0.50589 A woman wearing purple pants with her leg in the air.
+
+4 0.4062723>0.3618 A group of people standing around a table with a bunch of bananas .
+
+5 0.5371557>0.50589 A man wearing a hat and a tie .
+
+4 0.4030265>0.3618 A group posing for a group photo at a fashion show.
+
+4 0.3894815>0.3618 A group standing around a table.
+
+1 0.59278214>0.5119 A young man is playing the guitar on a stage
+
+2 0.7474845>0.7096 A man in a blue shirt and wearing sunglasses is driving a vehicle
+
+3 0.6147107>0.56365 A man in a light green shirt talks to the camera in a room
+
+4 0.4010253>0.3618 A group of people are sitting and talking into a microphone
+
+5 0.56651855>0.50589 A person wearing a black t-shirt and a red t-shirt is looking at the camera
+
+1 0.56973946>0.5119 A guitar is playing a guitar on a stage
+
+3 0.57615066>0.56365 A man in a black shirt talks to the camera in a room
+
+4 0.42665517>0.3618 A group of young people are sitting in a classroom
+
+1 0.59278214>0.5119 A young man is playing the guitar on a stage
+
+2 0.7474845>0.7096 A man in a blue shirt and wearing sunglasses is driving a vehicle
+
+3 0.6147107>0.56365 A man in a light green shirt talks to the camera in a room
+
+4 0.4010253>0.3618 A group of people are sitting and talking into a microphone
+
+5 0.56651855>0.50589 A person wearing a black t-shirt and a red t-shirt is looking at the camera
+
+1 0.59278214>0.5119 A young man is playing the guitar on a stage
+
+2 0.7474845>0.7096 A man in a blue shirt and wearing sunglasses is driving a vehicle
+
+3 0.6147107>0.56365 A man in a light green shirt talks to the camera in a room
+
+4 0.4010253>0.3618 A group of people are sitting and talking into a microphone
+
+5 0.56651855>0.50589 A person wearing a black t-shirt and a red t-shirt is looking at the camera
+
+1 0.6454836>0.5119 a young man is sitting in a room playing a guitar in front of a wall with posters
+
+2 0.7412727>0.7096 a man in a blue shirt and sunglasses is driving a car on a sunny day
+
+3 0.6192865>0.56365 a man in a green robe is standing in a bathroom in front of a shower and talking to the camera
+
+4 0.38819733>0.3618 a large group of people are sitting in front of a white wall in a room
+
+5 0.6711226>0.50589 a man in a purple shirt is standing on a trampoline and looking at the camera
+
+1 0.60398>0.5119 a young man is playing a guitar in a room in front of posters
+
+2 0.72832745>0.7096 a man in a blue shirt and a hat is driving a car on a sunny day
+
+3 0.7061433>0.56365 a man in a green robe is standing in a bathroom in front of a shower in a bathroom
+
+4 0.38819733>0.3618 a large group of people are sitting in front of a white wall in a room
+
+5 0.61213195>0.50589 a man in a purple shirt is standing on a trampoline on a sunny day
+
+1 0.5204116>0.5119 a man is playing a guitar in a room with posters on the wall
+
+2 0.7412727>0.7096 a man in a blue shirt and sunglasses is driving a car on a sunny day
+
+3 0.6436433>0.56365 a shirtless man in a green robe is standing in a bathroom in front of a shower
+
+4 0.48002952>0.3618 a large group of people are posing for a photo in front of a crowd
+
+5 0.7140467>0.50589 a man in a purple shirt and jeans is standing on a trampoline in a room
+
+1 0.5126866>0.5119 a young man is playing a guitar in a room with posters on the wall
+
+2 0.72832745>0.7096 a man in a blue shirt and a hat is driving a car on a sunny day
+
+3 0.68766695>0.56365 a man in a green robe is standing in front of a shower in a bathroom
+
+4 0.42210886>0.3618 a large group of people are posing for a picture in a room
+
+5 0.61086345>0.50589 a person in a purple shirt is standing on a trampoline in a room
+
+1 0.73093784>0.5119 a man playing a guitar
+
+3 0.56577253>0.56365 a man standing in a bathroom
+
+4 0.40961012>0.3618 a group of people posing for the camera
+
+5 0.6703239>0.50589 a person wearing a purple shirt
+
+1 0.73093784>0.5119 a man playing a guitar
+
+3 0.56577253>0.56365 a man standing in a bathroom
+
+4 0.40961012>0.3618 a group of people posing for the camera
+
+5 0.6703239>0.50589 a person wearing a purple shirt
+
+1 0.73093784>0.5119 a man playing a guitar
+
+3 0.56577253>0.56365 a man standing in a bathroom
+
+4 0.40961012>0.3618 a group of people posing for the camera
+
+5 0.6703239>0.50589 a person wearing a purple shirt
+
+1 0.73093784>0.5119 a man playing a guitar
+
+3 0.56577253>0.56365 a man standing in a bathroom
+
+4 0.40961012>0.3618 a group of people posing for the camera
+
+5 0.6703239>0.50589 a person wearing a purple shirt
+
+1 0.5652721>0.5119 a man is playing a guitar in a studio with other instruments.
+
+4 0.40401512>0.3618 a group of people are singing and dancing to the music.
+
+1 0.516588>0.5119 a man in a black shirt plays an electric guitar in a room.
+
+4 0.504949>0.3618 a group of people are sitting in a room of a room.
+
+5 0.5365406>0.50589 a man in a black shirt and black shorts and black shorts and black shorts stands on a
+
+1 0.52938354>0.5119 a man in a black shirt plays a guitar in front of a wall with many pictures and
+
+3 0.68031216>0.56365 a young man with brown hair and a green shirt and a green shirt and a room with
+
+4 0.40806967>0.3618 a group of boys are standing in a line of chairs in a large room.
+
+2 0.7112482>0.7096 a man in a blue shirt drives a car in a sunny day.
+
+3 0.5828249>0.56365 a man in a green shirt stands in a room and sings into a camera.
+
+4 0.48076242>0.3618 a group of women in different locations are standing in line in front of a group of children
+

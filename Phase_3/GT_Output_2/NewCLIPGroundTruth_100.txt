@@ -1,0 +1,3069 @@
+1 0.7646497488021851>0.75469 an individual is playing the guitar and singing while sitting in his room
+vsAn Asian man in a black jacket playing a guitar indoors.
+
+2 0.7979079484939575>0.76763 an african american man wearing sunglasses, blue shirt and tan hat is sitting in the driver's seat with his hands on steering wheel
+vsYoungish Man with straw hat wearing sunglasses, a watch, in a blue shirt sitting in the driver's seat in a car wearing seatbelt passing a hill with trees during a cloudy day
+
+6 0.7443180680274963>0.7412 an adult woman is walking on the beach during day time talking to someone off camera
+vsA woman stands on a piece of property pointing and speaking in front of the camera.
+
+9 0.800416111946106>0.76302 an old spinning wheel is being pulled by someone in the field during day time
+vsSomeone is plowing the ground using a hand wheel and talking in the daytime.
+
+10 0.8150398135185242>0.74416 an outdoor wedding in the daytime
+vsA photo session for a bride and groom in a beautiful landscape surrounded by houses in the daytime.
+
+11 0.7987203001976013>0.7 an older man with glasses is talking about his work
+vsMiddle aged with man with receding hairline and glasses is speaking in French indoors, explaining a chart
+
+12 0.9014909267425537>0.74347 two men are playing soccer on an indoor field
+vsYoung adult males playing soccer in an indoor venue.
+
+13 0.754808783531189>0.7 two men are standing in the woods, one is laying down and talking to another man
+vsTwo men are outside by an area where some soil has been moved and one man props a chair by the moved soil as the other man sits down on the chair.
+
+15 0.8687329888343811>0.85137 someone's hand is pulling on the handle to open an enclosure
+vsThe hands of a white male handling a clear plastic contraption.
+
+17 0.8254249095916748>0.7 an older woman is walking in the snow, when she turns to look at another person and they both fall down
+vsA girl wearing her ice skate shoes is getting up and looking sadly at another person outdoors where there are piles of snow in the daytime.
+
+18 0.8785479068756104>0.84747 two black and white dogs are lying on the bookshelves in an interior room
+vsBlack and white dog lying on a bookcase filled with books inside a room as 3 other black and white dogs walk in.
+
+19 0.7854275703430176>0.74081 an art piece is suspended from the ceiling
+vsIndoor space with rectangular wires suspended from a brown ceiling.
+
+20 0.7330066561698914>0.7 people dressed in star wars costumes are walking on the grass
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+21 0.7172041535377502>0.7 two women are holding drinks in their hands and talking to the camera while standing near an outdoor market
+vsTwo red-head white women at a daytime outdoor event with food stalls on a cobblestone street.
+
+22 0.7961693406105042>0.7 two people are sitting on chairs and one is talking to the other
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.7416322231292725>0.7 someone is laying on their surf board in the ocean
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.7434040307998657>0.7 several soccer players in black and red uniforms are running around on the field during day time
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+27 0.7668507099151611>0.74193 an indian bride and groom are walking down the aisle with their guests
+vsWhile Indian music is playing in the background, inside and a little girl dressed in pink is excited, people dressed in costumes watch as couples begin to enter the room.
+
+28 0.7515729665756226>0.70033 two young asian women dressed in school uniforms are dancing to music
+vsTwo young ladies practicing dance moves in an indoor space.
+
+30 0.8154451847076416>0.75242 many cards are spread out on the table
+vsTen cards with colorful drawings on a wooden table in a room.
+
+31 0.8494946360588074>0.8045 four people are sitting at an office table and one is talking to the other
+vsThree women and two men sit at a table and look at something to the right of them.
+
+32 0.8030127286911011>0.71778 the face and neck silhouette, with long hair pulled back to side
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.713141679763794>0.7 an outdoor football field at night where players in white uniforms are playing
+vsA football team running off the field at an outdoor stadium.
+
+35 0.9018797278404236>0.87845 two men are playing bowling in an indoor room
+vsA man is playing bowling indoors.
+
+36 0.8098018169403076>0.7378 an individual is shown on the computer screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7047034502029419>0.7 an asian man in white shirt and black pants is sitting on the bed with his head down
+vsA man is sitting on a bed next to a window and wearing black shoes in the daytime.
+
+42 0.7712268233299255>0.7 an older woman wearing glasses, is holding up her hat and talking into the microphone
+vsWhite Man with long brown hair and glasses speak into a Microphone holding up a blue cap with gold rim.
+
+43 0.8034198880195618>0.78212 two men are walking in the street at night and one is talking to another man
+vsA lady coming out of a house is trying to unlock a metallic car but can't at night.
+
+44 0.7565863132476807>0.7 two men in orange jackets are sitting at an outdoor picnic table with other people standing around them during the day
+vsMan in an orange outfit sits next to a small table outdoors in daylight surrounded by other people, and holds out his hands to the side.
+
+46 0.7981945276260376>0.7 an asian woman is sitting on the ground next to trees outdoors during day time
+vsA lady is laying down some flowers on the ground in front of a tree in the woods and a background voice is playing.
+
+47 0.7380818724632263>0.7 an inside studio with sound mixing equipment and one young man sitting in the chair
+vsA white male seated in an office in front of black equipment near a window.
+
+48 0.7753480672836304>0.7 three children are sitting at the table and talking to each other
+vsA girl, named Ashley, is sitting between her two younger siblings, Addison and Elliot, and talking about writing comics upon her dad's wish.
+
+49 0.8247663974761963>0.78808 four bridesmaids in white dresses are dancing and getting ready to walk into the room
+vsA group of people are taking photos of a bride and her wedding party in a large bedroom.
+
+51 0.7073056101799011>0.7 two people on motorbikes are passing each other in an asian street market during the day
+vsAsian woman with Vietnamese hat squats in the street cooking something in a pot as a motorcyclist drives by.
+
+52 0.8783277869224548>0.82298 the bride and groom are throwing their bouquets at each other in an indoor venue
+vsA bride and groom are dancing indoors while the people are clapping and happy for them.
+
+55 0.8085253834724426>0.7073 soccer players are playing on an outdoor field in the daytime
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+57 0.8903934359550476>0.7571 tanks are moving in the field
+vsMilitary tanks maneuvering in grassy area during the day.
+
+58 0.7176487445831299>0.7 several young asian boys and girls are sitting on the floor in an indoor room with wood slats
+vsThree young boys sitting with a group of other children are engaged in what is being said and laugh inside an area with slat walls.
+
+59 0.7441573143005371>0.73718 three pairs or earrings are shown on the table
+vsA pair of dangling jeweled-earrings attached to a black cardboard on a wooden table.
+
+62 0.7641687393188477>0.7 an individual is sleeping on the kitchen floor
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+63 0.8665655851364136>0.7 three young men are sitting on the couch and talking to each other in an indoor room
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+65 0.7019132971763611>0.7 two men in red and black jerseys are throwing balls at each other on the field
+vsAthletes in red shirts are on the ground doing push ups outside on a field on a sunny day.
+
+69 0.7590287327766418>0.7 two men in military uniforms exchange wedding rings as the bride and groom stand next to them
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+71 0.8470280170440674>0.75817 an asian woman with long dark hair and white dress is walking in the woods during day time
+vsA woman in a white dress walks towards another woman standing still in the woods on a sunny day.
+
+73 0.7461074590682983>0.73643 three people wearing helmets are riding their bikes on an elevated bridge over water
+vsA man and woman walk their bikes across a bridge over water and stop to talk on a cloudy day.
+
+76 0.7644081711769104>0.72414 an african american man is dancing in the street while people are watching him
+vsSome people are celebrating while walking in the street singing, dancing, playing instruments, and holding signs in the daytime.
+
+80 0.7961907386779785>0.74235 two men are talking to each other in an office setting
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.8248974680900574>0.70234 an older man with glasses is standing outdoors in the day time talking to other people
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+85 0.7474519610404968>0.7433 two people are kissing on the screen in an indoor room
+vsA computer screen showing a white man and a white woman caressing each other and starting to dance.
+
+87 0.7530530095100403>0.7 two people on the beach, one wearing an orange jacket and white shirt is talking to each other
+vsA white woman wearing a pink top and a white man wearing an orange jacket, standing outside during the day near a small body of water and talking to each other.
+
+88 0.7025962471961975>0.7 an asian man with black hair and beard is talking into the camera while he talks to someone
+vsYoung man with black hair beard and mustache looks into a red ball, then looks up in surprise inside a room,
+
+90 0.7883274555206299>0.7 two asian women are in an indoor kitchen and one is putting some food into the oven
+vsSome workers are packaging some food indoors.
+
+92 0.8527955412864685>0.74017 an african american man is writing on the blackboard indoors
+vsAn African American man teaches a lesson on a black board in a room.
+
+93 0.8728405237197876>0.85677 an african american bride and groom are feeding each other wedding cake indoors
+vsA black groom and white bride are feeding each other from their wedding cake indoors in the daytime while all the presents are on their feet watching and filming them.
+
+94 0.8466227650642395>0.8314 someone is stirring something in the coffee cup
+vsA person's hand drops a white pill into a cup of coffee and stirs it with a spoon indoors.
+
+95 0.9380248188972473>0.89534 several people are dancing on an indoor stage
+vsA group of people dancing on an indoor stage while the band is playing behind them.
+
+97 0.8404124975204468>0.78392 two women, one with long blonde hair and the other wearing black are sitting on benches talking in an urban area
+vsOutside in the daytime in the cold, a blond young girl is sitting on a bench while another young woman with black hair is talking to her.
+
+98 0.8562189936637878>0.80408 an asian man is giving flowers to people outdoors during the day
+vsAsian man holding flowers during a gathering of other Asians as they smile and talk to him.outdoors on a sunny day.
+
+100 0.720032811164856>0.7 two men are walking in an art gallery
+vsThree workers walk into a corridor lined with paintings sitting on the floor inside during daylight.
+
+1 0.7612777948379517>0.75469 two young men, one wearing glasses and the other with dark hair are playing guitars in an indoor room
+vsAn Asian man in a black jacket playing a guitar indoors.
+
+12 0.7750619053840637>0.74347 in the daytime, two men are playing soccer on an outdoor field
+vsYoung adult males playing soccer in an indoor venue.
+
+14 0.8081942200660706>0.7 in the daytime, two men are talking to each other
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+26 0.8433731198310852>0.7 in the daytime, two men are playing soccer on an outdoor field
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+55 0.7115945816040039>0.7073 in the daytime, two men are talking to each other
+vsOutside in a soccer field, a team is congratulating each other as people in the stadium cheer.
+
+58 0.7433087825775146>0.7 in the daytime, two men are talking to each other
+vsSome Hispanic children are happily listening to some people's singing indoors in the daytime
+
+61 0.761219322681427>0.7 in the daytime, two men are talking to each other
+vsA boy is singing in the front of a big room and a girl is dancing in the back in the daytime.
+
+63 0.7351382374763489>0.7 in the daytime, two men are sitting and talking to each other
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+69 0.7154322862625122>0.7 in the daytime, two men are talking to each other
+vsWith music in the background, outside in a forest area during the day, a young military man in his uniform is marrying a young lady wearing a white wedding dress and veil and is at the point of the ceremony where he gets the rings from his friend also in uniform.
+
+76 0.7416843175888062>0.72414 in the daytime, two men are talking to each other
+vsSome people are celebrating while walking in the street singing, dancing, playing instruments, and holding signs in the daytime.
+
+85 0.7856428027153015>0.7433 in the daytime, two men are talking to each other
+vsA man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+87 0.7596337795257568>0.7 in the daytime, two men are talking to each other
+vsA lady, holding a green bucket, is asking a man if he wants a clam but he said maybe later, held her hand and walked away together outdoors in the daytime
+
+4 0.8483115434646606>0.73588 an group asian people is in and black front audience the students
+vsA crowd of people cheering in an enclosed space.
+
+7 0.774851381778717>0.7 in man sits on blue woman sitting and, her the with
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+11 0.7596681714057922>0.7 an man is at glasses front and to
+vsMiddle aged with man with receding hairline and glasses is speaking in French indoors, explaining a chart
+
+22 0.7748724818229675>0.7 two young man and sitting in woman to, dark with the on
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+26 0.7035306692123413>0.7 two man are in soccer and field the, on grass during with
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+27 0.7453616261482239>0.74193 two woman is in colorful dress and to
+vsWhile Indian music is playing in the background, inside and a little girl dressed in pink is excited, people dressed in costumes watch as couples begin to enter the room.
+
+29 0.7695805430412292>0.7 in man is into and front talking to while screen
+vsPeople in a movie theater are watching a movie with two men lying on a bed and a child gets in the bed with them.
+
+30 0.7586237192153931>0.75242 two person is in photos table and,
+vsGreeting cards on a wooden table are being videotaped in a room with people.
+
+33 0.7566899657249451>0.7 on football player players in white field the and
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+37 0.7404072880744934>0.7 an man is in white and head bed on his the
+vsAn Asian man sitting on the side of the bed puts on his shoes and laces them.
+
+40 0.73412024974823>0.7 in woman with long hair microphone and her, the
+vsA white woman with a bouffant hairstyle and in a white fuzzy collar is putting makeup items into a purse.
+
+42 0.7098628282546997>0.7 an man with black and shirt in front, to indoors next
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+46 0.7227391600608826>0.7 an young woman in black and on, with outside her to the as
+vsA lady is laying down some flowers on the ground in front of a tree in the woods and a background voice is playing.
+
+55 0.7548579573631287>0.7073 two soccer players playing on in the at field and sunny
+vsOutside in a soccer field, a team is congratulating each other as people in the stadium cheer.
+
+56 0.7134926319122314>0.7 on person wearing orange helmet and yellow in parachute to, outside
+vsA person in an orange and blue hot balloon is about to land while another one wearing black shoes is following him/her in the daytime.
+
+62 0.7041657567024231>0.7 two little woman is down in and the,
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+66 0.7534961104393005>0.70883 an man in blue rope to on and the as, hill
+vsA young person with string and gear attached to something unseen.
+
+69 0.7208614349365234>0.7 an bride couple and dressed in groom stand as, outside sunny
+vsA groom prepares to put a ring on his bride's finger during the wedding ceremony outside on a sunny day.
+
+76 0.7667142748832703>0.72414 on group people are red and street in, to the during day
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+80 0.8367840647697449>0.74235 in man and blonde woman hair to talks room with
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.7026940584182739>0.70234 on man in red woman and to people
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+85 0.809050440788269>0.7433 two woman is on in and the
+vsA man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+91 0.7212060689926147>0.7 an man in white hair shirt striped and to, with talks at on
+vsA manin a black and white shirt has his head and one hand stuck inside a red tennis racket in a room with a fireplace.
+
+96 0.7835458517074585>0.7 two man dressed in red and with stands, his on to
+vsA female worker wearing a red uniform and hat is looking weird while letting the stand cover go.
+
+1 0.7646497488021851>0.75469 an individual is playing the guitar and singing while sitting in his room
+vsAn Asian man in a black jacket playing a guitar indoors.
+
+2 0.7979079484939575>0.76763 an african american man wearing sunglasses, blue shirt and tan hat is sitting in the driver's seat with his hands on steering wheel
+vsYoungish Man with straw hat wearing sunglasses, a watch, in a blue shirt sitting in the driver's seat in a car wearing seatbelt passing a hill with trees during a cloudy day
+
+6 0.7443180680274963>0.7412 an adult woman is walking on the beach during day time talking to someone off camera
+vsA woman stands on a piece of property pointing and speaking in front of the camera.
+
+10 0.8150398135185242>0.74416 an outdoor wedding in the daytime
+vsA photo session for a bride and groom in a beautiful landscape surrounded by houses in the daytime.
+
+12 0.9014909267425537>0.74347 two men are playing soccer on an indoor field
+vsYoung adult males playing soccer in an indoor venue.
+
+15 0.8687329888343811>0.85137 someone's hand is pulling on the handle to open an enclosure
+vsThe hands of a white male handling a clear plastic contraption.
+
+19 0.7854275703430176>0.74081 an art piece is suspended from the ceiling
+vsIndoor space with rectangular wires suspended from a brown ceiling.
+
+21 0.7172041535377502>0.7 two women are holding drinks in their hands and talking to the camera while standing near an outdoor market
+vsTwo red-head white women at a daytime outdoor event with food stalls on a cobblestone street.
+
+22 0.7748724818229675>0.7 two young man and sitting in woman to, dark with the on
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+26 0.7434040307998657>0.7 several soccer players in black and red uniforms are running around on the field during day time
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+30 0.8154451847076416>0.75242 many cards are spread out on the table
+vsTen cards with colorful drawings on a wooden table in a room.
+
+31 0.8494946360588074>0.8045 four people are sitting at an office table and one is talking to the other
+vsThree women and two men sit at a table and look at something to the right of them.
+
+35 0.9018797278404236>0.87845 two men are playing bowling in an indoor room
+vsA man is playing bowling indoors.
+
+43 0.8034198880195618>0.78212 two men are walking in the street at night and one is talking to another man
+vsA lady coming out of a house is trying to unlock a metallic car but can't at night.
+
+44 0.7565863132476807>0.7 two men in orange jackets are sitting at an outdoor picnic table with other people standing around them during the day
+vsMan in an orange outfit sits next to a small table outdoors in daylight surrounded by other people, and holds out his hands to the side.
+
+47 0.7380818724632263>0.7 an inside studio with sound mixing equipment and one young man sitting in the chair
+vsA white male seated in an office in front of black equipment near a window.
+
+51 0.7073056101799011>0.7 two people on motorbikes are passing each other in an asian street market during the day
+vsAsian woman with Vietnamese hat squats in the street cooking something in a pot as a motorcyclist drives by.
+
+55 0.8085253834724426>0.7073 soccer players are playing on an outdoor field in the daytime
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+58 0.7176487445831299>0.7 several young asian boys and girls are sitting on the floor in an indoor room with wood slats
+vsThree young boys sitting with a group of other children are engaged in what is being said and laugh inside an area with slat walls.
+
+63 0.8665655851364136>0.7 three young men are sitting on the couch and talking to each other in an indoor room
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+65 0.7019132971763611>0.7 two men in red and black jerseys are throwing balls at each other on the field
+vsAthletes in red shirts are on the ground doing push ups outside on a field on a sunny day.
+
+66 0.7534961104393005>0.70883 an man in blue rope to on and the as, hill
+vsA young person with string and gear attached to something unseen.
+
+69 0.7590287327766418>0.7 two men in military uniforms exchange wedding rings as the bride and groom stand next to them
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+76 0.7644081711769104>0.72414 an african american man is dancing in the street while people are watching him
+vsSome people are celebrating while walking in the street singing, dancing, playing instruments, and holding signs in the daytime.
+
+80 0.7961907386779785>0.74235 two men are talking to each other in an office setting
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.8248974680900574>0.70234 an older man with glasses is standing outdoors in the day time talking to other people
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+85 0.7856428027153015>0.7433 in the daytime, two men are talking to each other
+vsA man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+87 0.7530530095100403>0.7 two people on the beach, one wearing an orange jacket and white shirt is talking to each other
+vsA white woman wearing a pink top and a white man wearing an orange jacket, standing outside during the day near a small body of water and talking to each other.
+
+95 0.9380248188972473>0.89534 several people are dancing on an indoor stage
+vsA group of people dancing on an indoor stage while the band is playing behind them.
+
+97 0.8404124975204468>0.78392 two women, one with long blonde hair and the other wearing black are sitting on benches talking in an urban area
+vsOutside in the daytime in the cold, a blond young girl is sitting on a bench while another young woman with black hair is talking to her.
+
+98 0.8562189936637878>0.80408 an asian man is giving flowers to people outdoors during the day
+vsAsian man holding flowers during a gathering of other Asians as they smile and talk to him.outdoors on a sunny day.
+
+100 0.720032811164856>0.7 two men are walking in an art gallery
+vsThree workers walk into a corridor lined with paintings sitting on the floor inside during daylight.
+
+4 0.7439978122711182>0.73588 A group of people posing for a group photo at a fashion show.
+vsA crowd of people cheering in an enclosed space.
+
+7 0.7562034726142883>0.7 A group of people dancing in a room with chairs.
+vsThree dancers are running around a large room in front of a mirror while other people in the room watch.
+
+8 0.9320140480995178>0.82139 A black bird with a red beak standing on some rocks.
+vsBlack bird with a red beak is standing on rocks near a river looking for food inside the rock
+
+10 0.763923168182373>0.74416 A bride and groom are standing in the grass.
+vsOn a sunny day a married couple in their wedding attire are posing for pictures being taken by another man and a woman outside in the area with trees and houses in the background.
+
+11 0.7725033760070801>0.7 A screenshot of a person talking to a chart with a line graph.
+vsA man wearing glasses speaks in front of the camera discussing a chart that is being shown.
+
+12 0.788203239440918>0.74347 A group of people playing soccer on a field.
+vsYoung adult males playing soccer in an indoor venue.
+
+13 0.7089111804962158>0.7 Two men standing in a field next to a tree.
+vsA man brings a chair for a man digging a hole to sit outside near an area with trees.
+
+16 0.7905061841011047>0.75823 A group of people standing in front of a safari vehicle.
+vsA group of people of a variety of ethnic backgrounds are standing waving and cheering outdoors near trees, standing next to a mobile safari car
+
+17 0.7299059629440308>0.7 A boy is standing on a bench in the snow.
+vsA white child dressed in black and ice skates gets up from a wooden bench in a snow-covered outdoor area and tries to ice skate.
+
+20 0.7809369564056396>0.7 A group of people in star wars costumes walking in a park.
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+21 0.7609590291976929>0.7 A woman holding a glass of beer in a crowd of people.
+vsA woman is standing up outdoors in the daytime, holding two drinks in her hands, and talking about how she is having a good time at a festival while another lady is smilingly looking at her.
+
+22 0.8416125178337097>0.7 A man and a woman sitting on chairs in a room.
+vsAn Asian man and woman are dressed casually and seated on a bench indoors talking.
+
+23 0.8796658515930176>0.83534 Two boats in the water near a dock on a lake.
+vsTwo boats by themselves in the water parked while mountains and calm weather is surrounding the area.
+
+24 0.8329395055770874>0.7 A person riding a wave on a surfboard in the ocean.
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.8323276042938232>0.7 A group of people playing soccer on a field.
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+28 0.87185138463974>0.70033 Two women are dancing in a room.
+vsTwo young ladies practicing dance moves in an indoor space.
+
+30 0.8219903707504272>0.75242 A group of cards on a table on a.
+vsTen cards with colorful drawings on a wooden table in a room.
+
+31 0.8413673043251038>0.8045 A group of people sitting around a table with a laptop.
+vsThree women and two men sit at a table and look at something to the right of them.
+
+32 0.7824257612228394>0.71778 A silhouette of a woman against a white background.
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.7121989130973816>0.7 American football players on the field during a game.
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+34 0.8893416523933411>0.87413 A group of people sitting in a living room.
+vsTwo young men and women sit in a living room .
+
+35 0.9225983619689941>0.87845 A man is standing at a bowling alley.
+vsA middle-aged male bowling at a bowling alley.
+
+36 0.8311427235603333>0.7378 A person watching a video on a laptop computer.
+vsA man watches a computer screen with a woman modeling an outfit.
+
+39 0.7404878735542297>0.7 A video of a bride and groom walking down the stairs.
+vsA bride holding red roses throws kisses into the camera and her husband joins her kissing her cheek in front of a long staircase.
+
+42 0.8244499564170837>0.7 A woman wearing a police officer hat speaks into a microphone.
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+46 0.779706597328186>0.7 One of the villagers came and laid a flower by it as virgin does in the.
+vsA lady is laying down some flowers on the ground in front of a tree in the woods and a background voice is playing.
+
+48 0.715097188949585>0.7 A woman and two children sitting at a table.
+vsA young girl and two boys sit in front of the camera talking in a room with a white drape behind them.
+
+49 0.8136870265007019>0.78808 A group of people standing in a living room with a bride.
+vsA group of people are taking photos of a bride and her wedding party in a large bedroom.
+
+52 0.9175703525543213>0.82298 A bride and groom walking down the aisle at a wedding.
+vsA newly married couple dance as they walk down the aisle while their guests clap.
+
+53 0.7549570798873901>0.73929 A man pumping gas into a car at a gas station.
+vsA white male charging an electric vehicle.
+
+55 0.7741524577140808>0.7073 The team celebrates after scoring a goal.
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7393136620521545>0.7 A person flying a colorful parachute over a field.
+vsOn a clear sunny day outside with a beige field in the background, a person is taking a picture of a colored parachute in front as you see the photographer's tennis shoes appear in the camera shot.
+
+58 0.7107699513435364>0.7 A group of young children are standing in a room.
+vsAsian children are listening to a performance of singing as one of them smiles widely as he turns toward the other children.
+
+62 0.7074477076530457>0.7 A dog laying on the floor in a kitchen.
+vsA young woman dressed in black, lying on the floor of a home.
+
+63 0.7792906761169434>0.7 A group of people sitting on a couch.
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+66 0.747827410697937>0.70883 A person is flying a drone in a field.
+vsSomeone is holding a machine with strings coming out of it outdoors.
+
+68 0.873659610748291>0.78436 A young girl sitting at a desk in a classroom with her hands crossed.
+vsA young Black girl seated at a desk in a classroom with her hands folded together in prayer.
+
+69 0.7241801023483276>0.7 A bride and groom standing in a park with their wedding party.
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+71 0.772060751914978>0.75817 A woman walking down a dirt road in the woods.
+vsA woman in a white dress walks towards another woman standing still in the woods on a sunny day.
+
+73 0.7916656732559204>0.73643 People walking across a bridge over a river.
+vsA man and woman are wearing their helmets, and walking on a bridge on top o a river with their bikes in the daytime.
+
+75 0.7726215720176697>0.77078 A man standing on a wooden floor with his shoe on the floor.
+vsA white man with a tan outfit and brown shoes moves his foot and knee from left to right foot repeatedly.
+
+76 0.7574540376663208>0.72414 A group of people walking down a street.
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+79 0.904005229473114>0.86104 A sailboat in the water with a blue sail.
+vsA blue sailing boat is sailing in a beautiful blue sea in the daytime.
+
+80 0.7803438901901245>0.74235 A man standing next to another man in an office.
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.7696406245231628>0.70234 A man talking on a cell phone in a crowd of people.
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+85 0.7853137254714966>0.7433 A television screen with a man and a woman on it.
+vsA computer screen showing a white man and a white woman caressing each other and starting to dance.
+
+86 0.792134702205658>0.71405 A man riding a sled down a snow covered slope.
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+90 0.7227983474731445>0.7 A screenshot of a kitchen with food on the counter.
+vsSome workers are packaging some food indoors.
+
+92 0.8459486365318298>0.74017 A man is standing in front of a chalk board.
+vsBrown skinned man stands near a blackboard explaining the drawing on the board inside a room during daytime.
+
+93 0.860571563243866>0.85677 A bride and groom cutting their wedding cake.
+vsA bride and groom share their wedding cake while their guests watch in a room.
+
+95 0.8960688710212708>0.89534 A group of people on a stage on a concert stage.
+vsA musical group performing on a stage in an indoor venue.
+
+97 0.8208259344100952>0.78392 Two women sitting on a bench talking to each other.
+vsOutside in the daytime in the cold, a blond young girl is sitting on a bench while another young woman with black hair is talking to her.
+
+99 0.8322790861129761>0.74236 A rooster standing on a wire next to a tree.
+vsA rooster stands in front of a tree looking around outside on a sunny day.
+
+100 0.7273535132408142>0.7 A group of people walking down a hallway in a museum.
+vsThree workers walk into a corridor lined with paintings sitting on the floor inside during daylight.
+
+2 0.770823061466217>0.76763 A man is sitting in a car with a motorcycle .
+vsAn Asian man wearing sunglasses and a hat is driving a car in the daytime.
+
+7 0.7166311740875244>0.7 A man is playing with a frisbee in a room .
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+8 0.832150936126709>0.82139 A black bird standing on a rock in the water .
+vsA black bird with a long orange beak picking food from the rocks next to a body of water in the sunlight,
+
+12 0.776393711566925>0.74347 A group of people playing a game of soccer on a field .
+vsYoung adult males playing soccer in an indoor venue.
+
+22 0.7335948348045349>0.7 A woman and woman are sitting on a bench .
+vsA woman in a blue jean shirt sits next to a man on a bench talking into the camera.
+
+26 0.8226237893104553>0.7 A group of people playing a game of soccer on a field .
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+29 0.7115573883056641>0.7 A man is sitting in a room with a laptop .
+vsIndoors some people are watching a tv showing people in bed, one with a phone, another looking at a magazine.
+
+36 0.754555344581604>0.7378 A person holding a cell phone in front of a television .
+vsA man watches a computer screen with a woman modeling an outfit.
+
+38 0.835747241973877>0.81137 A woman walking down a street with a sign .
+vsA man is carrying a sign and exhaustedly running in a street in the daytime.
+
+46 0.716423749923706>0.7 A man sitting on a bench in front of a tree .
+vsA lady sits in front of a large tree and places flowers on the ground.
+
+47 0.7264142632484436>0.7 A man is sitting in front of a laptop computer .
+vsA white male seated in an office in front of black equipment near a window.
+
+55 0.7870675325393677>0.7073 A group of people playing a game of soccer on a field .
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7494053244590759>0.7 A person is holding a kite in the sky .
+vsA person is above some hang gliding through the sky on a sunny day.
+
+80 0.7479147911071777>0.74235 A man and woman in a suit and tie .
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+86 0.7355359196662903>0.71405 A man is snowboarding down a hill with a snowboard .
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+90 0.7261399030685425>0.7 A person is cutting a piece of cake on a table .
+vsSome workers are packaging some food indoors.
+
+91 0.7551360726356506>0.7 A man is holding a remote control in his hand .
+vsA manin a black and white shirt has his head and one hand stuck inside a red tennis racket in a room with a fireplace.
+
+99 0.742851197719574>0.74236 A bird is sitting on a branch of a tree .
+vsA rooster is crowing outside in the daytime.
+
+2 0.7680212259292603>0.76763 A woman driving a car with her hands.
+vsAn Asian man wearing sunglasses and a hat is driving a car in the daytime.
+
+4 0.7542423009872437>0.73588 A group posing for a group photo at a fashion show.
+vsA crowd of people cheering in an enclosed space.
+
+7 0.7884751558303833>0.7 Dancers dancing in a room.
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+8 0.8500714898109436>0.82139 A red beak standing on some rocks.
+vsBlack bird with a red beak is standing on rocks near a river looking for food inside the rock
+
+11 0.7336746454238892>0.7 A screenshot talking to a chart.
+vsA man wearing glasses speaks in front of the camera discussing a chart that is being shown.
+
+12 0.7462872862815857>0.74347 Soccer playing soccer on a field.
+vsYoung adult males playing soccer in an indoor venue.
+
+13 0.7089755535125732>0.7 Two men standing in a field.
+vsTwo men are outside by an area where some soil has been moved and one man props a chair by the moved soil as the other man sits down on the chair.
+
+16 0.7748151421546936>0.75823 A group standing in front of a safari vehicle.
+vsA group of people of a variety of ethnic backgrounds are standing waving and cheering outdoors near trees, standing next to a mobile safari car
+
+17 0.7312281131744385>0.7 A man sitting on skis.
+vsA girl wearing her ice skate shoes is getting up and looking sadly at another person outdoors where there are piles of snow in the daytime.
+
+19 0.7724096179008484>0.74081 A hallway hanging from the ceiling.
+vsIndoor space with rectangular wires suspended from a brown ceiling.
+
+20 0.7491684556007385>0.7 People walking in a park.
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.7171661853790283>0.7 A man sitting on chairs.
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+23 0.8796658515930176>0.83534 Two boats in the water near a dock on a lake.
+vsTwo boats by themselves in the water parked while mountains and calm weather is surrounding the area.
+
+24 0.8329395055770874>0.7 A person riding a wave on a surfboard in the ocean.
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.8413528203964233>0.7 A group playing soccer on a field.
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+31 0.8976625800132751>0.8045 A group sitting around a table.
+vsThree women and two men sit at a table and look at something to the right of them.
+
+33 0.7652756571769714>0.7 American football players running on the field.
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+34 0.8951597213745117>0.87413 A group sitting in a living room.
+vsTwo young men and women sit in a living room .
+
+36 0.7393659353256226>0.7378 A blurry image watching a video with a video of a woman on it.
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7615185976028442>0.7 A man looking on a window.
+vsA man is sitting on a bed next to a window and wearing black shoes in the daytime.
+
+39 0.75162672996521>0.7 A bride walking down a street.
+vsA bride is smilingly kissing and looking at the camera outdoors where there is a lot of people and another bride and groom.
+
+42 0.7008886933326721>0.7 A woman wearing a police officer hat into a microphone.
+vsWhite Man with long brown hair and glasses speak into a Microphone holding up a blue cap with gold rim.
+
+46 0.7641507387161255>0.7 The volunteers came by a tree.
+vsA lady is laying down some flowers on the ground in front of a tree in the woods and a background voice is playing.
+
+47 0.7004907131195068>0.7 A man sitting in a recording studio.
+vsA white male seated in an office in front of black equipment near a window.
+
+48 0.7140889167785645>0.7 A woman talking to each other.
+vsTwo young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+50 0.7231465578079224>0.7 A glass playing a game with a glass.
+vsA wine glass with goldfish in it spills on a green surface surrounded by wooden blocks and someone wipes it up.
+
+51 0.7137972116470337>0.7 A woman chopping vegetables on a street.
+vsAn Asian lady is sitting on the ground, cutting vegetables in two metal balls while a youngman is taking off a motorcycle with a female on the back in a street in the daytime.
+
+52 0.8380725383758545>0.82298 A bride and groom dancing walking down the aisle.
+vsA white bride and groom dancing at an indoor venue, and guests standing on the sides applauding them.
+
+53 0.7524131536483765>0.73929 A man pumping gas at a gas station.
+vsA white male charging an electric vehicle.
+
+55 0.8285875916481018>0.7073 The team running onto the field.
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7393136620521545>0.7 A person flying a colorful parachute over a field.
+vsOn a clear sunny day outside with a beige field in the background, a person is taking a picture of a colored parachute in front as you see the photographer's tennis shoes appear in the camera shot.
+
+58 0.7439485192298889>0.7 A group laughing at each other.
+vsAsian children are listening to a performance of singing as one of them smiles widely as he turns toward the other children.
+
+62 0.7113789916038513>0.7 A reflection laying on the floor.
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+63 0.7572296857833862>0.7 A group sitting on a couch watching a movie on a couch.
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+66 0.7835422158241272>0.70883 A person flying a kite in a field.
+vsA person holds on to a kite controller outside on a cloudy day.
+
+67 0.7906196117401123>0.79046 A crowd playing with a hula hoop.
+vsA group of people are outside in the daytime, some of them are playing a game of catching balls in baskets.
+
+68 0.8799949288368225>0.78436 A young girl sitting at a desk in a classroom with her hands.
+vsA young Black girl seated at a desk in a classroom with her hands folded together in prayer.
+
+69 0.75822913646698>0.7 A bride standing with their wedding party.
+vsWith music in the background, outside in a forest area during the day, a young military man in his uniform is marrying a young lady wearing a white wedding dress and veil and is at the point of the ceremony where he gets the rings from his friend also in uniform.
+
+71 0.800239086151123>0.75817 A white dress walking down a dirt road in the woods.
+vsA woman in a white dress walks towards another woman standing still in the woods on a sunny day.
+
+73 0.7916656732559204>0.73643 People walking across a bridge over a river.
+vsA man and woman are wearing their helmets, and walking on a bridge on top o a river with their bikes in the daytime.
+
+75 0.7828772664070129>0.77078 A man standing with his shoe.
+vsA white man with a tan outfit and brown shoes moves his foot and knee from left to right foot repeatedly.
+
+76 0.761841893196106>0.72414 A group walking down a street.
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+79 0.904005229473114>0.86104 A sailboat in the water with a blue sail.
+vsA blue sailing boat is sailing in a beautiful blue sea in the daytime.
+
+80 0.7803438901901245>0.74235 A man standing next to another man in an office.
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.7460988759994507>0.70234 A group standing in a crowd of people.
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+85 0.7929470539093018>0.7433 A television screen kissing on it.
+vsA man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+86 0.7149688005447388>0.71405 A person skiing down a snow covered slope down a ramp.
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+90 0.7488979697227478>0.7 A screenshot preparing food in a kitchen.
+vsSome workers are packaging some food indoors.
+
+91 0.7237817645072937>0.7 A room standing in a kitchen.
+vsA manin a black and white shirt has his head and one hand stuck inside a red tennis racket in a room with a fireplace.
+
+93 0.860571563243866>0.85677 A bride and groom cutting their wedding cake.
+vsA bride and groom share their wedding cake while their guests watch in a room.
+
+95 0.8960688710212708>0.89534 A group of people on a stage on a concert stage.
+vsA musical group performing on a stage in an indoor venue.
+
+97 0.8196728229522705>0.78392 Two women sitting on a bench.
+vsA woman in a black outfit talks to another woman sitting on a bench outside on a sunny day.
+
+99 0.7774393558502197>0.74236 A rooster standing on a wire.
+vsA rooster is crowing outside in the daytime.
+
+4 0.789566695690155>0.73588 A group standing around a table.
+vsA crowd of people cheering in an enclosed space.
+
+8 0.832150936126709>0.82139 A black bird standing on a rock in the water.
+vsA black bird with a long orange beak picking food from the rocks next to a body of water in the sunlight,
+
+13 0.7077372074127197>0.7 A man standing next to a tree.
+vsA man brings a chair for a man digging a hole to sit outside near an area with trees.
+
+17 0.7108301520347595>0.7 A man standing in front.
+vsA girl wearing her ice skate shoes is getting up and looking sadly at another person outdoors where there are piles of snow in the daytime.
+
+22 0.7091560959815979>0.7 A woman sitting on a bench.
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+26 0.7559204697608948>0.7 A group playing a game on a field.
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+32 0.7238900065422058>0.71778 A man wearing a suit in a room.
+vsA female with long hair and beautiful voice is singing behind curtains indoors.
+
+36 0.754555344581604>0.7378 A person holding a cell phone in front of a television.
+vsA man watches a computer screen with a woman modeling an outfit.
+
+46 0.7055106163024902>0.7 A man sitting on a bench.
+vsA lady is laying down some flowers on the ground in front of a tree in the woods and a background voice is playing.
+
+47 0.7385385036468506>0.7 A man sitting in front of a laptop computer.
+vsA white male seated in an office in front of black equipment near a window.
+
+55 0.7458928227424622>0.7073 A group playing a game on a field.
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.728522539138794>0.7 The sky holding a kite in the sky.
+vsA person is above some hang gliding through the sky on a sunny day.
+
+58 0.7123473882675171>0.7 A group sitting around a table.
+vsSeveral young Asian children seated closely together in a room smiling.
+
+62 0.7052817940711975>0.7 A person sitting in a chair.
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+82 0.7174023389816284>0.70234 A man standing around a table.
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+90 0.7172679305076599>0.7 A person holding a piece on a plate.
+vsSome workers are packaging some food indoors.
+
+99 0.7669917345046997>0.74236 A bird sitting on a branch of a tree.
+vsOutside in the daytime by a tree a rooster begins to sing.
+
+1 0.8021783828735352>0.75469 A young man is playing the guitar on a stage
+vsA man wearing a black jacket is playing a guitar indoors.
+
+2 0.7760552167892456>0.76763 A man in a blue shirt and wearing sunglasses is driving a vehicle
+vsAn Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+4 0.7924859523773193>0.73588 A group of people are sitting and talking into a microphone
+vsA crowd of people cheering in an enclosed space.
+
+11 0.7581835389137268>0.7 A man with a beard speaks to another woman indoors
+vsMiddle aged with man with receding hairline and glasses is speaking in French indoors, explaining a chart
+
+12 0.7728270292282104>0.74347 A group of soccer players are practicing on a soccer field in the daytime
+vsYoung adult males playing soccer in an indoor venue.
+
+14 0.7325632572174072>0.7 A young man and a young man are dancing in the middle of the beach at day time
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+20 0.754878044128418>0.7 A group of people are walking in the woods with their backs on them outside on a sunny day
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.701607346534729>0.7 A young woman with long dark hair is sitting in a room talking to someone in a room
+vsAn Asian man and woman are dressed casually and seated on a bench indoors talking.
+
+26 0.760047972202301>0.7 A group of men in green shirts are playing soccer balls in an outdoor field
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+29 0.8155695199966431>0.7 A group of men are sitting on a bed watching something in a room
+vsPeople are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+30 0.7845153212547302>0.75242 A table is taken of a book on the table
+vsOn a tan table indoors there are 9 cards with envelopes being displayed.
+
+33 0.8166696429252625>0.7 A football game is played in the middle of the field
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+34 0.8855510950088501>0.87413 A woman and a man are sitting on a sofa in a room
+vsTwo young men and women sit in a living room .
+
+36 0.8483763933181763>0.7378 A woman and a man are looking at pictures on a screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+39 0.7592899203300476>0.7 A bride and groom walk down the aisle of a wedding party outside on a sunny day
+vsA bride is smilingly kissing and looking at the camera outdoors where there is a lot of people and another bride and groom.
+
+42 0.7472100853919983>0.7 A man in a red hat talks into a microphone while a man in a suit and a woman with a microphone behind him
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+48 0.7257969975471497>0.7 A little boy in a green shirt sits at a table in front of a table and talks to another woman in a green shirt
+vsThree children with light brown hair, one boy dressed in red t-shirt, another boy dressed in blue t-shirt and a girl dressed in a green shirt are in front of a table while the girl is explaining her work to others.
+
+49 0.8033279180526733>0.78808 A bride is indoors in the daytime
+vsA group of people are taking photos of a bride and her wedding party in a large bedroom.
+
+52 0.834558367729187>0.82298 A bride and groom exchange a wedding ceremony
+vsA bride and groom are dancing indoors while the people are clapping and happy for them.
+
+55 0.7187260389328003>0.7073 a soccer player scores a goal on a soccer field at daytime
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7128260135650635>0.7 A person with a parachute is seen gliding in the air on a sunny day
+vsOn a clear sunny day outside with a beige field in the background, a person is taking a picture of a colored parachute in front as you see the photographer's tennis shoes appear in the camera shot.
+
+61 0.7217233777046204>0.7 A young man wearing a plaid shirt is singing in the middle of a living room
+vsA young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+65 0.7120814919471741>0.7 A group of young men are running on the grass outside on a sunny day
+vsAthletes in red shirts are on the ground doing push ups outside on a field on a sunny day.
+
+69 0.7219986915588379>0.7 A man and a woman wearing
+vsWith music in the background, outside in a forest area during the day, a young military man in his uniform is marrying a young lady wearing a white wedding dress and veil and is at the point of the ceremony where he gets the rings from his friend also in uniform.
+
+80 0.8281641602516174>0.74235 A man and a woman are standing together in a room with a man and another man comes on
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+85 0.7863360047340393>0.7433 A young white woman is singing and playing a young man
+vsA man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+86 0.7180672287940979>0.71405 A person on a snowboard track down a snowy hill
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+89 0.7536737322807312>0.73482 A group of men dressed in fatigues hats are standing around in a room with a wooden wall
+vsFour middle-age white males dressed in uniforms standing in a room looking at and handling a small object.
+
+90 0.7391150593757629>0.7 A person is putting some stuff in a restaurant
+vsThe beginning of a film shows indoors someone wrapping some food in plastic bags.
+
+91 0.7232949137687683>0.7 A young white man with a beard and a mustache is playing a guitar in a room
+vsA man with beard and mustache is squeezing himself into a tennis racket indoors.
+
+95 0.9270814657211304>0.89534 A group of people are performing on a stage
+vsA musical group performing on a stage in an indoor venue.
+
+100 0.7436853647232056>0.7 A man in a black shirt walks in a large room with a white wall
+vsA man in a black shirt walks toward a piece of art that is on the floor.
+
+1 0.7564036846160889>0.75469 A guitar is playing a guitar on a stage
+vsA man wearing a black jacket is playing a guitar indoors.
+
+2 0.8196114897727966>0.76763 A man in a blue shirt and a blue baseball cap drives a car and opens the door of a vehicle
+vsAn Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+4 0.7870450019836426>0.73588 A group of young people are sitting in a classroom
+vsA crowd of people cheering in an enclosed space.
+
+11 0.7423437833786011>0.7 man speaks into the camera
+vsMiddle aged with man with receding hairline and glasses is speaking in French indoors, explaining a chart
+
+12 0.7942012548446655>0.74347 a group of people playing a soccer match
+vsYoung adult males playing soccer in an indoor venue.
+
+14 0.7454982995986938>0.7 2 men are dancing on a beach
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+16 0.8517935276031494>0.75823 A group of people are standing in front of a van to a group of people on a sunny day
+vsA group of people waving stand in front of an open vehicle outside on a sunny day.
+
+20 0.7773768901824951>0.7 A group of people are walking in a park in the daytime
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.7667579650878906>0.7 a man and a woman sit on a bench in front of a man in a black and white shirt and black pants
+vsA woman in a blue jean shirt sits next to a man on a bench talking into the camera.
+
+26 0.7328217625617981>0.7 A group of men are playing in a field on a sunny day
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+29 0.7340940833091736>0.7 A group of men are sitting on the floor of a room
+vsPeople are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+33 0.7613202929496765>0.7 Football game in which a player makes a touchdown
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+36 0.8800657987594604>0.7378 A man is looking at a computer screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7138651013374329>0.7 A man in a white shirt and black pants stands in front of a mirror in a room
+vsIn a bedroom with a large floor window in the daylight, a young man in black pants and white t-shirt is putting on his black shoes while music is playing in the background.
+
+43 0.833275318145752>0.78212 at night a man walks away from the car and then the car starts to the car
+vsA person walking at night in an unlit outdoor parking lot, tries to open the driver's side door of a locked car.
+
+48 0.7659837603569031>0.7 Two men sit at table in front of a table and one of them talks to the camera
+vsTwo young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+55 0.8175927400588989>0.7073 a group of people playing a soccer match
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.707439661026001>0.7 A person is seen gliding in the air
+vsA person in an orange and blue hot balloon is about to land while another one wearing black shoes is following him/her in the daytime.
+
+61 0.7286325097084045>0.7 A young man wearing a blue
+vsA boy is singing in the front of a big room and a girl is dancing in the back in the daytime.
+
+63 0.7066594362258911>0.7 A group of men and a woman are singing together in a room
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+82 0.7693702578544617>0.70234 in the daytime a man sits on the ground and speaks into the camera
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+86 0.7282094359397888>0.71405 A snow boarder comes down a snow covered hill in the snow
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+90 0.7532185316085815>0.7 A man in a white shirt is writing something from a table
+vsSome workers are packaging some food indoors.
+
+95 0.9051071405410767>0.89534 A group of dancers are performing on a stage
+vsA musical group performing on a stage in an indoor venue.
+
+1 0.8021783828735352>0.75469 A young man is playing the guitar on a stage
+vsA man wearing a black jacket is playing a guitar indoors.
+
+2 0.7760552167892456>0.76763 A man in a blue shirt and wearing sunglasses is driving a vehicle
+vsAn Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+4 0.7924859523773193>0.73588 A group of people are sitting and talking into a microphone
+vsA crowd of people cheering in an enclosed space.
+
+11 0.7581835389137268>0.7 A man with a beard speaks to another woman indoors
+vsMiddle aged with man with receding hairline and glasses is speaking in French indoors, explaining a chart
+
+12 0.7728270292282104>0.74347 A group of soccer players are practicing on a soccer field in the daytime
+vsYoung adult males playing soccer in an indoor venue.
+
+14 0.7325632572174072>0.7 A young man and a young man are dancing in the middle of the beach at day time
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+20 0.754878044128418>0.7 A group of people are walking in the woods with their backs on them outside on a sunny day
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.701607346534729>0.7 A young woman with long dark hair is sitting in a room talking to someone in a room
+vsAn Asian man and woman are dressed casually and seated on a bench indoors talking.
+
+26 0.760047972202301>0.7 A group of men in green shirts are playing soccer balls in an outdoor field
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+29 0.8155695199966431>0.7 A group of men are sitting on a bed watching something in a room
+vsPeople are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+30 0.7845153212547302>0.75242 A table is taken of a book on the table
+vsOn a tan table indoors there are 9 cards with envelopes being displayed.
+
+33 0.8166696429252625>0.7 A football game is played in the middle of the field
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+34 0.8855510950088501>0.87413 A woman and a man are sitting on a sofa in a room
+vsTwo young men and women sit in a living room .
+
+36 0.8483763933181763>0.7378 A woman and a man are looking at pictures on a screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+39 0.7592899203300476>0.7 A bride and groom walk down the aisle of a wedding party outside on a sunny day
+vsA bride is smilingly kissing and looking at the camera outdoors where there is a lot of people and another bride and groom.
+
+42 0.7472100853919983>0.7 A man in a red hat talks into a microphone while a man in a suit and a woman with a microphone behind him
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+48 0.7257969975471497>0.7 A little boy in a green shirt sits at a table in front of a table and talks to another woman in a green shirt
+vsThree children with light brown hair, one boy dressed in red t-shirt, another boy dressed in blue t-shirt and a girl dressed in a green shirt are in front of a table while the girl is explaining her work to others.
+
+49 0.8033279180526733>0.78808 A bride is indoors in the daytime
+vsA group of people are taking photos of a bride and her wedding party in a large bedroom.
+
+52 0.834558367729187>0.82298 A bride and groom exchange a wedding ceremony
+vsA bride and groom are dancing indoors while the people are clapping and happy for them.
+
+55 0.7187260389328003>0.7073 a soccer player scores a goal on a soccer field at daytime
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7128260135650635>0.7 A person with a parachute is seen gliding in the air on a sunny day
+vsOn a clear sunny day outside with a beige field in the background, a person is taking a picture of a colored parachute in front as you see the photographer's tennis shoes appear in the camera shot.
+
+61 0.7217233777046204>0.7 A young man wearing a plaid shirt is singing in the middle of a living room
+vsA young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+65 0.7120814919471741>0.7 A group of young men are running on the grass outside on a sunny day
+vsAthletes in red shirts are on the ground doing push ups outside on a field on a sunny day.
+
+69 0.7219986915588379>0.7 A man and a woman wearing
+vsWith music in the background, outside in a forest area during the day, a young military man in his uniform is marrying a young lady wearing a white wedding dress and veil and is at the point of the ceremony where he gets the rings from his friend also in uniform.
+
+80 0.8281641602516174>0.74235 A man and a woman are standing together in a room with a man and another man comes on
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+85 0.7863360047340393>0.7433 A young white woman is singing and playing a young man
+vsA man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+86 0.7180672287940979>0.71405 A person on a snowboard track down a snowy hill
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+89 0.7536737322807312>0.73482 A group of men dressed in fatigues hats are standing around in a room with a wooden wall
+vsFour middle-age white males dressed in uniforms standing in a room looking at and handling a small object.
+
+90 0.7391150593757629>0.7 A person is putting some stuff in a restaurant
+vsThe beginning of a film shows indoors someone wrapping some food in plastic bags.
+
+91 0.7232949137687683>0.7 A young white man with a beard and a mustache is playing a guitar in a room
+vsA man with beard and mustache is squeezing himself into a tennis racket indoors.
+
+95 0.9270814657211304>0.89534 A group of people are performing on a stage
+vsA musical group performing on a stage in an indoor venue.
+
+100 0.7436853647232056>0.7 A man in a black shirt walks in a large room with a white wall
+vsA man in a black shirt walks toward a piece of art that is on the floor.
+
+1 0.8021783828735352>0.75469 A young man is playing the guitar on a stage
+vsA man wearing a black jacket is playing a guitar indoors.
+
+2 0.7760552167892456>0.76763 A man in a blue shirt and wearing sunglasses is driving a vehicle
+vsAn Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+4 0.7924859523773193>0.73588 A group of people are sitting and talking into a microphone
+vsA crowd of people cheering in an enclosed space.
+
+11 0.7581835389137268>0.7 A man with a beard speaks to another woman indoors
+vsMiddle aged with man with receding hairline and glasses is speaking in French indoors, explaining a chart
+
+12 0.7728270292282104>0.74347 A group of soccer players are practicing on a soccer field in the daytime
+vsYoung adult males playing soccer in an indoor venue.
+
+14 0.7325632572174072>0.7 A young man and a young man are dancing in the middle of the beach at day time
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+20 0.754878044128418>0.7 A group of people are walking in the woods with their backs on them outside on a sunny day
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.701607346534729>0.7 A young woman with long dark hair is sitting in a room talking to someone in a room
+vsAn Asian man and woman are dressed casually and seated on a bench indoors talking.
+
+26 0.760047972202301>0.7 A group of men in green shirts are playing soccer balls in an outdoor field
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+29 0.8155695199966431>0.7 A group of men are sitting on a bed watching something in a room
+vsPeople are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+30 0.7845153212547302>0.75242 A table is taken of a book on the table
+vsOn a tan table indoors there are 9 cards with envelopes being displayed.
+
+33 0.8166696429252625>0.7 A football game is played in the middle of the field
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+34 0.8855510950088501>0.87413 A woman and a man are sitting on a sofa in a room
+vsTwo young men and women sit in a living room .
+
+36 0.8483763933181763>0.7378 A woman and a man are looking at pictures on a screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+39 0.7592899203300476>0.7 A bride and groom walk down the aisle of a wedding party outside on a sunny day
+vsA bride is smilingly kissing and looking at the camera outdoors where there is a lot of people and another bride and groom.
+
+42 0.7472100853919983>0.7 A man in a red hat talks into a microphone while a man in a suit and a woman with a microphone behind him
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+48 0.7257969975471497>0.7 A little boy in a green shirt sits at a table in front of a table and talks to another woman in a green shirt
+vsThree children with light brown hair, one boy dressed in red t-shirt, another boy dressed in blue t-shirt and a girl dressed in a green shirt are in front of a table while the girl is explaining her work to others.
+
+49 0.8033279180526733>0.78808 A bride is indoors in the daytime
+vsA group of people are taking photos of a bride and her wedding party in a large bedroom.
+
+52 0.834558367729187>0.82298 A bride and groom exchange a wedding ceremony
+vsA bride and groom are dancing indoors while the people are clapping and happy for them.
+
+55 0.7187260389328003>0.7073 a soccer player scores a goal on a soccer field at daytime
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7128260135650635>0.7 A person with a parachute is seen gliding in the air on a sunny day
+vsOn a clear sunny day outside with a beige field in the background, a person is taking a picture of a colored parachute in front as you see the photographer's tennis shoes appear in the camera shot.
+
+61 0.7217233777046204>0.7 A young man wearing a plaid shirt is singing in the middle of a living room
+vsA young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+65 0.7120814919471741>0.7 A group of young men are running on the grass outside on a sunny day
+vsAthletes in red shirts are on the ground doing push ups outside on a field on a sunny day.
+
+69 0.7219986915588379>0.7 A man and a woman wearing
+vsWith music in the background, outside in a forest area during the day, a young military man in his uniform is marrying a young lady wearing a white wedding dress and veil and is at the point of the ceremony where he gets the rings from his friend also in uniform.
+
+80 0.8281641602516174>0.74235 A man and a woman are standing together in a room with a man and another man comes on
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+85 0.7863360047340393>0.7433 A young white woman is singing and playing a young man
+vsA man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+86 0.7180672287940979>0.71405 A person on a snowboard track down a snowy hill
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+89 0.7536737322807312>0.73482 A group of men dressed in fatigues hats are standing around in a room with a wooden wall
+vsFour middle-age white males dressed in uniforms standing in a room looking at and handling a small object.
+
+90 0.7391150593757629>0.7 A person is putting some stuff in a restaurant
+vsThe beginning of a film shows indoors someone wrapping some food in plastic bags.
+
+91 0.7232949137687683>0.7 A young white man with a beard and a mustache is playing a guitar in a room
+vsA man with beard and mustache is squeezing himself into a tennis racket indoors.
+
+95 0.9270814657211304>0.89534 A group of people are performing on a stage
+vsA musical group performing on a stage in an indoor venue.
+
+100 0.7436853647232056>0.7 A man in a black shirt walks in a large room with a white wall
+vsA man in a black shirt walks toward a piece of art that is on the floor.
+
+1 0.7839282751083374>0.75469 a young man is sitting in a room playing a guitar in front of a wall with posters
+vsAn Asian guitarist plays his guitar inside a bar with colorful posters on the wall.
+
+2 0.8611745834350586>0.76763 a man in a blue shirt and sunglasses is driving a car on a sunny day
+vsAn Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+3 0.8013219237327576>0.7878 a man in a green robe is standing in a bathroom in front of a shower and talking to the camera
+vsA white man bends forward while wearing a green bathrobe in a bathroom.
+
+5 0.9080944061279297>0.77818 a man in a purple shirt is standing on a trampoline and looking at the camera
+vsA man in a purple shirt jumps on a trampoline outside on a sunny day.
+
+8 0.8236789703369141>0.82139 a black bird with a red beak is standing on the rocks in front of the ocean on a sunny day
+vsA black bird with a long orange bill is pecking at the rock near a body of water on a sunny day.
+
+9 0.7950271368026733>0.76302 a person is plowing the soil with a green culter on a sunny day
+vsA wheel cultivator is used to prepare land for planting outside on a sunny day.
+
+11 0.7915915250778198>0.7 a man in a suit and glasses is talking to a man in front of a white board with a bar chart on it
+vsA man wearing glasses speaks in front of the camera discussing a chart that is being shown.
+
+12 0.7638366222381592>0.74347 a group of young men are kicking a soccer ball on a soccer court
+vsYoung adult males playing soccer in an indoor venue.
+
+17 0.7272219657897949>0.7 a young woman in a black jacket is sitting on a bench in the snow on a snowboard on a snowy day
+vsA white child dressed in black and ice skates gets up from a wooden bench in a snow-covered outdoor area and tries to ice skate.
+
+20 0.7103143930435181>0.7 a group of star wars stormtroos are walking in a park on a sunny day
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.7633179426193237>0.7 a young man and a woman are sitting on a bench in a room talking to each other
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.7343978881835938>0.7 a woman in a bikini is lying on a surf board in the ocean on a sunny day
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.784277081489563>0.7 a group of men are kicking a soccer ball on a soccer field
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+28 0.7416269779205322>0.70033 two young asian women in black skirts are dancing in front of a white wall
+vsTwo young ladies practicing dance moves in an indoor space.
+
+30 0.8204667568206787>0.75242 a table with lots of cards on it in a room
+vsTen cards with colorful drawings on a wooden table in a room.
+
+32 0.8320618271827698>0.71778 a silhouette of a woman is shown in a profile on a white background
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.7782825827598572>0.7 a football team is playing on a football field at night
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+35 0.8802323937416077>0.87845 a man in a white shirt is throwing a bowling ball in a bowling alley
+vsA moderately heavy set white man with a white shirt with a stripe is throwing the green bowling ball in a bowling ball place/ring.
+
+36 0.815670371055603>0.7378 a man is looking at a laptop screen with a picture of a woman in a dress on it
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.80129075050354>0.7 a young asian man in a white shirt and black pants is sitting on a bed in front of a window in a room
+vsA young man, dressed in a white T-shirt, black slacks and glasses, is seated on the side of a bed near a window, putting his shoes on.
+
+39 0.7055747509002686>0.7 a bride in a white wedding dress is dancing on the steps of a staircase outside on a sunny day
+vsA bride holding red roses throws kisses into the camera and her husband joins her kissing her cheek in front of a long staircase.
+
+41 0.8662734031677246>0.86374 a group of people are gathered around a motorcycle on a sunny day
+vsA crowd of people standing around a white vehicle and a motorcycle on a sunny day in the middle of a street.
+
+42 0.7503578662872314>0.7 a woman in a black jacket and glasses is holding a hat on her head and talking into a microphone
+vsWhite Man with long brown hair and glasses speak into a Microphone holding up a blue cap with gold rim.
+
+43 0.7920374274253845>0.78212 a police car is parked in a parking lot at night in the dark
+vsA person walking at night in an unlit outdoor parking lot, tries to open the driver's side door of a locked car.
+
+44 0.7182364463806152>0.7 a man in an orange jacket is sitting at a table in front of a group of people under a tent outside on a sunny day
+vsA white male dressed in a red outfit is seated at a table outdoors on grass, while several other people are gathered around him.
+
+46 0.7551124095916748>0.7 a young asian woman in a white dress is sitting under a tree in the woods on a sunny day
+vsA young white woman, in a lavender and white dress, is seated on the ground at the base of a very large tree in a heavily forested area.
+
+47 0.7400084733963013>0.7 a young man in a blue shirt is sitting in front of a mixing desk in a room
+vsA young man with black hair and a blue t-shirt with a large white flower imprinted on the front is seated inside a room in the daytime in front of a large music arrangement keyboard while listening intensively to someone speaking.
+
+48 0.7185440063476562>0.7 three young boys and a woman are sitting at a table in front of a table with a boy and a girl talking to the camera
+vsThree children with light brown hair, one boy dressed in red t-shirt, another boy dressed in blue t-shirt and a girl dressed in a green shirt are in front of a table while the girl is explaining her work to others.
+
+49 0.8411657214164734>0.78808 a group of women in wedding dresses are walking in a room in a house
+vsA bride in white with 2 young girls is white are being helped with their dresses by three other women as they stand inside a room in daylight.
+
+50 0.7955253720283508>0.7 a person is writing on a green board with a goldfish in a glass of water on a table
+vsA goldfish in a wine glass on a green table with two people wiping away water residue.
+
+51 0.7540880441665649>0.7 a woman in a yellow vietnamese hat is cooking on the street in a bowl with green onions on a sunny day
+vsOutdoors in the daytime in a market place street, a woman with a Vietnamese hat wearing a yellow jacket and pink slacks, is bending down preparing some food in two bowls.
+
+52 0.8445492386817932>0.82298 a bride and groom are walking down the aisle after a wedding ceremony in a church
+vsA newly married couple dance as they walk down the aisle while their guests clap.
+
+53 0.7773561477661133>0.73929 a man is opening the door of a car with a gas pump on a sunny day
+vsA man in blue pants hooks an electric charger up to his car outside on a sunny day.
+
+55 0.7429240345954895>0.7073 a soccer team scores a goal on a soccer field
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.8394569158554077>0.7 a person is paragliding in the sky over a field on a sunny day
+vsA person is above some hang gliding through the sky on a sunny day.
+
+57 0.8247541785240173>0.7571 a group of tanks are in a field on a cloudy day
+vsMilitary tanks maneuvering in grassy area during the day.
+
+58 0.7327186465263367>0.7 a young asian man in a green shirt is talking to a group of young children in a room
+vsInside in the daytime, a group of young kids and in particular 3 black haired boys, one in an orange t-shirt, another with a white shirt and the other with a green shirt, are listening and smiling to someone singing.
+
+59 0.7647889256477356>0.73718 a pair of diamond earrings are on a table
+vsA pair of dangling jeweled-earrings attached to a black cardboard on a wooden table.
+
+60 0.8482159972190857>0.84061 a man is driving in a car in a side view mirror of a car with a picture of a woman in the rear view mirror
+vsA woman sits inside of a car and you can see her smoking a cigarette through the side mirror.
+
+61 0.8093849420547485>0.7 a young boy in a black and white plaid shirt is singing in a room with a band
+vsA young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+62 0.7039225697517395>0.7 a black cat is lying on the floor in a room on the floor with a apple
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+64 0.9414712190628052>0.91886 a tiger is lying in the water in front of rocks in a body of water
+vsA tiger is lying down on a rock in the water in the daytime and behind him more rocks.
+
+66 0.7130927443504333>0.70883 a man is hanging on a string on a hang glider in the air
+vsOutdoors, a person is flying and manipulating some strings.
+
+67 0.8229491710662842>0.79046 a group of people are playing on a basketball court in a park on a sunny day
+vsA group of young people in a park in the middle of a city playing 'basketball' with small plastic baskets held by hand to catch the balls.
+
+68 0.8307803273200989>0.78436 a young black girl in a classroom is sitting at a desk in front of a red box and praying
+vsA young Black girl seated at a desk in a classroom with her hands folded together in prayer.
+
+69 0.7132065892219543>0.7 a man in a military uniform is talking to a bride and groom outside on a sunny day
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+71 0.8303507566452026>0.75817 a young asian woman in a white shirt is standing in the woods with a woman in the background
+vsA woman wearing a white dress is standing in the woods in the daytime while a clone of her is moving in the background.
+
+73 0.8406640291213989>0.73643 two bicyclists are crossing a suspension bridge on a river on a cloudy day
+vsA man and woman walk their bikes across a bridge over water and stop to talk on a cloudy day.
+
+75 0.8038106560707092>0.77078 a man in brown shoes is standing on the floor in a room on a wooden floor
+vsA man wearing glasses, gray pants and black shoes is moving his feet and showing others inside a room.
+
+76 0.8383829593658447>0.72414 a group of people are marching in the street with a red flag on a sunny day
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+79 0.9513218402862549>0.86104 a sailboat with a blue sail is sailing in the ocean on a sunny day
+vsA blue sailing boat is sailing in a beautiful blue sea in the daytime.
+
+80 0.7709439992904663>0.74235 a white man in a black jacket is talking to a little girl in a room with a man in a suit
+vsA man with gray hair introduces his daughter to another man in a room with a glass wall.
+
+81 0.8404040336608887>0.75737 a man in a black shirt and helmet is riding a bike on a path in a park on a sunny day
+vsA man in a helmet rides a scooter on a path in a park on a sunny day.
+
+82 0.7698506116867065>0.70234 a man in a yellow shirt and glasses is talking on a bullhorn outside on a sunny day
+vsOutside on a sunny day, a man wearing glasses and a yellow t-shirt surrounded by other people is talking through using a hand microphone.
+
+84 0.7702541947364807>0.71953 a white tiger is inside a cage in a zoo on a sunny day
+vsTwo black and white tigers are in a large cage outside on a sunny day.
+
+85 0.7690595388412476>0.7433 a man and a woman are kissing on a tv screen in a room
+vsA computer screen showing a white man and a white woman caressing each other and starting to dance.
+
+86 0.8204697370529175>0.71405 a group of people are riding sleds down a snow covered slope on a sunny day
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+89 0.743237316608429>0.73482 three men and a woman are standing in a room with a man in a trench coat and a woman in a hat
+vsFour middle-age white males dressed in uniforms standing in a room looking at and handling a small object.
+
+92 0.807163417339325>0.74017 a young black man in a black shirt is standing in front of a chalk board in a room
+vsBrown skinned man stands near a blackboard explaining the drawing on the board inside a room during daytime.
+
+95 0.8961731195449829>0.89534 a group of men and women are dancing on a stage in front of a crowd
+vsA group of people dancing on an indoor stage while the band is playing behind them.
+
+97 0.8295590877532959>0.78392 a woman in a black coat is sitting on a bench and talking to a woman on a bench in front of a white
+vsOutside in the daytime in the cold, a blond young girl is sitting on a bench while another young woman with black hair is talking to her.
+
+99 0.7581756711006165>0.74236 a red and black rooster is standing in a tree outside on a sunny day
+vsA colorful rooster crows sitting on a tree trunk during daylight.
+
+1 0.8148950338363647>0.75469 a young man is playing a guitar in a room in front of posters
+vsAn Asian guitarist plays his guitar inside a bar with colorful posters on the wall.
+
+2 0.9231733679771423>0.76763 a man in a blue shirt and a hat is driving a car on a sunny day
+vsAn Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+3 0.8407859206199646>0.7878 a man in a green robe is standing in a bathroom in front of a shower in a bathroom
+vsA white man bends forward while wearing a green bathrobe in a bathroom.
+
+5 0.9607453346252441>0.77818 a man in a purple shirt is standing on a trampoline on a sunny day
+vsA man in a purple shirt jumps on a trampoline outside on a sunny day.
+
+8 0.8236789703369141>0.82139 a black bird with a red beak is standing on the rocks in front of the ocean on a sunny day
+vsA black bird with a long orange bill is pecking at the rock near a body of water on a sunny day.
+
+9 0.7817522883415222>0.76302 a person is plowing the ground with a green lawn culter on a sunny day
+vsA wheel cultivator is used to prepare land for planting outside on a sunny day.
+
+11 0.755804717540741>0.7 a man is talking in front of a white board with a chart on it
+vsA man wearing glasses speaks in front of the camera discussing a chart that is being shown.
+
+12 0.7678409814834595>0.74347 a group of young men are kicking a soccer ball on a soccer field
+vsYoung adult males playing soccer in an indoor venue.
+
+13 0.7010745406150818>0.7 two men are standing in a field with a dead animal on the ground in the woods on a sunny day
+vsTwo white males dressed casually in a wooded area with a folding chair and a shovel during the daytime.
+
+14 0.7632359862327576>0.7 two men are dancing in the desert on a sunny day
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+17 0.7839189767837524>0.7 a young woman in a black jacket is sitting on a bench in the snow on a snowy day
+vsA young boy in a black snow suit gets up from a wooden bench outside surrounded by snow.
+
+19 0.7970258593559265>0.74081 a group of lights are hanging from the ceiling in a room
+vsIndoor space with rectangular wires suspended from a brown ceiling.
+
+20 0.722130298614502>0.7 a group of stormtroos are walking in a park on a sunny day
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.7633179426193237>0.7 a young man and a woman are sitting on a bench in a room talking to each other
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.7343978881835938>0.7 a woman in a bikini is lying on a surf board in the ocean on a sunny day
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.8163959383964539>0.7 a group of soccer players are kicking the ball on a soccer field
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+28 0.740524172782898>0.70033 two young asian women in black skirts and white shirts are dancing in a room
+vsTwo young ladies practicing dance moves in an indoor space.
+
+29 0.7043686509132385>0.7 a man in a white tank top is sitting on a couch in front of a tv in a room with a group of people
+vsOne Black male seated on a beige couch looking at an electronic and a second Black laying on the same couch looking at a photo album in a room.
+
+30 0.8534289002418518>0.75242 a group of cards are on a table in a room
+vsTen cards with colorful drawings on a wooden table in a room.
+
+32 0.8900526762008667>0.71778 a silhouette of a woman is shown in a profile
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.7651531100273132>0.7 a football player scores a touchdown on a football field at night
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+35 0.8802323937416077>0.87845 a man in a white shirt is throwing a bowling ball in a bowling alley
+vsA moderately heavy set white man with a white shirt with a stripe is throwing the green bowling ball in a bowling ball place/ring.
+
+36 0.8885720372200012>0.7378 a man is looking at a computer screen with a picture of a woman in a dress on it
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7728073596954346>0.7 a man in a white shirt and black pants is sitting on a bed in front of a window in a room
+vsA young man, dressed in a white T-shirt, black slacks and glasses, is seated on the side of a bed near a window, putting his shoes on.
+
+41 0.8999930024147034>0.86374 a group of people are standing around a motorcycle on a sunny day
+vsA group of men are standing around and looking at a large motorcycle outside on a sunny day.
+
+42 0.7374746203422546>0.7 a woman is holding a black hat and a microphone in front of a microphone
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+43 0.7920374274253845>0.78212 a police car is parked in a parking lot at night in the dark
+vsA person walking at night in an unlit outdoor parking lot, tries to open the driver's side door of a locked car.
+
+44 0.7479845285415649>0.7 a man in an orange jacket is sitting at a table in front of a group of people outside on a sunny day
+vsA white male dressed in a red outfit is seated at a table outdoors on grass, while several other people are gathered around him.
+
+46 0.7551124095916748>0.7 a young asian woman in a white dress is sitting under a tree in the woods on a sunny day
+vsA young white woman, in a lavender and white dress, is seated on the ground at the base of a very large tree in a heavily forested area.
+
+47 0.7153908014297485>0.7 a young man in a blue shirt is sitting in front of a mixing desk in a recording room
+vsA young man with black hair and a blue t-shirt with a large white flower imprinted on the front is seated inside a room in the daytime in front of a large music arrangement keyboard while listening intensively to someone speaking.
+
+48 0.7398830652236938>0.7 a young boy and two girls are sitting at a table with a boy and a girl in a room
+vsA young girl and two boys sit in front of the camera talking in a room with a white drape behind them.
+
+49 0.8431188464164734>0.78808 a group of brides are walking in a room in a wedding dress
+vsA bride in white with 2 young girls is white are being helped with their dresses by three other women as they stand inside a room in daylight.
+
+50 0.7955253720283508>0.7 a person is writing on a green board with a goldfish in a glass of water on a table
+vsA goldfish in a wine glass on a green table with two people wiping away water residue.
+
+51 0.788273811340332>0.7 a woman in a yellow vietnamese hat is cooking in a bowl on the street on a sunny day
+vsOutdoors in the daytime in a market place street, a woman with a Vietnamese hat wearing a yellow jacket and pink slacks, is bending down preparing some food in two bowls.
+
+52 0.8450312614440918>0.82298 a bride and groom are walking down the aisle of a wedding ceremony in a church
+vsA newly married couple dance as they walk down the aisle while their guests clap.
+
+53 0.7582942247390747>0.73929 a man in a white shirt is opening the door of a blue car with a gas pump
+vsA man in blue pants hooks an electric charger up to his car outside on a sunny day.
+
+55 0.7132343053817749>0.7073 a soccer player scores a goal on a soccer field
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.8394569158554077>0.7 a person is paragliding in the sky over a field on a sunny day
+vsA person is above some hang gliding through the sky on a sunny day.
+
+57 0.8362507224082947>0.7571 a group of tanks are driving in a field on a sunny day
+vsMilitary tanks maneuvering in grassy area during the day.
+
+58 0.7258142828941345>0.7 a young asian man in a green shirt is talking to a group of children in a room
+vsInside in the daytime, a group of young kids and in particular 3 black haired boys, one in an orange t-shirt, another with a white shirt and the other with a green shirt, are listening and smiling to someone singing.
+
+59 0.7647889256477356>0.73718 a pair of diamond earrings are on a table
+vsA pair of dangling jeweled-earrings attached to a black cardboard on a wooden table.
+
+60 0.8462506532669067>0.84061 a man is driving in a car in a rear view mirror on the side view mirror of a car
+vsA woman sits inside of a car and you can see her smoking a cigarette through the side mirror.
+
+61 0.8721811175346375>0.7 a young boy in a black and white plaid shirt is singing in a room with a woman in the background
+vsA young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+62 0.729038417339325>0.7 a black and white cat is lying on the floor in a room on the floor
+vsA woman with black hair and black pants and top is lying on her side on a white kitchen floor.
+
+64 0.9414712190628052>0.91886 a tiger is lying in the water in front of rocks in a body of water
+vsA tiger is lying down on a rock in the water in the daytime and behind him more rocks.
+
+67 0.8175976276397705>0.79046 a group of people are playing on a basketball court on a sunny day in a park
+vsA group of young people in a park in the middle of a city playing 'basketball' with small plastic baskets held by hand to catch the balls.
+
+68 0.8701671957969666>0.78436 a young black girl in a school uniform is sitting at a desk in a classroom
+vsA young Black girl seated at a desk in a classroom with her hands folded together in prayer.
+
+69 0.7756838798522949>0.7 a bride and groom are standing in front of a wedding ceremony outside on a sunny day
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+71 0.7628538608551025>0.75817 a young asian woman in a white shirt is standing in the woods on a sunny day
+vsA woman wearing a white dress is standing in the woods in the daytime while a clone of her is moving in the background.
+
+73 0.8290836215019226>0.73643 two bicyclists are riding on a suspension bridge over a river on a cloudy day
+vsA man and woman walk their bikes across a bridge over water and stop to talk on a cloudy day.
+
+75 0.8038106560707092>0.77078 a man in brown shoes is standing on the floor in a room on a wooden floor
+vsA man wearing glasses, gray pants and black shoes is moving his feet and showing others inside a room.
+
+76 0.8031231164932251>0.72414 a group of people are marching on the street in a parade on a sunny day
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+79 0.8635150790214539>0.86104 a sailboat is sailing in the ocean on a sunny day
+vsSmall sailboat with blue sails is gliding and turning on the blue water on a sunny day.
+
+80 0.7940096855163574>0.74235 a man in a black jacket is talking to a little girl in a room with a man in a suit
+vsA man with gray hair introduces his daughter to another man in a room with a glass wall.
+
+81 0.8107227087020874>0.75737 a young man in a black shirt and helmet is riding a bike on a path in a park on a sunny day
+vsA man in a helmet rides a scooter on a path in a park on a sunny day.
+
+82 0.7791863679885864>0.70234 a man in a yellow shirt and glasses is talking into a megaphone outside on a sunny day
+vsOutside on a sunny day, a man wearing glasses and a yellow t-shirt surrounded by other people is talking through using a hand microphone.
+
+84 0.7852814197540283>0.71953 a white tiger is in a cage in a zoo on a sunny day
+vsTwo black and white tigers are in a large cage outside on a sunny day.
+
+85 0.750771164894104>0.7433 a man and a woman are kissing in front of a tv in a room
+vsA computer screen showing a white man and a white woman caressing each other and starting to dance.
+
+86 0.828508734703064>0.71405 a group of people are sliding down a snow covered hill on sleds on a sunny day
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+87 0.7778379321098328>0.7 a young woman in a pink shirt and a man in a red jacket are standing on the beach with a green bucket and a
+vsA lady, holding a green bucket, is asking a man if he wants a clam but he said maybe later, held her hand and walked away together outdoors in the daytime
+
+88 0.7477495670318604>0.7 a man in a black shirt is talking to a red ball on a table in a room
+vsYoung man with black hair beard and mustache looks into a red ball, then looks up in surprise inside a room,
+
+91 0.7603367567062378>0.7 a man in a white shirt and black vest is holding a red tie in front of a fireplace in a living room
+vsA white male dressed in black and white checked long sleeved shirt and a black vest, standing in front of an unlit fireplace while tied up with a burgundy metal device.
+
+92 0.807163417339325>0.74017 a young black man in a black shirt is standing in front of a chalk board in a room
+vsBrown skinned man stands near a blackboard explaining the drawing on the board inside a room during daytime.
+
+94 0.8407110571861267>0.8314 a person is sitting at a table with a cup of coffee and a spoon in a coffee cup
+vsA person's hand drops a white pill into a cup of coffee and stirs it with a spoon indoors.
+
+95 0.8961731195449829>0.89534 a group of men and women are dancing on a stage in front of a crowd
+vsA group of people dancing on an indoor stage while the band is playing behind them.
+
+97 0.8295590877532959>0.78392 a woman in a black coat is sitting on a bench and talking to a woman on a bench in front of a white
+vsOutside in the daytime in the cold, a blond young girl is sitting on a bench while another young woman with black hair is talking to her.
+
+98 0.8165805339813232>0.80408 a young man in a suit is holding a bouquet of flowers and talking to a group of people outside on a sunny day
+vsA young Asian man dressed in a gray suit, standing outside in a crowd of people and holding a bouquet of flowers.
+
+99 0.7880516648292542>0.74236 a rooster is standing in a tree on a sunny day
+vsA colorful rooster crows sitting on a tree trunk during daylight.
+
+1 0.8321529626846313>0.75469 a man is playing a guitar in a room with posters on the wall
+vsAn Asian guitarist plays his guitar inside a bar with colorful posters on the wall.
+
+2 0.8611745834350586>0.76763 a man in a blue shirt and sunglasses is driving a car on a sunny day
+vsAn Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+3 0.8028588891029358>0.7878 a shirtless man in a green robe is standing in a bathroom in front of a shower
+vsA white man bends forward while wearing a green bathrobe in a bathroom.
+
+4 0.8205443024635315>0.73588 a large group of people are posing for a photo in front of a crowd
+vsA crowd of people cheering in an enclosed space.
+
+5 0.8142999410629272>0.77818 a man in a purple shirt and jeans is standing on a trampoline in a room
+vsA man in a purple shirt jumps on a trampoline outside on a sunny day.
+
+8 0.8341670036315918>0.82139 a black bird with a red beak is standing on the rocks near the ocean on a sunny day
+vsA black bird with a long orange bill is pecking at the rock near a body of water on a sunny day.
+
+9 0.864982008934021>0.76302 a man is plowing a field with a green culter on a sunny day
+vsA male using a farm tool to plow the earth in a field of plants on a sunny day.
+
+10 0.765657365322113>0.74416 a bride and groom are standing in the grass with a veil on a sunny day in a garden
+vsA cartoon scene depicting a bride and groom with a photographer at an open green space with housing in the background on a sunny day
+
+11 0.7933342456817627>0.7 a man in a suit and glasses is talking to a man in front of a chart on a white board
+vsA man wearing glasses speaks in front of the camera discussing a chart that is being shown.
+
+12 0.8094800114631653>0.74347 a group of young men are kicking a soccer ball on a soccer field in a gym
+vsYoung adult males playing soccer in an indoor venue.
+
+14 0.7042422294616699>0.7 two black men in black jackets are dancing on the desert on a sunny day
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+17 0.7947952747344971>0.7 a young man in a black jacket and hat is standing on a bench in the snow on a snowy day
+vsA young boy in a black snow suit gets up from a wooden bench outside surrounded by snow.
+
+20 0.7103143930435181>0.7 a group of star wars stormtroos are walking in a park on a sunny day
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.7633179426193237>0.7 a young man and a woman are sitting on a bench in a room talking to each other
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.7240793704986572>0.7 a woman is lying on a surf board in the ocean on a sunny day
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.7950819134712219>0.7 a group of young men are kicking a soccer ball on a soccer field
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+28 0.7064920663833618>0.70033 two young asian women in a white shirt and black skirt are dancing in front of a wall
+vsTwo young ladies practicing dance moves in an indoor space.
+
+30 0.8495522141456604>0.75242 a group of cards are on a table in a room on a table in front of a group of people
+vsTen cards with colorful drawings on a wooden table in a room.
+
+32 0.849361002445221>0.71778 a silhouette of a woman is shown in a profile against a white background
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.7986564040184021>0.7 a football game is played on a football field at night
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+36 0.8994633555412292>0.7378 a man is looking at a laptop computer with a picture of a woman in a dress on the screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.8030183911323547>0.7 a man in a white shirt and black pants is sitting on the edge of a bed in front of a window
+vsA young man, dressed in a white T-shirt, black slacks and glasses, is seated on the side of a bed near a window, putting his shoes on.
+
+39 0.7234943509101868>0.7 a bride in a white wedding dress is walking down the stairs with a bouquet of flowers in her hand on a sunny day
+vsA bride holding red roses throws kisses into the camera and her husband joins her kissing her cheek in front of a long staircase.
+
+41 0.8999930024147034>0.86374 a group of people are standing around a motorcycle on a sunny day
+vsA group of men are standing around and looking at a large motorcycle outside on a sunny day.
+
+42 0.7370536923408508>0.7 a woman is holding a black hat and a microphone in front of a microphone in a room
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+43 0.8907920718193054>0.78212 a man is walking with a flashlight in front of a car at night on the street
+vsA man walks to a car parked under a lamp post at night
+
+44 0.7035273313522339>0.7 a man in a orange jacket and hat is sitting at a table in front of a group of people under a tent outside on a sunny day
+vsA white male dressed in a red outfit is seated at a table outdoors on grass, while several other people are gathered around him.
+
+46 0.7551124095916748>0.7 a young asian woman in a white dress is sitting under a tree in the woods on a sunny day
+vsA young white woman, in a lavender and white dress, is seated on the ground at the base of a very large tree in a heavily forested area.
+
+47 0.7153908014297485>0.7 a young man in a blue shirt is sitting in front of a mixing desk in a recording room
+vsA young man with black hair and a blue t-shirt with a large white flower imprinted on the front is seated inside a room in the daytime in front of a large music arrangement keyboard while listening intensively to someone speaking.
+
+48 0.8291587829589844>0.7 three young boys and a woman are sitting at a table in front of a table with a boy and a girl
+vsTwo young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+49 0.8404912948608398>0.78808 a group of bridesmaids are walking in a room in a wedding dress in a room with a woman
+vsA bride in white with 2 young girls is white are being helped with their dresses by three other women as they stand inside a room in daylight.
+
+50 0.8104504346847534>0.7 a person is holding a glass of water and a goldfish in a glass on a green table with a lego frame
+vsA goldfish in a wine glass on a green table with two people wiping away water residue.
+
+51 0.7931132912635803>0.7 a woman in a yellow vietnamese hat is cooking food in a bowl on the street on a sunny day
+vsOutdoors in the daytime in a market place street, a woman with a Vietnamese hat wearing a yellow jacket and pink slacks, is bending down preparing some food in two bowls.
+
+52 0.8289552330970764>0.82298 a bride and groom are walking down the aisle of a wedding ceremony with a group of people
+vsA white bride and groom dancing at an indoor venue, and guests standing on the sides applauding them.
+
+53 0.7704390287399292>0.73929 a man in a white shirt is opening the door of a blue car with an electric fuel nozzle
+vsA man in blue pants hooks an electric charger up to his car outside on a sunny day.
+
+55 0.8214646577835083>0.7073 a soccer team is scores a goal on a soccer field
+vsOutside in a soccer field, a team is congratulating each other as people in the stadium cheer.
+
+56 0.704709529876709>0.7 a person is flying with a parachute on a sunny day in the sky over a field
+vsOn a clear sunny day outside with a beige field in the background, a person is taking a picture of a colored parachute in front as you see the photographer's tennis shoes appear in the camera shot.
+
+57 0.8247541785240173>0.7571 a group of tanks are in a field on a cloudy day
+vsMilitary tanks maneuvering in grassy area during the day.
+
+58 0.7258142828941345>0.7 a young asian man in a green shirt is talking to a group of children in a room
+vsInside in the daytime, a group of young kids and in particular 3 black haired boys, one in an orange t-shirt, another with a white shirt and the other with a green shirt, are listening and smiling to someone singing.
+
+59 0.7647889256477356>0.73718 a pair of diamond earrings are on a table
+vsA pair of dangling jeweled-earrings attached to a black cardboard on a wooden table.
+
+61 0.7383071184158325>0.7 a young boy in a black and white plaid shirt is singing in a room with a guitar
+vsA young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+62 0.7890638709068298>0.7 a black and white cat is lying on the floor in a room on the floor with a woman
+vsA woman with black hair and black pants and top is lying on her side on a white kitchen floor.
+
+67 0.8168352246284485>0.79046 a group of people are playing basketball on a basketball court in a park on a sunny day
+vsA group of young people in a park in the middle of a city playing 'basketball' with small plastic baskets held by hand to catch the balls.
+
+68 0.8988855481147766>0.78436 a young black girl in a school uniform is sitting at a desk in a classroom with her hands folded
+vsA young Black girl seated at a desk in a classroom with her hands folded together in prayer.
+
+69 0.8031478524208069>0.7 a man in a military uniform is standing in front of a bride and groom outside on a sunny day
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+73 0.8406640291213989>0.73643 two bicyclists are crossing a suspension bridge on a river on a cloudy day
+vsA man and woman walk their bikes across a bridge over water and stop to talk on a cloudy day.
+
+75 0.8038106560707092>0.77078 a man in brown shoes is standing on the floor in a room on a wooden floor
+vsA man wearing glasses, gray pants and black shoes is moving his feet and showing others inside a room.
+
+76 0.8750463724136353>0.72414 a group of people are marching on the street with a drum in the street during the day
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+77 0.7704336643218994>0.76074 a man in a white jiu - jik is sitting on the floor in a gym with a man in a yellow belt
+vsA white male and a an Asian male engaged in a jiu jitsu match on a yellow mat with both wearing white uniforms .
+
+79 0.9513218402862549>0.86104 a sailboat with a blue sail is sailing in the ocean on a sunny day
+vsA blue sailing boat is sailing in a beautiful blue sea in the daytime.
+
+80 0.7881590723991394>0.74235 a man in a black jacket is talking to a white man in a room with a little girl in a room
+vsA man with gray hair introduces his daughter to another man in a room with a glass wall.
+
+81 0.8648673892021179>0.75737 a man with a helmet and a backpack is riding a bike on a path in a park on a sunny day
+vsA man in a helmet rides a scooter on a path in a park on a sunny day.
+
+82 0.7061956524848938>0.70234 a man in a yellow shirt and glasses is talking to a group of people on a sunny day
+vsA man wearing eyeglasses is talking on a big microphone outdoors in the daytime and other people are listening to him.
+
+84 0.7702541947364807>0.71953 a white tiger is inside a cage in a zoo on a sunny day
+vsTwo black and white tigers are in a large cage outside on a sunny day.
+
+85 0.7690595388412476>0.7433 a man and a woman are kissing on a tv screen in a room
+vsA computer screen showing a white man and a white woman caressing each other and starting to dance.
+
+86 0.8170571327209473>0.71405 a group of people are riding sleds down a snow covered slope on a sled on a sunny day
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+90 0.7233129739761353>0.7 a woman in a white shirt and yellow gloves is working at a desk in a room with stacks of food on it
+vsA person dressed in a white lab coat and yellow gloves placing a file in clear plastic, while standing close to a desk piled high with files.
+
+91 0.7104780673980713>0.7 a man in a white shirt and black vest is holding a red tie in front of a fireplace in a room with a deer head
+vsA white male dressed in black and white checked long sleeved shirt and a black vest, standing in front of an unlit fireplace while tied up with a burgundy metal device.
+
+92 0.7694467306137085>0.74017 a young black man in a black shirt is standing in front of a white board in a room with a blackboard
+vsAn African American man teaches a lesson on a black board in a room.
+
+94 0.837755024433136>0.8314 a hand is stirring a cup of coffee on a saucer on a table
+vsThe hand of a person putting something into a cup of coffee and stirring with a spoon.
+
+95 0.8961731195449829>0.89534 a group of men and women are dancing on a stage in front of a crowd
+vsA group of people dancing on an indoor stage while the band is playing behind them.
+
+97 0.8295590877532959>0.78392 a woman in a black coat is sitting on a bench and talking to a woman on a bench in front of a white
+vsOutside in the daytime in the cold, a blond young girl is sitting on a bench while another young woman with black hair is talking to her.
+
+98 0.8247742652893066>0.80408 a man in a suit is holding a bouquet of flowers with a group of people outside on a sunny day
+vsA young Asian man dressed in a gray suit, standing outside in a crowd of people and holding a bouquet of flowers.
+
+99 0.7657964825630188>0.74236 a red and black rooster is standing on a tree outside on a sunny day
+vsA colorful rooster crows sitting on a tree trunk during daylight.
+
+1 0.8325958847999573>0.75469 a young man is playing a guitar in a room with posters on the wall
+vsAn Asian guitarist plays his guitar inside a bar with colorful posters on the wall.
+
+2 0.9231733679771423>0.76763 a man in a blue shirt and a hat is driving a car on a sunny day
+vsAn Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+3 0.8109416961669922>0.7878 a man in a green robe is standing in front of a shower in a bathroom
+vsA white man bends forward while wearing a green bathrobe in a bathroom.
+
+4 0.8221550583839417>0.73588 a large group of people are posing for a picture in a room
+vsA crowd of people cheering in an enclosed space.
+
+5 0.7958353757858276>0.77818 a person in a purple shirt is standing on a trampoline in a room
+vsA man in a purple shirt jumps on a trampoline outside on a sunny day.
+
+7 0.702264666557312>0.7 a man in a black shirt and shorts is dancing in a room with a group of people
+vsseveral dancers dressed in black are performing dance movements inside a hall with a large mirror, while a partially bald man is sitting and watching.
+
+8 0.8236789703369141>0.82139 a black bird with a red beak is standing on the rocks in front of the ocean on a sunny day
+vsA black bird with a long orange bill is pecking at the rock near a body of water on a sunny day.
+
+9 0.7682701349258423>0.76302 a man is plowing a field with a tractor on a sunny day
+vsA wheel cultivator is used to prepare land for planting outside on a sunny day.
+
+10 0.7523415088653564>0.74416 a bride and groom are standing in the grass with a veil on a sunny day in a park
+vsA cartoon scene depicting a bride and groom with a photographer at an open green space with housing in the background on a sunny day
+
+11 0.847283661365509>0.7 a man in a suit and glasses is talking to a man in front of a chart on a screen
+vsA man wearing glasses speaks in front of the camera discussing a chart that is being shown.
+
+12 0.7678409814834595>0.74347 a group of young men are kicking a soccer ball on a soccer field
+vsYoung adult males playing soccer in an indoor venue.
+
+14 0.7350462079048157>0.7 two black men are dancing in the desert on a sunny day
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+17 0.7958143949508667>0.7 a young man in a black jacket and hat is sitting on a bench in the snow on a snowy day
+vsA young boy in a black snow suit gets up from a wooden bench outside surrounded by snow.
+
+19 0.8140738010406494>0.74081 a ceiling light is hanging from the ceiling in a room
+vsIndoor space with rectangular wires suspended from a brown ceiling.
+
+20 0.7128273844718933>0.7 a group of star wars stormtroos are walking in the park on a sunny day
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.7633179426193237>0.7 a young man and a woman are sitting on a bench in a room talking to each other
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.7240793704986572>0.7 a woman is lying on a surf board in the ocean on a sunny day
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.7736390233039856>0.7 a group of soccer players are kicking a soccer ball on a soccer field
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+28 0.7064920663833618>0.70033 two young asian women in a white shirt and black skirt are dancing in front of a wall
+vsTwo young ladies practicing dance moves in an indoor space.
+
+30 0.8551255464553833>0.75242 a group of cards are on a table in a room on a table
+vsTen cards with colorful drawings on a wooden table in a room.
+
+32 0.8320618271827698>0.71778 a silhouette of a woman is shown in a profile on a white background
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.7651531100273132>0.7 a football player scores a touchdown on a football field at night
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+36 0.8885720372200012>0.7378 a man is looking at a computer screen with a picture of a woman in a dress on it
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7728073596954346>0.7 a man in a white shirt and black pants is sitting on a bed in front of a window in a room
+vsA young man, dressed in a white T-shirt, black slacks and glasses, is seated on the side of a bed near a window, putting his shoes on.
+
+39 0.7300027012825012>0.7 a bride in a white wedding dress is walking down the stairs of a building with a man in a suit
+vsA bride holding red roses throws kisses into the camera and her husband joins her kissing her cheek in front of a long staircase.
+
+41 0.8904440402984619>0.86374 a group of people are standing around a motorcycle on the street on a sunny day
+vsA crowd of people standing around a white vehicle and a motorcycle on a sunny day in the middle of a street.
+
+42 0.7014304399490356>0.7 a woman in a black jacket and a hat is talking into a microphone
+vsA man in a black leather jacket talks into the camera while holding up a cap with gold trim.
+
+43 0.7920374274253845>0.78212 a police car is parked in a parking lot at night in the dark
+vsA person walking at night in an unlit outdoor parking lot, tries to open the driver's side door of a locked car.
+
+44 0.7072812914848328>0.7 a man in a orange jacket and a baseball cap is sitting at a table in front of a group of people outside on a sunny day
+vsA white male dressed in a red outfit is seated at a table outdoors on grass, while several other people are gathered around him.
+
+47 0.7070848345756531>0.7 a young man in a blue shirt is sitting in front of a mixing desk in a recording studio
+vsA young man with black hair and a blue t-shirt with a large white flower imprinted on the front is seated inside a room in the daytime in front of a large music arrangement keyboard while listening intensively to someone speaking.
+
+48 0.7263204455375671>0.7 a young boy and a girl are sitting at a table with a boy and a girl in front of a table in a room
+vsA young girl and two boys sit in front of the camera talking in a room with a white drape behind them.
+
+49 0.8285921812057495>0.78808 a group of bridesmaids are walking in a room in a wedding dress in a room
+vsA bride in white with 2 young girls is white are being helped with their dresses by three other women as they stand inside a room in daylight.
+
+50 0.844447672367096>0.7 a person is playing with a glass of water and a goldfish in a game on a green table
+vsA goldfish in a wine glass on a green table with two people wiping away water residue.
+
+51 0.7931132912635803>0.7 a woman in a yellow vietnamese hat is cooking food in a bowl on the street on a sunny day
+vsOutdoors in the daytime in a market place street, a woman with a Vietnamese hat wearing a yellow jacket and pink slacks, is bending down preparing some food in two bowls.
+
+52 0.8450312614440918>0.82298 a bride and groom are walking down the aisle of a wedding ceremony in a church
+vsA newly married couple dance as they walk down the aisle while their guests clap.
+
+55 0.7132343053817749>0.7073 a soccer player scores a goal on a soccer field
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.8394569158554077>0.7 a person is paragliding in the sky over a field on a sunny day
+vsA person is above some hang gliding through the sky on a sunny day.
+
+57 0.8362507224082947>0.7571 a group of tanks are driving in a field on a sunny day
+vsMilitary tanks maneuvering in grassy area during the day.
+
+58 0.7437113523483276>0.7 a man in a green shirt is talking to a group of children in a room
+vsInside in the daytime, a group of young kids and in particular 3 black haired boys, one in an orange t-shirt, another with a white shirt and the other with a green shirt, are listening and smiling to someone singing.
+
+59 0.7647889256477356>0.73718 a pair of diamond earrings are on a table
+vsA pair of dangling jeweled-earrings attached to a black cardboard on a wooden table.
+
+61 0.8093849420547485>0.7 a young boy in a black and white plaid shirt is singing in a room with a band
+vsA young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+62 0.729038417339325>0.7 a black and white cat is lying on the floor in a room on the floor
+vsA woman with black hair and black pants and top is lying on her side on a white kitchen floor.
+
+67 0.8117393255233765>0.79046 a group of people are playing basketball on a basketball court on a sunny day in a park
+vsA group of young people in a park in the middle of a city playing 'basketball' with small plastic baskets held by hand to catch the balls.
+
+68 0.9261457324028015>0.78436 a young black girl in a classroom is praying at a desk in a classroom
+vsA young Black girl seated at a desk in a classroom with her hands folded together in prayer.
+
+69 0.8031478524208069>0.7 a man in a military uniform is standing in front of a bride and groom outside on a sunny day
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+73 0.8290836215019226>0.73643 two bicyclists are riding on a suspension bridge over a river on a cloudy day
+vsA man and woman walk their bikes across a bridge over water and stop to talk on a cloudy day.
+
+75 0.8038106560707092>0.77078 a man in brown shoes is standing on the floor in a room on a wooden floor
+vsA man wearing glasses, gray pants and black shoes is moving his feet and showing others inside a room.
+
+76 0.8452892303466797>0.72414 a group of people are marching in the street with a drum on a sunny day
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+79 0.8635150790214539>0.86104 a sailboat is sailing in the ocean on a sunny day
+vsSmall sailboat with blue sails is gliding and turning on the blue water on a sunny day.
+
+80 0.7940096855163574>0.74235 a man in a black jacket is talking to a little girl in a room with a man in a suit
+vsA man with gray hair introduces his daughter to another man in a room with a glass wall.
+
+81 0.8404040336608887>0.75737 a man in a black shirt and helmet is riding a bike on a path in a park on a sunny day
+vsA man in a helmet rides a scooter on a path in a park on a sunny day.
+
+82 0.7791863679885864>0.70234 a man in a yellow shirt and glasses is talking into a megaphone outside on a sunny day
+vsOutside on a sunny day, a man wearing glasses and a yellow t-shirt surrounded by other people is talking through using a hand microphone.
+
+84 0.7688560485839844>0.71953 a white tiger is in a cage at a zoo on a sunny day
+vsTwo black and white tigers are in a large cage outside on a sunny day.
+
+85 0.750771164894104>0.7433 a man and a woman are kissing in front of a tv in a room
+vsA computer screen showing a white man and a white woman caressing each other and starting to dance.
+
+86 0.803203821182251>0.71405 a group of people are sliding down a snow covered hill on a sled on a sunny day
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+88 0.7004631757736206>0.7 a man with a mustache is talking to a woman in a black shirt in a room
+vsYoung man with black hair beard and mustache looks into a red ball, then looks up in surprise inside a room,
+
+90 0.73012375831604>0.7 a woman in a white shirt and yellow gloves is working at a desk in a room with stacks of food on a table
+vsA person dressed in a white lab coat and yellow gloves placing a file in clear plastic, while standing close to a desk piled high with files.
+
+91 0.7603367567062378>0.7 a man in a white shirt and black vest is holding a red tie in front of a fireplace in a living room
+vsA white male dressed in black and white checked long sleeved shirt and a black vest, standing in front of an unlit fireplace while tied up with a burgundy metal device.
+
+92 0.7472584247589111>0.74017 a young black man in a black shirt is standing in front of a blackboard in a room with a white board
+vsAn African American man teaches a lesson on a black board in a room.
+
+94 0.837755024433136>0.8314 a hand is stirring a cup of coffee on a saucer on a table
+vsThe hand of a person putting something into a cup of coffee and stirring with a spoon.
+
+95 0.8961731195449829>0.89534 a group of men and women are dancing on a stage in front of a crowd
+vsA group of people dancing on an indoor stage while the band is playing behind them.
+
+97 0.8295590877532959>0.78392 a woman in a black coat is sitting on a bench and talking to a woman on a bench in front of a white
+vsOutside in the daytime in the cold, a blond young girl is sitting on a bench while another young woman with black hair is talking to her.
+
+99 0.7549444437026978>0.74236 a red and black rooster is standing in a tree on a sunny day
+vsA colorful rooster crows sitting on a tree trunk during daylight.
+
+100 0.7061281204223633>0.7 a man in a black shirt is walking down a hallway with a bag on the floor in a building
+vsA man in a black shirt walks toward a piece of art that is on the floor.
+
+1 0.7851557731628418>0.75469 a man playing a guitar
+vsA man wearing a black jacket is playing a guitar indoors.
+
+2 0.8061570525169373>0.76763 a man driving a car
+vsAn Asian man wearing sunglasses and a hat is driving a car in the daytime.
+
+3 0.8494521379470825>0.7878 a man standing in a bathroom
+vsWhite male with short brown hair stands in a bathroom, bends forward and appears to be frightened of something as he jumps back.
+
+4 0.8344102501869202>0.73588 a group of people posing for the camera
+vsA crowd of people cheering in an enclosed space.
+
+6 0.7551413774490356>0.7412 a woman standing on a beach
+vsA woman stands on a piece of property pointing and speaking in front of the camera.
+
+7 0.7927685976028442>0.7 a group of people dancing
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+9 0.7871617078781128>0.76302 a plant that is in the ground
+vsSomeone is plowing the ground using a hand wheel and talking in the daytime.
+
+10 0.7566363215446472>0.74416 a bride and groom standing in the grass
+vsOn a sunny day a married couple in their wedding attire are posing for pictures being taken by another man and a woman outside in the area with trees and houses in the background.
+
+12 0.7491618394851685>0.74347 a soccer game
+vsYoung adult males playing soccer in an indoor venue.
+
+16 0.8110853433609009>0.75823 a group of people standing in front of a car
+vsA group of people waving stand in front of an open vehicle outside on a sunny day.
+
+19 0.7978522181510925>0.74081 a light fixture in a room
+vsIndoor space with rectangular wires suspended from a brown ceiling.
+
+22 0.7390234470367432>0.7 two people sitting on a chair
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.8338035941123962>0.7 a person on a surfboard
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.797514796257019>0.7 a group of people playing soccer
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+27 0.7749636173248291>0.74193 a wedding in a room
+vsWhile Indian music is playing in the background, inside and a little girl dressed in pink is excited, people dressed in costumes watch as couples begin to enter the room.
+
+28 0.7715727090835571>0.70033 two girls in a room
+vsTwo young ladies practicing dance moves in an indoor space.
+
+29 0.7012927532196045>0.7 a man sitting on a couch in front of a tv screen
+vsPeople are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+30 0.8129523992538452>0.75242 a table with many cards on it
+vsTen cards with colorful drawings on a wooden table in a room.
+
+31 0.9059668779373169>0.8045 a group of people sitting around a table
+vsThree women and two men sit at a table and look at something to the right of them.
+
+32 0.7341360449790955>0.71778 a woman's profile
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.7469768524169922>0.7 a football game being played
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+35 0.8984130620956421>0.87845 a man throwing a bowling ball
+vsA man in a bowling alley throws a ball down the lane.
+
+36 0.8239607810974121>0.7378 a man looking at a laptop screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7215801477432251>0.7 a man sitting on a bed
+vsA man is sitting on a bed next to a window and wearing black shoes in the daytime.
+
+40 0.7371484041213989>0.7 a woman holding a microphone
+vsA woman with a white drape around her shoulders puts her lipstick and compact into her purse inside a room.
+
+42 0.8214700818061829>0.7 a man holding a microphone
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+43 0.7981718182563782>0.78212 a car in the dark
+vsWith eerie music playing in the background at night, a person walks toward a golden brown sporty car, tries to open the car door and it is locked.
+
+46 0.7564705610275269>0.7 a woman sitting under a tree
+vsA lady sits in front of a large tree and places flowers on the ground.
+
+48 0.8237300515174866>0.7 three kids sitting at a table
+vsTwo young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+52 0.8823329210281372>0.82298 a bride and groom at a wedding
+vsA newly married couple dance as they walk down the aisle while their guests clap.
+
+53 0.8283105492591858>0.73929 a man filling gas into a car
+vsA person's hands are opening the fuel lock and placing the fuel line into a gray car
+
+55 0.8139950037002563>0.7073 a soccer game being played
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7874934077262878>0.7 a person flying a parachute over a field
+vsA person is above some hang gliding through the sky on a sunny day.
+
+57 0.8349143266677856>0.7571 a tank in a field
+vsMilitary tanks maneuvering in grassy area during the day.
+
+58 0.752216637134552>0.7 a group of children in a classroom
+vsAsian children are listening to a performance of singing as one of them smiles widely as he turns toward the other children.
+
+59 0.7789450287818909>0.73718 some diamonds on a table
+vsDiamond or crystal earrings are being displayed while a background song is playing.
+
+61 0.7451042532920837>0.7 a boy playing a video game
+vsA boy is singing in the front of a big room and a girl is dancing in the back in the daytime.
+
+62 0.7534899711608887>0.7 a dog laying on the floor
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+63 0.7647071480751038>0.7 two men sitting on a couch
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+67 0.8040479421615601>0.79046 a group of people playing a game
+vsA group of people are outside in the daytime, some of them are playing a game of catching balls in baskets.
+
+69 0.7205950021743774>0.7 a bride and groom during their wedding ceremony
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+71 0.7960137128829956>0.75817 a woman walking through the woods
+vsA woman in a white dress walks towards another woman standing still in the woods on a sunny day.
+
+73 0.7377060651779175>0.73643 a man riding a bike across a bridge
+vsOutdoors during the day with a river and mountains in the background, a man and a woman are walking alongside their bikes and crossing a bridge.
+
+75 0.7735558152198792>0.77078 a person standing on the floor
+vsA white man with a tan outfit and brown shoes moves his foot and knee from left to right foot repeatedly.
+
+76 0.7537446618080139>0.72414 a group of people walking down the street
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+80 0.7423760294914246>0.74235 a man getting his hair cut
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.7396120429039001>0.70234 people dancing in the street
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+86 0.7363116145133972>0.71405 a person riding a snowboard down a hill
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+87 0.7321150898933411>0.7 a man and woman on the beach
+vsA lady, holding a green bucket, is asking a man if he wants a clam but he said maybe later, held her hand and walked away together outdoors in the daytime
+
+90 0.7109079360961914>0.7 a man sitting at a desk
+vsSome workers are packaging some food indoors.
+
+92 0.7465649843215942>0.74017 a man writing on a board
+vsAn African American man teaches a lesson on a black board in a room.
+
+94 0.8728280663490295>0.8314 a cup of coffee on a table
+vsSomeone places a lump of sugar in a cup of coffee on a table.
+
+97 0.8121700286865234>0.78392 two women sitting on a bench
+vsA woman in a black outfit talks to another woman sitting on a bench outside on a sunny day.
+
+99 0.9000564813613892>0.74236 a rooster
+vsA rooster is crowing outside in the daytime.
+
+1 0.7851557731628418>0.75469 a man playing a guitar
+vsA man wearing a black jacket is playing a guitar indoors.
+
+2 0.8061570525169373>0.76763 a man driving a car
+vsAn Asian man wearing sunglasses and a hat is driving a car in the daytime.
+
+3 0.8494521379470825>0.7878 a man standing in a bathroom
+vsWhite male with short brown hair stands in a bathroom, bends forward and appears to be frightened of something as he jumps back.
+
+4 0.8344102501869202>0.73588 a group of people posing for the camera
+vsA crowd of people cheering in an enclosed space.
+
+6 0.7551413774490356>0.7412 a woman standing on a beach
+vsA woman stands on a piece of property pointing and speaking in front of the camera.
+
+7 0.7414350509643555>0.7 people dancing in an airport
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+11 0.7794504761695862>0.7 an image of a man with glasses
+vsA man wearing glasses speaks in front of the camera discussing a chart that is being shown.
+
+13 0.7409250140190125>0.7 two men working in a field
+vsTwo men are outside by an area where some soil has been moved and one man props a chair by the moved soil as the other man sits down on the chair.
+
+17 0.7076308131217957>0.7 a person sitting on a bench in the snow
+vsOutdoors in the snow a young white person dressed in black with a gray cap gets up very carefully from a bench wearing ice skaters.
+
+19 0.7651482820510864>0.74081 some lights in a room
+vsIndoor space with rectangular wires suspended from a brown ceiling.
+
+20 0.7179009914398193>0.7 a group of people in a park
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+22 0.7390234470367432>0.7 two people sitting on a chair
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.8237195014953613>0.7 a person on a surf board
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.8140678405761719>0.7 a group of men playing soccer
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+27 0.7540625333786011>0.74193 people walking down a hallway
+vsWhile Indian music is playing in the background, inside and a little girl dressed in pink is excited, people dressed in costumes watch as couples begin to enter the room.
+
+28 0.7715727090835571>0.70033 two girls in a room
+vsTwo young ladies practicing dance moves in an indoor space.
+
+29 0.7519389986991882>0.7 a man on a television screen
+vsPeople in a movie theater are watching a movie with two men lying on a bed and a child gets in the bed with them.
+
+30 0.8129523992538452>0.75242 a table with many cards on it
+vsTen cards with colorful drawings on a wooden table in a room.
+
+31 0.9059668779373169>0.8045 a group of people sitting around a table
+vsThree women and two men sit at a table and look at something to the right of them.
+
+32 0.7341360449790955>0.71778 a woman's profile
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.7469768524169922>0.7 a football game being played
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+35 0.9061449766159058>0.87845 a man playing bowling
+vsA middle-aged male bowling at a bowling alley.
+
+36 0.8239607810974121>0.7378 a man looking at a laptop screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7215801477432251>0.7 a man sitting on a bed
+vsA man is sitting on a bed next to a window and wearing black shoes in the daytime.
+
+39 0.7536848187446594>0.7 a woman in a wedding dress
+vsA bride is smilingly kissing and looking at the camera outdoors where there is a lot of people and another bride and groom.
+
+40 0.7371484041213989>0.7 a woman holding a microphone
+vsA woman with a white drape around her shoulders puts her lipstick and compact into her purse inside a room.
+
+42 0.7546459436416626>0.7 a man in a police uniform holding a microphone
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+46 0.7564705610275269>0.7 a woman sitting under a tree
+vsA lady sits in front of a large tree and places flowers on the ground.
+
+48 0.8237300515174866>0.7 three kids sitting at a table
+vsTwo young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+52 0.9291110038757324>0.82298 a bride and groom walking down the aisle
+vsA newly married couple dance as they walk down the aisle while their guests clap.
+
+53 0.8283105492591858>0.73929 a man filling gas into a car
+vsA person's hands are opening the fuel lock and placing the fuel line into a gray car
+
+55 0.7809877991676331>0.7073 a soccer game
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7874934077262878>0.7 a person flying a parachute over a field
+vsA person is above some hang gliding through the sky on a sunny day.
+
+57 0.7785969376564026>0.7571 a tank in the jungle
+vsMilitary tanks maneuvering in grassy area during the day.
+
+58 0.7167971134185791>0.7 a group of people in a room
+vsSome Hispanic children are happily listening to some people's singing indoors in the daytime
+
+59 0.7789450287818909>0.73718 some diamonds on a table
+vsDiamond or crystal earrings are being displayed while a background song is playing.
+
+61 0.7442047595977783>0.7 a boy standing in a living room
+vsA boy is singing in the front of a big room and a girl is dancing in the back in the daytime.
+
+62 0.796964168548584>0.7 a person on the floor
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+63 0.7647071480751038>0.7 two men sitting on a couch
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+66 0.7328322529792786>0.70883 a person holding a knife in front of a large rock
+vsA young person with string and gear attached to something unseen.
+
+67 0.8692396283149719>0.79046 a group of people playing basketball
+vsA group of people are outside in the daytime, some of them are playing a game of catching balls in baskets.
+
+69 0.7291272282600403>0.7 a bride and groom at a wedding ceremony
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+71 0.7960137128829956>0.75817 a woman walking through the woods
+vsA woman in a white dress walks towards another woman standing still in the woods on a sunny day.
+
+73 0.7873687744140625>0.73643 a person riding a bike across a bridge
+vsA man and woman are wearing their helmets, and walking on a bridge on top o a river with their bikes in the daytime.
+
+74 0.825804591178894>0.8157 a person wearing a helmet
+vsA person in a costume walks then stops and pulls his head back.
+
+76 0.7537446618080139>0.72414 a group of people walking down the street
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+80 0.7935198545455933>0.74235 a man in a suit talking to a woman
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.7043024897575378>0.70234 a group of people dancing in the street
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+84 0.7316837310791016>0.71953 two tigers in a cage
+vsTwo black and white tigers are in a large cage outside on a sunny day.
+
+87 0.7102344632148743>0.7 a woman on the beach
+vsA lady, holding a green bucket, is asking a man if he wants a clam but he said maybe later, held her hand and walked away together outdoors in the daytime
+
+90 0.7041580677032471>0.7 a man working in a kitchen
+vsThe beginning of a film shows indoors someone wrapping some food in plastic bags.
+
+91 0.7216740846633911>0.7 a man playing a guitar
+vsA manin a black and white shirt has his head and one hand stuck inside a red tennis racket in a room with a fireplace.
+
+97 0.8121700286865234>0.78392 two women sitting on a bench
+vsA woman in a black outfit talks to another woman sitting on a bench outside on a sunny day.
+
+99 0.9000564813613892>0.74236 a rooster
+vsA rooster is crowing outside in the daytime.
+
+1 0.7851557731628418>0.75469 a man playing a guitar
+vsA man wearing a black jacket is playing a guitar indoors.
+
+2 0.8061570525169373>0.76763 a man driving a car
+vsAn Asian man wearing sunglasses and a hat is driving a car in the daytime.
+
+3 0.8494521379470825>0.7878 a man standing in a bathroom
+vsWhite male with short brown hair stands in a bathroom, bends forward and appears to be frightened of something as he jumps back.
+
+4 0.8344102501869202>0.73588 a group of people posing for the camera
+vsA crowd of people cheering in an enclosed space.
+
+6 0.7551413774490356>0.7412 a woman standing on a beach
+vsA woman stands on a piece of property pointing and speaking in front of the camera.
+
+7 0.7414350509643555>0.7 people dancing in an airport
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+10 0.7566363215446472>0.74416 a bride and groom standing in the grass
+vsOn a sunny day a married couple in their wedding attire are posing for pictures being taken by another man and a woman outside in the area with trees and houses in the background.
+
+13 0.7409250140190125>0.7 two men working in a field
+vsTwo men are outside by an area where some soil has been moved and one man props a chair by the moved soil as the other man sits down on the chair.
+
+17 0.7076308131217957>0.7 a person sitting on a bench in the snow
+vsOutdoors in the snow a young white person dressed in black with a gray cap gets up very carefully from a bench wearing ice skaters.
+
+19 0.7978522181510925>0.74081 a light fixture in a room
+vsIndoor space with rectangular wires suspended from a brown ceiling.
+
+22 0.7390234470367432>0.7 two people sitting on a chair
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.8237195014953613>0.7 a person on a surf board
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.797514796257019>0.7 a group of people playing soccer
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+27 0.7540625333786011>0.74193 people walking down a hallway
+vsWhile Indian music is playing in the background, inside and a little girl dressed in pink is excited, people dressed in costumes watch as couples begin to enter the room.
+
+28 0.7715727090835571>0.70033 two girls in a room
+vsTwo young ladies practicing dance moves in an indoor space.
+
+29 0.7012927532196045>0.7 a man sitting on a couch in front of a tv screen
+vsPeople are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+30 0.8129523992538452>0.75242 a table with many cards on it
+vsTen cards with colorful drawings on a wooden table in a room.
+
+31 0.9059668779373169>0.8045 a group of people sitting around a table
+vsThree women and two men sit at a table and look at something to the right of them.
+
+32 0.7341360449790955>0.71778 a woman's profile
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.7469768524169922>0.7 a football game being played
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+35 0.8984130620956421>0.87845 a man throwing a bowling ball
+vsA man in a bowling alley throws a ball down the lane.
+
+36 0.8239607810974121>0.7378 a man looking at a laptop screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7215801477432251>0.7 a man sitting on a bed
+vsA man is sitting on a bed next to a window and wearing black shoes in the daytime.
+
+40 0.7371484041213989>0.7 a woman holding a microphone
+vsA woman with a white drape around her shoulders puts her lipstick and compact into her purse inside a room.
+
+42 0.7546459436416626>0.7 a man in a police uniform holding a microphone
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+46 0.7564705610275269>0.7 a woman sitting under a tree
+vsA lady sits in front of a large tree and places flowers on the ground.
+
+48 0.8237300515174866>0.7 three kids sitting at a table
+vsTwo young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+52 0.9291110038757324>0.82298 a bride and groom walking down the aisle
+vsA newly married couple dance as they walk down the aisle while their guests clap.
+
+53 0.8283105492591858>0.73929 a man filling gas into a car
+vsA person's hands are opening the fuel lock and placing the fuel line into a gray car
+
+55 0.8139950037002563>0.7073 a soccer game being played
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7874934077262878>0.7 a person flying a parachute over a field
+vsA person is above some hang gliding through the sky on a sunny day.
+
+57 0.7785969376564026>0.7571 a tank in the jungle
+vsMilitary tanks maneuvering in grassy area during the day.
+
+58 0.752216637134552>0.7 a group of children in a classroom
+vsAsian children are listening to a performance of singing as one of them smiles widely as he turns toward the other children.
+
+59 0.7789450287818909>0.73718 some diamonds on a table
+vsDiamond or crystal earrings are being displayed while a background song is playing.
+
+61 0.7442047595977783>0.7 a boy standing in a living room
+vsA boy is singing in the front of a big room and a girl is dancing in the back in the daytime.
+
+62 0.7534899711608887>0.7 a dog laying on the floor
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+63 0.7647071480751038>0.7 two men sitting on a couch
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+66 0.7328322529792786>0.70883 a person holding a knife in front of a large rock
+vsA young person with string and gear attached to something unseen.
+
+67 0.8692396283149719>0.79046 a group of people playing basketball
+vsA group of people are outside in the daytime, some of them are playing a game of catching balls in baskets.
+
+69 0.7205950021743774>0.7 a bride and groom during their wedding ceremony
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+71 0.7960137128829956>0.75817 a woman walking through the woods
+vsA woman in a white dress walks towards another woman standing still in the woods on a sunny day.
+
+73 0.7873687744140625>0.73643 a person riding a bike across a bridge
+vsA man and woman are wearing their helmets, and walking on a bridge on top o a river with their bikes in the daytime.
+
+74 0.825804591178894>0.8157 a person wearing a helmet
+vsA person in a costume walks then stops and pulls his head back.
+
+75 0.7735558152198792>0.77078 a person standing on the floor
+vsA white man with a tan outfit and brown shoes moves his foot and knee from left to right foot repeatedly.
+
+76 0.7537446618080139>0.72414 a group of people walking down the street
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+80 0.7935198545455933>0.74235 a man in a suit talking to a woman
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.7043024897575378>0.70234 a group of people dancing in the street
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+86 0.7363116145133972>0.71405 a person riding a snowboard down a hill
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+87 0.7321150898933411>0.7 a man and woman on the beach
+vsA lady, holding a green bucket, is asking a man if he wants a clam but he said maybe later, held her hand and walked away together outdoors in the daytime
+
+90 0.7041580677032471>0.7 a man working in a kitchen
+vsThe beginning of a film shows indoors someone wrapping some food in plastic bags.
+
+91 0.7216740846633911>0.7 a man playing a guitar
+vsA manin a black and white shirt has his head and one hand stuck inside a red tennis racket in a room with a fireplace.
+
+92 0.7465649843215942>0.74017 a man writing on a board
+vsAn African American man teaches a lesson on a black board in a room.
+
+97 0.8121700286865234>0.78392 two women sitting on a bench
+vsA woman in a black outfit talks to another woman sitting on a bench outside on a sunny day.
+
+99 0.9475878477096558>0.74236 a rooster is crowing
+vsA rooster is crowing outside in the daytime.
+
+100 0.7163076400756836>0.7 several people are looking at paintings
+vsThree workers walk into a corridor lined with paintings sitting on the floor inside during daylight.
+
+1 0.7851557731628418>0.75469 a man playing a guitar
+vsA man wearing a black jacket is playing a guitar indoors.
+
+2 0.8061570525169373>0.76763 a man driving a car
+vsAn Asian man wearing sunglasses and a hat is driving a car in the daytime.
+
+3 0.8494521379470825>0.7878 a man standing in a bathroom
+vsWhite male with short brown hair stands in a bathroom, bends forward and appears to be frightened of something as he jumps back.
+
+4 0.8344102501869202>0.73588 a group of people posing for the camera
+vsA crowd of people cheering in an enclosed space.
+
+6 0.7551413774490356>0.7412 a woman standing on a beach
+vsA woman stands on a piece of property pointing and speaking in front of the camera.
+
+7 0.7414350509643555>0.7 people dancing in an airport
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+10 0.7566363215446472>0.74416 a bride and groom standing in the grass
+vsOn a sunny day a married couple in their wedding attire are posing for pictures being taken by another man and a woman outside in the area with trees and houses in the background.
+
+13 0.7409250140190125>0.7 two men working in a field
+vsTwo men are outside by an area where some soil has been moved and one man props a chair by the moved soil as the other man sits down on the chair.
+
+17 0.7076308131217957>0.7 a person sitting on a bench in the snow
+vsOutdoors in the snow a young white person dressed in black with a gray cap gets up very carefully from a bench wearing ice skaters.
+
+19 0.7978522181510925>0.74081 a light fixture in a room
+vsIndoor space with rectangular wires suspended from a brown ceiling.
+
+22 0.7390234470367432>0.7 two people sitting on a chair
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.8237195014953613>0.7 a person on a surf board
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.797514796257019>0.7 a group of people playing soccer
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+27 0.7540625333786011>0.74193 people walking down a hallway
+vsWhile Indian music is playing in the background, inside and a little girl dressed in pink is excited, people dressed in costumes watch as couples begin to enter the room.
+
+28 0.7715727090835571>0.70033 two girls in a room
+vsTwo young ladies practicing dance moves in an indoor space.
+
+29 0.7012927532196045>0.7 a man sitting on a couch in front of a tv screen
+vsPeople are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+30 0.8129523992538452>0.75242 a table with many cards on it
+vsTen cards with colorful drawings on a wooden table in a room.
+
+31 0.9059668779373169>0.8045 a group of people sitting around a table
+vsThree women and two men sit at a table and look at something to the right of them.
+
+32 0.7341360449790955>0.71778 a woman's profile
+vsHeadshot of a woman in a side view profile silhouette.
+
+33 0.7469768524169922>0.7 a football game being played
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+35 0.8984130620956421>0.87845 a man throwing a bowling ball
+vsA man in a bowling alley throws a ball down the lane.
+
+36 0.8239607810974121>0.7378 a man looking at a laptop screen
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7215801477432251>0.7 a man sitting on a bed
+vsA man is sitting on a bed next to a window and wearing black shoes in the daytime.
+
+40 0.7371484041213989>0.7 a woman holding a microphone
+vsA woman with a white drape around her shoulders puts her lipstick and compact into her purse inside a room.
+
+42 0.7546459436416626>0.7 a man in a police uniform holding a microphone
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+46 0.7564705610275269>0.7 a woman sitting under a tree
+vsA lady sits in front of a large tree and places flowers on the ground.
+
+48 0.8237300515174866>0.7 three kids sitting at a table
+vsTwo young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+52 0.9291110038757324>0.82298 a bride and groom walking down the aisle
+vsA newly married couple dance as they walk down the aisle while their guests clap.
+
+53 0.8283105492591858>0.73929 a man filling gas into a car
+vsA person's hands are opening the fuel lock and placing the fuel line into a gray car
+
+55 0.8139950037002563>0.7073 a soccer game being played
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7874934077262878>0.7 a person flying a parachute over a field
+vsA person is above some hang gliding through the sky on a sunny day.
+
+57 0.7785969376564026>0.7571 a tank in the jungle
+vsMilitary tanks maneuvering in grassy area during the day.
+
+58 0.752216637134552>0.7 a group of children in a classroom
+vsAsian children are listening to a performance of singing as one of them smiles widely as he turns toward the other children.
+
+59 0.7789450287818909>0.73718 some diamonds on a table
+vsDiamond or crystal earrings are being displayed while a background song is playing.
+
+61 0.7442047595977783>0.7 a boy standing in a living room
+vsA boy is singing in the front of a big room and a girl is dancing in the back in the daytime.
+
+62 0.7534899711608887>0.7 a dog laying on the floor
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+63 0.7647071480751038>0.7 two men sitting on a couch
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+66 0.7328322529792786>0.70883 a person holding a knife in front of a large rock
+vsA young person with string and gear attached to something unseen.
+
+67 0.8692396283149719>0.79046 a group of people playing basketball
+vsA group of people are outside in the daytime, some of them are playing a game of catching balls in baskets.
+
+69 0.7205950021743774>0.7 a bride and groom during their wedding ceremony
+vsYoung man dressed in army uniform and his bride dressed in white are standing outdoors next to trees as the best man also in uniform passes the wedding ring to the groom.
+
+71 0.7960137128829956>0.75817 a woman walking through the woods
+vsA woman in a white dress walks towards another woman standing still in the woods on a sunny day.
+
+73 0.7873687744140625>0.73643 a person riding a bike across a bridge
+vsA man and woman are wearing their helmets, and walking on a bridge on top o a river with their bikes in the daytime.
+
+74 0.825804591178894>0.8157 a person wearing a helmet
+vsA person in a costume walks then stops and pulls his head back.
+
+75 0.7735558152198792>0.77078 a person standing on the floor
+vsA white man with a tan outfit and brown shoes moves his foot and knee from left to right foot repeatedly.
+
+76 0.7537446618080139>0.72414 a group of people walking down the street
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+80 0.7935198545455933>0.74235 a man in a suit talking to a woman
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.7043024897575378>0.70234 a group of people dancing in the street
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+86 0.7363116145133972>0.71405 a person riding a snowboard down a hill
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+87 0.7321150898933411>0.7 a man and woman on the beach
+vsA lady, holding a green bucket, is asking a man if he wants a clam but he said maybe later, held her hand and walked away together outdoors in the daytime
+
+90 0.7041580677032471>0.7 a man working in a kitchen
+vsThe beginning of a film shows indoors someone wrapping some food in plastic bags.
+
+91 0.7216740846633911>0.7 a man playing a guitar
+vsA manin a black and white shirt has his head and one hand stuck inside a red tennis racket in a room with a fireplace.
+
+92 0.7465649843215942>0.74017 a man writing on a board
+vsAn African American man teaches a lesson on a black board in a room.
+
+97 0.8121700286865234>0.78392 two women sitting on a bench
+vsA woman in a black outfit talks to another woman sitting on a bench outside on a sunny day.
+
+99 0.9386667013168335>0.74236 a rooster crowing
+vsA rooster is crowing outside in the daytime.
+
+100 0.7163076400756836>0.7 several people are looking at paintings
+vsThree workers walk into a corridor lined with paintings sitting on the floor inside during daylight.
+
+1 0.7907145023345947>0.75469 a man is playing a guitar in a studio with other instruments.
+vsAn Asian man playing an electronic guitar in an indoor setting.
+
+4 0.884270966053009>0.73588 a group of people are singing and dancing to the music.
+vsA crowd of people cheering in an enclosed space.
+
+6 0.8523365259170532>0.7412 a woman is standing in front of a camera and talking about the weather.
+vsA woman stands on a piece of property pointing and speaking in front of the camera.
+
+7 0.8284234404563904>0.7 a group of people are doing a dance routine in a room.
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+11 0.7534729838371277>0.7 a man is talking about the importance of july and then he is shown.
+vsMiddle aged with man with receding hairline and glasses is speaking in French indoors, explaining a chart
+
+12 0.8066239356994629>0.74347 a group of men are playing a game of soccer.
+vsYoung adult males playing soccer in an indoor venue.
+
+13 0.7670897841453552>0.7 two men are cutting down a tree in fast motion.
+vsA man brings a chair for a man digging a hole to sit outside near an area with trees.
+
+14 0.7841961979866028>0.7 two men are standing in the sand and they are playing in the background.
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+20 0.7121835947036743>0.7 a group of people are walking around in a line.
+vsOutdoors in the daylight in a wooded area, a group of people are walking with the Star Wars warriors toward a house, some are hand in hand with the warriors.
+
+21 0.7307325601577759>0.7 a woman is standing in front of a large group of people and she is drinking a glass
+vsA woman is standing up outdoors in the daytime, holding two drinks in her hands, and talking about how she is having a good time at a festival while another lady is smilingly looking at her.
+
+22 0.7958312034606934>0.7 a man and a woman are sitting down and talking to each other.
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.8745772838592529>0.7 a man is surfing on a surfboard in the ocean.
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.8277525901794434>0.7 a group of people are playing soccer in a field.
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+27 0.8175957202911377>0.74193 a group of people are walking around a room and they are walking around.
+vsWhile Indian music is playing in the background, inside and a little girl dressed in pink is excited, people dressed in costumes watch as couples begin to enter the room.
+
+28 0.7821542024612427>0.70033 three girls are dancing to music in a room with a wall.
+vsTwo young ladies practicing dance moves in an indoor space.
+
+29 0.7630508542060852>0.7 a group of people are sitting on a bed and one of them is dancing.
+vsPeople are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+31 0.8800830245018005>0.8045 a man is sitting at a table and talking to a group of people.
+vsThree women and two men sit at a table and look at something to the right of them.
+
+32 0.7184706926345825>0.71778 a person is sitting down and is making a noise with their mouth.
+vsA female with long hair and beautiful voice is singing behind curtains indoors.
+
+33 0.7848678231239319>0.7 a football game is being played and the crowd cheers.
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+35 0.884544849395752>0.87845 a man is bowling and getting a strike.
+vsMan takes his turn and throws the ball in a bowling alley after he glances at a screen .
+
+36 0.8453644514083862>0.7378 a girl is standing in front of a computer and is talking to someone.
+vsA man watches a computer screen with a woman modeling an outfit.
+
+37 0.7199243307113647>0.7 a man is sitting on the floor and trying to put his shoes on.
+vsA man is sitting on a bed next to a window and wearing black shoes in the daytime.
+
+40 0.7293359637260437>0.7 a woman is standing in front of a camera and she is talking to the camera.
+vsA lady is wearing full makeup, red dress, and white fur is putting makeup in her purse indoors.
+
+42 0.7909188866615295>0.7 a woman is speaking into a microphone while another woman is shown singing.
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+43 0.8340011239051819>0.78212 a man is pushing a car down the street at night.
+vsA person walking at night in an unlit outdoor parking lot, tries to open the driver's side door of a locked car.
+
+46 0.7575811743736267>0.7 a woman is sitting on the ground and playing with a stick.
+vsA lady is laying down some flowers on the ground in front of a tree in the woods and a background voice is playing.
+
+48 0.7436086535453796>0.7 a group of girls are sitting at a table and talking about something.
+vsA girl, named Ashley, is sitting between her two younger siblings, Addison and Elliot, and talking about writing comics upon her dad's wish.
+
+49 0.8089911937713623>0.78808 a group of people are in a room and they are dancing.
+vsA group of people are taking photos of a bride and her wedding party in a large bedroom.
+
+50 0.7283912897109985>0.7 a person is making a flower with a glass and then placing the ingredients on the table
+vsA wine glass with goldfish in it spills on a green surface surrounded by wooden blocks and someone wipes it up.
+
+52 0.8606559038162231>0.82298 a man and woman are dancing to music in a wedding.
+vsA white bride and groom dancing at an indoor venue, and guests standing on the sides applauding them.
+
+53 0.7769219279289246>0.73929 a man is using a tool to fix the car tire.
+vsA person's hands are opening the fuel lock and placing the fuel line into a gray car
+
+55 0.7950496673583984>0.7073 a group of soccer players are playing a game of soccer.
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.8983298540115356>0.7 a person is hang gliding in the sky with a parachute.
+vsA person is above some hang gliding through the sky on a sunny day.
+
+58 0.7415655851364136>0.7 three young men are singing and dancing while a man is talking.
+vsAsian children are listening to a performance of singing as one of them smiles widely as he turns toward the other children.
+
+61 0.7269529700279236>0.7 a man and woman are dancing in a room with music playing in the background.
+vsA young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+62 0.77778160572052>0.7 a person is sitting on the floor and is playing with their hands.
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+63 0.8526014685630798>0.7 three men are sitting on a couch and one of them is singing.
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+66 0.8318430781364441>0.70883 a person is hanging from a rope and is moving it around.
+vsA young person with string and gear attached to something unseen.
+
+67 0.8211534023284912>0.79046 a group of children are picking up easter eggs and putting them in a basket.
+vsA group of people are outside in the daytime, some of them are playing a game of catching balls in baskets.
+
+69 0.708633303642273>0.7 a man is holding a microphone and then he walks up to a woman.
+vsWith music in the background, outside in a forest area during the day, a young military man in his uniform is marrying a young lady wearing a white wedding dress and veil and is at the point of the ceremony where he gets the rings from his friend also in uniform.
+
+74 0.8260073065757751>0.8157 a person is using a white mask and a mask on the wall
+vsSomeone is wearing a white shirt and animal-like black mask, and walking inside a room.
+
+75 0.8008592128753662>0.77078 a person is doing a moonwalk on a wood floor.
+vsOn a wooden floor we see two people's single shoe as one of the shoes moves sideways, with a quick flash of a person's face.
+
+76 0.7865889072418213>0.72414 a large group of people are walking through a crowded area.
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+80 0.8228176236152649>0.74235 a man is standing on a chair and he is talking to a man.
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+82 0.7599583864212036>0.70234 a man is playing a harmonica while a group of people are watching.
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+84 0.7645595073699951>0.71953 a group of people are watching a lion in a cage.
+vsA lion and leopard are in one cage and another leopard is alone in another cage and a background voice of a man and a woman talking about the medical expenses of the animals.
+
+85 0.8535080552101135>0.7433 a man and woman are standing in front of a tv monitor and they are talking about something
+vsA man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+86 0.7898968458175659>0.71405 a group of people are sledding down a snowy hill.
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+87 0.7149624824523926>0.7 a man and a woman are standing in front of a camera and they are drinking from a
+vsA lady, holding a green bucket, is asking a man if he wants a clam but he said maybe later, held her hand and walked away together outdoors in the daytime
+
+90 0.7453756332397461>0.7 a person is working on a counter and making some food
+vsThe beginning of a film shows indoors someone wrapping some food in plastic bags.
+
+94 0.8588919639587402>0.8314 a person is making a cup of tea and then they are making it.
+vsSome woman is putting a sugar cube in a cup of tea and stirring it while another woman is walking nearby indoors.
+
+95 0.936501145362854>0.89534 a group of people are dancing on a stage in front of an audience.
+vsA group of people dancing on an indoor stage while the band is playing behind them.
+
+97 0.7876211404800415>0.78392 a man and a woman are sitting on a bench and talking.
+vsA woman in a black outfit talks to another woman sitting on a bench outside on a sunny day.
+
+99 0.813726544380188>0.74236 a chicken is walking around in a tree and a person is talking.
+vsA rooster is crowing outside in the daytime.
+
+100 0.7337489128112793>0.7 a man is walking through a hallway and is following the camera.
+vsThree workers walk into a corridor lined with paintings sitting on the floor inside during daylight.
+
+1 0.8100616335868835>0.75469 a man in a black shirt plays an electric guitar in a room.
+vsAn Asian man playing an electronic guitar in an indoor setting.
+
+4 0.8654178977012634>0.73588 a group of people are sitting in a room of a room.
+vsA crowd of people cheering in an enclosed space.
+
+7 0.7936697602272034>0.7 a man runs in a chair in a room
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+10 0.7520349621772766>0.74416 a bride and a woman stand in front of a tree outside during the day.
+vsOn a sunny day a married couple in their wedding attire are posing for pictures being taken by another man and a woman outside in the area with trees and houses in the background.
+
+11 0.7117567658424377>0.7 a man with a beard and a black jacket and a black shirt and a black jacket and
+vsMiddle aged with man with receding hairline and glasses is speaking in French indoors, explaining a chart
+
+12 0.7872278690338135>0.74347 a soccer team of players are playing soccer on a soccer field.
+vsYoung adult males playing soccer in an indoor venue.
+
+13 0.7543050050735474>0.7 a man is using a saw to cut through a tree outdoors.
+vsA man brings a chair for a man digging a hole to sit outside near an area with trees.
+
+14 0.7583013772964478>0.7 two men are dancing in a beach on a sunny day.
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+22 0.8058379888534546>0.7 two men sit on a couch in a room and one of them speaks to another.
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.7297322154045105>0.7 a man in a red shirt surfs in the water on a surfboard.
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.8331297636032104>0.7 a team of people are playing soccer on a field on a sunny day.
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+28 0.7436378002166748>0.70033 two asian girls in a room, singing to music.
+vsTwo young ladies practicing dance moves in an indoor space.
+
+31 0.805229902267456>0.8045 a man and woman sit at a desk inside a room with a computer and a man in
+vsThree women and two men sit at a table and look at something to the right of them.
+
+32 0.784506618976593>0.71778 a man is singing into a camera in a room.
+vsA female with long hair and beautiful voice is singing behind curtains indoors.
+
+33 0.7364184856414795>0.7 a team of players playing a game on a football field at daytime
+vsA team of lacrosse players in white uniforms run across a field.
+
+36 0.7774871587753296>0.7378 a young asian female is walking in a room, showing a picture of a computer screen.
+vsA man watches a computer screen with a woman modeling an outfit.
+
+40 0.7034896612167358>0.7 a woman holds a cup in a restaurant
+vsA woman with a white drape around her shoulders puts her lipstick and compact into her purse inside a room.
+
+42 0.8287841081619263>0.7 a man is singing into a microphone
+vsA white man is speaking on a microphone, holding his cap, and recognizing a lady named Kathy.
+
+43 0.8076916337013245>0.78212 a car with a light light and a car is seen walking down a street at night.
+vsA man walks to a car parked under a lamp post at night
+
+47 0.7240316271781921>0.7 a man sitting in a room at a computer and is singing into a microphone.
+vsA white male seated in an office in front of black equipment near a window.
+
+48 0.7705267667770386>0.7 two asian women sit at a table inside with a table with a woman in front of them
+vsTwo young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+49 0.7898311018943787>0.78808 a bride and a bride in a room, a bride and a bride and a bride and
+vsA group of people are taking photos of a bride and her wedding party in a large bedroom.
+
+50 0.7702930569648743>0.7 a person is sitting at a table with a cup of liquid and puts them in a cup
+vsA wine glass with goldfish in it spills on a green surface surrounded by wooden blocks and someone wipes it up.
+
+53 0.8444966077804565>0.73929 a man is tightening a gas product in a car.
+vsA person's hands are opening the fuel lock and placing the fuel line into a gray car
+
+55 0.7089358568191528>0.7073 soccer player kicks another soccer player on a soccer field at daytime
+vsSoccer team players wearing striped white and blue t-shirts and black shorts are about to play soccer in an outdoor field in the daytime and the crowd is cheering for them.
+
+56 0.7851735353469849>0.7 a person is filming a paraglider is seen from the ground.
+vsA person is above some hang gliding through the sky on a sunny day.
+
+61 0.7406019568443298>0.7 a man in a hat and a hat and a hat and a hat and a hat and
+vsA boy is singing in the front of a big room and a girl is dancing in the back in the daytime.
+
+63 0.8773671388626099>0.7 three men sit on a couch in a room and one man speaks into a microphone.
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+66 0.8362271785736084>0.70883 a person is seen holding up a rope attached to a rope.
+vsA young person with string and gear attached to something unseen.
+
+67 0.7994899749755859>0.79046 a group of children are playing in a park of water, one of them throws a ball
+vsA group of people are outside in the daytime, some of them are playing a game of catching balls in baskets.
+
+69 0.7619675397872925>0.7 a man in a white dress and a woman in a white dress and a dress and a
+vsWith music in the background, outside in a forest area during the day, a young military man in his uniform is marrying a young lady wearing a white wedding dress and veil and is at the point of the ceremony where he gets the rings from his friend also in uniform.
+
+80 0.7868607640266418>0.74235 a man in a black jacket and a black jacket and a woman in a black jacket and
+vsA man is speaking in a foreign language to another man in the room in the daytime while grabbing a little blond girl.
+
+84 0.776134729385376>0.71953 a tiger is walking in a cage
+vsA lion and leopard are in one cage and another leopard is alone in another cage and a background voice of a man and a woman talking about the medical expenses of the animals.
+
+85 0.7715356945991516>0.7433 a man holds a woman indoors
+vsA man and woman are dancing on the tv and a woman is about to change the channel or turn it off.
+
+86 0.721369743347168>0.71405 a person is riding a bike down a snow covered road.
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+90 0.7110673785209656>0.7 a person with a jacket and a kitchen and a kitchen with food and a kitchen.
+vsThe beginning of a film shows indoors someone wrapping some food in plastic bags.
+
+91 0.7531222701072693>0.7 a man in a room is playing a guitar.
+vsA manin a black and white shirt has his head and one hand stuck inside a red tennis racket in a room with a fireplace.
+
+94 0.8437052965164185>0.8314 a cup of liquid sitting on a table with a cup of liquid and a cup
+vsSomeone places a lump of sugar in a cup of coffee on a table.
+
+6 0.7722729444503784>0.7412 a woman is speaking to a camera about to a camera that is made by her.
+vsA woman stands on a piece of property pointing and speaking in front of the camera.
+
+7 0.7493065595626831>0.7 a man does a backflip in a large room
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+8 0.8215513229370117>0.82139 a black bird is shown on a beach.
+vsA black bird is probably eating on the shore while the waves are coming smoothly in front of it in the daytime.
+
+12 0.7502670288085938>0.74347 a soccer player kicks a ball to another player who is passing by a teammate who is passing
+vsYoung adult males playing soccer in an indoor venue.
+
+13 0.70746910572052>0.7 three men stand next to trees and watch as one of them is passing by three men who
+vsA man brings a chair for a man digging a hole to sit outside near an area with trees.
+
+14 0.7738553285598755>0.7 two men are hugging each other on a sunny day.
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+22 0.7732042670249939>0.7 a man in a chair and a woman in front of a man with a black shirt and
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.7513181567192078>0.7 a man in a black shirt and a black shirt rides a surfboard in a large body
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.745425820350647>0.7 a team of boys are practicing soccer, when one of them kicks the ball to the goal
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+28 0.7081299424171448>0.70033 three asian girls are dancing on a couch.
+vsTwo girls wearing white tops and black skirts are dancing indoors, one of them is pretending to pull the other girl.
+
+29 0.7555210590362549>0.7 a black man is sitting on a couch and is sitting on a chair and is on a
+vsPeople in a movie theater are watching a movie with two men lying on a bed and a child gets in the bed with them.
+
+30 0.7835255861282349>0.75242 a group of children are in a room and are looking through a book.
+vsNine books are displayed on a desk indoors as a voice is explaining about the drawing of the day.
+
+33 0.7864993810653687>0.7 football game where a player in the ball to the other team team member of the field.
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+35 0.8922829627990723>0.87845 a man throws a bowling ball to a bowling floor
+vsMan takes his turn and throws the ball in a bowling alley after he glances at a screen .
+
+36 0.7790014147758484>0.7378 a woman in a blue dress is walking on a table in front of a computer and telling
+vsA man watches a computer screen with a woman modeling an outfit.
+
+48 0.7741265892982483>0.7 two children in a room with a table and talk.
+vsTwo young boys and a girl sit at a table as the girl explains about a comic she drew.
+
+49 0.8099043965339661>0.78808 a bride and groom are being led by a priest.
+vsA group of people are taking photos of a bride and her wedding party in a large bedroom.
+
+50 0.735504686832428>0.7 a person is putting something in a table indoors
+vsA wine glass with goldfish in it spills on a green surface surrounded by wooden blocks and someone wipes it up.
+
+55 0.7626848220825195>0.7073 soccer player passing opposing team team team team team team uniforms, are passing the field.
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7684506177902222>0.7 a person in a black suit and a hang glider is gliding across a rocky area.
+vsA person is above some hang gliding through the sky on a sunny day.
+
+58 0.7051239609718323>0.7 a young boy is holding a little boy in front of a group of children in a yard
+vsAsian children are listening to a performance of singing as one of them smiles widely as he turns toward the other children.
+
+61 0.707526445388794>0.7 a young asian boy is dancing on a dance floor.
+vsA young boy in a black and white checked shirt sings while a girl in the background dances inside a dance studio.
+
+62 0.7841722369194031>0.7 a young man slides down a kitchen floor and falls on the floor.
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+63 0.7664912343025208>0.7 three men in a chair and sing.
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+71 0.8569183349609375>0.75817 a woman in a white dress is walking through a wooded area.
+vsA woman wearing a white dress is standing in the woods in the daytime while a clone of her is moving in the background.
+
+75 0.8089656233787537>0.77078 a man in a black shirt and black shoes and black pants and black pants and black pants
+vsA man in beige pants and black shoes twists his foot from left to right.
+
+76 0.7525980472564697>0.72414 a street street, a group of young men are walking and holding signs and waving to the
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+82 0.7603616118431091>0.70234 a man in a white shirt is standing next to a car outside during the day with a
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+84 0.7911978960037231>0.71953 a tiger is sitting on a cage in a zoo, when a cat approaches the camera.
+vsCamera moves from a cage with two striped tigers to another cage with another tiger lying down in a zoo setting outdoors on a sunny day.
+
+86 0.7814061045646667>0.71405 a motorcycle rider rider riders down a snow covered mountain on a snow covered mountain.
+vsA person with two small children comes down a snowy hill riding a snowmobile on a sunny day.
+
+87 0.7359468340873718>0.7 a man in a blue shirt and a woman stand next to a lake and drink from a
+vsA lady, holding a green bucket, is asking a man if he wants a clam but he said maybe later, held her hand and walked away together outdoors in the daytime
+
+90 0.7195640802383423>0.7 a person in a kitchen and gloves and gloves and gloves and gloves and gloves.
+vsSome workers are packaging some food indoors.
+
+95 0.9022315144538879>0.89534 a group of dancers perform on a stage.
+vsA musical group performing on a stage in an indoor venue.
+
+97 0.7841832041740417>0.78392 a man in a black dress is sitting on a bench in front of a building and speaks
+vsA woman in a black outfit talks to another woman sitting on a bench outside on a sunny day.
+
+2 0.8687136173248291>0.76763 a man in a blue shirt drives a car in a sunny day.
+vsAn Asian man in a blue shirt and tan hat drives a car on a sunny day.
+
+5 0.7868959307670593>0.77818 a young man is walking through a trampoline, when he goes to the ground,
+vsMan in a purple T shirt and blue jeans is jumping on a trampoline outdoors as another young man is watching him
+
+6 0.7629722356796265>0.7412 a woman is speaking into a camera outdoors in a field with a cloudy day.
+vsA woman stands on a piece of property pointing and speaking in front of the camera.
+
+7 0.8727673888206482>0.7 a man is running across a room and then falls down
+vsA male doing contractions and a female is running in an indoor place while other people are watching
+
+8 0.8233487606048584>0.82139 a black beak is walking on the ocean on a beach.
+vsA black bird is probably eating on the shore while the waves are coming smoothly in front of it in the daytime.
+
+10 0.7597566246986389>0.74416 a man in a tux dress and a woman in a white dress stand in a park
+vsWedding photograph is taken by a photographer of the groom dressed in a black suit and a bride dressed in white dress and white vail, outdoors during daylight.
+
+12 0.7968820333480835>0.74347 a team of men play soccer on a soccer field.
+vsYoung adult males playing soccer in an indoor venue.
+
+14 0.7977956533432007>0.7 two men are outside in the daytime talking and one of them is talking with the other.
+vsTwo men are making movements and smiling to take a photo outdoors in the daytime.
+
+17 0.7757982611656189>0.7 a man in a black hoodie stands on a bench in the snow and stands up and
+vsA girl wearing her ice skate shoes is getting up and looking sadly at another person outdoors where there are piles of snow in the daytime.
+
+20 0.7730219960212708>0.7 a man in a costume walks in a park at daytime
+vsSome people in star war costumes are accompanied by other people and walking outdoors in the daytime.
+
+22 0.7580098509788513>0.7 a young man and woman talk in a room with each other
+vsAn Indian girl is talking about a project and being sarcastic about a Youngman who is sitting next to her on a bench indoors.
+
+24 0.8368065357208252>0.7 a man is riding a surf board in the ocean on a sunny day.
+vsA small boy in the water gets up on a surfboard as an older man watches him.
+
+26 0.8028508424758911>0.7 soccer game, where a player is hit the ball and missing it to hit the ball.
+vsTwo all-male soccer teams playing a game on a soccer field outside of a white institutional looking building.
+
+28 0.7850337624549866>0.70033 two girls in a room are dancing and one of them is dancing.
+vsTwo young ladies practicing dance moves in an indoor space.
+
+29 0.7609436511993408>0.7 a man is startled on a bed and he is startled by a group of people sitting on
+vsPeople are watching two men lying down on a bed while two children are playing around them on an indoor screen.
+
+33 0.832166850566864>0.7 football game with a touchdown between two teams and one player runs off the ball and runs off
+vsA broadcaster describes the end of a semifinal football game as the players move around the field.
+
+37 0.7033712267875671>0.7 a man in a white shirt and sunglasses sits on the floor in a room in the daytime
+vsYoung asian man with white shirt and black pants bends over to put his shoes on while sitting inside on a bed during daylight.
+
+50 0.7447111010551453>0.7 a man's hand reaches into a small vessel filled with a clear liquid, and a
+vsA wine glass with goldfish in it spills on a green surface surrounded by wooden blocks and someone wipes it up.
+
+55 0.8355051279067993>0.7073 two teams of soccer players, one player, with their coach, are walking off the field
+vsA soccer team at an outdoor stadium walking onto the field to the applause of fans in the stands.
+
+56 0.7553785443305969>0.7 a person wearing a black hang glider walks across a dirt path on a sunny day.
+vsA person is above some hang gliding through the sky on a sunny day.
+
+62 0.8161333799362183>0.7 a woman is lying on the floor and when a dog jumps out of a window and falls
+vsA man peeks through a window of a house and sees a woman dressed in black laying on the floor.
+
+63 0.8038840293884277>0.7 a group of men sit on a couch in a room with a wall of different scenes.
+vsThree youngmen are sitting on a couch indoors and anxiously talking in a foreign language and there is a guitar behind them.
+
+66 0.7181801795959473>0.70883 a man is holding a remote remote in a room.
+vsA young person with string and gear attached to something unseen.
+
+74 0.8937362432479858>0.8157 a man in a costume walks in a building and looks at a door and walks away.
+vsA person in a costume walks then stops and pulls his head back.
+
+76 0.7869520783424377>0.72414 a crowd of people walk through a street holding a large crowd of people holding signs.
+vsOutside in a street in the daytime, a group of people, some with drums and some with a red banner are marching.
+
+82 0.7958245873451233>0.70234 a man in a blue shirt is standing on a sunny day holding a megaphone on a
+vsA man outdoors is talking loudly in a small megaphone while people is standing in the background
+
+86 0.7289535999298096>0.71405 a group of people are riding in a snow - covered course on a sunny day.
+vsThree people on a snowmobile racing down a snow trail during the daytime.
+
+91 0.7072769999504089>0.7 a bearded man with a beard wearing a black beard wearing a black shirt and a black beard
+vsA manin a black and white shirt has his head and one hand stuck inside a red tennis racket in a room with a fireplace.
+
+92 0.8105810880661011>0.74017 a man in a black shirt is drawing a white paper in a room with a blackboard
+vsAn African American man teaches a lesson on a black board in a room.
+
+94 0.8659558892250061>0.8314 a man's hand reaches into a cup of coffee and then puts it into a cup
+vsThe hand of a person putting something into a cup of coffee and stirring with a spoon.
+
+95 0.9246487617492676>0.89534 a group of people perform on a stage
+vsA musical group performing on a stage in an indoor venue.
+

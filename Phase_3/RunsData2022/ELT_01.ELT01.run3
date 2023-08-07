@@ -1,0 +1,2311 @@
+Task=D
+loss=crossentropy
+runType=VV
+1	0.8410525918006897	in man plays playing and guitar sings guitars with room
+2	0.024770203977823257	in young man with wearing sunglasses car shirt and the, on while talking
+3	0.0033731607254594564	two young man in green shirt and to, talks the front
+4	0.992525577545166	an group asian people is in and black front audience the students
+5	0.012104730121791363	two man in black and hood front, with on his
+6	0.260020911693573	outdoors woman with in hair and camera on to the field sunny
+7	0.16739898920059204	in man sits on blue woman sitting and, her the with
+8	0.012606607750058174	two group sunny, water rocks beach are on in the
+9	0.0006462383316829801	the black is green on in leaves
+10	0.3618653118610382	an woman in white dress gown and holding on man the as, with front her
+11	0.10270975530147552	an man is at glasses front and to
+12	0.35056281089782715	in football player practicing red and practice field on the,
+13	0.20665770769119263	an man with on and in field, is the walking day
+14	0.4033746123313904	two man in black beach and on the, shirt at day
+15	0.6411697864532471	an man in glasses work tool and on to, piece wall
+16	0.002650168025866151	two music ins and, on the his from day
+17	0.0016605905257165432	an man in black suit white and, to with on
+18	0.006101915612816811	in white dog is on around and with the floor looks
+19	0.010302858427166939	two man is in down office and, the
+20	0.010637504979968071	two man in black and white, as dress to stand on with day sunny the
+21	0.010112677700817585	two young woman in red wine to at outside stands outdoors the and table
+22	0.6383906602859497	two young man and sitting in woman to, dark with the on
+23	0.0020603735465556383	kay man wearingsak paddle boat in on the and day water
+24	0.0005072034546174109	two woman is yellow and in red, on the
+25	0.002711634384468198	an man in suit jacket and studio to, the on room
+26	0.014746623113751411	two man are in soccer and field the, on grass during with
+27	0.04341534897685051	two woman is in colorful dress and to
+28	0.04500911757349968	in woman with dark and room her
+29	0.28879764676094055	in man is into and front talking to while screen
+30	0.12971635162830353	two person is in photos table and,
+31	0.0016015947330743074	two young woman sit in white and desk at, are with
+32	0.8588401079177856	against woman with long hair and white in up
+33	0.3555108904838562	on football player players in white field the and
+34	0.38420921564102173	in woman sits sitting on and next to with the, room her talks
+35	0.013756949454545975	two man in at and to with, room
+36	0.0005589094362221658	an woman is in hair on and her room the,
+37	0.036868661642074585	an man is in white and head bed on his the
+38	0.00820072926580906	an woman in black shirt and on street sidewalk sign the with city
+39	0.6256157159805298	two man in white dress and woman are standing as on outside wall,
+40	0.5942426919937134	in woman with long hair microphone and her, the
+41	0.02275415137410164	people are ride on motorcycle and the, sunny day in with road
+42	0.015146390534937382	an man with black and shirt in front, to indoors next
+43	0.0016618446679785848	three group men walk are up in night the street building
+44	0.03184157982468605	two asian women are in orange and to an on their outdoors
+45	0.011948234401643276	someone person in black white and his on,
+46	0.0008770018466748297	an young woman in black and on, with outside her to the as
+47	0.38411954045295715	woman wearing front shirt and in equipment, is with
+48	0.001686447998508811	two young woman in at shirt and table, with to her
+49	0.09484454989433289	in bride and groom wedding dress the room white with man,
+50	0.02476762793958187	in man is green yellow and shirt, hands to
+51	0.1680775135755539	two woman sit in on and child, the day street with to
+52	0.8330959677696228	in bride and white groom dress woman church man front with aisle the as
+53	0.04173841327428818	an man in s blue and on piece is
+54	0.08555082231760025	an woman with hair at and to in, the on her
+55	0.0008886665455065668	two soccer players playing on in the at field and sunny
+56	0.23255455493927002	on person wearing orange helmet and yellow in parachute to, outside
+57	0.041911810636520386	an man is in shirt on and sunny tree the during outside day
+58	0.009025908075273037	two young boys in green shirts and shirt to with, the
+59	0.0009907075436785817	fingers person playing on small in
+60	0.002181350253522396	an man is in at airplane and the to
+61	0.0010232462082058191	an woman in black hair and front with to wall pictures the
+62	0.007819009944796562	two little woman is down in and the,
+63	0.05614890903234482	two young women and sitting in white woman on with to, man the
+64	0.9315497279167175	two tiger game in on water the, rocks and
+65	0.1344357579946518	on soccer in ball and to the jump field, him
+66	0.1603861153125763	an man in blue rope to on and the as, hill
+67	0.16211660206317902	on group people are practicing, in and an
+68	0.03445925936102867	an young woman is in front and to desk with, her on the
+69	0.8767645359039307	an bride couple and dressed in groom stand as, outside sunny
+70	0.8234605193138123	on group people dressed in costumes and street, the
+71	0.009346896782517433	an young woman in red white dress and walks, outdoors the to her
+72	0.19933529198169708	an man in yellow shirt and on stands, with the outside to sunny
+73	0.011777320876717567	two man ins on and boat river, bridge the
+74	0.030142320320010185	two man stand white in and dress, are the
+75	0.042633965611457825	man with black and his the in
+76	0.12790223956108093	on group people are red and street in, to the during day
+77	0.039171796292066574	two young boys are in on uniforms as indoor the indoors
+78	0.9508194923400879	on man in long dress and shirt field, the camera
+79	0.00022792005620431155	in man wearing blue black and cap helmet is scuba,
+80	0.4359739124774933	in man and blonde woman hair to talks room with
+81	0.7383348941802979	man with black and in path on road woman trees the
+82	0.14992833137512207	on man in red woman and to people
+83	0.09838759154081345	in white man is an and the on
+84	0.011794059537351131	two person is through on in the outside day, during sunny
+85	0.02311054803431034	two woman is on in and the
+86	0.051041726022958755	two skier in down red on ski and to snow the
+87	0.0003479599254205823	two little woman are in blue and on, day sunny
+88	0.49348121881484985	in man with black and shirt front table room
+89	0.018609771504998207	two man and in black to with, indoor at the
+90	0.041414808481931686	an man in at hair white and sits, front to with
+91	0.008181515149772167	an man in white hair shirt striped and to, with talks at on
+92	0.07101092487573624	in man is talking blue and talks the an
+93	0.8359228372573853	in bride is white and dress woman groom with man, at the guests
+94	0.008321765810251236	fingers video finger is on the
+95	0.14106307923793793	two women are on in stage guitar and screen
+96	0.3048943281173706	two man dressed in red and with stands, his on to
+97	0.0005463056149892509	an man sits in on and outside, with day the during bench sunny to
+98	0.16714423894882202	an asian women and in blue to,
+99	0.0010046949610114098	an woman with red orange in and on, outside
+100	0.016085151582956314	an man is in white and
+101	0.0017992561915889382	an man with black shirt and sits white camera, in on his to
+102	0.36948832869529724	an young woman with blue white shirt and table is to in her on, puts
+103	0.7817912101745605	an woman in black and with food to her indoor as
+104	0.0007441999041475356	in young woman with white hair and stands the river on, lake sunny
+105	0.007033755071461201	two young woman in long hair pink, to and white is while with the
+106	0.0015599413309246302	an man in black suit and woman, with to as room
+107	0.025469230487942696	young woman with on hair her and
+108	0.005500820931047201	an elderly women in glasses white and shirt to,
+109	0.005211234092712402	an woman with blue and on grassy her in field the day,
+110	0.00258512026630342	outdoors man in on white and river the to mountain, surrounded day
+111	0.3697054088115692	an man in on and stage sings
+112	0.0037300419062376022	an man with in yellow and helmet, is head stands
+113	0.17599745094776154	an man in glasses hat and cap, holding outside outdoors on sunny
+114	0.06389588117599487	on man with in red and, street sign sidewalk to the
+115	0.8696509003639221	young man with sitting shirt jacket and on to wall sits in rocky
+116	0.01544811762869358	in man wearing hat and boat river paddle on the fishing
+117	0.0012545527424663305	an man in glasses shirt and at stands talks table, with on
+118	0.027385912835597992	two men are in clothing and on with to the
+119	0.34172290563583374	in woman sits long hair shirt table and white, on with the to
+120	0.01712895929813385	two woman with black hair in and front to as man the
+121	0.821344256401062	an man sits in hair and on window talking the to, day
+122	0.8547710180282593	two indoor gym men are in dr basketball and the
+123	0.296878844499588	people are suit in dance and
+124	0.001886044512502849	two woman is in on and, to the with day white tree
+125	0.8787751197814941	in man sits red orange sitting and cave is with the to his as
+126	0.0020361728966236115	an man with in red and car on, the at
+127	0.04139823839068413	an man with in white and head to on area the
+128	0.10414043813943863	two woman and in to outside front stage on, with
+129	0.012223731726408005	two man with in shirt and, another the
+130	0.007642838638275862	an man with his face and
+131	0.00203884718939662	an young woman with blue and in to stands her, on outside the day
+132	0.015298882499337196	an man is in glasses desk and at on,
+133	0.008977042511105537	man in glasses and bar wall behind the with
+134	0.003980759531259537	an woman in at and table to front room the, with on as
+135	0.002345666289329529	people walk walking in on and with the city street sunny,
+136	0.042899779975414276	two man are in fishing and, on river the with day stream
+137	0.01424697507172823	in woman is white and table to room with, the
+138	0.009065303020179272	an man iss in on outdoors the
+139	0.001859815209172666	in woman is black and front room with the an, glass
+140	0.0001784064806997776	an person is in motorcycle on bicycle and to the
+141	0.019469069316983223	in man wearing at shirt and from desk, on
+142	0.0006610482232645154	an man with blue shirt and at water in, to
+143	0.00010208956518908963	in young woman with black hair and mirror front her the, to
+144	0.004440929740667343	two woman and talking in on outside, shop with
+145	0.660205066204071	an man is on arena in and the spectators stadium,
+146	0.008473056368529797	man in red helmet and on plane parachute, the to below
+147	0.03154003247618675	an woman withs in and large cave the area
+148	0.007611576002091169	an woman is in to and water, her
+149	0.0426035150885582	two man and in stage dark on with,
+150	0.08464383333921432	an group men and in outdoor the their, with
+151	0.43033456802368164	in woman is hair and to the with, room
+152	0.01403204444795847	two young woman in blue hair seat and car, the window
+153	0.0009016168769448996	an man is glasses in and shirt, the as
+154	0.9473476409912109	an man is in red dress and at, his the store to
+155	0.4898613691329956	in man with green white shirt and stands room,
+156	0.0005625870544463396	two man in backpack shirt white and on, stream the river day sunny
+157	0.055519938468933105	in man is putting jacket and door the to, on
+158	0.42802053689956665	on young man is in shirt surf and water the day sunny,
+159	0.3241253197193146	three group women are in and their on, as outside day sunny
+160	0.7387754917144775	an man in hair suit shirt and front on room with, screen to
+161	0.009200972504913807	in young man is black to and with gym, the
+162	0.14788182079792023	two man withs ski on and the in, snow mountain covered snowy
+163	0.0023790979757905006	an man is glasses shirt in and on, front to with
+164	0.2118654102087021	people are in on and front the outside street
+165	0.03449852392077446	an young woman with in hair and to on
+166	0.009017135947942734	black man with into in and
+167	0.1799134910106659	someone man is up on rock in rocks the, wall sunny
+168	0.0008510586339980364	in man wearing green and holding front with party, to
+169	0.0028528040274977684	in woman is black hair shirt and to her room the
+170	0.7583447694778442	an man in walking and the snow on, house with day
+171	0.06382166594266891	an man with in red dress and outside, on day
+172	0.275488942861557	two women are on in stage an the and
+173	0.032720040529966354	someone woman ins green on pot from and
+174	0.030124101787805557	man wearing green car on the and in it
+175	0.3419058620929718	someone person ins jacket ski snow on and covered mountain, the
+176	0.9547109603881836	on man and in woman the, park with as to her sunny tree day grass
+177	0.005916613154113293	an asian man in at and food table on tray restaurant with to the
+178	0.03395097330212593	in man with long hair shirt and his room, to the
+179	0.7488307356834412	at man are riding through on the in street night
+180	0.12085467576980591	someone man'turns on the and
+181	0.3342881202697754	in man and dress suit woman, with the party to at people
+182	0.833756685256958	an man is in on pan the bowl and
+183	0.4250374138355255	an man is swimming pool in the and, on at
+184	0.00010059556370833889	two woman in red jacket and santa to on as the, with day sunny sign front
+185	0.004939182195812464	in young man and glasses woman to at, her talks with the
+186	0.07156974822282791	an man is in blue small and large the,
+187	0.030164534226059914	two woman is in to and front with,
+188	0.0028278923127800226	an man is in work on and with to the
+189	0.30541595816612244	someone cat is on indoors and in
+190	0.0030109286308288574	an woman is at and head in to table window with on
+191	0.0037965867668390274	white man with long hair and his, in face
+192	0.4758942127227783	in man is blue red shirt kitchen restaurant and, to talks
+193	0.08396539837121964	three group women in dancing and dance indoor an
+194	0.012242845259606838	young woman in brown hair and,
+195	0.17377258837223053	in group people is red green yellow front and on an to, as
+196	0.23394091427326202	an person's on indoors to and
+197	0.028408505022525787	an little girl plays in piano and room
+198	0.1754637509584427	in woman sit sitting at and classroom papers, to with room
+199	0.01266669761389494	two man are in and blue piano,
+200	0.7903887629508972	in woman with long hair and to bed man as, her
+201	0.046552203595638275	an man in blue shirt and, the on outside with to day street
+202	0.1296413540840149	in man with black front and to holds holding, on the sign
+203	0.6460515856742859	two woman and in dress man with the to, young front
+204	0.03788543865084648	an woman wearing in water swim and the
+205	0.591225266456604	man in helmet and jacket on over, the mountains below
+206	0.0796724334359169	two man with in shirt and stage on,
+207	9.239240898750722e-05	two woman in red the and to on her, sunny
+208	0.5005479454994202	young woman with long hair and in room to
+209	0.13050244748592377	two woman with in and to talks on, the talking at sunny day
+210	0.0018719087820500135	two man in black suit and stage on
+211	0.005311646498739719	on man with glasses black shirt and, in field the
+212	0.028274204581975937	two group men are in helmets helmet and on to the,
+213	0.016832156106829643	on group day, with street are in and flags the road to city
+214	0.05729768052697182	two group music with in and the, grassy mountains field on rocky
+215	0.8563441634178162	an bride woman with in dress wedding and the holding white room wall
+216	0.0001397855521645397	three young women stand standing in and talking to
+217	0.4411594271659851	in woman sits sitting hair the and box indoor window table to,
+218	0.12992677092552185	an man with long in the and wind at on
+219	0.0024349400773644447	2 woman in glasses holding dress and wine, on the with
+220	0.004787018056958914	young man wearing pink shirt and, bike in on with the outdoors
+221	0.041072484105825424	an woman with long gray hair and in to, her the on
+222	0.5390756130218506	two woman in red dress and front to, the wall while with man
+223	0.0002778105263132602	in young woman are white and, field to the horses day
+224	0.7104846239089966	in woman with blue red and woods, on to the her outdoors
+225	0.006082181818783283	on man with in blue shirt skate and standsboard the, pole
+226	0.006053065415471792	two little girls in on front and to with the, room
+227	0.023240268230438232	two women are dark in and room
+228	0.09085007011890411	two man in on dirt and outside to the, it
+229	0.5447102785110474	an woman with red white and on outdoors in to the her, sunny day
+230	0.5345022082328796	two woman is in blue stage to and with flag,
+231	0.04658825695514679	an person is in shirt up on holds and sign day
+232	0.9906484484672546	white man in blue shirt front andboard stands to board with on the
+233	0.015728412196040154	two young man are in shirt and on street with, the
+234	0.0983322411775589	people are at in and night
+235	0.11030056327581406	in young man with red blue and up to, rock the his as on
+236	0.2124471217393875	an man is in gold and colorful on to with the
+237	0.13442406058311462	on soccer player in red ball the at field goal and daytime
+238	0.038621604442596436	someone asian man is in to and into on the
+239	0.018641000613570213	two man in on to and stand the head another, with one
+240	9.173852595267817e-05	an woman is in outdoor,
+241	0.08620036393404007	two young woman sit long hair to and man in white, the
+242	0.9978773593902588	an woman in glasses blue and hair shirt sits, with talks wall the on
+243	0.026832766830921173	an man is in shirt and to
+244	0.002170031424611807	an man with hair and from to in the
+245	0.00022044360230211169	two man in blue shirt yellow, and on another the to with day
+246	0.2660616636276245	an man in black bicycle bike and on the city, with day
+247	0.006074550561606884	two man in white suit and at table desk, on with
+248	0.1745050698518753	two man are in with and to table front talking, the on other
+249	0.004977310076355934	an woman with in on and sits covering
+250	0.9284776449203491	several group ducks and in on water the lake near body trees
+251	0.006535046733915806	an man wearing walking hat and the walks on road, in
+252	0.0006347058224491775	on group men are green shirts in and outside, with
+253	0.12114065140485764	two man dressed dancing in and street on,
+254	0.0005901777185499668	2 woman sits in at and desk table to with,
+255	0.015272434800863266	two young people are in blue on and with wall, as the
+256	0.06768708676099777	young man in red orange shirt and stands his on box, with to the bag
+257	0.9147037267684937	young man climbs down waterfall in on sunny water day
+258	0.22111867368221283	two asian man in red orange and shirt woman, on
+259	0.4270985722541809	outdoors little girl is in on toy and the to watches her day,
+260	0.020841171965003014	an man in long shirt and with, room on
+261	0.028795655816793442	two man in blue red ski and on snow snowy the to,
+262	0.23475942015647888	on young sunny people are playing practicing in and the to day
+263	0.00901374313980341	man wearing the and shirt at on beach
+264	0.0023132702335715294	two man in blue outfit shirt is and front
+265	0.2836461663246155	two woman are in dark stage and an
+266	0.9769682288169861	an asian woman in red white and man to as, with the
+267	4.227558019920252e-05	two person wearing in helmet gear jacket and mountain, on the mountains
+268	0.3678083121776581	on groupcycl in their bicycle, and spectators the bike with as
+269	0.515739381313324	in group men are and to hair front women people with woman an
+270	0.0016173344338312745	two woman in red dress christmas and to on, man with
+271	0.32472655177116394	two woman are black in dark and,
+272	0.4194469451904297	two man and blue in woman on outdoors while her
+273	0.00030511265504173934	someone man ins red paddle helmet and on river the stands
+274	0.7804281115531921	in woman and white dress hair party an with room to, at man
+275	0.7328413128852844	an baby boy and sitting on in front with, the as room while to
+276	0.0067224507220089436	two group men are in and beach, the on green with rock to
+277	0.0011786057148128748	in squirrel is sitting on the tree forest during
+278	0.00040359003469347954	on man in blue shirt bike and to road the sunny, outdoors
+279	0.009103992022573948	in young gym woman, practicing basketball and hoop the net
+280	0.3760495185852051	an man in dark black and suit wedding table room, with
+281	0.04180561751127243	an man sits in on and window with the room daytime daylight
+282	0.043610580265522	an woman withs to and in
+283	0.04856058955192566	in woman with white hair and to,
+284	0.1817929744720459	two man ins the sail boat on ocean cloudy
+285	0.10487385094165802	man in white and woman sitting on with room to, the
+286	0.05916804447770119	at people walk walking street in with and on the
+287	0.0013378143776208162	man with hat shirt and walks the in on, day
+288	0.9654770493507385	two man in suit shirt and jacket street on city, the
+289	0.0018213693983852863	an man is longs and the in on glider sky
+290	0.7274695038795471	man in on shirt and beach water the at, near with sunny day
+291	0.7182158827781677	an woman in wearing and walks to, the with on
+292	0.09448238462209702	people are in and on line to outdoor sunny outside an
+293	0.12720122933387756	young man in blue on the and beach surf at
+294	0.08264100551605225	outdoors person in gear helmet stick and to the on, day grassy
+295	2.7274763851892203e-05	three group women in together and, their
+296	0.013166521675884724	white man with glasses in and to room at the
+297	0.9190271496772766	in group people are standing water and on, the with to river
+298	0.5372547507286072	in little girl is at dress and front table, to with man standing the woman glass
+299	0.4769025146961212	two man in red shirt and microphone guitar while at,
+300	0.22647050023078918	an man is on hot in and the, withed outside sunny day
+301	3.552378257154487e-05	two woman and in clothing store an with shelves
+302	0.5407637357711792	two group, field and yellow day sunny the in team on
+303	0.002883120207116008	an woman with red white her and cup in, on
+304	0.01951993815600872	an woman with pink white and in as her is to on
+305	0.018350617960095406	two man plays on in and stage with
+306	0.00064605672378093	two woman in blue hair shirt and,
+307	0.0010146158747375011	two young woman is drinking in the and day camera
+308	0.014512184076011181	two young man in red black shirt and, as on the
+309	0.1099347472190857	two woman plays in piano an and with,
+310	0.08438382297754288	man wearing and shirt, in walks on day with sunny
+311	0.997819185256958	an bride man in black white dress and woman to as on the outside car sunny day
+312	0.09392070770263672	in young woman is blue white and as on the, to with floor
+313	0.2374514937400818	two man in white dress and, as woman to on the
+314	0.006586959585547447	two young woman is on and with cup in bottle to
+315	0.39204102754592896	in man holdss and the water outdoors
+316	0.08744796365499496	in young woman with white red and outdoors to the field man
+317	0.9742989540100098	hands person plays on piano keyboard
+318	0.00010127788118552417	in young woman is long blue hair her and mirror front as,
+319	0.0021934998221695423	an man in glasses orange jacket and shirt with to
+320	0.051952507346868515	an man with in and at window is the
+321	0.994897186756134	two man in green helmet and tent on woods the, tents trees sunny area
+322	0.2415114939212799	an woman with in black and sits sitting to, room man
+323	0.08113110810518265	in woman with red striped and shirt shop store is front the, on
+324	0.004948232788592577	an woman with glasses and hair wig is in, his
+325	0.00013192897313274443	two woman in blue shirt and front to on, outside with house sunny
+326	0.002092844108119607	an asian woman is on red in and,s with the
+327	0.016773059964179993	an man in red suit jacket and, to the on as
+328	0.017500534653663635	on man in red and, the with umbrella boat
+329	0.3629123568534851	in group, people stand standing to and microphone front with
+330	0.039541296660900116	in group people are outdoors and to, their on with sunny
+331	0.06970532238483429	two scuba diver fish swims in
+332	0.0003171838470734656	in man with on hair and the boat near woman, by at to water next sea
+333	0.03862403333187103	an man's red black up holds sign and in, on
+334	0.001998505787923932	an young woman is s in and on
+335	0.007507326081395149	two young man in on jacket and the street city to sidewalk
+336	0.6956415772438049	in man wearing red shirt indoor and camera
+337	0.011135179549455643	an woman in on shirt and the tree, with street day sunny sidewalk
+338	0.37515532970428467	at bride and in dress woman to with the, for guests man as table room
+339	7.999336230568588e-05	an man in glasses suit and room talks table with, to the
+340	0.1263604313135147	an man is in hay and on outside the day
+341	0.0019689849577844143	two woman in black hair outfit and as with
+342	0.011972003616392612	in woman is dress and dark as table with to, the
+343	0.2064729481935501	in young man with black skate shirtboard up, and down on ramp the cement wall
+344	0.0031850456725806	an young woman is talking at to in and the
+345	0.03681733086705208	two man is black woman to and in on with her
+346	0.024018509313464165	two young woman in blue one and, the indoor an gym
+347	0.004554604180157185	in group children sit sitting at and woman front talking to table people with
+348	0.02604520320892334	two video is, the trees on day and in
+349	0.0014735829317942262	an man with orange shirt and in, on to
+350	0.006224353332072496	an woman is in dress hair and to room window with, her the table
+351	0.03464498743414879	an man in long white and the
+352	0.0021920434664934874	an man with red shirt and to in talks,
+353	0.0005028671002946794	an woman with white dress and shirt in, is on her
+354	0.0014911218313500285	with woman in ski yellow jacket and snow on the mountain,
+355	0.62464439868927	in woman and white shirt wall front talking to, with as on the
+356	0.8924657702445984	on man ins paddle boat and, lake the river day
+357	0.43567177653312683	an older woman in colorful traditional and table, other
+358	0.09768614172935486	young person withs mountain on and the valley day
+359	0.8817130923271179	two woman are in swimming indoor water pool
+360	0.0016296702669933438	in man is standing airplane and plane the at on
+361	0.4663810431957245	an man with in through and is field the, during
+362	0.04309375211596489	an man in long hair shirt and wine to bottles with
+363	0.09071173518896103	the black stands in water and at daytime day
+364	0.00752763357013464	two person is in car on the with and passenger, as
+365	0.35221752524375916	in bride and white groom dress suit the man by as with,
+366	0.8419609665870667	an man in dark suit and to room, the camera
+367	0.11724034696817398	in woman with white hair and is on, to man the
+368	0.03357674553990364	in man with red white and, the sign front to building on 
+369	0.015993641689419746	two men are red boat in on boats the and water day
+370	0.0010778085561469197	young man with white hair and in
+371	0.6914642453193665	two young field men are practicing and soccer on the in to
+372	0.9223780035972595	in young woman with white hair to desk and at her,
+373	0.04792938753962517	an young man with long hair to and in room the
+374	0.030246419832110405	on man with white shirt ball golf and in the, his to
+375	0.000709163025021553	two young woman in white hair and microphone
+376	0.00189969374332577	someone man is on cup table in paper
+377	0.0060103582218289375	in woman is at to and the, window
+378	0.021446485072374344	on young field man throws throwing and ball the, as in to
+379	0.5634374022483826	in man with on hair window airplane and at the,
+380	0.9983834028244019	someone man in green on machine front and screen message to
+381	0.006480154115706682	two young people are blue in and on the day
+382	0.038430001586675644	in woman with glasses dark and glass from drinking,
+383	0.0069857011549174786	on biker man in white bicycle bike and pants to, the his is
+384	0.12684528529644012	two men and in on woman, with front the to day
+385	0.0031741459388285875	in young woman is dress hair to an and with the, front
+386	0.9309934973716736	an man in into suit and microphone front to sign woman talks on him
+387	0.006909712217748165	white woman with hair to and in room the
+388	0.5631674528121948	an little girl with in and is, outdoors on outside the
+389	0.07563664764165878	two black woman with in and talking head,
+390	0.00923070590943098	on man in blue skate up shirt and the down, steps to day
+391	0.16466447710990906	with man iss and shirt in walks the, on
+392	0.006833604536950588	two woman with on and in, the path sunny
+393	0.9537785053253174	an man with hair shirt and in to door at
+394	0.00046896396088413894	an man with glasses and on
+395	5.724745642510243e-05	two little woman in sitting pink shirt and to table the with, her on
+396	0.0011133691295981407	young woman with red and camera mountain on rocky the sunny in mountains day
+397	0.952099621295929	the camera is with in, ons lake day
+398	0.9195537567138672	in bride and groom white wedding woman church the with are as,
+399	0.05324888601899147	with person wearing in yellow helmet and parachute the mountains on, mountain is sunny
+400	5.101062197354622e-05	two woman in glasses to and on talking another stands white as the
+401	0.02851036749780178	bi man in on shirt bicycle and the, street road as with
+402	0.06159830838441849	in young man with blue grey shirt and front, to hands
+403	0.46424463391304016	the woman and hat in on garden with, flowers sunny trees day small
+404	0.3372269868850708	an woman in yellow hair and dress orange to room front, the with
+405	0.06742683798074722	an man in glasses white and at with woman table, two to
+406	0.09273446351289749	someone man'glasses shirt in counter on and
+407	0.0036490540951490402	in man plays playing suit and fireplace room, with
+408	0.000724632409401238	in woman with white dress and window sits room is the,
+409	0.6646876931190491	an man is in shirt cutting and on the outside outdoors
+410	0.4979209303855896	on young woman in black and white sign to with street, during
+411	0.1825208216905594	on football are running in track and the
+412	0.8733004331588745	an car is on up track the with, in
+413	0.19628886878490448	white man with red hair and on in, room the talks
+414	0.0049379547126591206	an man is in to and on the wall, as
+415	0.9949142932891846	an man is in work and shop with, wall pieces
+416	0.004820810165256262	an woman in blue white shirt and stands, with on to the
+417	0.13145776093006134	white man with playing and guitar in sings, room front
+418	0.006802710238844156	in person is red dress blue the and
+419	0.0001910973951453343	two woman in black hair and
+420	0.9337579607963562	bald man with blue shirt and in front wall room
+421	0.013520250096917152	an woman with brown her and is in
+422	0.25142475962638855	an woman with in wedding and her finger
+423	0.21072512865066528	two group girls are red in and on to room,
+424	0.005794466473162174	an man in red apron and talks shop to with front,
+425	0.02082502841949463	on woman with in shirt skate andboard sunny, outdoors the outside day
+426	0.8560777902603149	two man player in and the at to, on track
+427	0.5549691319465637	in group women dressed and costumes hats street on the at
+428	0.0005658756708726287	two young woman in red white and, on the to sunny with
+429	0.734265148639679	three man and in guitars guitar sings with, room while
+430	0.0026534139178693295	an man in red shirt and box indoors, front with
+431	0.0003552063717506826	an man in green and tent on to,
+432	0.920402467250824	in group women stand red and to are trees an front sunny
+433	0.7718744277954102	an young woman with in white dress and her, as the to
+434	0.021280189976096153	bearded man in talking black white and store, with
+435	0.005921557080000639	an man is in yellow and the
+436	0.056663043797016144	two young, field park are practicing in and balls the ball on to day
+437	0.06023424491286278	an man in black white on and the, sign window building
+438	0.04295384883880615	young man with black and to indoors in, room as
+439	0.8985887169837952	an young man with glasses green and to, in her
+440	0.4328566789627075	two men in white uniforms uniform and, the to on
+441	0.07033105939626694	two man in white blue and shirt
+442	0.003226551925763488	people in playing and suit with, front the
+443	0.0504298098385334	an white man with glasses shirt and in to, at is book
+444	0.05449768528342247	four music are in on and, the with hill sunny day
+445	0.0008864604751579463	an man in red shirt and painting to, wall the white
+446	0.00024152759579010308	an man in glasses blue shirt large pot and on
+447	0.006018901709467173	two man wearing in climbing to and on the sunny day cliff
+448	0.034998830407857895	in woman walk walking dress and
+449	0.05386633798480034	in woman with black hair to and as man her the
+450	0.02476530149579048	two woman with in talking and table behind studio
+451	3.138425381621346e-05	asian little girl is blue hair from and with, cup in
+452	0.00013720881543122232	two man in red stands front and with as, room
+453	0.9890430569648743	an man in yellow shirt and front stage to with
+454	0.019405849277973175	two man are in on the and, with outside
+455	0.0027747091371566057	an man in red black white and to board stands front flag the
+456	0.02650526538491249	in young boy is green and, to the
+457	0.002474430250003934	two young woman and in white,
+458	0.044283151626586914	an man with red and shirt in, camera the door on
+459	0.0033877736423164606	in group women are and with street, the on
+460	0.055788516998291016	two man is playing in and while plays on with
+461	0.0058867307379841805	person rides on helmet riding shirt and bike the in road
+462	0.004795795306563377	in man with white blue shirt and to, large
+463	0.16716408729553223	three young man are blue in on wooden the, to with sunny outdoors outside
+464	0.006281910464167595	in woman and on shirt outside green to with, sidewalk
+465	0.09038802236318588	2 man in glasses black shirt and papers, to room the on
+466	0.7751100659370422	two young indoor basketball are playing in, and the gym
+467	0.03363655507564545	an woman in colorful on and store walks the
+468	0.07501628249883652	an man with blue shirt and in table on, outside sunny window day
+469	0.8279806971549988	brown white branch on red and tree stem in
+470	0.8731515407562256	two men in shirt and on road the with, as
+471	0.09381328523159027	white man with long hair as and in front wall
+472	0.003441387787461281	an man wearing in boat and the canoe on,
+473	0.03097423166036606	an man in blue white mask and on to
+474	0.0592769980430603	an deer is and the from in grassy field
+475	0.47316718101501465	an baby man is on and in his the
+476	0.1830196976661682	people are in up on the street at with
+477	0.030513551086187363	two band is in stage on and playing while with
+478	0.024312583729624748	an woman in black dress and suit is front to man, with room the on
+479	0.005067169200628996	two young woman in on dress and the day
+480	0.006246407516300678	two man iss white and on in stage
+481	0.02308988757431507	an woman with red microphone in and front to on stand
+482	0.0007610425818711519	in young man is on front bed and hands to
+483	3.668408317025751e-05	young woman with blue white hair and shirt field, in the
+484	1.8690812794375233e-05	outdoors woman in black red and shirt, the to dog on sunny her
+485	0.17670240998268127	two men stand in and woman, room with
+486	0.006576403044164181	in woman with at christmas to and room her, the
+487	0.013829698786139488	two young woman in red pink their and outdoors, outside bushes
+488	0.9747332334518433	in white man wearing green shirt polo and kitchen, to the - with room
+489	0.9735814929008484	two man are in blue and desk with, monitor
+490	0.23424965143203735	two young woman are in talking car and the, while on
+491	0.011284220963716507	an man with standing in is on stone wall and, iron gate
+492	0.003899720963090658	two group men are in on and, the with
+493	0.08415248245000839	in woman with talking microphone and indoor,
+494	0.0027651542332023382	in group people is green and on, are an as with the
+495	0.012508999556303024	two man in white hair apron counter and front, the to
+496	0.005075703375041485	two group people are in and on bike with road, the to sunny
+497	0.12705098092556	someone person is up small on truck and, the in with day
+498	0.01147483754903078	two man wearing in and white the on, his field up day him
+499	0.004004598595201969	an man in red shirt white on table small and the
+500	0.02156854420900345	two woman in red top and, on with
+501	0.836057186126709	two men are in shirt gym with,
+502	0.47709277272224426	someone person'on table ste ring and indoors
+503	0.002282289322465658	an man in glasses yellow and piece on
+504	0.02983606420457363	on person in red jacket ski snow up and to, covered the
+505	0.6144156455993652	in young woman with sitting shirt and black on front to at
+506	0.2541796565055847	an woman is in hair to and at her the
+507	0.00099806091748178	in young, woman are at white and table with to man the front
+508	0.0006911458331160247	an man in glasses suit and woman to white with front talks,
+509	0.07806495577096939	the man sits on chairs chair beach table in with, and day at
+510	0.033222515136003494	two woman in red and on game to the with sunny field as day during
+511	0.09184487909078598	an woman plays playing in and with the room
+512	0.00011622926103882492	two white bird sits on in the and rocky rocks outside cliff sunny day
+513	0.01762637309730053	in woman with talking and as room
+514	0.024044740945100784	outdoors man in black shirt and to the young, on outside camera day
+515	0.8135598301887512	an white woman with in hair and her the outside sunny
+516	0.005355848465114832	in man with blue white and woman outdoors to, outside
+517	0.0022210904862731695	an man with glasses and the on at rocks overlooking in beach
+518	0.03197396919131279	people are beach at the on water and in
+519	0.022487638518214226	two group men are in shirts and on, outside
+520	0.5668436288833618	young woman sits sitting on and in, with her to
+521	0.008334123529493809	an woman'hair and finger her
+522	0.07321883738040924	in young man with blue black shirt and to, on the fence is
+523	0.9855890870094299	an man in black suit walks room and dark
+524	0.2856994569301605	an woman in with hair and to the front talks room white,
+525	0.08329607546329498	on man in jacket shirt and street the with, at
+526	0.41554713249206543	an man wearing in suit car and to the
+527	0.18493500351905823	in woman with black hair and her to,
+528	0.055783193558454514	two woman in red their on road paved and to, sunny the path as
+529	0.11067181080579758	in man with red shirt and striped to, his room next
+530	0.05491885915398598	an cat person is on in and the door
+531	0.3695957660675049	people are in and on field the up sunny
+532	0.5197615027427673	two man and white shirt in indoors to indoor
+533	0.0014672742690891027	two young woman in striped white shirt and at with front
+534	0.0025369846262037754	in man wearing red shirt and to kitchen, the talks
+535	0.1594114601612091	people are yellow in stage and on with
+536	0.8679923415184021	an woman in red white and outdoors
+537	0.03829541429877281	indoors man in white woman to microphone and holds room
+538	0.20758159458637238	two man with in on road and, the vehicle mountain sunny path day
+539	0.008668135851621628	two man climbs in climbing rock up to and, on the day rocky
+540	0.0038667633198201656	man in blue yellow jacket and helmet holds on outside side the
+541	0.028218118473887444	two woman and in on table outside garden sunny, with the
+542	0.0005624705227091908	an man in on green bed hospital and to the his
+543	0.15450462698936462	an yellow is from in the
+544	0.11509285122156143	in man with white shirt hair and woman, the
+545	0.11254467815160751	an young man is in hair and to
+546	0.024241210892796516	two man is dirt in and field outdoors the
+547	0.006898500956594944	in man wearing backpack and woods walks the trail, on his
+548	0.016533993184566498	two people sit on up at in and
+549	0.0033363807015120983	man in black and at on the beach near, day with to sunny
+550	0.004704189021140337	young man is in on bucket and the, day
+551	0.0038416460156440735	two man with and white in woman, paper the
+552	0.03840051591396332	white man in glasses shirt black and to equipment front
+553	0.0031036955770105124	two woman wearing in and on hat the, with sits
+554	0.004782951902598143	an man in shirt on and, with guitar room the
+555	0.006849019788205624	man in blue green and shirt helmet on paddle the, surf his
+556	0.08657312393188477	two man wearing in yellowak and river, on the sunny
+557	0.27292153239250183	two man speaks in suit and front
+558	0.08853045850992203	outdoors man stands in shirt and standing on front, day sunny to outside the with
+559	0.03809480741620064	an man with glasses woman and in next talks wall to table
+560	0.027623627334833145	an man woman with s on and the
+561	0.016146304085850716	three man in green shirt and, on with the while day
+562	0.011950868181884289	in young man is at shirt and to, with the
+563	0.06436876952648163	at people are running on up in and the with
+564	0.0012389300391077995	in woman with glasses hair shirt and stands talks, front to the
+565	0.07837620377540588	two woman plays in and as man the with room
+566	0.33484482765197754	in white man with glasses black shirt and hair to talks
+567	0.03133341670036316	two young man are in and front talks camera, to the
+568	0.07929287850856781	in man with hair shirt and to room
+569	0.03344361111521721	in man is woman and the, house from as to him with
+570	0.005872633308172226	an white woman is in to and, on the her with day during
+571	0.9171060919761658	in woman and white dress groom with the man, ceremony while room
+572	3.235447366023436e-05	an man in black shirt white on and
+573	0.009865853004157543	in man is baby on kitchen the to water and, spoon with
+574	0.1711234301328659	on man rides in skate shirt and the, down day
+575	0.0019678825046867132	an man in on black stove kitchen pot and to inside the
+576	0.638532817363739	people are in and at restaurant table with, the
+577	0.01763525791466236	on man withs hat and road, the in mountain hill
+578	0.033986177295446396	two man sits in and front desk with to, room computer the
+579	0.006311032455414534	in man is glasses white and, her
+580	0.0028778952546417713	an man with in white and to his the
+581	0.0007287827902473509	someone man in glasses red and on paint to
+582	0.004786825273185968	an group people and in on, woman to as front the outside with
+583	0.4881562888622284	in person is green christmas and with,
+584	0.20073555409908295	in man is glasses blue on and to window the
+585	0.9818745851516724	in man with black jacket and window, room the to
+586	0.11077383160591125	on man in red field and the track to during, day
+587	0.0020238871220499277	two young kids are red in shirts and team indoor
+588	0.018437298014760017	an young woman is in to - and
+589	0.010891642421483994	two man ride on motorcycle and road river the, with in hill day
+590	0.38570570945739746	two woman in down blue narrow and on street alley the with
+591	0.20657587051391602	an little woman with on blue and sitting in her eyes face,
+592	0.889545202255249	an young woman with white to and banda, in her
+593	0.28925326466560364	two woman are in swim and swimming the
+594	0.26913389563560486	two young man in red shirt at and with
+595	0.003873171517625451	outdoors cat is on in during daytime
+596	0.00029041655943728983	in bride and at white table woman with man, restaurant the room dining
+597	0.9745930433273315	outdoors white waterfalls flowing water
+598	0.9985730648040771	two man is in blue corridor and,
+599	0.000778652320150286	young woman sits sitting at in and sidewalk street the
+600	0.0006378081743605435	two woman in white shirt and kitchen to table with the on,
+601	0.7978923916816711	two women and in front woman with microphone, to on table
+602	0.05902997776865959	an asian man in white and table, on with at
+603	0.7535275220870972	two group men and in orange on stage red,
+604	0.06258141249418259	an woman wearing in dress and painting on colorful front to, table
+605	0.009880919940769672	in woman plays red and head room, the on with
+606	0.05395978316664696	people are and walking in shirts through, on the with along road
+607	0.06990323960781097	in woman are talking at to and man night the
+608	0.06903135031461716	an man with in shirt and on his shop store stands
+609	0.030698679387569427	in woman is dress white on her and the outside
+610	0.6908642053604126	on young woman is black and dog the, ball in back to day
+611	0.10082435607910156	in person wearing red white and shirt to, on the wall up room
+612	0.8290910124778748	white man is talking in and dark screen,
+613	0.0031013861298561096	outdoors night figure is tree in the on and at
+614	0.008492647670209408	an man in suit from and the cliff up wall
+615	0.07498332113027573	an woman is at in window train the and, store
+616	0.0002906032605096698	two young men in red orange front and stands with yellow to room
+617	0.01918642595410347	two woman in red on stage and an to front,
+618	0.0011496510123834014	two woman is in on and front with room plays
+619	0.9447551965713501	conductor woman conducts in an orchestra concert and
+620	0.8555629253387451	two swan swans in water the and at lake
+621	0.9894518256187439	an woman is long hair and room in her the
+622	0.0023874102625995874	in young man and at orange woman desk, to with front talks on
+623	0.19260437786579132	people are on stage in front an and
+624	0.005242269951850176	the woman is in dress and on from table, window
+625	0.053808458149433136	two youngist in on bicycle road and bike the his, hill
+626	0.09020812064409256	in woman with long into talking microphone at and to
+627	0.00044501773663796484	man in red on bike pad and the day sunny outside
+628	0.09793229401111603	two men are in on from river the to bridge as
+629	0.014118132181465626	man in long white dress and shirt rock on the cliff as rocky wall
+630	0.8789856433868408	an woman in red black and the market on street
+631	0.0006091371178627014	two young man in red orange and shirt stands, wall on the
+632	0.0004085298569407314	two woman in black dress and white man to wall the
+633	0.0006824082811363041	two skier people are in yellow ski snow and on to the, poles
+634	0.8641921877861023	an asian woman with red and in head, front to her on outside
+635	0.9932437539100647	in young woman with red hair and on, her day outside park sunny the
+636	0.07896486669778824	someone man's yellow and on in to
+637	5.14105377078522e-05	two asian girls are in pink on table and, to the
+638	0.0032389946281909943	two woman in black on and to outdoors the outside
+639	0.4467763602733612	an man in blue shirt and, restaurant food with the
+640	0.0980549082159996	two group people are red in and on the to, with field day sunny
+641	0.0010883879149332643	white person is in motorcycle the car out on
+642	0.004114207811653614	at night woman is up and the street in on, with
+643	0.2832079827785492	two woman wearing red and orange through in, field the on grassy path
+644	0.14182201027870178	someone person is up the from on to in and,
+645	0.023556113243103027	an man with long in and on wall pictures room
+646	0.7487607598304749	in woman with glasses hair and shirt front, talks shelves shelf to
+647	1.5598810932715423e-05	outdoors woman with in hair shirt on and bottle the outside
+648	0.029539158567786217	an man with in suit shirt and street the on, to
+649	0.00144323764834553	two young woman sits blue on and in her the, with
+650	0.6364803314208984	two young man in on beach the at ocean
+651	0.03847544640302658	two person are in on river and, with the water
+652	0.001548022497445345	an man in blue orange jacket and on outside while with,
+653	0.5952168107032776	two young man is in boxing box white, the with and
+654	0.07660914957523346	the man with in shirt and at on trees sunset
+655	0.03128713741898537	two groupist are red their and the on, in with outdoors
+656	0.372956246137619	someone person iss on boat in the, and water with day
+657	0.0005168148782104254	two women and in at wine with restaurant, woman to
+658	0.017435913905501366	two people play playing in at and
+659	0.17295697331428528	two young woman and at in with, table cup the man to
+660	0.03046744130551815	an man in white shirt and is, talking window table on
+661	0.001222484977915883	an asian man is black shirt and table at in,
+662	0.9818430542945862	on man in black hair jacket and to the camera, street road
+663	0.9560254216194153	young man sit in and on guitar, bus while the
+664	0.400405615568161	someone person'green yellow on in and with
+665	0.11808435618877411	two elephant are black in and field on the to day
+666	0.7491642832756042	on football player, up the and stadium field cheers
+667	0.010540871880948544	in man is an the front and on store
+668	0.03040960244834423	two man wearing in green on the woods tree during,
+669	0.0034756020177155733	someone man is sitting on the car window in and,
+670	0.09298844635486603	four men are up on the, rocky day sunny in
+671	0.4712783098220825	in woman is long hair talking and
+672	0.006127434317022562	outdoors man is glasses blue and in to on the outside
+673	0.09384232014417648	on person is black hat stage and in the
+674	0.000389170105336234	five people are in climbing to and on the sunny day
+675	0.0022048361133784056	in man with orange shirt and, to on the room
+676	0.9803199768066406	in woman dressed white red and on as instructor the,
+677	0.0008133914088830352	four group men are red in and climb to on, tent
+678	0.05430278554558754	young woman plays and guitar room
+679	0.011424358002841473	at woman and sitting in with restaurant bar to, as night
+680	0.002735341666266322	two man in long white and on to as with,
+681	0.05514759570360184	two man is in with and to, front on
+682	0.000123043151688762	on man in down shirt bike and street road the city sunny
+683	0.0008928711758926511	an man is on shirt blue and
+684	0.021380940452218056	two man is in black and talking as room
+685	0.01556328870356083	on man with hiking shirt and hat, the holding in
+686	0.02375076338648796	on man in green helmet and shirt shorts, the path to as he
+687	0.013398791663348675	an woman with in hair hat and shop is, the on
+688	0.001982953632250428	in young man with red helmet shirts and paddle on to the, sunny
+689	0.03315816819667816	two man is in dark and
+690	0.003916854504495859	outdoors woman in on tee and golf the to, during it day time
+691	0.9798126220703125	an young man in white and guitar shirt plays,
+692	0.9680655002593994	three band are on in street guitar and, the with
+693	0.4031870365142822	in woman sits sitting yellow on and, to with the wall
+694	0.7635440230369568	someone person's white shoes on in the and
+695	0.8942254185676575	two man is in cave an and with on as at
+696	0.0201485026627779	two white and in field man stand running the by on
+697	0.600471019744873	two man are in on stage and dark, with
+698	0.004925758112221956	an young woman with at in to and, her the
+699	0.038418710231781006	an woman wearing in sits and to sitting white the her
+700	0.8454799056053162	two dirtcl are on race, the course in track and spectators
+701	0.6046990752220154	an man in white hair and dress shirt, is the field flowers on
+702	0.006452537141740322	an asian woman with outdoors to and in
+703	0.737778902053833	at man in red shirt green and, the
+704	0.20752118527889252	in man wearing orange jacket green and stands with to store on the
+705	0.002346071181818843	white woman with in hair black and room talks
+706	0.308420330286026	someone person iss in snow the on snowy trees mountain
+707	0.14846128225326538	people are into on in parked and, the with
+708	0.14378926157951355	an man with red and white in, table to on book the room
+709	0.00077711051562801	two man is in guitar and front at, the
+710	0.00152689462993294	an man in white rides bike and on outside,board the sunny day
+711	0.026783514767885208	three man is on an stage and in the
+712	0.009660640731453896	two man is in on the water and rocks day
+713	0.21279028058052063	an man iss shirt and in pot to on bowl
+714	0.01491500623524189	at woman is in to and with, window the
+715	0.003179360181093216	an man in and up to as with, front
+716	0.41956496238708496	two women are in woman and while with man as,
+717	0.9226043224334717	two man in yellow green blue and stand stands with on front to
+718	0.0001412317214999348	an man in glasses black wedding and to his
+719	0.17422537505626678	in woman with long hair dark and, room her the as
+720	0.010431462898850441	two young men wearing in on and, the with woods
+721	0.7912102937698364	two man are red in wrestling on the
+722	0.048076484352350235	in woman is dark from and, the with to
+723	0.9405543804168701	an woman sits sitting ham on in yard with and, the to sunny outside
+724	0.001976635539904237	two young gym, woman are in and
+725	0.08443144708871841	two asian man in dark and
+726	0.296469509601593	an woman is in dress green and, to plant garden with the on
+727	0.8981959819793701	in woman with long hair shirt and to talks, her talking the white
+728	0.005637407768517733	in man with black shirt and sits dark to cup, talks at
+729	0.0013623441336676478	two young dog are red to in and an the outdoors outside on,
+730	0.0006080649327486753	two woman dressed in white hair and microphone stage with,
+731	0.45410916209220886	on man are in field and the an during helicopter day
+732	0.08403144031763077	people are on boat in boats the and water lake
+733	0.9513068795204163	two man and on in with stage mike while
+734	0.8090015053749084	in man is walking dark and with the, to
+735	0.000981729244813323	two man in orange and stage sings, guitar with
+736	0.10378420352935791	young woman is painting blue in and holding on,
+737	0.12575604021549225	two woman in sitting on and table with, to
+738	0.006363892927765846	an man in white green shirt and on to, with next
+739	0.008023415692150593	two young man is in ball shirt and balls on, the day sunny
+740	0.041067007929086685	two little boy with in and front shirt as
+741	0.006574966944754124	an bride man in and dress shirt white woman, table at the on
+742	0.6850155591964722	an young woman with dark hair to and sits in, her the at
+743	0.9511845707893372	man in red and on river the, stone day sunny
+744	0.7419891953468323	young man with green shirt and on, head in his the to
+745	0.34112879633903503	two man in hair and on the, stands beach as with at small
+746	0.48526498675346375	in woman are on stage and with
+747	0.3121209740638733	in black man dressed an and yellow people to with
+748	0.0010944089153781533	young man in boat and on the, as to is
+749	0.05768522620201111	two man in red on the sign road, and green
+750	0.0012840877752751112	in woman with long hair on bed and to her the,
+751	0.000754883571062237	white man in glasses beard shirt and jacket at restaurant, is with
+752	0.21537776291370392	in young man wearing yellow rock and to the another, during day
+753	0.01743057370185852	outdoors group people are red in and to, on as
+754	0.014712763018906116	white man with in seat car the and to on, sunny
+755	0.06520715355873108	outdoors young man in pink red shirt to and, his the on someone hand
+756	0.7758228182792664	in woman with white dress and hair to man bar, as
+757	2.6275325581082143e-05	yellow white duck chicks on and in beak head area the
+758	0.0011977935209870338	an man in white shirt and subway, is train
+759	0.7685019373893738	in man and groom white wedding woman as with the,
+760	0.6872158050537109	two group women are on in and stage front with,
+761	0.01033015176653862	two woman and in glasses with, at to man white
+762	0.0349293015897274	2 man and on in stage
+763	0.9354816675186157	two man in white and shirt, dance dancing as with
+764	0.009431049227714539	in man walks up and shop the, to with
+765	0.0037785046733915806	an young woman with in and shirt on sits, next to as the wall
+766	0.00983151700347662	two woman in blue shirt yellow and talking, wall
+767	0.25960293412208557	two man plays playing street in and while,
+768	0.38938114047050476	on football player is in white and ball the at field,
+769	0.1854020655155182	in woman with hair dress shirt and, to man the room
+770	0.005293720867484808	two man are in on car the and, street to is by
+771	0.0004622573615051806	two music in up on and the, street to with as sunny
+772	0.9731171131134033	in group women are on an and stage, dance
+773	0.15373505651950836	an woman is red in bowl on table with and the to
+774	0.8282370567321777	an woman in black piano and front with is
+775	0.001262818812392652	young woman in yellow red and on sunny day is,
+776	0.013048934750258923	an man in black suit and the on paddle
+777	0.09627386927604675	an woman with in bicycle bike and on her the to street sunny
+778	0.20272162556648254	two young woman in with blonde and car seat the, talking is her
+779	0.00046611748985014856	an man in glasses hair and with, at talks sits
+780	0.2848599851131439	an man in standing horse crane and on the, with day
+781	0.0030651565175503492	in young man is playing shirt guitar while and room
+782	0.01846773736178875	an woman with in and to,
+783	0.026645570993423462	two horse horses are and in on during day the, field
+784	0.013508530333638191	two man in blue shirt and at front while to with
+785	0.0032044292893260717	in woman is to dress and front man young with as the
+786	0.042239438742399216	in man is white on and to, room the with
+787	0.9309971332550049	in group woman is dressed and an, worship with religious
+788	0.02690868452191353	two man with red in paddle boat and the on, sunny as
+789	0.03716040402650833	two man in red shirt and field to, the on day boy with
+790	0.05291200056672096	an man is in the on and field
+791	0.7349529266357422	an man in at to and restaurant, woman with
+792	0.054547268897295	an man is on white and, the in ramp at sunny mountain
+793	0.0031192954629659653	an woman in black orange and dance
+794	0.9956703186035156	in young girls dressed red dress and children to floor
+795	0.018035724759101868	an woman is in on and the, room with girl floor as
+796	0.00012009409692836925	two young man in red yellow and canoe on boat the his, with sunny day
+797	0.32114100456237793	an man in white shirt and, on the to his with
+798	0.6487751603126526	an woman is long in and bedroom, room to with
+799	0.0742487981915474	an man is at woman to in
+800	0.1795726865530014	in man and black suit dress church the with an guests front,
+801	0.0036144519690424204	an man is in jacket and table to the
+802	0.028607569634914398	two man are in boats and boat with water on river the
+803	0.05270200967788696	in man with hair shirt kitchen and his,
+804	0.036011435091495514	an young woman in white hair shirt and car on the as, her to sunny
+805	0.1399935781955719	two woman sits hair in and room to the, at on
+806	0.1766773760318756	an man in shirt white sign wall and on the building to'day sunny
+807	0.12044636160135269	two man is down small on the and, street with day in sunny
+808	0.04683855175971985	in man with blue shirt and
+809	0.05870471149682999	two man are in on at and the night
+810	0.6614550948143005	an woman with in hair and microphone, room desk talks to
+811	0.3335578739643097	in young woman is talking to white and her
+812	0.1463138610124588	an bride man and groom in down white the with as aisle church people are,
+813	0.01852932572364807	two man is in suit front and, to with
+814	0.00015611627895850688	two man is to shirt in and the large on
+815	0.04808717593550682	an woman is in music and
+816	0.47552958130836487	an man is on tractor the field and sunny, day
+817	0.9884732365608215	an man in red shirt on and with window
+818	0.11726970970630646	two young men are in and stage
+819	0.5745657086372375	young man in blue and indoors front indoor mouth
+820	0.2696447968482971	two group people and in outside singing woman
+821	0.0004679391859099269	two men are shirts in yellow and field on the, to their
+822	0.038045551627874374	white person is on car the door in
+823	0.07121489942073822	an bride woman in groom dress and white, the as with
+824	0.010789304040372372	young woman in black shirt and helmet skate pants on,board the down hill to day
+825	0.0003621893411036581	an woman in dancing costumes and dance
+826	0.015665825456380844	in women are with and, indoor woman
+827	0.05208731070160866	young man with long black and shirt in, on to woman the
+828	0.8571047782897949	in man is blue practicing and indoor wall gym, to the
+829	0.03711504861712456	an woman with in hair and table window, on the talks to
+830	0.2164701521396637	people sit in and at outdoor on, outside as sunny the day
+831	0.016277115792036057	in woman with white hair shirt and to talks, room on
+832	0.06373761594295502	in woman is long white and mirror her, the
+833	0.08479075133800507	two woman are on stage in and
+834	0.0006534021813422441	people are in on and street city signs with sunny day
+835	0.5232504606246948	skate man rideser up his on ramp and in
+836	0.0004395423748064786	three young women stand talking in and to outside woman sign
+837	0.0018027389887720346	an man in blue suit uniform and, door front to sunny building
+838	0.06722653657197952	two young women and in white woman, on man the sunny to
+839	0.004673348739743233	an man in red helmet and on the car plane
+840	0.02697213552892208	two black is, dirt the and in on to ground
+841	0.0006864189635962248	the woman sits on and bench table, in deck with patio at day
+842	0.1092577874660492	two man in on and stage front with microphone,
+843	0.5642392635345459	two man sits at boat in on and the to, front
+844	0.12888465821743011	an bride groom man in white wedding and suit with cake church candle ceremony the
+845	0.0033500506542623043	two woman in on motorcycle and table room, the with
+846	0.0023472043685615063	two woman and in santa with to man, the talking room
+847	0.8362164497375488	young woman with black and on beach in,
+848	0.005286707077175379	two white woman with in glasses and on talking to, man the talks sits
+849	0.003059100592508912	two man in red boat and river paddle the on, water
+850	0.02872685343027115	two man are in to the on field and, day during sunny
+851	0.9765989780426025	an woman in red shirt and table to on pot, the small outside during
+852	0.1619167923927307	in man is long dark and with
+853	0.0028415301349014044	two man ins white and his rope stream, to on the day river
+854	0.02208174392580986	an woman are blue in to and the area
+855	0.01767207495868206	two man is in holding with and front to lit
+856	0.22585085034370422	someone man ins black yellow and to on
+857	0.0012967890361323953	an woman in from dress and outside to the on day
+858	0.6608370542526245	two man stand in at and, the
+859	0.15951423346996307	in woman with long and shirt, on the her to
+860	0.9575114250183105	an man with in drawing white to on and talks wall
+861	0.009148604236543179	on man in green shirt yard and, with day the holding to
+862	0.25882837176322937	an black is eating on and the to
+863	0.06363387405872345	an man with black in and small his, on to the
+864	0.9236133098602295	four group women in red black and on front to their
+865	0.4183731973171234	in woman and white talking to talks with screen front, the room
+866	0.7282259464263916	an doctor man with in white hair shirt and camera to talks,
+867	0.1281943917274475	someone person is up in the and
+868	0.7674342393875122	in young man is red and holds with room the
+869	0.6307410001754761	two young woman are in snow on and, the to another day
+870	0.1275280863046646	in person is red on and the
+871	0.0006616614991798997	on man in red hat snow and dog, the snowy with to
+872	0.0033430512994527817	two young men in uniform and practice, the
+873	0.0061632911674678326	an man with up shirt and holds on
+874	0.006700526922941208	white man is black on in and to room the
+875	0.035323403775691986	an man with in shirt and camera, the floor
+876	0.3794388473033905	an man in white dress and stands walks, on the outside
+877	0.06931951642036438	an woman with hair piano in plays and room,
+878	0.016545431688427925	an woman is in to with and lit room,
+879	0.005013644695281982	two man wearing in hat shirt and on the window, overlooking mountains as with
+880	0.10355643928050995	in man with black white and on to the room,
+881	0.04896805062890053	two woman in green dress and, stage on with
+882	3.724135967786424e-05	an young man with in white shirt to and talks, camera
+883	3.391674181330018e-05	two squirrel is on eating from and food tree
+884	0.0400535948574543	in woman with blue hair shirt and talking to, man
+885	0.07222840934991837	two man are in and to outdoors on outside, the
+886	0.13500283658504486	at woman with blue shirt in city street and on
+887	0.0020135294180363417	on young woman in blue with up cliff and to as the, day
+888	0.2800600826740265	an woman sits blue in on and the to at, outside
+889	0.0026386294048279524	an man in black hair suit and car stands on with next outside to the
+890	0.702499508857727	two young woman with in hat and, on road to the man woods
+891	0.008714226074516773	two man with in talking and on to front
+892	0.027120789512991905	in man with white and on, to wooden the sunny day while outside
+893	0.08823099732398987	asian group women are in walking path and on the
+894	0.00030378124210983515	five women in pink and are, to dress ceremony on their white as
+895	0.2727850377559662	someone man is in from on the and car at, cup
+896	0.03355200216174126	in woman with hair and to, from man
+897	0.00022203261323738843	two young boy with in blue green and car seat the to talks,
+898	0.7701112031936646	two man in on stage and band with mike,
+899	0.03407665714621544	in man with blue and room to
+900	0.06426015496253967	two sunny day people are in on up and the, their to
+901	0.05548254773020744	two woman and in to man, the while with
+902	0.9496805667877197	an woman in playing black and piano suit man dress front
+903	0.000172322615981102	an man in glasses hat and holds his next with on,
+904	0.013155918568372726	an woman with white dress and to in front is the, on as
+905	0.008275635540485382	two young boys are on in table and the game with while
+906	0.8244611024856567	an man and sitting woman shirt on in, with the to talks
+907	0.004963978193700314	two young woman in blue hair, and another the man
+908	0.18142928183078766	an man with in suit jacket to and window the glass,
+909	0.005919677205383778	an man is glasses shirt and in front, his on the
+910	0.3514867424964905	an person is moving in and window, the
+911	0.23381315171718597	someone person is red and flag the balloons on as in, with
+912	0.095766581594944	two man in suit front and with to,
+913	0.00016527615662198514	an man is in glasses and with her
+914	0.04600197821855545	people are in and at as
+915	0.11699051409959793	on man ins ski jacket and his mountain snow to, the
+916	0.0033484625164419413	on man in green ski jacket and snow to poles tent, the covered
+917	0.9179263710975647	in red car is pink, the and day lot
+918	0.0009393575601279736	an young man in white black shirt apron and hair is with talks,
+919	0.017501667141914368	in woman and talking at train to airport the
+920	0.07881263643503189	two man are bathing in surf on the water
+921	0.21512708067893982	in young woman with long and is, man
+922	0.09384870529174805	two music is with mountain the and, in grassy rocky on
+923	0.5322372913360596	in bride and blue white groom dress man as the woman with
+924	0.0004942896193824708	in young female woman with glasses hair green and front to, the man
+925	0.5035832524299622	on young woman in walking and building, the with
+926	0.010639272630214691	an woman in standing stands front and with room church to pictures the
+927	0.8141705989837646	an man in black shirt and pants on sidewalk, the with
+928	0.007399732246994972	in man with beard shirt his and gym
+929	0.004723601508885622	two woman and in to the man with, room
+930	0.25585755705833435	an young woman with long to and in,
+931	0.0132145369425416	in black white is bowl pour on and to the pan,
+932	0.9471105933189392	in young woman is with grocery store cart and shop, the
+933	0.44096478819847107	two group men are in shirt and river, on the near rocky
+934	0.00374369858764112	an person is on in to and outside the
+935	0.003233256284147501	two man wearing swim the in on and ocean, day
+936	0.0638670027256012	three man in white dress and, to car stands the stand with talks on
+937	0.05928833410143852	in woman is on dog and indoor the with floor while
+938	0.01625213213264942	an man is in hair at to window and the on,
+939	0.004441620782017708	an man ins and boat on sail the water day, sunny
+940	0.004614547826349735	man sits on in front and chair the,
+941	0.12414693087339401	an person in walking jacket snow covered and, path the
+942	0.0003465787449385971	on man in green hat and grain field wheat, the is machine
+943	0.0017714343266561627	man person with in black shirt and white on the
+944	0.049238476902246475	an man wearing glasses shirt and recording in his talks with,
+945	0.0016355881234630942	an man with black shirt and in on, white is woman outside day the
+946	0.14747174084186554	an man in blue and to, on yard outside
+947	0.06289314478635788	two man in on small boat and the, river sunny day to water with
+948	0.00898416806012392	in woman with hair up and stairs, the staircase
+949	0.015268819406628609	an person wearing green and on in table with the
+950	0.8069976568222046	someone man's hands on and in
+951	0.020929783582687378	an person is s on in to and the
+952	0.5706169009208679	an man in groom dress woman and suit white indoor to wall with the as
+953	0.0019676294177770615	two woman wearing in yellow and are, with to
+954	0.03736858069896698	an man is on in house the to
+955	0.04600561782717705	two man are white in and, on with the
+956	5.0816852308344096e-05	two man with in riding helmet and mountains white on the, sunny
+957	0.135030597448349	two man are at talking table in round and with, room
+958	0.027374548837542534	man and in suit woman with front, as at the
+959	0.0010645746951922774	in man with red shirt and striped, stands to front talks room
+960	0.05195624381303787	man and in suit front large with the screen to room
+961	0.01429826207458973	an man with in shirt yellow and guitar front guitars to, room
+962	0.5653182864189148	two woman are in and stage screen with, room the on
+963	0.005984344519674778	in young woman with pink hair and, camera her talks the to on
+964	0.01794443279504776	two woman and in hair while the, on her
+965	0.15106527507305145	on man is in to car and the truck, window her
+966	0.003695759689435363	in woman is white grassy and grass the on tail field
+967	0.045684073120355606	two man are in on and
+968	0.0003244296822231263	someone woman is on in and various the
+969	0.018370075151324272	in woman with blue white and yard, to house outdoors the front on
+970	0.005671835970133543	an man with in blue and white, on wall
+971	0.023900402709841728	two young man in up shirt helmet and, to hill the on sunny day path as
+972	0.11976686865091324	in man is white hair shirt and to talking talks, room the
+973	0.20230846107006073	an gray ands in the their field on
+974	0.25196558237075806	in young boy with green yellow shirt and wrapped to next, on the
+975	0.00848652794957161	two man is in on and table with,
+976	0.24744251370429993	two man in helmet boat on along and the with water river
+977	0.0074457647278904915	an man in blonde and the airplane on, window
+978	0.0017763797659426928	two young woman with on shirt road bike and, to the in her as
+979	0.2919377386569977	two large is in the water ocean
+980	0.008254198357462883	an man with dress and woman in on to, the her outside
+981	0.15136688947677612	on group people are in and, city with street to day
+982	0.3937660753726959	outdoors man ins down flowing on river water waterfall falls
+983	0.04542017728090286	in woman and at green to table with on room the, an as
+984	0.09571796655654907	two woman in white dress and on, the with fence sign railing sunny
+985	0.005529186222702265	in woman with shirt front and to on, the daylight
+986	0.1824246048927307	with man in red blue backpack and pack, the on rocks rocky day is
+987	0.031157875433564186	two man in black and shirt front on, street with sidewalk
+988	0.01550186425447464	two man are in yellow and green tent the, on
+989	0.2539282441139221	young woman with white hair and to on rock in day the
+990	0.4145018756389618	in woman with blue green dress to and is an young, the
+991	0.016358012333512306	two men in work tools on to tool something and
+992	0.09417741000652313	an man is in to white and on outside the,
+993	0.004110684618353844	an man with glasses and in on to
+994	0.03662702441215515	two man in black and with on, holding
+995	0.0009821089915931225	at men and in suits on night with
+996	0.07739344984292984	two man is in black white and on with
+997	0.01420606393367052	an woman with long black white and inboard on large the
+998	0.8644388318061829	an woman is red cliff rock waterfall and on cave water in
+999	0.8378121852874756	young littleler in sitting the outside on and, to day
+1000	0.0018311248859390616	two men are in on and at the street
+1001	0.06058754771947861	four person is on red parachute and the, mountain to in sunny day
+1002	0.013173759914934635	two man are white in to tent on and the,
+1003	0.016943633556365967	an woman is at on window in'and the to
+1004	0.5079623460769653	in man is on blue and front to, screen
+1005	0.0037105900701135397	an man wearing in shirt and to, with the
+1006	0.2222868949174881	two young girl in pink white dress and, with the is decorated
+1007	0.03081408329308033	an man is in talking and the screen while with video on to
+1008	0.03200177475810051	two bride woman in groom white and dress, with the outside man are on
+1009	0.7721787095069885	two woman in red yellow and climb rocky on face rock sunny cliff day
+1010	0.8589506149291992	man with red and shirt helmet orange in, on mountain is day
+1011	0.012190124951303005	an man in glasses shirt holding and front holds on to wall room
+1012	0.004539004527032375	man in red jacket ski and snow on to the, as
+1013	0.9524746537208557	young man with red shirt jacket and stands on in street to daylight outside sunny day
+1014	0.04885702580213547	on young man wearing skate shirtboard in and the, day
+1015	0.003192833624780178	two man and in suit microphone woman on with,
+1016	0.660857617855072	on man with shirt and in walks, the trees sunny field daylight during day her
+1017	0.0033677900210022926	young man with in on the his boat beach and at
+1018	0.26426243782043457	two woman in standing front and the, room at with
+1019	0.017145615071058273	an man with in shirt and walks, the on
+1020	0.008301394991576672	two woman is in on and with the window shop, store windows
+1021	0.001750615076161921	an man plays in and guitar sings the
+1022	0.002887195209041238	two woman with in hair to and room, the her
+1023	0.973762571811676	someone person pour pouring pot to on stove in the
+1024	0.03269786015152931	in group people sit on and train to the
+1025	0.005490841809660196	on man is skate in car truck the and, fire street
+1026	0.0006169615662656724	an man in white hair shirt apron and chef front, with while
+1027	0.0024055589456111193	an woman with long hair to phone in and talking cell
+1028	0.31162121891975403	on group, man in dancing and shirts music outside dance front while
+1029	0.00025088616530410945	two man and in suit white woman to table with,
+1030	0.5786805152893066	an woman is red and in to on, the with at table
+1031	0.20389537513256073	outdoors group people stand standing in to, on the and day
+1032	0.9837051033973694	in black man is at shirt and desk, with
+1033	0.07437027245759964	in young man with at shirt and to, on talks the his as
+1034	0.0003107008524239063	two group children are in on and with, the day
+1035	0.4033273160457611	two woman are riding in car the and, while vehicle
+1036	0.004100383259356022	two boy are yellow in and to the wall
+1037	0.22407245635986328	on man in red hair shirt surf board and beach the, sunny day
+1038	0.2731199860572815	someone person plays playing on the
+1039	0.06341620534658432	in man stands black and on, as the with to
+1040	0.8935399055480957	outdoors young man with red and shirt on, water in to the his woman another as stream
+1041	0.0001111771198338829	two woman sits at in and table talking restaurant to man the
+1042	0.002752197440713644	an woman is hair in front and as with
+1043	0.07967502623796463	two woman sits in sitting and on paved sunny with day, the
+1044	0.62733393907547	people are at in and large the, to room
+1045	0.2817360460758209	an man wearing in yellow jacket and his store on, with street
+1046	0.15915632247924805	in man dressed black orange costume and on front to room as
+1047	0.5800467133522034	on man is swimming pool, the and in at into
+1048	0.02972336672246456	man with blue and on in camera outdoors, sunny outside
+1049	0.7826098799705505	an group musicians in playing instruments and stage on
+1050	0.4403932988643646	an woman in white dress head and is, man
+1051	0.17561137676239014	in young woman with black brown and front on, sunny her day house the to
+1052	0.005512007977813482	two man and in on the street, people with floor
+1053	0.7436630725860596	an woman in long dress blue and white on the, her
+1054	0.3848012089729309	man in black car the snow and on to,
+1055	0.008949832059442997	white man with in suit and dress room woman
+1056	0.03220277279615402	on man sits in shirt and the day sunny, while during
+1057	0.005937859881669283	an man with in painting on and wall is walls
+1058	0.01048094779253006	two bride and in white the on,
+1059	0.050288815051317215	two man in red santa christmas and indoors talking table on the, to
+1060	0.02988016977906227	in man stands on red shirt blue car the and to garage sunny day
+1061	0.17807352542877197	an man is on in stage and
+1062	0.05147820711135864	in woman with red dress and shirt, to room the
+1063	0.251731812953949	young little man with blue shirt and in, the on
+1064	0.6696696877479553	two man in on shirt bike bicycle road and the, sunny day
+1065	0.1343401074409485	an black woman and in dress white, on as with
+1066	0.47709423303604126	two man and white groom woman in outdoors the outside
+1067	0.014899874106049538	on man with in shirt and stands street, sign the city
+1068	0.007278730161488056	an man with long shirt cap in, on and to day the
+1069	0.256102979183197	on football player game blue in the and
+1070	0.011514568701386452	an man is in red toy and, floor the with on
+1071	0.0017376653850078583	an man in glasses shirt and sits, to on the with his
+1072	0.08338718116283417	two men are in green and, the large on
+1073	0.9333862066268921	people are in at and fountain trees
+1074	0.028829151764512062	an man is on across the and, it
+1075	0.15419824421405792	in woman wearing green party and dress an room to with the
+1076	0.019903365522623062	an woman in white and dress on street, outside the with front day
+1077	0.10683666169643402	an small plane runway is airport tar, on the and
+1078	0.051333267241716385	an woman with in and on the outside, day
+1079	0.009175277315080166	in man is on white cloth and uses to the
+1080	0.6091165542602539	in group man are green shirt and on to cars by, the with car day
+1081	0.9211962223052979	an man holds holding white in field and
+1082	0.01122046448290348	an man are down and on with village in, street
+1083	0.008420196361839771	two man plays sitting in and the
+1084	0.07604316622018814	the yellow is with on green in
+1085	0.06364361941814423	people walk in and the on street, city with
+1086	0.11678741872310638	on man in red jacket and to orange the from, at water
+1087	0.03165329992771149	in young woman and long dress to man white gown her as with, the guests
+1088	0.004517426714301109	two man in on red and orange the to snow, with as day
+1089	0.2370368391275406	two woman in at black hair and shirt to white front with large
+1090	0.0001602940319571644	two man with in yellow and talking to indoors, indoor
+1091	0.19088615477085114	in man with red shirt t and to talks room, camera the
+1092	0.023128079250454903	two group men sit in on and to, the day outside sunny
+1093	0.785382091999054	in man with white shirt and table woman, on sits is the to
+1094	0.00081013108137995	an woman in black dress and shirt to the camera on
+1095	0.039062805473804474	an person is on high the to and jumps, in
+1096	0.20616556704044342	man wearing white motorcycle helmet motor driving and car on road the it
+1097	0.0514175109565258	in woman with on hair and her
+1098	0.6997402310371399	an woman with black dress and in to indoors orange
+1099	0.5382630825042725	in man with long and shirt, talking to while talks the
+1100	0.09373809397220612	two man and in at city street on the,
+1101	0.05230109021067619	an woman in dress white as and, at outside man to the on with
+1102	0.8480211496353149	in young woman with blue and rock shirt woods, the to on her
+1103	0.009063072502613068	an man with sunglasses backpack and road on along the sunny day camera in
+1104	0.33283883333206177	three group women in red white and, on outside outdoors
+1105	0.006876593455672264	in man is white and front woman to with on room, the
+1106	0.22489729523658752	two woman with red shirt and the path on, beach day ocean in hill to
+1107	0.0022560767829418182	an man in shirt and on, with outside sunny village street day
+1108	0.003809235757216811	an man is s from face the cliff on
+1109	0.3615223169326782	two men are in ski and, on the to one another mountain with snow
+1110	0.9659081697463989	an woman in to dress clothing and store at with the stands
+1111	0.6614055633544922	an man in blue at and front outside, to
+1112	0.2978018820285797	two man in black dark with and to
+1113	0.07888481765985489	two man in at shirt and talking stands with to talks, one
+1114	0.4317568242549896	an man wearing in blue to and car the,
+1115	0.2614939510822296	on person ins ski and to mountain, the down
+1116	0.0066621750593185425	an man in suit on and room to door, the
+1117	0.014137724414467812	outdoors man in white shirt and on, the outside to sunny hand day with
+1118	0.6362356543540955	on group people are in and shirts gather street, with outside
+1119	0.007036405615508556	the man sits in at on and
+1120	0.13374358415603638	an doctor man with in white medical and is front to the
+1121	0.0010219869436696172	an woman is on the in beach and, boat shore
+1122	0.002046355977654457	in man with white blue to and shirt hospital room woman,
+1123	0.002123297657817602	two woman in long dress and holding to with as hands while, her
+1124	0.010619084350764751	two man plays in and on with the
+1125	0.0020249022636562586	an man in glasses orange shirt jacket and, to stands talks on
+1126	0.40833616256713867	two man is in striped and store shop on the shelves
+1127	0.0070741670206189156	two man are in with and boxes, on the
+1128	0.00042039540130645037	an woman is at in and white desk to, holding indoors with
+1129	0.6706549525260925	in man with on and shirt woman, room is next
+1130	4.614882345777005e-05	two man in at mustache and sits to table on
+1131	0.011747357435524464	on man in red shorts canoe andakdling the sunny day
+1132	0.9439414143562317	two man in on shirt exercise and mat to room
+1133	0.015840334817767143	two young woman and in with the,
+1134	0.0010741711594164371	two woman in white striped dress and hands outdoors, on
+1135	0.01640220172703266	in group children sit and front to the
+1136	0.9336925148963928	an man wearing in and the jungle forest, on
+1137	0.0001811899128369987	in woman with long white dress and, up the
+1138	0.0317816436290741	an asian girl is red and with in table, on the to bowl
+1139	0.026919610798358917	young boy in bathing shirt swimming and on pool the, with sunny day
+1140	0.610576331615448	outdoors man with blue shirt in and sunny day on daylight
+1141	0.2727259397506714	an woman is white dress in and outdoors the, on outside with sunny as
+1142	0.0037462390027940273	on man with in jacket and stands his city street front while the
+1143	0.9417765140533447	two men in boxing ring the referee, as
+1144	0.005677165929228067	an young woman in long white hair and sits window on house with the, sunny
+1145	0.06763281673192978	at woman and in to the on,
+1146	0.0002495161897968501	two man in glasses white jacket and to, talks
+1147	0.4791877269744873	on young field men are playing in the and, spectators day
+1148	0.005998154636472464	two young basketball are in, and the basket
+1149	0.709682822227478	two young girls perform on red stage and, curtain with in
+1150	0.004070396069437265	an man in red hat and playing plays, stage with on
+1151	0.29022347927093506	an woman in white dress hair and front on the with artist
+1152	0.0314648300409317	two people are running indoor and the in at
+1153	0.28374797105789185	on man in hair and woman the front water beach with, day
+1154	0.00031596695771440864	an man in suit hair and woman talks to,
+1155	6.224352546269074e-05	young little woman with long blue ponytail hair and in cup is
+1156	0.15578272938728333	on man wearing in shirt the and desert,
+1157	0.005768389906734228	two man in helmets blue helmet and on the outside path
+1158	0.0069457124918699265	two person is on over in parachute, the air day
+1159	0.013206704519689083	someone man iss on in water the
+1160	0.5346653461456299	in woman is at to and, with room the table window man on
+1161	0.00016332011728081852	an man is suit in yellow and water the on sunny
+1162	0.15080060064792633	an bride man in groom woman suit and white with to the, room
+1163	0.8828000426292419	in woman is at and talking to man, screen with her tv
+1164	0.07896308600902557	with woman wearing orange through and in tall the on, field
+1165	0.004434594418853521	two man in red on stage and plays with while playing
+1166	0.0034724539145827293	two asian woman with black in and candles,
+1167	0.014189017936587334	an man'black white on paint brush
+1168	0.08424742519855499	two man is on in and stage front with, an to
+1169	0.006139322649687529	an man in black shirt and white, his room the
+1170	0.0001548755681142211	two woman is at in desk and on, with screen the laptop
+1171	0.17848223447799683	two boy in shirt on and the man, during with sunny
+1172	0.0912603884935379	two woman in white microphone front and to
+1173	0.6915505528450012	people and in on front to outside with, sign
+1174	0.00309580797329545	two young men are on to and stage, the
+1175	0.05522846430540085	at night truck, with street station in on the lights and
+1176	0.6414046287536621	in woman wearing white gloves front dress and sports her advertising
+1177	0.0018048837082460523	two woman is on beach in the and, day sunny
+1178	0.0007687093457207084	in woman wearing red green and boat to on the is, with
+1179	0.0011999559355899692	on man in black shirt bicycle and street sunny corner with day the
+1180	0.008227872662246227	two man are in at shirt front and with, large to
+1181	0.311303049325943	an man with in red suit cave and dark to
+1182	0.4453456699848175	two young woman with in green and car, the while her seat
+1183	0.9480116367340088	outdoors man with red and in, on his to the field next day
+1184	0.01719740778207779	an man in black shirt and on to, outside with outdoors the woman next day
+1185	0.02212240733206272	someone man is in jacket on and, window to the sits with
+1186	0.8969556093215942	two woman with long to and in indoors talking,
+1187	0.0014134307857602835	an woman with dark hair and her phone in
+1188	6.040965672582388e-05	black man and in suit wedding pictures church wall with the, front
+1189	0.9652328491210938	young man sits rock shirt climb to in as
+1190	0.007219194434583187	an bride woman is in and dress wedding her as white, cake with front the to
+1191	0.014078048057854176	two woman wearing in dress and house the
+1192	0.030123746022582054	blond man with long hair and black in stands wall to
+1193	0.0001898352347780019	two man in red orange and mask, to room with the
+1194	0.08056763559579849	in person with wearing shirt and, room is hand to
+1195	0.01760309562087059	an young man in glasses at and, sits to talks with woman table the
+1196	0.9783631563186646	three group man in red orange and, woman room to as with
+1197	0.7734189629554749	an woman in orange and colorful, cultural with on
+1198	0.017978429794311523	an man with playing in and holding front his,
+1199	0.0021921664010733366	an man in white hair shirt and to,
+1200	0.14091187715530396	people are on bike and bridge the road, railing in at with
+1201	0.014049550518393517	an man is in and table on with to
+1202	0.0034631635062396526	two young women in blue white and stage dresses dress gown, to the with
+1203	9.817651880439371e-05	two man with blue inak and boat on the river, day
+1204	0.0007479834603145719	three woman in red and from something to, as on
+1205	0.8479059934616089	in man with black and woman dress holding to, on sunny garden day
+1206	0.8237332701683044	in man with white hair shirt and apron to is talks medical front
+1207	0.015121940523386002	two man in white shirt and, large machine
+1208	0.014760728925466537	two man plays in red and on the boat front, water near
+1209	0.017899664118885994	an person is s mask and on to the
+1210	0.06409908831119537	in group people are at to and train the
+1211	0.09250907599925995	two man plays playing in outdoors and outside on while the, during
+1212	0.9362653493881226	an young man is in the car on and vehicle, to as while
+1213	0.00554021168500185	an man in glasses dress gown and window holding to the woman at
+1214	0.001816487405449152	young man with shirt on and in, to the path day
+1215	0.09452420473098755	an man in cloth and up bottle the
+1216	0.1609712690114975	two man in black and shirt front to, room with while
+1217	0.00038182700518518686	an man is on and head in lap, the indoor with
+1218	0.7104405760765076	in large woman are at and front to with the room people
+1219	0.10270662605762482	someone man is ss machine on
+1220	0.002041503554210067	an man with in white motorcycle and on the, his her outdoors
+1221	0.9173172116279602	an man with white banda and hat on talking in the, outdoors his to
+1222	0.6938897371292114	two men are in with flashlight and night dark area
+1223	0.46615472435951233	on young man are dancing in city street shirt and dance during the
+1224	0.0013998663052916527	two men are dark in at and night with
+1225	0.003663405543193221	an woman with in orange and is, garden sign'to on day
+1226	0.07795078307390213	an man is white shirt and in at table on
+1227	0.8651301264762878	people and in dress outside outdoor on, as sunny the
+1228	0.9641056656837463	two man is on stage and in,
+1229	0.00794104766100645	young man in sitting shirt and on the, stream sunny water to lake
+1230	0.0009777069790288806	an asian woman with black white and in on outdoors camera, day
+1231	0.9087570309638977	an woman is on black and cup in the
+1232	0.937963604927063	two young woman stand in talking and front beach man, with the on
+1233	0.5473127365112305	someone person is s on pot to in and the
+1234	0.005780698265880346	two man are green on in the large,
+1235	0.17396672070026398	two group women are on colorful and in sitting,
+1236	0.00833379290997982	two woman are around in kitchen to and the
+1237	0.23128198087215424	on man ins ski and snow to, the sunny mountain
+1238	0.0063447714783251286	on man in red orange shirt helmet and grassy the to, during path hill
+1239	0.35735833644866943	white man with glasses mustache and his in the
+1240	0.06821820139884949	on man in skate shirtboard board and park, the outside
+1241	0.04628072306513786	an man in at suit and table with room front to,
+1242	0.0579276978969574	two men are in and microphone mike
+1243	0.055124640464782715	an man are on standing next to in fence
+1244	0.08893713355064392	an man in on the and with, store street as
+1245	0.6812740564346313	in group people are red and to front on their
+1246	0.8840386867523193	two group musicians and in perform stage an on
+1247	0.1516721099615097	in young woman is dress hair and to, the with her room
+1248	0.06764021515846252	two woman in long hair and white shop store with
+1249	0.07616468518972397	two woman with in hair and man to,
+1250	0.7285744547843933	an man with long red and through, in at the field
+1251	0.0007771623786538839	two deer are eating in grassy grass from the and
+1252	0.9432657957077026	in group men are red white, and the on with
+1253	0.00036203378112986684	two man in glasses and with at, as
+1254	0.03603718429803848	someone shark fishs water the
+1255	0.001633280422538519	young man in red to and on the, room with as
+1256	0.8113729357719421	scuba man is swim underwater in under water
+1257	0.2832176089286804	on man in guitar shirt and street while, the city
+1258	0.0036438775714486837	an man is in costumes and
+1259	0.6974073648452759	two man wearing in white and sign, to the sidewalk on
+1260	0.8897693753242493	in man is an suit and the church front, with
+1261	0.00045020956895314157	an woman is in hair table and, to with on white the room
+1262	0.8021447062492371	an man with black jacket in stands and to wall on another
+1263	0.003486531088128686	on man in red the beach and, day to with at sunny water hill
+1264	0.05334295332431793	in woman with red white and front the
+1265	0.011094666086137295	two young woman in white top and to outside, on
+1266	0.34297552704811096	young man with blue backpack and, rocks on stream in the rocky day rock to
+1267	0.4453217387199402	someone man ins red white and shirt on his the river
+1268	0.40399792790412903	in young woman is blue hair from and on to waterfall water the as
+1269	0.2614361643791199	two man is pink in and mike woman, with
+1270	0.7733063101768494	two man with blue suit and in park woman on to day
+1271	0.0016275319503620267	in man sits on white and floor the window to, while
+1272	0.556311309337616	the camera is with in red and on
+1273	0.0004058917402289808	two man iss in and the sky
+1274	0.08142872899770737	in young woman is long and room as her
+1275	0.09140663594007492	on man in red jacket and snow snowy, the covered mountain with as is
+1276	0.004541047383099794	in man sits sitting at and table next room to the with,
+1277	2.9045248084003106e-05	two man are in motorcycle and the vehicle on car sunny,
+1278	0.010337636806070805	on man in red hat and car truck, road the with by day
+1279	0.0018476395634934306	two man in white shirt and, front with to stands talks on
+1280	0.001496389857493341	on woman in blue sign street and the day building sunny with
+1281	0.41709959506988525	in group women and blue walking street walk on alley, with the
+1282	0.0023102564737200737	in man with white shirt blue and apron, talks to
+1283	0.001932626124471426	in woman with blue hair shirt and to,
+1284	0.0006720306118950248	an man wearing blue yellow shirt and holding in, is
+1285	0.226628839969635	underwater view is swims the
+1286	0.11729296296834946	in man's on leg and legs her the
+1287	0.24132132530212402	in woman is on blue shirt and table, her exercise to
+1288	6.069508890504949e-05	two man is up on and
+1289	0.01163875125348568	people are dress in and, the on
+1290	0.057631462812423706	two man are black and in music
+1291	0.0005496714147739112	three woman in white hair and dress to, with room while as
+1292	0.2825661301612854	two man in white and, instruments with while front on stage
+1293	0.005117626395076513	an woman with sitting blue and on in park sits, sunny bench her man to the
+1294	0.14656132459640503	an little boy with in mask and on to is
+1295	0.6224480867385864	in man sitting at table to and on talking with the, glass
+1296	0.06370773911476135	two man is in todd and adult child to with
+1297	0.18612557649612427	someone man is from the and sky to in
+1298	0.001929019228555262	an man is in white hair
+1299	0.04771782085299492	in group room people are an and
+1300	0.8935027718544006	on man in red and orange child to the woman water, with next sunny
+1301	0.15385961532592773	an man in red and stands front board with to mike on
+1302	0.5121196508407593	on group dayrs, people are in background and up to the sunny
+1303	0.044706642627716064	in woman is dress up and front to the her,
+1304	0.012618162669241428	two man are in on screen pictures and
+1305	0.009203610941767693	on man sit sitting blue and one, in park the sunny
+1306	0.3362692892551422	two man is on in and stage,
+1307	0.03269420936703682	an man in black camera and,
+1308	0.7349693179130554	an man in blue white shirt and talks to painting on wall with the,
+1309	0.9873353838920593	with woman in red dress and the grassy, on field as her
+1310	0.05351859703660011	an woman is white on and man the
+1311	0.3038868010044098	an man in white beard office and, with talks room
+1312	0.018390266224741936	in man is on and snow the, toy house with day to
+1313	0.9784802198410034	in young man with blue shirt and is desk to, at talks on the
+1314	0.24052710831165314	outdoors woman in white talking and man outside on talks outdoor with the
+1315	0.02193051390349865	two music plays in on boat and boats, the with river near
+1316	0.13009284436702728	an woman with blue shirt and stands microphone in front on to
+1317	0.0006326190778054297	two asian women and blue bathing in, trees with the as on
+1318	0.09650587290525436	white man in red the motorcycle on car and parked, sunny parking
+1319	0.0005770559655502439	two man in black white and to, with woman on front
+1320	0.2047775685787201	in man stands white shirt on and to the,
+1321	0.10759522765874863	three woman and long dress in on the, as her sunny
+1322	0.0016363287577405572	an man is in on piano and singing sings with, to
+1323	0.016605135053396225	in man with long shirt and to talks, as the room on
+1324	0.003909197635948658	two man in reds on boat the sunny day and water
+1325	0.0011262948391959071	two man in on and guitar street front the outside at
+1326	0.017359664663672447	someone man is in on light and the
+1327	0.007486527785658836	two man and to in the,
+1328	0.011059897020459175	two woman are in christmas with and candles room, table while the as
+1329	0.2776080071926117	two man are in on and the, seat while car his
+1330	0.6694333553314209	man is on in and front woman screen to the
+1331	0.0038741431199014187	young man is red shirt in boxing and
+1332	0.06485693156719208	on person rides wearing helmet red along road the is in as
+1333	0.0010219358373433352	two man swim swimming the in water and on river
+1334	0.0010114223696291447	two woman in suit front and sign to as with wall next
+1335	0.041107941418886185	in woman with black and the water on near body river
+1336	0.0030004745349287987	an man in on jacket gas to the outside small and sunny, outdoors day
+1337	0.9106928706169128	two man sit in and to woman on with, front the
+1338	0.0002027107693720609	in woman with long blue dress white wall and on is to
+1339	0.4110029935836792	young woman sits hair and in room to wall the, her
+1340	0.04474598541855812	two man wearing swim suit in and on water the
+1341	0.07132965326309204	someone man is red to and on the hanging
+1342	0.12170425057411194	in woman is up and an to with man room the, group
+1343	0.004946584813296795	young man in blue and beach the on holding at, to
+1344	0.0003065162163693458	young man with long hair shirt and on the, in beach ocean sunny as water
+1345	0.0006740057724528015	two man in red boxing uniform and with the
+1346	0.030878478661179543	two woman and in white on front room to, as with
+1347	0.0016196442302316427	two woman are long and on man, in outside the
+1348	0.0036567579954862595	two young woman with in hair front and
+1349	0.6343517303466797	on person rides in riding helmet bike and course the dirt trail day
+1350	0.0021816096268594265	in white woman sits glasses blue on and, room couch to with
+1351	0.0792747214436531	two man is in white and, while the
+1352	0.010108154267072678	two asian woman in red front and to, the stands with while
+1353	0.1153673455119133	in man with glasses shirt and office desk, talks talking
+1354	0.025970222428441048	two man are in on by sunny country, the day area
+1355	0.04836823418736458	two man in glasses hair suit and front microphone with,
+1356	0.0009133883868344128	two man and in shirt on picnic, outside sunny with day during
+1357	8.508338214596733e-05	an group people are and in around the, on with
+1358	0.3486189842224121	two man plays in on and stage guitar while the
+1359	0.9289952516555786	an man climbs on climbing rock to wall and outside the
+1360	0.0016739179845899343	two asian woman are in talking and to, window the man on
+1361	6.629793642787263e-05	two young woman with white hair and on the her in, as day
+1362	0.35991448163986206	in group women are sitting an and large with the room to people,
+1363	0.005775447469204664	in little woman is up to front and adult with the, young
+1364	0.6092218160629272	two man in sitting shirt and white sits, on sunny with at day
+1365	0.13932687044143677	two man in and shirt woman on, as stone with the wall
+1366	0.16751612722873688	an older woman is in white and to, man the with
+1367	0.14877618849277496	in man with red climbing helmet and, to mountain sunny on
+1368	0.0035131005570292473	an man is construction truck the and in, on
+1369	0.6755568981170654	outdoors man in white shirt and ball tee the club, field
+1370	0.09782221913337708	in woman wearing orange and costume room to with, table as front decorated
+1371	0.5538370013237	at man and in suit dress woman, the dance as
+1372	0.00011714275751728565	an person is in the white and with
+1373	0.9867379069328308	two man in blue shirt gym and,
+1374	0.015951164066791534	an man in glasses shirt and talks front office stands to,
+1375	3.6991183151258156e-05	two young people and on in the woman water, trees sunny day
+1376	0.06460678577423096	two man are in and woman on talking sunny next with outdoors day to
+1377	0.0009461137815378606	in woman and green orange with an hands to, on
+1378	0.03601527586579323	at man in green car and with the, night
+1379	0.6261389851570129	someone man's valve silver on and the
+1380	0.0031278652604669333	two man in small and dog the on, with to
+1381	0.0025855074636638165	in young woman is on to and with, front an up the
+1382	0.04320527985692024	two man in playing and front microphone, room
+1383	0.4661526381969452	two man are in playing and woman with
+1384	0.1250465214252472	in young woman is at blue kitchen and to, while glass the with
+1385	0.03407936915755272	someone man is up in wind the and on mountain, cloudy
+1386	0.0230609942227602	two man wearing riding helmet shirt and road on the mountain, in
+1387	0.010857130400836468	person wearing orangeboard and on in the street,
+1388	0.039561692625284195	white man in on blue and the railing, wall
+1389	0.004678970202803612	an woman with colorful in on and
+1390	0.014129108749330044	in group people are and suit to at with
+1391	0.0005343297962099314	an man wearing yellow up and the in trunk branch
+1392	0.004571038298308849	young man with in shirt and on lake, the trees sunny as
+1393	0.03762722760438919	an man with hair in and to wall the room
+1394	0.011711984872817993	two woman in outside guitar and, while
+1395	0.04592929780483246	on man iss in and the, as during sunny
+1396	0.02305701933801174	man in white dress and on the, road
+1397	0.04489782080054283	three man sit at in and on table street, the
+1398	0.27877333760261536	on man plays in stage an and with
+1399	0.001997297164052725	young man in red shirt and jacket on stands his, to the wall as
+1400	0.24421116709709167	outdoors person is in on and outside the
+1401	0.0006884991307742894	an man in red front woman to and board with on
+1402	0.019056495279073715	an woman in long and to
+1403	0.05805397406220436	two woman and in on the with up, at trees day
+1404	0.0004513762833084911	two man is white hair and costume in
+1405	0.1911207139492035	an man is at in food and restaurant plate table on
+1406	0.0010030317353084683	woman wearing at in and to store the with,
+1407	0.17997245490550995	an young woman with black dress in and guitar plays while the
+1408	0.0008131682989187539	two woman in blue sitting and to next the, on
+1409	0.09789269417524338	two man in green shirt and, on to as the
+1410	0.6446537375450134	an man is in stage on front and to with audience
+1411	0.1369425654411316	two young woman in red shirt at and with sign man as
+1412	0.8278802037239075	two young woman are in the car driver and, while with
+1413	0.204511821269989	woman in red white and pants shoes the leg,
+1414	0.030455049127340317	two man in blue shirt and walks street on, the day outside during to
+1415	0.6341946721076965	an woman is in at shop store and to with man on the
+1416	0.09113416075706482	with man climbs down climbing rock on rocky cliff rocks sunny day
+1417	0.9662494659423828	in man with orange yellow green and table on, sits covered his
+1418	0.002407155930995941	an man is holding in and front his on with
+1419	0.0006283155526034534	an woman in long suit on background and
+1420	0.32535064220428467	with man wearing blue shirt and, mountain on the in sunny mountains day
+1421	0.2284022569656372	an man in at and table desk, to with room sits
+1422	0.042011745274066925	man wearing green helmet car in and
+1423	0.008492117747664452	two man in wearing blue and bike, bikes his on the to
+1424	0.0371556282043457	an man in blue shirtboard on and surf road board the
+1425	0.22509406507015228	outdoors man in black red and to on the her, day grassy
+1426	0.01784091629087925	an view man is in on the and with
+1427	0.006062700413167477	young woman is climbing on in the and,
+1428	0.4978195130825043	someone woman is red in on and pot the,
+1429	0.0008007654687389731	an man in white dress and to talks the with on outside,
+1430	0.26763758063316345	an man in and walking on, woman with to the
+1431	0.0023675989359617233	young woman with in red and rock to water on
+1432	0.24152998626232147	three women are on stage in and
+1433	0.0014913681661710143	two bride woman with in white and gown snowy as trees the, path
+1434	0.005880262702703476	an man in glasses hair shirt front and to, with the on
+1435	0.06510321795940399	in deer is with the wooded and on, outdoors
+1436	0.9894367456436157	an man in red dress shirt and dance woman dancing, with while
+1437	0.41956013441085815	two man in playing on and stage as while
+1438	0.13418643176555634	an young woman in black hair and outdoors to
+1439	0.0004874708829447627	person is climbing in on large cave and the rocky
+1440	0.04530308023095131	in woman is red and shirt shorts room,
+1441	0.05183377489447594	in women and white woman to man, room
+1442	0.20256654918193817	two women sit in and table at round with woman an room
+1443	0.0004914648598060012	an woman with glasses and dress in her from to on
+1444	0.38850492238998413	in bride and groom suit dress woman the with room, man church
+1445	0.07450725138187408	two man standss in boat on the boats water beach and,
+1446	0.15614883601665497	an person wearings in boat on and the lake shore, day
+1447	0.7747198939323425	in man and into black woman microphone front with
+1448	0.4526096284389496	an man in at hair desk and to behind with,
+1449	0.5660588145256042	someone person is drawing black in white and on
+1450	0.8159660696983337	two men are orange, basketball and the in
+1451	0.18646180629730225	in woman with black hair and to on wall white,
+1452	0.153165802359581	in man with black shirt hair and on outside, outdoors to day the sunny
+1453	0.01651579700410366	two man are in to and on, the with sunny next day during
+1454	0.006382112856954336	in young woman with white shirt and hair her desk paper is, the
+1455	0.153926819562912	an man is glasses hair and in holding, screen
+1456	0.9903025031089783	an man in blue dress woman and front outside to with sign, on building the
+1457	0.012817461043596268	two man is in with and the to,
+1458	0.8846616744995117	two men sit in red and the woods their on
+1459	0.4024280607700348	in group room people are dancing and on dance with,
+1460	0.9157357215881348	two man in blue and boat on the to, day woman sunny
+1461	0.9568309783935547	an woman in playing piano plays front and
+1462	0.7863146662712097	an man in sitting and shirt talking, sits on talks with the next front
+1463	0.18015934526920319	an woman is long in and front outside street with
+1464	0.012768970802426338	in woman is long hair white and table the, into room to
+1465	0.32648274302482605	two woman in orange and white path to on next the with, as children sunny
+1466	0.028694942593574524	an man plays black hat and in with at, the
+1467	0.03214399889111519	on person in pushing cart and the street with, city day
+1468	0.009856131859123707	an man in sitting blue on and, his paper to the sits is
+1469	0.063840351998806	an woman in red from and on the, her field
+1470	0.011138929054141045	an young woman is on in phone and
+1471	0.3833237588405609	two man in blue white and to, with woman on is wall
+1472	0.0009356559603475034	young music ins and on bicycle bike, the hill
+1473	0.0021885172463953495	two man wearing in red and canoe on boat the, with woman day
+1474	0.6663370728492737	man in brown shirt and orange stage speaks with an
+1475	0.9957784414291382	young woman wearing red orange and in the on boat, with trees water
+1476	0.002396895084530115	an man is in blue and stands with table, front on woman the
+1477	0.03129830211400986	two young man in blue shirt and, on to the next
+1478	0.030730461701750755	an woman in striped white and building house with, window outside on
+1479	0.0033230942208319902	an man in black jacket and up, holding to on
+1480	0.006034254562109709	four person are in trail on obstacle course, the sunny day
+1481	0.9813485741615295	in bride and groom dress white woman table man, sunny on outside
+1482	0.09731562435626984	man in black shirt surfboard board on the ocean
+1483	0.013485190458595753	an man is black in and with to, stands the
+1484	0.5875932574272156	two woman in blue green and to man, food with holding the
+1485	0.09626949578523636	an person is up airplane in plane on the
+1486	0.671842098236084	white man with glasses shirt and in to, is while
+1487	0.008822519332170486	two woman sits in front and room to with the on,
+1488	0.16848106682300568	some rock is on climbing top in
+1489	0.40400561690330505	young man jumps in on cliff waterfall the rocks and day
+1490	0.3125447630882263	someone man is on outside fire to burning
+1491	0.001981978304684162	an man in blue shirt and up to, table on the large
+1492	0.06264659017324448	an man in white and desk, with is on the
+1493	0.11995486170053482	on young man with red shirt and, in woman while as to
+1494	0.23884914815425873	in young children is to and front with, as the
+1495	0.04450779780745506	an man sits black in on his street the, and with at
+1496	0.004285708535462618	an woman with white scarf and to on in
+1497	0.0017252956749871373	an man and dress in white woman, to on the with
+1498	0.02388746850192547	young little boy is at shirt table on and, plate the in eating
+1499	0.004222882445901632	two man with in camera shirt and
+1500	0.11803023517131805	two young man in white shirt and to, the as with another
+1501	0.031637631356716156	two person are on red in and the, with day
+1502	0.08937768638134003	someone woman is into blue an and,
+1503	0.9634638428688049	outdoors woman with red on sign in and large front the street day
+1504	0.43590885400772095	two man wearing on and his in the woods, with to as
+1505	0.11447753012180328	two young man sit in sitting and to, table room with on the talks
+1506	0.0006984127103351057	an bride woman in groom white dress and the on lap, her
+1507	0.008893969468772411	two young boys are blue jacket and on watches in watch watching the field
+1508	0.01016938965767622	an man in black jacket and at to, with the table on
+1509	0.00539057981222868	two woman in dress and to stands man on room the front,
+1510	0.08708207309246063	two man wearing walking path dirt and road on,
+1511	0.33676403760910034	an man in white shirt and to the, on
+1512	0.5600037574768066	two group band are on and stage in with,
+1513	0.031937941908836365	in woman with black and room wall, the
+1514	0.16335508227348328	two woman are in on and the, river with woods water to
+1515	0.30534952878952026	in man is on to and door the
+1516	7.767500937916338e-05	two young woman with in shirt and top, the to on holds rocky at her
+1517	0.9995576739311218	in young woman, blue dress white and as the man while wall with people
+1518	0.06068038195371628	two man is black shirt on and in with as to
+1519	0.0007364762132056057	an man in glasses dress and at wedding, to
+1520	0.7341347336769104	young man in red shirt car and on, to city street the parked
+1521	0.1574210375547409	two man in black hair and guitars room guitar with
+1522	0.05636885017156601	two man with hair in and sings as
+1523	0.0031674315687268972	two group woman and in boat on as river the trees water
+1524	0.035148002207279205	an man with black hat and in on, the to
+1525	0.00042242329800501466	an woman with dark in into and indoors
+1526	0.04617710039019585	two man in blue shirt and front to the with
+1527	0.007706673350185156	young woman with long hair and on beach the in, camera is as front
+1528	0.007106063887476921	someone woman wearing in and pot on kitchen to stove as the
+1529	0.0010506330290809274	an person is in on the and to are
+1530	0.02876090817153454	two young man in on hair and the, beach ocean
+1531	0.05021149292588234	an man with in suit dress and tie to, the
+1532	0.0015143121127039194	an woman in white dress and front to street
+1533	0.8190103769302368	an man is in on ladder and the elevated
+1534	0.005059732124209404	in woman with glasses green and to, room man talks the
+1535	0.03514264151453972	an bride man in groom wedding and dress as her the, with
+1536	0.34139227867126465	someone hand is into in liquider as
+1537	0.2209905982017517	young man rides in shirt up skate andboard on ramp the board
+1538	0.00011306842498015612	an asian man with in desk and office, to on the
+1539	6.133061106083915e-05	two man and blonde groom suit in to white stand the with
+1540	0.03767470642924309	an man is hair and in while
+1541	0.005759746767580509	two man are blue front and in woman on
+1542	0.008118708617985249	with woman is on the and in, floor
+1543	0.48426562547683716	in group people are and up front an, the dance with by
+1544	0.995130181312561	on group people in all shirts, and green their along the street
+1545	0.4807400703430176	an asian woman with yellow hair shirt and in, on to street the
+1546	0.5942334532737732	in woman wearing on blue swimming pool and, the
+1547	0.46767497062683105	at man is in on with and flashlight as cave
+1548	0.11678076535463333	two young men are blue basketball in and front wall on, with the
+1549	0.07583153992891312	an woman is in suit hair and to talks man front with white, the
+1550	0.21763798594474792	two woman in on wooden, and the with day to outside
+1551	0.37405234575271606	two man wearing black and sits in microphone room to
+1552	0.7240200638771057	an group women and on in stage front
+1553	0.003605394158512354	an elephant is on in the top water
+1554	0.0006068875663913786	an asian man with wearing yellow hair and in front to as
+1555	0.02507423236966133	in woman is with up and at the lit
+1556	0.11082492768764496	man wearing swimming swim in and pool the water
+1557	0.862453281879425	at nightcl, street are on bikes motorcycles and the with in
+1558	0.04615374654531479	an young man wearing in black and on street, the sign day with outside
+1559	0.2350139021873474	in man is red shirt and while room with,
+1560	0.0017239231383427978	an man with glasses red cup and camera in to
+1561	0.4069977402687073	an young baby with in white and head blanket the
+1562	0.010841261595487595	two man is in and boat glass the
+1563	0.005442939233034849	two man with helmet and on mountain in sunny mountains the
+1564	0.007227680645883083	black cat is on and floor the
+1565	0.8734927177429199	outdoors woman with long hair and, field the sky in
+1566	0.05624433234333992	in man is dress and the, with
+1567	0.004915439058095217	two man with long and in on woman, hands
+1568	0.016781020909547806	in group band are marching down and street on the city
+1569	0.25367844104766846	two basketball play playing in basket and the, shot
+1570	0.0476885549724102	on man in playing white and shirt, field the as with woman day
+1571	0.32095813751220703	two man in red and an on to, front the with as
+1572	0.934425413608551	an man plays guitar and in guitars sings, room
+1573	0.012429402209818363	two man is in on and the snow as, to day with
+1574	0.1841496229171753	in woman with black and her,
+1575	0.4979892075061798	an woman in white shirt and pants, chair on the to with
+1576	0.4934457838535309	an young woman with black hair outdoors white and in talks on, the day sunny
+1577	0.5068413615226746	an man is in shirt and to room another as,
+1578	0.04115917533636093	an man in white hair dress shirt and outside woman, hand on sunny day
+1579	0.6835178732872009	on man in to cliff and outdoors, the day
+1580	0.2385554015636444	two woman and in to front indoor with man, on the
+1581	0.7867190837860107	two man in green yellow and tent on with sign next to road day sunny
+1582	0.005242990795522928	an man is glasses hair and cell in, the her to
+1583	0.0005933484062552452	in young woman is at little store on and the shop to
+1584	0.010017854161560535	at woman with in to and, man the on
+1585	0.9218875765800476	two man in helmet shirt bicycle and on the his bike, outside
+1586	0.004772195592522621	in woman are at to table and with the people, room on
+1587	0.1035408228635788	an woman wearing in white and road, on the is to hill with as
+1588	0.0019401253666728735	on group, people are in their and flags the march with street
+1589	0.9085493683815002	in group people is green front signs with sign to
+1590	0.0018283294048160315	two young man in black orange and guitar instruments outside guitars with
+1591	0.6448827981948853	man in white and dress woman on, the outside outdoors as with holding day to
+1592	0.2725497782230377	in group people are red and an to, with
+1593	0.0036410673055797815	an man with white doctor in and dress gown
+1594	0.4188272953033447	on young people and in white to, outside outdoor as woman
+1595	0.033994659781455994	three woman in green costumes and outdoors on outside during, to
+1596	0.0025037680752575397	man wearing red and in to on the
+1597	0.9291974902153015	an woman in dress white and man, table outdoors on little the sunny with
+1598	0.02368777059018612	underwater large iss in and
+1599	0.8057045340538025	two group people in on black stage and dance,
+1600	0.007925473153591156	in man plays playing shirt walks and cave with large
+1601	0.09433314949274063	an young man, skate in cart and on the
+1602	0.022522319108247757	two woman in orange and, on green the sunny with to day
+1603	0.3308779001235962	on woman in blue hat and street, city with the during
+1604	0.034409791231155396	in man is up and an indoor at with, the on
+1605	0.0003794028307311237	an man in red blue shirt and gas, on outside to day sunny
+1606	0.03044002316892147	two man in talking shirt and on the, large to
+1607	0.028279606252908707	an man with hair in and woman table, to next the on holding room
+1608	0.00017708318773657084	two woman with black and in, on the to little
+1609	0.012668176554143429	in aged woman and sitting front table to room, talks with at the
+1610	0.12142818421125412	an asian man is black in and stands room
+1611	0.09509801864624023	an woman is in on and her the
+1612	0.12358028441667557	in young man wearing glasses red shirt library and shelf book, books front the
+1613	0.09154733270406723	in man is at hair white and table with to room
+1614	0.037449438124895096	two motorcycl people are riding on up and the road,
+1615	0.03453042358160019	an man in black and shop the on, to sunny with day
+1616	0.00282491696998477	an man with in shirt and on car to, the sunny during day
+1617	2.2528036424773745e-05	man in green helmet jacket bike on and bicycle the
+1618	0.07865490764379501	two woman in red dress and to front with the
+1619	0.020121052861213684	two people are inak boat and with on, the water small
+1620	0.003425873816013336	in woman with to shirt and young man as
+1621	0.04190204665064812	two man in black and on, is with
+1622	0.4186265468597412	two man are in sitting and woman, table with on to
+1623	0.003687491873279214	two view swim in the water yellow and
+1624	0.044669222086668015	an man is glasses and in her the,
+1625	0.00024923725868575275	two woman sit in sitting on and to, with man seated the one
+1626	0.0014930634060874581	two man in yellow on the to, sign and with'day
+1627	0.0019192647887393832	people sit on boat and in with the water trees day
+1628	0.02050071582198143	an man with in suit to and room on, the
+1629	0.8356091976165771	in woman with long hair to and front talks the room, at her
+1630	0.010554497130215168	two man in blue shirt skate and, on with the outside
+1631	0.0325440838932991	in young woman is to and while, with as the on room
+1632	0.01167411357164383	two man rides on the in up and
+1633	0.026447562500834465	on young man throws in red ball and the to, snow other
+1634	0.01736523024737835	two man in red shirts shirt and woman the, outdoors on day
+1635	0.3214583992958069	two woman in pink dress and head to on her
+1636	0.0009625187958590686	two man in black and on shirt next woman to, the as with sunny sit sitting
+1637	0.3322494924068451	two young woman in blue white and shirt, as man the to
+1638	0.016857711598277092	several group people are in colorful and on their, outside
+1639	0.14639881253242493	two woman in hair shirt the on water waves and beach ocean
+1640	0.005743606947362423	an woman is s putting and in
+1641	0.005898708011955023	two woman and hair white in man, with
+1642	0.020841293036937714	an woman dressed in orange hat and street
+1643	0.005650882609188557	an man with in white hair to on and window the, front
+1644	0.09326859563589096	two young woman in red to and with, the wall room man at
+1645	0.020245030522346497	in young man with long and, mirror to front his the
+1646	0.006396419834345579	an man in red orange shirt and front on stands to with as room
+1647	0.9779836535453796	two man wearing orange shirt and in, yellow front table while with
+1648	0.02439572848379612	two woman are in on and outdoors, as the sunny to day
+1649	0.0006592824938707054	in woman with white holding and to holds talks baby her talking, the
+1650	0.0024420390836894512	outdoors group woman is in on the and field her day
+1651	0.012067950330674648	an man with in black and to on outside, outdoors the
+1652	0.0015748103614896536	in man is on motor bicycle and the street, with to
+1653	0.21873317658901215	with man ins sl and snow the covered, on path
+1654	0.02677871286869049	two man with their in and the to,
+1655	0.0010298549896106124	two man are in motorcycle to
+1656	0.0039223842322826385	in man with yellow orange and jacket the is, his water on to stands boat
+1657	0.03192181512713432	white man is in suit to and on the
+1658	0.5306410193443298	two young hike are in the and, large on forest
+1659	0.0007471182616427541	an man'glasses shirt on in and to the
+1660	0.3580982983112335	in man iss rope rock and to the area
+1661	0.01440063863992691	in woman and blue an to with, the at indoor
+1662	0.09568686038255692	two woman with on blue and field the, in through day
+1663	0.0017467144643887877	person in white helmet jacket and on, mountain the mountains
+1664	0.4143892824649811	two soccer players kick in ball the field on with
+1665	0.0028438412118703127	two young man in red shirt orange on sunny house the to as day, and with during
+1666	0.01168055646121502	two man with in and holds to is camera,
+1667	0.4365369975566864	two man are in and construction on the, to with next day
+1668	0.3908967673778534	on person in black bike bicycle street the and, with day
+1669	0.00386291416361928	in young man with skate hair shirtboard and wall on, to the outdoors outside
+1670	0.895384669303894	two woman is in purple to and, front the with sign on
+1671	0.14310312271118164	two night people are in at street and with, on
+1672	0.0009156687883660197	two surfer in black the on beach surf and ocean
+1673	0.6849737763404846	an man is in on table pot with cup
+1674	0.2774645686149597	man ins shirt paddle surf and on his the,
+1675	0.7646021246910095	two man in blue shirt woman and to table outside, with on
+1676	0.04267646744847298	two man in standing fence and white, camera to on the
+1677	0.3283410966396332	someone person is red on and, table
+1678	0.0007881078054197133	in woman with long hair dress and to red, stands gown
+1679	0.003739157458767295	at woman in black white and, the man stands with
+1680	0.005963360425084829	two young woman with long hair and from in front to, man
+1681	0.010076711885631084	two man are in and on an their
+1682	0.028795279562473297	two man in yellow and shirt, wearing with front
+1683	0.020815907046198845	in man sits at and table woman to with, the around talking room
+1684	0.0006443116581067443	man with woman baby and on in the to her holding outside
+1685	0.11219959706068039	an man with glasses and in to, is on
+1686	0.8743116855621338	in little girl is long hair blonde and table, with candles to candle
+1687	0.009691927582025528	two young kitchen man sit in and shirt to, on the
+1688	0.14551253616809845	two man is in hat and cave the window on with
+1689	0.12781155109405518	two men are in on and as
+1690	0.8266997933387756	2 man in dark black and hands on
+1691	0.998212456703186	two man in green black and city street on with the to
+1692	0.0023470460437238216	an woman in red black dress and to the, as on sign
+1693	0.0016147838905453682	an man in glasses dark and, to as
+1694	0.2579386234283447	in man is on clothes and lake covered the snow, his with by
+1695	0.08952078223228455	an young woman is in hair her and
+1696	0.05531582981348038	an man withs and his in on
+1697	0.8884780406951904	young man climbs up climbing rock to and the, sunny day
+1698	0.9126429557800293	two woman and on in stage with,
+1699	0.014815778471529484	an woman is glasses in and to front on
+1700	0.5834791660308838	an man's black and finger fingers the
+1701	0.906807005405426	orange person is in blue and the up sky
+1702	0.1339673101902008	two man in wearing and is with, wall as
+1703	0.0003279742959421128	two young boy in green hood and shirt bed on, to he is the his
+1704	0.0002113325463142246	in man wearing glasses hair and shirt woman stands shelves racks
+1705	0.006497066002339125	man in black glove and on tennis
+1706	0.2921769618988037	in young woman with red blue dress and to hair as, the front
+1707	0.5006701946258545	in woman is front microphone white and standing to withboard on as
+1708	0.007654058281332254	in man is wearing and the, with window room on windows
+1709	0.9834020137786865	an young man with red shirt and, on sits in outside
+1710	0.9368917942047119	in bride and white woman dress suit gown man bouquet as front on to, the
+1711	0.0757136344909668	two man in on tennis an and with, the
+1712	0.31143149733543396	skate youngboarder man rides down up ramp on and in, park
+1713	0.001430785981938243	several group people are in on the water body rocks
+1714	0.006309549789875746	two young woman with blonde hair to and man in
+1715	0.31893274188041687	in man is blue white shirt and large
+1716	0.00040742335841059685	two young woman with in blue to hair and on as the
+1717	0.04567369446158409	an man in black suit and is the to
+1718	0.0014589326456189156	two woman in white on the car as road and by sunny with
+1719	0.5211478471755981	an man with white shirt bicycle bike road and on the, in
+1720	0.00024372801999561489	an bride groom and in dress wedding tail the man with on'are
+1721	0.07764288783073425	an man in at from and the on to,
+1722	0.0014423095853999257	on woman is white and in the, water ocean cliff
+1723	0.00504665169864893	person in red helmet shirt and, on the to
+1724	0.025971218943595886	an man in apron shirt and kitchen talks talking with the table
+1725	0.024742621928453445	in woman and blue to bus while, the with
+1726	0.007783231791108847	in white woman is dress and horse the, trees field house with sunny
+1727	0.08478626608848572	in man are on small the and water, river day
+1728	0.06598266214132309	white woman with long hair the on and surf in, day
+1729	0.08318600058555603	two man with in play and drums plays,
+1730	0.03972134739160538	in man is and white woman with, room while
+1731	0.0035777073353528976	an man is in dress white and microphone to
+1732	0.06826530396938324	an man in up dress and on, the outside to is
+1733	0.03177027404308319	someone man ins black and the on wave water day
+1734	0.6930267810821533	man in blue shirt and boat is on the his, day
+1735	0.982962965965271	in man with red shirt and to talks, door room the his
+1736	0.0008357216138392687	young woman in black white dress and on her as the
+1737	0.02101009339094162	an woman is white and man to paper little in young the
+1738	0.04379729554057121	an woman and in dress white man, on with the as front
+1739	0.07733216136693954	an man sits in white at and desk office to, the
+1740	0.33020904660224915	in man plays playing piano keyboard and the
+1741	0.02657313086092472	two woman and sitting in shirt on, the with to bench background as sunny
+1742	0.0010726755717769265	an young woman with white hair shirt front and in, on
+1743	0.05000663921236992	an man is black on and in the
+1744	5.101747592561878e-05	two man and in costumes to on the, with outside
+1745	0.21163441240787506	two woman with on in and the, river sunny day bridge during
+1746	0.02652927115559578	in man is guitar bar and with as the while,
+1747	0.1802673637866974	in woman with long white and is, field green the her on
+1748	0.04133274778723717	two women in blonde and stage front to on wall
+1749	3.4835818951250985e-05	an woman with glasses hair and head in her window to the she
+1750	0.0033139062579721212	two young woman with white hair and in her, on the
+1751	0.03696123883128166	two men are in at car with and the,
+1752	0.06876233220100403	in man is up and truck, the on large to with sunny
+1753	0.5188009142875671	two band plays playing instruments and stage while in,
+1754	0.004771794658154249	two man is in dark on and with screen
+1755	0.08474553376436234	young man in black red and boat water the to paddle on day sunny
+1756	0.0018053287640213966	an young man with s red orange and on his as to
+1757	0.014681820757687092	two group woman is by and, field to on the up
+1758	0.7198998928070068	an woman in white and dress as to man the with,
+1759	0.13435254991054535	an woman with white hat and in on the outside sunny woods outdoors
+1760	0.037305984646081924	an woman is white house front the in yard and sunny to day,
+1761	0.6829396486282349	an woman with long hair white and her in to the
+1762	0.03181404247879982	in man with glasses and sits desk, at papers dark to talks the
+1763	0.050778668373823166	two man and in white suit toast woman, drink with to as the each
+1764	0.04698208346962929	two woman with hair and in the her
+1765	0.0006398179684765637	an man in dark hair shirt and sings room as
+1766	0.1341385692358017	an young man is at and in desk with, to front the
+1767	0.06583524495363235	an woman sits sitting and in on to her next with, the
+1768	0.00016562860400881618	two woman sit on glasses couch in and room, with sofa to one as the
+1769	0.3756609559059143	in young man sits sitting at desk and front, to
+1770	0.018977774307131767	people are in on bus and market the street
+1771	0.15531514585018158	two young woman wearing bathing shirt in and from on, water the trees
+1772	0.21933168172836304	an woman in red hair dress and her to with room
+1773	0.0038754662964493036	an woman is glasses hair and table in on front to the
+1774	0.4741329848766327	young man with long hair and to in, the
+1775	0.0025493453722447157	an man with long and on in the tree branch
+1776	0.11629787087440491	two man is on stage and in while an front,
+1777	0.03810485452413559	two man is in and white with, on the
+1778	0.03283063322305679	in man with white shirt and, to room
+1779	0.0008283467032015324	two men are in and to green field, the on with up
+1780	0.23831075429916382	young man in white on and boat the, to next water rocks day
+1781	0.01709178276360035	an man in white mask and his to front on with is
+1782	0.02084064483642578	on man in red and, field the
+1783	0.028246339410543442	an young man with yellow shirt and in to holds, the he
+1784	0.03319275379180908	outdoors woman with in at hay and on day the, field
+1785	0.017639968544244766	white man with glasses and shirt sits in, to talks woman room
+1786	0.017399650067090988	an man is glasses black and in holding stands on, to
+1787	0.01754949241876602	two man is game to in woman the and
+1788	0.08971115201711655	four young children are pink and on field the outdoors, in to day
+1789	0.11635229736566544	on man rides in hair and the ocean surf waves beach day
+1790	0.043366216123104095	an man with in red and hat jacket backpack, to on his the next sunny
+1791	0.00908598117530346	two man paddles yellow boardboard on the ocean day
+1792	0.8547911047935486	two man are in and studio with table,
+1793	0.10678306221961975	in man is blue white and exercise to as gym the with an
+1794	0.012724612839519978	an man in glasses suit and jacket, to room at the
+1795	0.02763984724879265	an man in sitting white car on the and sits, to
+1796	0.19295893609523773	in group people are on and stage
+1797	0.005404128693044186	in woman with black dress and shirt front her,
+1798	0.03347792848944664	two man and in woman blue to, the on with dog by road
+1799	0.0002749845734797418	on man in black sand and beach the,
+1800	0.2235383689403534	in man with black on and front, the room
+1801	0.0038820323534309864	an man is in black helmet white and on, the ramp sunny with
+1802	0.00030796846840530634	two man in playing and hat while guitar,
+1803	3.777192978304811e-05	two asian woman is red dress and in her
+1804	0.015283746644854546	in woman is at computer on to, screen and
+1805	0.0017303390195593238	two man wearing in hair and shirt at to on, the
+1806	0.4449669122695923	an woman with red dress and in her window room
+1807	0.18851102888584137	an man in on blue top and the to wall sunny, with
+1808	0.06183652952313423	young man wearing red jacket and canoe rock in the on, day with rocky
+1809	0.001494380529038608	an man with in blue shirt to and on window the
+1810	0.00674419105052948	in man is white dress and woman with, the
+1811	0.00011545293091330677	an woman with black and on the stands grassy field grass day
+1812	0.0006292912876233459	on man in sunglasses white and shirt car, truck the with is to day
+1813	0.6831998229026794	two man in white shirt hair and, to front talks with room
+1814	0.7813562750816345	two woman are in and with the screen room to large
+1815	0.9826165437698364	white man in black hair an and orchestra with
+1816	0.2962455153465271	young man is hair and to in room
+1817	0.4844793379306793	two man wearing in and on the his, woodss with
+1818	0.008540305308997631	in group people and red woman to on, with line the sunny as outside
+1819	0.8880544900894165	three band and in stage guitars guitar on front,
+1820	0.9329462051391602	two woman and blue dress in as man outside bouquet the holding on
+1821	0.11095501482486725	an man in black white and front door, outside with the to
+1822	0.026860779151320457	an man iss on in the, river tree day and sunny
+1823	0.08163025975227356	two person wearing in on and mountain the mountains, sunny day
+1824	0.23882713913917542	in young gym, arts red white an the woman do practicing on and
+1825	0.0007072054431773722	two man in blue shirt and on, to the at outside with
+1826	0.008024455979466438	two white ducks and on water the in
+1827	0.4957444667816162	two man with red hair and, in on his
+1828	0.015322059392929077	two man in blue pink and to, with on the at
+1829	0.043858397752046585	an man in orange helmet yellow and on next to outside sits with front sunny day
+1830	0.26248350739479065	in woman with long hair shirt sign and to, the on her as she
+1831	0.46722307801246643	in woman is white and, tables with the at table room seated
+1832	0.6049096584320068	two young man in white shirt and camera front on outside
+1833	0.08735285699367523	two young man with in shirt and on the rocky cliff sunny day
+1834	0.0013123888056725264	two man in an front stage and, with
+1835	0.016774050891399384	an man wearing in green and, on boat the river water to
+1836	0.8551702499389648	in man with red shirt and up, to white his the
+1837	0.8500813841819763	two young women are in hair and shirt to man,
+1838	0.004691236186772585	an man is in to the and daytime water day
+1839	0.013029869645833969	an woman in red winter and to on the snow,
+1840	0.5943259596824646	two man and in on stage an with
+1841	0.1369026154279709	in group people are to and outdoor with on, the
+1842	0.5694828629493713	an man with white and his in, to
+1843	0.9698099493980408	an woman with hair orange in store and to on her shop
+1844	0.793555736541748	someone person is blue red on and to glass paper in
+1845	0.8585216403007507	two young man in rock and climb to the, on as face with
+1846	0.004771860782057047	two man in black shirt and, to with on the wall
+1847	0.0424145832657814	in woman with dark hair and, her
+1848	0.00022137501218821853	an asian man in black white hat and stage is, on
+1849	0.0921306312084198	people stand on in and street the city, with
+1850	0.6032824516296387	during man in through the and river water on
+1851	0.06132969260215759	in man with white woman blue and dress to outdoors the daytime
+1852	0.861054539680481	in man fallss green on waterfall the
+1853	0.015678830444812775	two man ins ski snow snowy, on the and to mountain day
+1854	0.26746150851249695	at group people are in dark street night with and
+1855	0.15985406935214996	two biker ins helmet bike and on, the wooden to mountain day
+1856	0.02097693644464016	an man in suit and to, the
+1857	0.03255278244614601	an man in white woman and church, while as with room the
+1858	0.26286405324935913	in woman is on white her the and legs
+1859	0.5488951802253723	two woman with long and her, head in
+1860	0.1050446480512619	an little man is in bucket shirt on and with indoor the
+1861	0.04476037994027138	someone man is s motorcycle on car to the and in
+1862	0.7924686074256897	an young man with sitting on shirt and wall, to the in hill day
+1863	0.0013904566876590252	two woman and in at to,
+1864	0.041648637503385544	two man in blue red shirt and on room
+1865	0.008809425868093967	man in and small on the water to lake day, sunny
+1866	0.15279605984687805	on man is standing in and to the with sign day road,
+1867	0.014992985874414444	on young woman in long shirt and surf beach the sunny day wave ocean waves
+1868	0.05389590933918953	two man in talking blue and car the to on with
+1869	0.0425906702876091	an man in blue shirt and to on set, the with
+1870	0.014127122238278389	two man in red dress shirt and to, with woman on tree
+1871	0.15425454080104828	with man in s the on and his at waves
+1872	0.013982271775603294	on man ridess in and hisboard outside outdoors,
+1873	0.6111810803413391	young woman in red and on the, water at day with near beach to as
+1874	0.002366115106269717	in woman is on blue the and with, at
+1875	0.004482325166463852	two man in red boxing gloves and referee the
+1876	0.4774096608161926	an woman in through dress walks and, hallway the with
+1877	0.013881124556064606	with man in long shirt and is on, the day
+1878	0.1063687652349472	an asian woman with red on and is the her, to in
+1879	0.26415494084358215	two man sit at in and desk table with,
+1880	0.023223550990223885	two man in red hat and to the car on, with
+1881	0.9029839634895325	man wearings swim underwater in
+1882	0.004274632781744003	two man is behind on in outside sunny the during day and
+1883	0.997456967830658	on man in blue black car holding and the door parked, into to out street day
+1884	0.11151844263076782	two man are in and on the with as field, grass
+1885	0.02435290813446045	two dark with lit in, and the on light lights
+1886	0.8514679670333862	two man sits white cave in and sitting with the, wall
+1887	0.042581308633089066	an asian man in at blue desk office and, the with stands to
+1888	0.00010300169378751889	two man in glasses white shirt and
+1889	0.0029194410890340805	two man ins shirt and the, on dump fire water to with his
+1890	0.7637991905212402	an orange day is with and in the water pond
+1891	0.0029430843424052	two woman in white and the to, on another man with as next outside while
+1892	0.0042426083236932755	in group woman are and an to, the with room as
+1893	0.0038472814485430717	an man in glasses shirt and holding, to is pants on holds the
+1894	0.00971992127597332	in young woman is to blue and an, with the on room
+1895	0.01525102835148573	in bride and white dress woman the, street man on people with city
+1896	0.0622657872736454	an man with in blue car and on the, vehicle to
+1897	0.006780484691262245	two young man and in at shop store to with,
+1898	0.0388350747525692	in person is on blue and
+1899	0.011720250360667706	an man sits sitting shirt table and on in with, day the sunny
+1900	0.12442938983440399	an brown is white indoors indoor the in
+1901	0.23544014990329742	two man with blue in and shirt to, the wall
+1902	0.3375159502029419	an woman is in hair and to room with the as,
+1903	0.013203785754740238	small boat is on in water the shore lake and
+1904	0.6759278774261475	in bride and white groom wedding the woman are as with, front
+1905	0.012497753836214542	an woman in into black street camera at to
+1906	0.415358304977417	an woman and in at to with stands talks windows the, table
+1907	0.0006586764357052743	an man withs onion and to bread in another
+1908	0.008156336843967438	young man with winter coat jacket and park on in the, trees covered day
+1909	0.11620548367500305	in man is black white gloves and the referee as to
+1910	0.1310780644416809	in woman with white hair dress and shirt to is man the
+1911	0.022504281252622604	two woman walks dark in street and
+1912	0.06881122291088104	an man is in hat on and balcony the railing roof outside with
+1913	0.39942583441734314	with woman wearing blue in and backpack on, the is mountain sunny day
+1914	0.028140034526586533	an man is in shirt and to talks stands,
+1915	0.9589707255363464	two men sit at table and in microphone with papers
+1916	0.07975099980831146	woman sits at hair front and in on screen with her, the to
+1917	0.016441358253359795	in black, person is to and with the front on
+1918	0.020190248265862465	two group men are in standing and, statue church with
+1919	0.4393497407436371	in woman is with and night at her the street, table to
+1920	0.09178435802459717	outdoors man ins suit from and water the to
+1921	0.4575847089290619	someone person's silver finger and on in
+1922	0.8700497150421143	outdoors sunny people are white in and on tent, outside with the
+1923	0.03776255249977112	young man in glasses hair front and to with talks, the on
+1924	0.05517434701323509	an man in at blue and desk office with, room
+1925	0.00017493437917437404	in woman and at hair restaurant table to with, talks
+1926	0.7017911076545715	an woman with long hair to her and mirror as,
+1927	0.01443566381931305	someone person is in through and table with,
+1928	0.3267052471637726	four women dressed in cape their and on outside walk sunny to day
+1929	0.006895097903907299	in young female, white and to the
+1930	0.0001070257494575344	two woman is on and tree to, the branch day
+1931	0.0234761331230402	in man with black shirt to and mirror, room stands the
+1932	0.8734393119812012	in young man with red t and shirt, to
+1933	0.0024322106037288904	in man sit sitting at and table to woman, room with
+1934	0.0047609261237084866	an man with in suit and his to front room,
+1935	0.028877954930067062	someone person is plug on and in room
+1936	0.13192413747310638	in young man is to hair and train, the
+1937	0.0106704356148839	three young man are in and ons front, the his near
+1938	0.7995662689208984	in man with glasses white shirt and desk to, stands the
+1939	0.018428873270750046	two scuba diver swims the
+1940	0.7988588809967041	two bride and man in red suit dress woman front hands the
+1941	0.051174093037843704	someone person wearing in blue helmet bike on and yellow is the next to it
+1942	0.089517742395401	young girl with in red table standing front stands and, room on the wall her to
+1943	0.0006626371177844703	two man wearing red dog and the his, in on to field something
+1944	0.6001849174499512	an young man is soccer in and the kicks, with sunny house on
+1945	0.004062118474394083	an man sits in shirt on the, and day during daylight
+1946	0.0002650237875059247	an man in yellow dress and at to with stands front indoor shop
+1947	0.5241440534591675	on man in white sign and, the with day to sunny
+1948	0.7574514150619507	in group adults children, standing front to and the floor
+1949	0.002926282584667206	an woman with in white and shirt sits hair at,
+1950	0.004677496384829283	in young man is black shirt and drum
+1951	0.0007422868511639535	two man in blue shirt and, dancing with
+1952	0.0029745744541287422	the man is blue shirt on to and in, it
+1953	0.0002716983144637197	outdoors tiger is on the dirt and in day
+1954	0.01401522010564804	two group women in and red are, on to as
+1955	0.9565283060073853	two man is on holding in and stage with lit while
+1956	7.871949492255226e-05	an man wearing in glasses uniform and, with talks talking table on
+1957	0.01249509397894144	two man in baseball red on field the ball and day sunny
+1958	0.9529477953910828	person with purple yellow and suit is in, on the mountain cliff
+1959	0.2029000073671341	man with black and in on, sits the outside sunny
+1960	0.00021996384020894766	two man in black hat and on the front with street
+1961	0.0017187510384246707	three people are on an in stage and to
+1962	0.000846317270770669	two man wearing in on and the, day sunny
+1963	0.0006461783777922392	two young woman with white hair and in roll the, up on as
+1964	0.03672420233488083	an man and in dress woman suit with to the room, holding is front
+1965	0.0004836819425690919	an woman is glasses in black and the front
+1966	0.04915819689631462	two man is in and an with at the
+1967	0.0112043721601367	two man in on street and with city, the
+1968	0.16765394806861877	on person is over down bridge above ramp and the
+1969	0.0026228090282529593	young boy is on in up and the, as to her
+1970	0.17056392133235931	two man is down in on the water and cliff
+1971	0.09340352565050125	an man in white shirt and, on the woman day sunny
+1972	0.34367552399635315	an woman in white dress wedding and the room to
+1973	0.08264295756816864	an young man in blue and, indoor
+1974	0.0023224400356411934	two man in black white and head table on food with is,
+1975	0.9918318390846252	two white garage with house in, the snow and day sign driveway on
+1976	0.006983049213886261	two woman with in shirt and on, her to the
+1977	0.0065068211406469345	an man is on red with and pot the in
+1978	0.009742189198732376	two man with hair in and talks table room,
+1979	0.010785818099975586	an man in blue yellow shirt and stands on with the
+1980	0.020802976563572884	an woman in black dress and suit with is as man to,
+1981	0.2176254242658615	two man with palm trees in on the and tropical,
+1982	0.001734088291414082	an man in black white shirt and bike down, the on up to day
+1983	0.12568576633930206	people stand in and the street, on with front city
+1984	0.013543757610023022	two man are on in the water boat,
+1985	0.026062792167067528	two men sit sitting on in and, bench with day the one
+1986	0.040633466094732285	two man is red from and stick in the at to daytime
+1987	0.009233697317540646	in woman with red dress dressed and to,
+1988	0.9952629804611206	an young woman is in and front the house with, to on sunny garden as 
+1989	0.055876847356557846	two video are with, white the setting and in on set
+1990	0.9244897961616516	on young man with sitting shirt yellow and talking, is in sits woman to
+1991	0.03437370806932449	two woman are in red christmas and with, the to room as lit
+1992	0.12491852790117264	two young woman is rock in and climb, the with on sunny day
+1993	0.9635193943977356	on sunny, park people are in an competition dog the to and
+1994	0.00024815250071696937	young little boy, in yellow drawing and table to on the
+1995	0.000737436639610678	on man in green orange shirt skate andboard up, front with the
+1996	0.8310824632644653	outdoors children are sitting on field the and in,
+1997	0.9225509166717529	an black man in outdoors on and the at, camera sitting to
+1998	0.008428721688687801	an woman is in to train airplane
+1999	0.21201428771018982	two young man with in car the and seat while on,
+2000	0.8073654174804688	two man in white suit microphone shirt and front, with behind
+2001	0.0038338869344443083	an little woman sits in small on and, room with the her floor to
+2002	0.9981868863105774	two woman with long blue and hat in, outdoors the
+2003	0.04108353331685066	two woman and in hair shirt to, the as man
+2004	0.6717090010643005	two little woman is in white and front, talking table on with the outside to house
+2005	2.2406402422348037e-05	an man with in red suit and to desk, talks stands on room
+2006	0.005110353697091341	at man in on white and street truck the cars, city as
+2007	0.18285170197486877	an woman is in hair dress window and to the on room
+2008	0.161965474486351	someone person with blue green shirt and in to is
+2009	0.3082444369792938	an man is red shirt and from bottle, in to
+2010	0.00016415101708844304	an man picks in farm tractor field and the on,
+2011	5.489006434800103e-05	someone man wearing in blue green shirt and paint on white,
+2012	0.4904259741306305	an young woman with in shirt and jeans on, sitting the outside sunny sits to
+2013	0.008288959972560406	two woman are in black on stage and to the
+2014	0.715316116809845	an man in white dress suit and woman outside holding the, on with as
+2015	0.12195362150669098	two man in blue is and something table,
+2016	0.07978254556655884	motorcycle music riding down dirt on road through country the and,
+2017	0.00010821639443747699	an woman in long hair dress and head the sunny day
+2018	0.007279763929545879	an woman with yellow white and wall in on
+2019	0.3029566705226898	sail man iss boat the on sails in
+2020	0.008947581984102726	an woman is in on and front with, the
+2021	0.31914806365966797	two man is in white dress stage and on up with,
+2022	0.9355352520942688	two man in yellow helmet jacket shirt and car on the street with sunny day to
+2023	0.08945402503013611	an woman in long black board classroom and toboard front
+2024	0.07702718675136566	on man in black and stage
+2025	0.0006209049606695771	an young man with glasses plaid and camera to outdoors the
+2026	0.9787776470184326	an man with in shirt and front microphone while on
+2027	0.06086341664195061	two man ins pad water the on river day and
+2028	0.9881812930107117	with man in blue backpack and shirt on path the mountains sunny,
+2029	0.03764142468571663	an man is s on his and in as the
+2030	0.001951116370037198	an woman and in dress white to with, the as are pictures
+2031	0.9007697105407715	in man with glasses yellow shirt hair and, talks front to on
+2032	0.9732836484909058	two woman is in and, balloons room with party while on to as up
+2033	0.04541478678584099	white man in black suit and woman with to room
+2034	0.0010191270848736167	in woman with blue to and christmas, holds
+2035	0.08858643472194672	someone person is skis and snow in on the poles mountain covered
+2036	0.4902430772781372	two man are on in stage and, front
+2037	0.8012493252754211	an man is in and kitchen large, pot
+2038	0.03715134039521217	two person with down on bike and, in road the
+2039	0.0011901300167664886	two group men are in shirts and white to on the field,
+2040	0.004975867923349142	on woman in through and at man the to,
+2041	0.8255749940872192	in young man is s shirt and hospital to on his
+2042	0.1261705905199051	two man is s machine in the and
+2043	0.0047934153117239475	on man with sunglasses shirt and, the in water at boat day near
+2044	0.010733542032539845	two woman in on to and the ball with field, outdoors during day
+2045	0.3207855224609375	young man in white shirt and boat on the river to, day
+2046	0.02616194263100624	young woman in red and boat canoe paddle yellow is the to on
+2047	0.000529443146660924	two woman is in boat the on water beach
+2048	0.006167939398437738	two man in white shirt and on to the area, woods day
+2049	0.16642630100250244	in woman with hair and stands room her, on to
+2050	0.004152578301727772	an man in yellow shirt and stands as, with is the
+2051	0.007644911762326956	at band are in dancing on and while front, with
+2052	0.410524845123291	two music with through on in the trail woods path, day
+2053	0.9081339836120605	someone man is in cutting from and meat the to on table
+2054	0.265855997800827	hand man's on phone tablet and in the,
+2055	7.503003143938258e-05	an young woman with in white hair and red to, is while talking the
+2056	0.1938479095697403	an man's hands and to on in
+2057	0.2477504312992096	two man is in and the on, dog road with
+2058	0.47782233357429504	woman is in dress and white to,
+2059	0.0003832430229522288	two boys are on at in the
+2060	0.48901185393333435	in man dressed black orange and on street the to with, building
+2061	0.0010008113458752632	two man in white and head outside street, to on another the
+2062	0.00010802916222019121	an woman with glasses black and in front, her'to the
+2063	0.3315608501434326	an man is in and instrument on
+2064	0.01798924058675766	on man wearing bicycle in bike and street the busy with
+2065	0.007980727590620518	an man wearing in dress and suit is woman as with the,
+2066	0.04758178070187569	two man in white and shirt head on is his sits,
+2067	0.00018043475574813783	an woman with long shirt and to in, her
+2068	5.079014954390004e-05	an woman in glasses dress and to man suit, stands with
+2069	0.9946411848068237	bearded man with glasses mustache and covering his in to
+2070	0.36266541481018066	someone person iss down on snow and hill the in mountain day
+2071	0.5746773481369019	in man dressed suit woman wedding and as the to with holding
+2072	0.23891669511795044	in woman stands black hair and room to the, her
+2073	0.5406647324562073	an man with and to her in on s
+2074	0.27015072107315063	two man in standing front and screen with on to, large room
+2075	0.06260071694850922	an man wearing red and walking path, the in on woods with
+2076	0.5978319644927979	two young man in yellow green shirt and stands to with, the store
+2077	0.0009473370155319571	an little boy is in red on and, with the floor
+2078	0.0002713408030103892	two man with in red talking and on,
+2079	0.08391468971967697	an man in white and the to
+2080	0.00048350327415391803	an woman with white dress and in on the tall,
+2081	0.748879075050354	in black man wearing orange and shirt with table stands to,
+2082	0.044605035334825516	an woman in on holding lit room front with and wall
+2083	0.002798618981614709	in man and up on to the, with during day sunny next front outside
+2084	0.32180413603782654	an man is in on and front stage, as with
+2085	0.1278790533542633	two man with in and rock white, as on the cliff hill
+2086	0.2632640600204468	in man with orange red yellow and shirt wall, on front to
+2087	0.9847571849822998	in man and long black dress white woman on to couch with her next the
+2088	0.5482733249664307	two scuba diver swim swimmings is in and bottom
+2089	0.003100081579759717	an woman in red hair and shirt, is to next talks
+2090	0.12649962306022644	two white man in sitting red suit and black, with to
+2091	0.003370672231540084	an man in orange on and up tree plant outside
+2092	0.009344039484858513	two man is on in the snowy and, mountain sunny
+2093	0.18935514986515045	an group scene are with rocks large
+2094	0.0188364889472723	two man and in dress to outside woman outdoors as, sunny with on
+2095	0.04126006364822388	two women in blue and on street woman the, sidewalk car
+2096	0.006725556217133999	young man with long hat and overlooking wall on balcony outside, the
+2097	0.9689188599586487	four group musicians are in and instruments stage
+2098	4.995019480702467e-05	an woman with in and, at is
+2099	0.27021604776382446	someone man in hands on and green cutting small from
+2100	0.2395641803741455	in man wearing white shirt helmet and, to on the up outside
+2101	0.011199302040040493	two young woman in black white hair and to glasses
+2102	0.0001008266190183349	in young woman with sitting on hair shirt and, the her room
+2103	0.3645315170288086	young man in green and boat on the, sea to his as
+2104	0.004519333131611347	people are on in and with, the
+2105	0.0026710338424891233	young little boy is talking to and in with the camera,
+2106	0.03420808166265488	two men players in blue shirts field on and their the
+2107	0.0001125042253988795	people are in and on with indoor to, at
+2108	0.01495534460991621	an woman sits in on and with front the, trees building street
+2109	0.15241090953350067	on man is in baseball ball and the his to day,
+2110	0.1390809565782547	two woman in black hair on stage and piano
+2111	0.01593819074332714	two man in black and play with,
+2112	0.00013936046161688864	an baby girl is in on green table with, the and from
+2113	0.06332260370254517	in man is on guitar and while
+2114	0.010882338508963585	young woman with long hair dress and in her,
+2115	0.6624553203582764	people are on in coaster and amusement, with day the
+2116	0.07566609233617783	two man is into in and
+2117	0.00011827551497844979	an man in white and military, stand while with flag to the
+2118	0.004101598635315895	two woman is in dress hair and tv, screen the
+2119	0.04491409659385681	an man in glasses shirt and on, to the with something next room
+2120	0.002102350350469351	two young woman is dark in and her candles the
+2121	0.9843190312385559	two group children in costumes and on stage to front with
+2122	0.2166031152009964	in bride man with groom white wedding and her, the as
+2123	0.0008853838080540299	an man in black playing and plays instruments front with
+2124	0.0038159366231411695	two people ride down in on the street buildings with city
+2125	0.030321041122078896	an man with in yellow shirt and on, wall sits the
+2126	0.0037839042488485575	two man with in hair shirt and to, woman
+2127	0.003020012052729726	outdoors man in black outdoor and, on the at day
+2128	0.9991293549537659	two man are in purple woman and wall, with room
+2129	0.0838376060128212	in woman wearing blue shirt and on street as the
+2130	0.6802592873573303	an woman with blue shirt and on in talks while outside, the
+2131	0.05101338028907776	two woman is in on and stage, with an
+2132	0.0282956063747406	two man are on in at the truck and,
+2133	0.5251423120498657	the man iss over in and sun
+2134	0.0008138302946463227	in young woman is blue hair white and, to green her with as
+2135	0.0029436650220304728	in woman with red and top, boots is grassy the on her field day
+2136	0.002881470136344433	an man is s glasses and in on pot to bowl the
+2137	0.0002278652973473072	two woman in blue top and to, with on the as
+2138	0.00019909143156837672	in black man with red blue shirt and, to
+2139	0.45397284626960754	an man wearing in suit and clothing at to with front,
+2140	0.5520157217979431	with woman in blue and orange on, the mountain sunny mountains
+2141	0.01744966208934784	at woman in red green and with the on night,
+2142	0.04783976078033447	at man is in the on camera and road,
+2143	0.000770137645304203	an gray is with in the and grass on grassy day
+2144	0.0328136645257473	an woman is dark dress in and the,
+2145	0.1446867287158966	two young man, in riding car and the driver with while
+2146	0.012778772041201591	man in black shirt and to room on, with
+2147	0.0019156074849888682	someone person is with in and into bowl it,
+2148	0.0936913713812828	someone hand is holding on in and
+2149	0.04040108993649483	in woman sits sitting bedroom on and the as room,
+2150	0.04675612598657608	an young boy in up shirt skate and on, with the sunny front day
+2151	0.09862001240253448	two man in red jacket and ski mountain the on snow, to
+2152	0.08927582204341888	an baby is in bed on to and the
+2153	0.01847306825220585	an man ins and kitchen table on with while
+2154	0.0010556211927905679	an man in glasses shirt to on and front, with
+2155	0.013990386389195919	in woman is speaking hair striped and on, talking front the day with near to
+2156	0.01189996488392353	an man is in from and, the to on as
+2157	0.21337589621543884	in man wearing red ands, with to on fire the night
+2158	0.0008757321047596633	in woman is on table desk and room, the
+2159	0.017882036045193672	two man in on rock and the to, outside his
+2160	0.052316874265670776	on woman in roller skate hair shirtboard and his with the day
+2161	0.03765374422073364	on woman are in the street sidewalk and during
+2162	0.04393352195620537	two man in climbing on, the and day
+2163	0.052327461540699005	two woman in walking and on street walk the
+2164	0.019641580060124397	an man plays in and instrument instruments,
+2165	0.016975710168480873	an man with in shirt and to talks table the room window,
+2166	0.2020513266324997	in woman with long hair white to and dress talking the
+2167	0.045519355684518814	two man is red cutting and on in, the table spread with
+2168	0.00018594028369989246	two young boys sit sitting in and paper table on boy, the room
+2169	0.09663142263889313	someone person is on at phone and in,
+2170	0.8253521919250488	two couple and suit in outdoor white, on the outside man
+2171	0.003695011604577303	at man walks walking up the in with building
+2172	0.897059440612793	in young woman with hair shirt and kitchen front, the talks
+2173	0.011905224062502384	two man and in talking on talks to with woman, next outside street the day
+2174	0.7207967042922974	an woman is in dress white room and to the
+2175	0.29369091987609863	in man and white groom dress with, the
+2176	0.0156220318749547	someone person iss on snow in river the water
+2177	0.0008580584544688463	an woman in black white and shirt with front guitar,
+2178	0.009861522354185581	four women in yellow and to front woman, sign
+2179	0.08603138476610184	an man in at and table to with the on, others front
+2180	0.0032154310029000044	two young man are in and shirt the to on at during,
+2181	4.621840707841329e-05	two man is in uniforms on street the and while,
+2182	0.7804519534111023	someone man is from to machine in and
+2183	0.23916594684123993	two young field, people are orange in and fr on the one to them
+2184	0.0007407169905491173	man in blue and boat on river the lake, sunny day with
+2185	0.0039018443785607815	two young man in on and track the, at
+2186	0.06424112617969513	an man with shirt white and in the as on
+2187	0.0003705702256411314	young woman with hair shirt on and in, the day from is her
+2188	0.010382028296589851	two group men are in and the to, man with field
+2189	0.5958247184753418	an man with black in and to room, as the
+2190	0.011921883560717106	two man in red street car and the sunny on during day
+2191	0.001499887672252953	two woman are long hair and
+2192	0.0016680139815434813	in man rides black helmet and bike riding on outside small outdoors day the
+2193	0.12588566541671753	young woman with long hair to and her
+2194	0.2818015515804291	in man with white and on, to the as outdoors outside woman line day
+2195	7.26160142221488e-05	on man is sand red rampboard beach the sunny day
+2196	0.00016971162403933704	an man sits sitting in and table at shop with the his,
+2197	0.7368438839912415	in bride and white dress woman outdoor man as, outside sunny
+2198	0.07927688211202621	two group people are in outdoors and, on the to
+2199	0.029143212363123894	an woman in hair dress and her as
+2200	0.08996365964412689	two group people are in an the, and with to
+2201	0.05402103438973427	in video man are at with and small
+2202	0.800226628780365	people are in parachu on and the mountains
+2203	0.002329865237697959	two man are in tool and, field to the with on large
+2204	0.002504647010937333	two woman talking to in camera
+2205	0.12170886993408203	three band are in on, stage front and with
+2206	0.14302006363868713	in group city people are outside green to with building and street on front
+2207	0.00012252341548446566	an bride woman with in red and white dress wedding to the,
+2208	0.12023507058620453	in dog is with red to and, the
+2209	0.8197948336601257	on man in white holding shirt city the traffic street and, to as him
+2210	0.8858133554458618	young man with glasses sunglasses and to in,
+2211	0.08580303937196732	someone man ins ski on and snowy mountain the sunny snow
+2212	0.008624778129160404	an woman with in white and dress her,
+2213	0.5177645683288574	two man sits in on and, the with day sunny flowers by street
+2214	9.376136586070061e-05	an man with in jacket shirt and on car the sunny, road day
+2215	0.0208651814609766	an man in black suit and stands front white to on with next the
+2216	0.006339804735034704	in woman with black blue shirt and to talks on the
+2217	0.013048083521425724	an woman in and dress man to outside, the with front on
+2218	0.6849489212036133	an man in red blue and canoe boat river, on the his
+2219	0.014366991817951202	an woman is up blue and on in,
+2220	0.03906085714697838	an woman in long blue and shirt, the on
+2221	0.00046753077185712755	two man in white hair and dress to sunny
+2222	0.010865792632102966	two men are talking in on and to, the outside
+2223	0.8432196378707886	in young, man are at talking and desk to the screen
+2224	0.48946380615234375	two man are to on and wooden ground the wood
+2225	0.11070920526981354	someone person ins ski and on mountain poles the, to
+2226	0.004051081370562315	an man with in white and,
+2227	0.0005841561360284686	young woman in pink red and dress on the, at
+2228	0.3094775974750519	two young man with white shirt and camera in on the, to day sunny
+2229	0.28502222895622253	fireworks truck car is dust moves up the in road,
+2230	0.00789253693073988	an man in red shirt apron and table, on to the is plate
+2231	0.027692431584000587	two man are running on and in with, the
+2232	0.06784185767173767	two young woman in long on and boat the to water next with river,
+2233	0.001512901159003377	in man is red and cat the to up front large,
+2234	0.0006557501037605107	two man in glasses white suit wearing and with to front
+2235	0.05365114286541939	two woman is in blonde kitchen and to, with the on
+2236	0.0037358514964580536	on man in black white car and to the, with street it
+2237	0.48694995045661926	two tiger day area in on the,
+2238	0.022174295037984848	an man wearing in and cooking to into kitchen pot, on with
+2239	0.0327724814414978	an woman with her hair and in gym on
+2240	0.0021396034862846136	an bride woman in gold dress gown and wedding wall are on
+2241	0.07612021267414093	at woman is in front and with to, candles the
+2242	0.501348078250885	two woman are long stage and in on, front an
+2243	0.9948108196258545	man in red orange kayak and on waterfall day river
+2244	0.05955342575907707	two man in basketball at gym with, net
+2245	0.013389642350375652	two man are in suit and front
+2246	0.025295324623584747	two man in on dress and stage to, the
+2247	0.013599825091660023	an woman is in on are and the
+2248	0.818861186504364	two man talk at in woman table and front
+2249	0.0008289925171993673	an woman with white hair and in to stands, the brick
+2250	0.18578971922397614	an man is on in and
+2251	0.016982601955533028	the man are in boat trunks water on
+2252	0.0005842939717695117	two man in red on as and the
+2253	0.839970052242279	in man with swim trunks and river canoe the water day
+2254	0.0309445858001709	an young woman with into hair wall and in to room the
+2255	0.007090283092111349	in little boy with wearing blue and to the window at, room
+2256	0.9864392280578613	in young team, girls are on black and with gym the
+2257	0.00015434838132932782	an woman with in at and table on, plastic the front up indoor
+2258	0.00015990596148185432	an man with in black and white on, the
+2259	0.000456019799457863	on man in long green and the shirt, umbrella as ocean day
+2260	0.0014888381119817495	an man with black and in shirt, room stands talks hands
+2261	0.3402908146381378	in woman with long hair shirt and wall on man next, the
+2262	0.10300849378108978	in woman with dark dress to and man,
+2263	0.019328728318214417	two woman is in sitting dark with and table to lit room
+2264	0.9584696888923645	several group people are in balloons balloon air the, field up and on
+2265	0.0320756621658802	someone person is green blue and,
+2266	0.5642940998077393	while small flies flying the plane in sky cloudy day
+2267	0.3995715081691742	two man are in and woman with table restaurant,
+2268	0.03883292153477669	an man in black bottle and,
+2269	0.9299329519271851	someone person'holding cutting in and hands table on the with
+2270	0.002834503771737218	people are in and on an at,
+2271	0.9644097685813904	an woman holds white and baby in the to on
+2272	0.008627872914075851	outdoors man in blue yellow on and truck, sunny the day during
+2273	0.005858541466295719	two asian woman and sitting at table in to with, man on white the
+2274	0.017571276053786278	young woman with long hair and in, her
+2275	0.004623020999133587	man wearing hair and white in
+2276	0.18152940273284912	two woman with in red and fence, on the day sunny to
+2277	0.03624998778104782	on man in into shirt and to front the, talks with outside street day
+2278	0.7842392921447754	an man are in on tree trees outside day sunny, the
+2279	0.024855049327015877	two music in walking on the and large street with day front
+2280	0.029856843873858452	in young woman is at table and, man with
+2281	0.03287499397993088	an man in blue suit on and
+2282	0.028795206919312477	people walk are on walking in and day, the lined
+2283	0.03354677930474281	an woman sits in white and the table with, window
+2284	0.00042334970203228295	people in and on, river with the to wooden boat
+2285	0.0020467930007725954	two woman and white in the, with
+2286	0.0109331039711833	an man wearing in green and, wall to on the
+2287	0.6615145802497864	young man sits sitting shirt on and park in, his the to sunny with
+2288	0.09446452558040619	two man ins ski and on mountain slope snowy, as the
+2289	0.003319867653772235	on man is in rowing the and paddle, lake sunny day
+2290	0.009736895561218262	two young woman is in dress and beach on the, sunny
+2291	0.016888460144400597	outdoors man stands in red car the at parked window street door
+2292	0.003985174000263214	two woman are blue in and front, with on screen
+2293	0.0007365559577010572	in man with red on and from, field the to iss
+2294	0.013006165623664856	two nightcycl man are down on city street at, the
+2295	0.009198430925607681	in woman with on hair bed and to the her
+2296	0.02844024822115898	people are at to in food the and with,
+2297	0.00025592418387532234	two woman wearing in helmet andak the on boat to day another sunny
+2298	0.015756644308567047	two young woman in on and with the, street sunny sidewalk little
+2299	0.0010845925426110625	an man in red white uniform and around sword on, the
+2300	0.014840717427432537	an asian woman with in red sweater and to camera, next
+2301	0.2967550754547119	in woman with long dress hair and to as, the room her
+2302	0.018388455733656883	two man in white on and to the with figures
+2303	0.02449231967329979	two man in up to and the from, field on as him
+2304	0.13916940987110138	two young man are in the, and talking on to while
+2305	0.9899493455886841	two group cave people are in rock and as with, to the
+2306	0.8762630224227905	in woman is white dress on the room and
+2307	0.0015446903416886926	two man in at blue microphone with and
+2308	0.0003284743579570204	young woman in at hair jacket store holding and, with the on to

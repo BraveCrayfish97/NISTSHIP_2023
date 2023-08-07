@@ -1,0 +1,2311 @@
+Task=D
+loss=cross entropy
+runType=VV
+1 0.35628766351996044 a man playing a guitar
+2 0.5547428531842294 a man driving a car
+3 0.1979073798198986 a man standing in a bathroom
+4 0.6300367823984153 a group of people posing for the camera
+5 0.8795811720255344 a person wearing a purple shirt
+6 0.6261443844910712 a woman standing on a beach
+7 0.6572173398490173 people dancing in an airport
+8 0.6961330124828966 a bird on a rock with music playing in the background
+9 0.5845961772465227 some plants growing in the ground
+10 0.6384983138018051 a bride and groom standing in the grass
+11 0.34394918878973135 a man in a black jacket and a white shirt
+12 0.14966187209060255 a man kicking a soccer ball
+13 0.42667009421585966 two men working in a field
+14 0.8659682863142227 two people fighting in the desert
+15 0.12908896515893786 a hand holding a piece of glass
+16 0.3771611586699448 a group of people standing in front of a van
+17 0.6921577413967153 a person sitting on a bench in the snow
+18 0.3618092440718482 a cat sitting on the floor
+19 0.11327531947422143 a light fixture in a room
+20 0.608007874514516 two people dressed as storm troopers
+21 0.543008665980665 a woman with red hair
+22 0.5510587630733439 two people sitting on a chair
+23 0.6260298438441746 a boat in the water
+24 0.3680288702463629 a person on a surf board
+25 0.4890357720036457 a man working on a car
+26 0.7720513622644067 a group of people playing soccer
+27 0.8260305796143641 people walking down a hallway
+28 0.28920399377898387 two girls in a room
+29 0.8929399237076512 a man sitting on a couch in front of a tv screen
+30 0.4436825637335309 a table with many cards on it
+31 0.6062234502447466 a group of people sitting around a table
+32 0.2598221183393288 a woman's profile
+33 0.36735510881985023 a football game being played
+34 0.5497075986872074 a group of people sitting around a table
+35 0.6719239958708313 a man throwing a bowling ball
+36 0.3144050955915454 a man looking at a laptop screen
+37 0.31811340216363404 a man sitting on a bed
+38 0.867599450076049 a man holding a sign
+39 0.2012232248976874 a woman with a veil on her head
+40 0.6158538300262315 a woman holding a microphone
+41 0.07501361827884834 a group of people on motorcycles
+42 0.5534933897010547 a man in a police uniform holding a microphone
+43 0.29133115757565 a dark street at night
+44 0.7972728244100717 a group of people standing around a table
+45 0.5921167533890046 a person holding scissors in a bag
+46 0.4947385885142822 a woman sitting under a tree
+47 0.8857101976168108 a man sitting in front of a mixing desk
+48 0.4328683786227424 three kids sitting at a table
+49 0.39643297803625177 a woman in a wedding dress dancing
+50 0.3445982132601825 a green board with the word friday written on it
+51 0.7522841915692341 a street scene
+52 0.7708834360468544 a bride and groom walking down the aisle
+53 0.658666109511821 a man filling gas into a car
+54 0.9037665204385203 a woman holding a piece of paper
+55 0.43238109870621755 a soccer game being played
+56 0.6169529940377303 a person flying a parachute over a field
+57 0.9724639062974861 a tank in the jungle
+58 0.09518383156622146 a group of children in a classroom
+59 0.0421142276690325 some diamonds on a table
+60 0.38557947979160456 a woman talking on a cell
+61 0.6406676680697458 a boy standing in a living room
+62 0.12614202829500953 a dog laying on the floor
+63 0.45401452545336474 two men sitting on a couch
+64 0.20644886818491648 a tiger in the water
+65 0.8928999478731903 two men playing soccer on a field
+66 0.5820388251651292 a person holding a knife in front of a large rock
+67 0.19113453552381177 a group of people playing basketball
+68 0.9697814746002601 a young girl in a classroom
+69 0.9313848338736528 a bride and groom during their wedding ceremony
+70 0.39275483332671457 a group of people dressed as santa claus
+71 0.6714834337026372 a woman walking through the woods
+72 0.6770912080372956 a bus with a man in the driver's seat
+73 0.5964262378309796 a person riding a bike across a bridge
+74 0.45474396109458215 a person wearing a helmet
+75 0.30307272748186687 a person standing on the floor
+76 0.8726335974775844 a group of people walking down the street
+77 0.18798116094618633 two men in a judo match
+78 0.9285304015995286 a person in a field
+79 0.5576653831828432 a sailer in the ocean
+80 0.9430747759378992 a man in a suit talking to a woman
+81 0.3234285108482249 a man riding a skateboard
+82 0.21108748823598278 a group of people dancing in the street
+83 0.2713445288663823 a person in a room with a clock
+84 0.8077365445315321 the inside of a building
+85 0.6428846158928446 a man kissing a woman
+86 0.27463849943702157 a person riding a snowboard down a hill
+87 0.4076180131879742 a man and woman on the beach
+88 0.3452195661791523 a man sitting in front of a christmas tree
+89 0.7251442491149932 a group of people in a room
+90 0.5938948370854179 a man working in a kitchen
+91 0.2085243655910063 a man playing a guitar
+92 0.3652562827055964 a man writing on a board
+93 0.6719738888912479 a bride and groom cutting their wedding cake
+94 0.4922456936683922 a person holding a coffee cup
+95 0.4045288765537072 a group of people on stage
+96 0.026359362845320478 two people at a food stand
+97 0.4836539017972401 two women sitting on a bench
+98 0.46384455422228243 a man giving flowers to a woman
+99 0.7797857472258873 a rooster crowing
+100 0.5878315588781271 several people are looking at paintings
+101 0.5879600627342886 a coat hanging on a wall
+102 0.4873870759329959 a woman getting her hair done
+103 0.8876360528946838 two people holding plates of food
+104 0.6524193723466161 a person standing in the water
+105 0.48898035464331124 two women sitting in chairs talking
+106 0.8223927179142149 a man in a cowboy hat sitting at a desk
+107 0.4636242061993443 a woman getting her makeup done
+108 0.922498821167595 a man with glasses and a white shirt
+109 0.28249642440309275 a man flying a kite
+110 0.7320593271287414 two people standing on top of a building
+111 0.4055962700443366 a band performing on stage
+112 0.1579365664727228 a person holding a yellow balloon
+113 0.5976060936630317 a man playing a violin
+114 0.7764876602792121 a person in a green suit
+115 0.8074047616794383 a man in a black jacket and a black hoodie
+116 0.42289490947376784 a man fishing in a river
+117 0.38154254805053933 a man holding an ice cream
+118 0.9039239254818673 a group of people standing in front of a store
+119 0.4755971197738358 a woman sitting at a picnic table
+120 0.85976110478223 a woman in a black dress with a veil on her head
+121 0.6119599319470604 a man sitting in a bus
+122 0.6102468039574275 a group of people playing basketball
+123 0.48832764394234374 a group of people at a party
+124 0.6375159994825879 a park bench in the grass
+125 0.7875499867789658 a person in a cave
+126 0.1591467467070976 a man working on a car
+127 0.10509602595214362 a man working on a piece of wood
+128 0.965033507673942 a group of kids playing in a fountain
+129 0.700737566548489 a man with a gun in his hand
+130 0.4085318142886325 a woman in black and white
+131 0.5430131284992438 a man standing in front of boats
+132 0.4751645402791558 a man sitting in front of a television
+133 0.24133567773429343 a woman pouring a pint
+134 0.15700455687813342 a person stirring food into a pot
+135 0.9164404365659298 a field full of flowers
+136 0.13018217812108313 a river with ice on it
+137 0.7875531983390516 a group of people sitting at a table
+138 0.9457779967612508 a fish in the water
+139 0.5107274175881066 a man riding a bike
+140 0.1230668927082188 a car that is stuck in the mud
+141 0.36743318105311307 a machine that is in the process
+142 0.8840205471402481 a man holding a cell
+143 0.7758979583083434 a man working on a piece of glass
+144 0.4119589462717933 a group of people walking down a street
+145 0.036485348657695815 a man riding a motorcycle on a track
+146 0.9417772857717337 an airplane with the words on it
+147 0.8739827015404407 a waterfall in the water
+148 0.5068153848110319 a person on a snowboard
+149 0.9400384283635466 a man walking down the stairs
+150 0.0649448468862619 a large crowd of people
+151 0.7432621600082474 a woman with long hair and a black jacket
+152 0.3150414393319346 a man and a woman on a bus
+153 0.8885760845448096 a woman in a dark room
+154 0.42738959329147574 two people sitting in the back of a van
+155 0.903943511815698 a person standing in front of a green screen
+156 0.10282515301548611 a man standing on top of a water pump
+157 0.6222753058498395 two women standing in front of a mirror
+158 0.8905896676202334 a man riding a surf board
+159 0.7161048612906672 a group of people dancing to music
+160 0.1360617001758575 a man playing a guitar in a dark room
+161 0.22754410515345003 a man playing a game in a store
+162 0.7820171903541472 a snowboard in the snow
+163 0.38679775785740333 a person writing on a piece of paper
+164 0.7091753520795288 a crowd in front of a building
+165 0.4961851582473408 a woman standing in front of a window
+166 0.9026106938232379 a woman standing in front of a mirror
+167 0.5894897463330858 a person laying on rocks in front of a train
+168 0.0787009364543454 two people dressed in costumes
+169 0.13197749903367562 a man standing in front of a wall
+170 0.1639214972422529 a snowboarder doing a trick
+171 0.5638127939304802 a man in a suit leaning against a wall
+172 0.8102252574770313 a group of dancers dancing on a stage to music 
+173 0.10181229733323849 a man working on a machine
+174 0.5813337543326185 a car that is parked in a parking lot
+175 0.6534432444985948 a person on a snowboard
+176 0.715819832423435 a bride and groom kissing in a park
+177 0.15909827654855124 a group of people standing around a table
+178 0.5972981814739924 a man sitting in front of a laptop
+179 0.15759803594852928 a person riding a motorcycle at night
+180 0.6118022954386503 a watch on a table
+181 0.7926519967047208 a group of people standing in a room
+182 0.5711026625319803 a person cooking food on a stove
+183 0.32347262911545804 an outdoor swimming pool
+184 0.6958336516454297 a man and a woman in the street
+185 0.8460935930691921 two people looking at a cell phone
+186 0.14309006599010632 a man working in a factory
+187 0.24074964185223857 two people on a tv screen
+188 0.6120185952032489 a child standing in the rubble of a house
+189 0.06289918054816834 a cat playing with a mouse
+190 0.9590325698913477 a man working on a wooden structure
+191 0.0072982505900800465 a man shaving his face with shaving sha
+192 0.7403551958658715 a man making a sandwich
+193 0.8641974337158833 a group of people dancing to music
+194 0.6071090462175172 a woman standing in front of a bus
+195 0.5925882267160625 a group of people posing for a picture
+196 0.3570801784724664 a person using a sewing machine
+197 0.37044121668636243 a piano in a room
+198 0.8420339028734818 a group of people sitting around a table
+199 0.852955154946293 a group of people standing in front of a screen
+200 0.7650408277218136 a man laying in a hospital bed
+201 0.7380985831119345 a street with trash on the ground
+202 0.15024040648744663 a man holding a paper
+203 0.7668679412280147 a group of people in a room
+204 0.5707483214214043 a person in the water
+205 0.6161630226263887 a man in the cockpit of a plane
+206 0.19531619453100468 a woman singing into a microphone
+207 0.94215785933865 a little girl in the woods
+208 0.16782354711929348 a woman playing an accordion
+209 0.9409807458529652 several women are taking an interview
+210 0.1301290796389455 a football player on a television screen
+211 0.07383054346014606 a man riding a horse down a dirt road
+212 0.021773089186035488 a man in camouflage gear
+213 0.6685681265193462 a group of people on a street
+214 0.38446306162967947 a herd of sheep grazing in the mountains
+215 0.05654641180224562 a woman in a wedding dress holding a bouquet
+216 0.6993745930711436 a group of people singing in a room
+217 0.6291783572099358 a person sitting at a table with a plate of food
+218 0.60348395649729 a wind turbine and a wind turbine
+219 0.5118602110504616 a nun holding a wine glass
+220 0.7904499166324765 two people sitting on a bench
+221 0.6541134542080612 two people standing in front of a wall
+222 0.5886526451063646 a man and a woman shaking hands
+223 0.20183209610254838 a little boy standing in front of a herd of sheep
+224 0.04721758441875057 a woman and a dog in the woods
+225 0.2974198978109044 a person skiing down a hill
+226 0.11131121363884977 a man sitting at a table
+227 0.3273073983661591 a person standing in a dark room
+228 0.045701825299201304 a man playing basketball on a court
+229 0.8839288006098582 a woman holding a paper airplane
+230 0.4169468507632266 two people sitting at a table in front of flags
+231 0.5957160587841869 a sign in the woods
+232 0.13497510754270448 a person standing in front of a whiteboard
+233 0.9760155472799571 a group of people playing basketball
+234 0.9586858295538083 a group of people on a stage
+235 0.505583758539702 two people climbing on rocks
+236 0.2502776925154946 a woman holding a painting
+237 0.0021892244239272163 a soccer game on a field
+238 0.622996776946254 a person preparing food in a kitchen
+239 0.6958620129205306 a person on a skateboard
+240 0.8404538288398562 a crowd of people with their hands in the air
+241 0.48646549651848825 a person in the back of a car
+242 0.9707897882895146 an older woman in a library
+243 0.866661908181535 a man and a woman building a house
+244 0.313872996162863 a man climbing up a flight of stairs
+245 0.016036774614038185 a young boy playing in the water
+246 0.07013534220866735 a person riding a bike
+247 0.6762048226688796 two people sitting at a table
+248 0.7381958705365872 a man and a woman on a stage
+249 0.6270395784942637 a woman speaking into a microphone
+250 0.6555564958882979 a lake with many of ducks
+251 0.9972766364193988 the night sky
+252 0.7450494524420306 a group of people walking down the street
+253 0.5902293191575693 a man running down the street
+254 0.9004713122265436 a woman sitting at a desk
+255 0.16473594315878037 two people climbing up a mountain
+256 0.20761137650443218 a red bag sitting on a table
+257 0.5521370071041917 a person in the water
+258 0.7065700062194281 two people sitting on a table
+259 0.11076999216088013 a little boy playing with a toy
+260 0.8475373096558091 some plants in a greenhouse
+261 0.6329533330604246 a person shoveling in the snow
+262 0.5457851780530597 people playing a game of fr
+263 0.057808989760307794 a person flying a kite on the beach
+264 0.46304260628642535 a person walking down the stairs
+265 0.46752442717273435 a man in a suit standing in front of a crowd
+266 0.8349162918945816 a group of people playing drums
+267 0.6123705087716766 a person on a crane
+268 0.47754268619464313 two people on bicycles doing tricks
+269 0.42565481648583026 a man with a beard talking to another man
+270 0.33171335373373123 a person taking a picture of a person
+271 0.004033174738733325 a man in a dark room
+272 0.8080189896852586 a man holding a baby in his arms
+273 0.2928987707037495 a surfer riding a wave
+274 0.7313646374485934 a wedding party
+275 0.3880836942167911 two babies playing on the floor
+276 0.09387506147661218 a group of people on the beach
+277 0.6689118415518022 a man standing on top of a tree
+278 0.48849217573589665 a child riding a horse
+279 0.29566864547368554 a basketball game in the gym
+280 0.3192224597562998 a man in a suit and tie
+281 0.06914717268871651 an antelope horn
+282 0.7508822100574207 a woman talking on a cell
+283 0.543163021659674 two women hugging each other women
+284 0.6354701161638213 a man fishing in the ocean
+285 0.8668367567531559 a person sitting on a couch
+286 0.8401008206897231 a group of people walking down a street
+287 0.32073281174640966 a person climbing a mountain
+288 0.8509318551231685 two men walking down the street
+289 0.6110876926714823 a group of planes flying in the sky
+290 0.3455048238472598 a woman walking on the beach
+291 0.2871447618284335 two people in a kitchen
+292 0.3256248273756902 a group of people in medieval costumes
+293 0.8225103690634705 a person and a dog on the beach
+294 0.3815457078768447 a group of people on a field
+295 0.8266007670348384 a crowd of people with their hands in the air
+296 0.28633846522206385 a person's hand on a typewriter
+297 0.9295917259827561 a group of people playing in the water
+298 0.9323982178470074 a little girl in a pink dress
+299 0.938412627512268 a man holding a microphone
+300 0.04174914829249565 two people on the beach
+301 0.14606260966190132 a person standing on a stage
+302 0.8385094065017995 a group of children sitting on a soccer field
+303 0.6110542670973164 a woman with a flower in her mouth
+304 0.8841583513946066 a person on a skateboard
+305 0.8041149846321047 a black record with a red light on it
+306 0.29493018205475885 a man and a woman standing in front of a door
+307 0.5940021409621438 a man standing in front of a stone structure
+308 0.7849786365314255 a man in a wrestling ring
+309 0.3762835257708643 a man wearing a mask playing the piano
+310 0.6665918273247772 a person standing in front of a fence
+311 0.6027985316770464 a bride and groom kissing in front of their wedding car
+312 0.754891654312476 a woman in a karate uniform
+313 0.33972057243876064 a man and woman standing in front of a sink
+314 0.9871371252861819 a woman sitting at a table
+315 0.515215484267935 a brown trout caught in the river
+316 0.6384122564785603 a man kneeling on the ground
+317 0.6983869731843 a person playing a keyboard
+318 0.19588179674349304 a man and woman dancing to music together
+319 0.6347694107814446 a man playing a cello
+320 0.36892315608454773 a door with a key on it
+321 0.549291666853264 two people camping in the woods
+322 0.5770663947284618 a man and woman sitting at a table
+323 0.9577560605584995 two people standing in front of a door
+324 0.16816491511348752 a man wearing sunglasses and a headband
+325 0.7736419295094504 a man painting on a wall
+326 0.6213699244276526 a soccer game being played in a stadium
+327 0.38446066810480883 a person on skis in the snow
+328 0.9321542892520052 a person standing on a dock
+329 0.17849791222570333 a crowd of people at a convention
+330 0.9556648912956213 a group of people holding up signs
+331 0.6116326931905539 some fish swimming in the ocean
+332 0.3405087579946554 a man walking next to a cow
+333 0.7701277890711211 a person holding a business card
+334 0.51823603322473 a man playing cards on a table
+335 0.25273151512165026 a person doing a trick on a skateboard
+336 0.6307122680325047 a group of people in a stadium
+337 0.15467193505506316 a young boy walking down the street
+338 0.6701273080938797 a couple dancing at a wedding
+339 0.658003890701468 a man sitting on a couch reading a book
+340 0.477070639101547 a pile of trash on the ground
+341 0.99879272132811 a group of people in a wrestling ring
+342 0.7938601326547906 a person laying on the ground in front of a fire
+343 0.01333356324440238 two men skating in a skate park
+344 0.07549299580705426 a man standing in front of a door
+345 0.9662424671023845 two people sitting at a table
+346 0.26574443138221693 some people playing a game of hockey
+347 0.6334095327964425 a group of people in a classroom
+348 0.804145855798715 birds flying in the sky, with music playing in the background
+349 0.4253218201374236 a person making a chocolate
+350 0.3377754437919568 two people in a kitchen
+351 0.380319935224796 a woman standing on a balcony
+352 0.685107658237759 a man standing in a doorway
+353 0.17997752867816996 a young boy carrying a basket
+354 0.5373204013432256 a person skiing down a mountain
+355 0.0704124792912234 two women talking to each other women
+356 0.25015978646564974 a man in a kay with a fish
+357 0.5077734577844439 a group of people making something
+358 0.6460349049157902 a cable going up the side of a mountain
+359 0.118508104894677 people in a swimming pool
+360 0.17026561963252307 a man in the back of a car
+361 0.894193518729414 a man in a rice field
+362 0.37203775690167407 a man in a leather jacket
+363 0.9498074952044805 a bird in the water, with music playing in the background
+364 0.7970600761947025 a man sitting in the back seat of a car
+365 0.25817505718254674 a bride and groom during their wedding ceremony
+366 0.11688395549927566 a man in a suit and tie
+367 0.9593786775482275 a man and woman sitting at a table
+368 0.14820355708251065 a building with many flags
+369 0.3283738346440954 some rocks in the water
+370 0.5110440496329552 a young girl with a smile on her face
+371 0.25682820567641274 a soccer game being played
+372 0.1573380023257832 a woman standing in front of a man
+373 0.02033283336488434 a man in a suit and tie
+374 0.13974959079906213 a man holding a flag on a golf course
+375 0.4693187801496673 a man playing a violin
+376 0.5326634197717822 a coffee pot on a table
+377 0.12153420882577026 two men standing in front of a glass door
+378 0.388998693868553 a group of people playing football on a football field
+379 0.7413420349299298 a person looking out an airplane window
+380 0.3266288125723339 a man working on a machine
+381 0.9527271611608227 two people walking through the jungle
+382 0.4627072586029831 a woman talking to another woman
+383 0.5652176294295158 a person riding a bike
+384 0.052797674286305885 a man sitting on a bench
+385 0.5138841498283833 a group of children in a classroom
+386 0.21266768049938822 a man speaking into a microphone
+387 0.5213505152385786 a man wearing a hat
+388 0.4536020788248961 a little girl wearing a chef's hat and holding a piece of bread
+389 0.19904117932513632 a man and woman in a recording studio
+390 0.6499098696111991 a person walking down the street
+391 0.3274271272876992 the sun setting over the mountains
+392 0.8552298633164206 a group of people in a field
+393 0.10225107597874383 a young boy standing in a hallway
+394 0.17214071838794354 a small insect being held by a person's hand
+395 0.7981747811823816 a person sleeping on a bed
+396 0.37269137828458376 two men on the side of a mountain
+397 0.10797959003316127 a lake with mountains in the background
+398 0.9062022797847575 a couple getting married
+399 0.12280687952393432 a person flying a parachute
+400 0.9924903755506564 two little girls playing with a stuffed animal
+401 0.32266764914567725 a group of people riding bikes
+402 0.8987766233965935 a man wearing headphones
+403 0.15200725729127373 a woman walking down a path
+404 0.6793425395392872 a woman in a yellow dress dancing to music
+405 0.9848856441113081 a man and a woman sitting at a table
+406 0.21754698911319126 a woman standing in front of a coffee machine
+407 0.7890466684021055 some animals in a zoo
+408 0.19667210116418166 a white column in a room
+409 0.3453592504669778 a person cutting food on a cutting board
+410 0.9947785380565227 a person holding a sign
+411 0.6283115382237512 a football game being played
+412 0.446201198509679 a race car in the air
+413 0.7528143236429589 a man in a white shirt
+414 0.7922456768121442 some rocks and rocks with the words side vibes
+415 0.8515672945221102 the inside of a building
+416 0.5232148673048689 a woman sitting in a room
+417 0.13789155862968772 a man playing a guitar
+418 0.1085641117812629 a person playing poker
+419 0.6262189972067322 two people in a room
+420 0.2202772429871228 a firefighter standing in front of a fire truck
+421 0.53377776994601 a person holding a basket of potatoes
+422 0.3711603484847241 a woman in a white sweater
+423 0.30788708427487976 a group of people on a stage
+424 0.00333225857283892 a man working in a sewing studio
+425 0.7474029378480966 a woman in a bikini running on the beach
+426 0.6650214999188583 a man running on a track
+427 0.5343381040478632 a crowd of people in santa hats
+428 0.44938437553342436 a person wearing a hat and sunglasses
+429 0.6571365122559085 a man playing a guitar
+430 0.1614253942516729 a person opening a box
+431 0.6430597573943175 a man playing yoyo ball
+432 0.7174581356490102 a group of people walking down a street
+433 0.8110536170615549 a woman with a flower in her hair
+434 0.8096888506353568 a group of people in a restaurant
+435 0.9321308179549106 a snow machine in the snow
+436 0.4279894030351945 a dog playing with a ball
+437 0.2897213510281813 a person walking out of a door
+438 0.12510522926474854 a man in a black shirt and a man in a black hoodie
+439 0.31276651102323727 a man with glasses and a green shirt
+440 0.1598853726430115 a group of men playing a game of cricket
+441 0.20253959346999972 a man standing in front of a whiteboard
+442 0.5612972690889073 a baby bird, with music playing in the background
+443 0.13108915164710544 a man in suspends holding a tablet
+444 0.8664901933080225 a dirt bike race
+445 0.9804509845269659 a young man in a striped shirt
+446 0.45554340727338305 a man pouring milk into a blender
+447 0.20257284010902055 a person jumping into a river
+448 0.9814485863090022 a group of people in a crowd
+449 0.6947395860407285 a woman in a wedding dress
+450 0.47824596798376806 a woman sitting at a table in front of a tv screen
+451 0.568782442831872 a woman holding up a pair of sunglasses
+452 0.7429524191723194 some wine bottles and bags on a shelf
+453 0.5422596073361385 a man in yellow shirt talking
+454 0.022413765232229932 a tractor in the middle of a field
+455 0.354772818035774 a man standing on a red carpet
+456 0.30642215937192663 two people standing behind a fence
+457 0.5534516508628903 a woman on stage with a guitar
+458 0.3977178434747227 a hallway with graffiti on the walls
+459 0.11071058124730149 a crowd of people walking down a street
+460 0.4169039056664118 a person sitting in a room
+461 0.6052675004161647 a person riding a quad
+462 0.5732187592017488 two men working on a wall
+463 0.6878501496706735 a group of people playing in the sand
+464 0.21252180463675274 a group of people walking down the street
+465 0.23007128348063832 a man working on a piece of paper
+466 0.46682741210273593 a group of people playing basketball
+467 0.6817718951943149 a man and woman in a room
+468 0.26064217669386414 two men sitting at a table
+469 0.7567319784686648 a branch, with music playing in the background
+470 0.4146384203114363 a couple kissing in the street
+471 0.7427475882856324 a man and a woman in the woods
+472 0.03513753769030792 a duck swimming in the water
+473 0.8696628362978431 a person holding a paper flower
+474 0.461481213203464 a lion in a field
+475 0.8835925918481187 a baby laying in a net
+476 0.18268532234145773 people walking down a street at night
+477 0.4073635638594484 a man standing on a stage
+478 0.7792287611029869 a woman standing in front of a table
+479 0.0001255206055150726 a bride and groom on a boat
+480 0.957259469124334 a person riding a bike at night
+481 0.45548635931460935 two people talking to each other person
+482 0.14519743915128414 a shirtless man in front of a mirror
+483 0.978399937084192 a man and woman kissing in a field
+484 0.9756442396376904 a man and woman walking down a path
+485 0.12844610063116924 two men in a room
+486 0.22189108464601637 two people looking at a child painting
+487 0.7667202756483045 a little girl looking at a cat
+488 0.8950662398451635 a man holding a bottle of beer
+489 0.3264997095575529 a man playing a video game
+490 0.8267957119313715 a man driving a car
+491 0.28850034371406164 a statue in front of a building
+492 0.9809161563740224 a person walking through a field
+493 0.12283307479603733 a man and a woman on a stage
+494 0.29845800513843046 buddha statues inside of a cave
+495 0.552916821699199 a woman walking in an office
+496 0.412393186888513 a man wearing a helmet
+497 0.5594665919518852 a van parked in the woods
+498 0.5371568405056973 a group of people on a hill
+499 0.4484833346778486 two people sitting at a table
+500 0.007165729021681777 a young girl standing in the desert
+501 0.8337164898107936 two boxers in a boxing ring
+502 0.8185499816330254 a person's hand on a keyboard
+503 0.31136634839838484 a man holding a piece of food
+504 0.9309112539953485 people skiing down a hill
+505 0.09839254999920521 a woman sitting at a table
+506 0.4125079355457715 a man with headphones on
+507 0.6493410217416118 a young boy holding a gun
+508 0.10160596652918996 a woman and a dog in a living room
+509 0.13483956950492626 a table and chairs on a dock
+510 0.30478450056501305 a group of people playing soccer
+511 0.36621468748531794 a man playing drums in the dark
+512 0.31500324168958116 a polar bear climbing a rock
+513 0.9436445849331584 a shirtless man in the dark
+514 0.45592596408746877 a man leaning on a tree
+515 0.7620080899254197 a woman standing in the woods
+516 0.8630181189167857 two men standing in front of a house
+517 0.2812563733441359 a person standing on a hill
+518 0.46340863652056685 a wedding on the beach
+519 0.7618304379288131 a woman riding on the back of a car
+520 0.9743827790544529 a woman sitting on a chair
+521 0.9526842628428437 a man looking at a clock
+522 0.6936985995698691 a woman looking at her phone
+523 0.3833556170847696 a man in a suit walking down a hallway
+524 0.4383990712964232 a group of people in a classroom 
+525 0.13184798096578265 a person walking down the street
+526 0.1809818681006612 a man in a suit standing next to a car
+527 0.4415517982056849 a woman wearing a hat
+528 0.6171150876016165 a person riding a bike
+529 0.38914258174183325 a man in a blue shirt sitting at a table
+530 0.4353527200355449 a man walking down a stairwell way
+531 0.12407438602720477 a group of people standing in a field
+532 0.97195872193962 two men sitting at a table
+533 0.5701360384281767 two men in a bar
+534 0.4420603342647129 a man in a blue shirt and a man in a black shirt standing next to
+535 0.8395719913310741 a crowd of people walking down a street
+536 0.7611079478387738 a woman in a red shirt
+537 0.8952460339652702 a man and a woman
+538 0.20362213922329175 a person walking down a road
+539 0.851487395464887 a person riding a bike in front of a waterfall
+540 0.5841078530233732 a woman carrying a surfboard
+541 0.10524244980864816 a woman sitting on a bench
+542 0.22102355677585206 a man driving a car
+543 0.612887645597548 a rock in the ground
+544 0.2141289063019971 a man playing piano
+545 0.053585047079249826 a man sitting on a toilet
+546 0.6445626320354841 two meerkats playing in the sand
+547 0.8477026392979637 two people riding bikes in the woods
+548 0.34925274598729106 a person sitting on the floor
+549 0.7736929662638917 a man sitting on a bench
+550 0.32973770527342405 a group of people on a boat
+551 0.7466079719545152 a man with a gun in his hand
+552 0.45923726737661685 a man standing in front of a camera
+553 0.6954370136351813 a woman in a headscar
+554 0.6949303684338164 a man standing next to a chair
+555 0.14745797191886179 a man holding a fish
+556 0.3025925220319102 a group of people rafting in the water
+557 0.11272015725310758 a man in a suit and tie
+558 0.41183065121201945 a person walking in front of a fountain
+559 0.567578935888863 a man talking on a phone
+560 0.38038748375388454 a man with a watch on his wrist
+561 0.7171764994301596 a man and woman selling bread
+562 0.6051287455218821 a man standing in front of a painting
+563 0.48414418896770495 a tennis match
+564 0.23175671599991388 a woman in a library
+565 0.9631802042112455 an old city with mosques
+566 0.3438238525365609 a man talking
+567 0.4111446602856339 a man boxing in a room
+568 0.49839061865155576 a man looking at a computer
+569 0.968522173892849 two people walking down a sidewalk
+570 0.28489051082921735 a dog standing in front of a house
+571 0.03697106400274164 a bride and groom walking down the aisle
+572 0.2281155938055438 a plate with a knife and fork
+573 0.534803058828611 a man sitting on the floor cutting leaves
+574 0.6105433831438967 a person walking down the street
+575 0.13527447370453327 a coffee pot being filled with liquid
+576 0.8498252876678023 a group of people eating at a restaurant
+577 0.7148775894047256 a car driving down a road
+578 0.38254638337188174 a man working on a computer
+579 0.21493187444753625 a person cutting a piece of paper
+580 0.6195636445251108 a man milking a cow
+581 0.34784429337509015 a person writing on a piece of paper
+582 0.03978780806624471 a group of women sitting on the ground
+583 0.8305146968162255 a green dress with purple flowers on it
+584 0.37105485402644556 a person standing in front of a window
+585 0.9065272358855531 a person standing in front of a window
+586 0.07350645580505621 some people playing soccer on a field
+587 0.7734011975009565 a group of men in yellow uniforms
+588 0.05586675728282242 a man painting on a wall
+589 0.8186825904419842 two people riding motorcycles on a road
+590 0.8851635148869588 a person walking down a street
+591 0.13437199662497645 a baby being fed by an adult
+592 0.38538654948880324 a woman painting on a wall
+593 0.8934711119848456 some fish swimming in the water
+594 0.7985017728945838 a young boy eating food
+595 0.6549368814764934 a tortois moving
+596 0.03812816980517819 a group of people sitting around a dinner table
+597 0.9663294857498402 a waterfall in the woods
+598 0.9572982185661951 two people walking down a hallway
+599 0.6902303005228888 a group of people sitting on a bus
+600 0.8184864482746725 a woman standing outside a house
+601 0.4124782157758662 two women sitting at a table
+602 0.9569516621757899 a man standing in front of a store
+603 0.590852841683017 a group of people dancing and singing in the dark
+604 0.15442355142670428 a person working on a piece of art
+605 0.5424889029984666 a naked man in a bar
+606 0.7870828949719854 people standing in the water
+607 0.7556847587351289 two women in a car
+608 0.006188706582425985 a person holding a cell
+609 0.8992391776722372 a person holding a guitar
+610 0.6010433862501715 two people playing with a dog
+611 0.22962235534192654 two people jumping in the air
+612 0.6295738606738566 a man standing in front of a camera
+613 0.5833177547487903 a woman blowing water on her face
+614 0.6544913702919737 two dogs in the snow
+615 0.771210882205755 a person walking out of a building
+616 0.6728361071339947 a man dancing in front of a mural
+617 0.8278459254581931 a person standing on a stage
+618 0.7628615527890984 a store filled with lots of candy
+619 0.2603293992058128 a conductor and orchestra
+620 0.783825982257608 a group of swans swimming in a lake
+621 0.12177413440331641 a man and a woman in a room
+622 0.06956116648870592 a group of people working in an office
+623 0.6845440097047331 a crowd of people at night time
+624 0.5967300988453645 two bottles of water in front of a window
+625 0.868719435298225 a man riding a skateboard down a road
+626 0.7747106743926688 two women standing next to each other women
+627 0.8197224051125434 two people walking down the street
+628 0.1209875966193168 a person surfing on a river
+629 0.8134811158465811 a bride and groom walking down a path
+630 0.8915484250913769 a woman walking through a market
+631 0.9852769869646628 a person standing next to a red wall
+632 0.613992695382848 a man in a military uniform
+633 0.4114268241135163 a group of people on a ski lift
+634 0.5241260798148115 a woman standing in front of a building
+635 0.5832252320329915 a woman with pink hair
+636 0.8331987290798508 a person working on a motorcycle
+637 0.3856563911471186 a woman wrestling with a man
+638 0.7109514933533272 a man sitting on the ground
+639 0.3109325722589217 a man in a wheelchair in a restaurant
+640 0.7169028740847807 two people in a field
+641 0.32688947495329357 a car with the hood open
+642 0.7102261660700336 a street with cars and buildings in the background
+643 0.19218074999025525 a woman in a field
+644 0.2520704654249758 a person on a parachute
+645 0.4240008096083113 jesus on the cross is being drawn by a man
+646 0.6099758638702762 a woman in a red jacket
+647 0.8398389733555817 a group of girls in tin tins
+648 0.1987921779279076 a man riding a skateboard down a street
+649 0.6798514533907923 a man and a woman sitting on top of a car
+650 0.5260651716350622 two men on the beach
+651 0.9022077668933344 a river in the middle of a city
+652 0.9263210824186169 a person standing on a brick wall
+653 0.017889418474255292 a man in a boxing ring
+654 0.9747835548785092 a tree at sunset
+655 0.42613562538873084 a person riding a bike in the woods
+656 0.07489525437226752 a boat traveling down a river
+657 0.7111434465841854 a group of people sitting around a table
+658 0.503059883747227 a group of people playing football
+659 0.8984794288765968 a woman talking to another woman
+660 0.1738357284635509 a man eating a piece of bread
+661 0.5086553765028842 a man cooking food on a stove
+662 0.762729478366434 a man holding his head in the middle of the road
+663 0.5534924774026444 a group of men playing guitars
+664 0.5968988996163656 a person drawing on a piece of paper
+665 0.8151624886781379 a herd of elephants in the wild
+666 0.955340476600985 a football game being played
+667 0.21608958074022822 a group of people in a tent
+668 0.11915638074201518 a wooden bridge in the woods
+669 0.7198130801766862 a train window with a view of the countryside
+670 0.7758538682681013 a car that is stuck in the sand
+671 0.8711738902115252 two people in a room
+672 0.19041129238743937 a car with a hose attached to it
+673 0.5987395950611231 a spaceship flying through space
+674 0.47710682207181876 a group of people riding motorcycles
+675 0.7248238510995302 a man loading a bag of luggage
+676 0.5683729309759882 a group of people practicing karate
+677 0.08403111905913219 a group of people skiing
+678 0.37186403067437857 a man playing a guitar
+679 0.6319209475634131 a group of people at a party
+680 0.5028499705041815 a person walking through a tunnel
+681 0.7507423492904084 a group of people on stage
+682 0.5495862890945423 a person riding a skateboard
+683 0.823235398701233 a person using a grate
+684 0.6328848643780817 a man standing on a stage
+685 0.308474022597483 a group of people standing on top of a hill
+686 0.6836470405717874 a group of people in a field
+687 0.5872221805723997 a room with a desk and chairs
+688 0.8143895600019391 a person on a surf board
+689 0.5543205604760771 a person on a skateboard in the dark
+690 0.32865697860012033 a man balancing on a tight rope
+691 0.12590743820242112 a man playing a guitar
+692 0.8834010397825197 a band playing on the street
+693 0.34257752579404444 a woman sitting in a chair
+694 0.027846900251545348 a person standing next to a car
+695 0.1595536724783484 a person climbing in a cave
+696 0.953520102116843 horses running in a field
+697 0.03357561081351945 a person on a stage
+698 0.9037011141822195 a couple with a tree
+699 0.35400240410893435 a man sitting at a table with a laptop
+700 0.9678499860248457 a dirt bike race
+701 0.5223058175285017 a man and woman in a field
+702 0.4102401049378205 a couple kissing in the park
+703 0.8315943131038964 a baseball game
+704 0.19042188288138517 some people at an airport
+705 0.48867221399908545 a man standing in front of a wall
+706 0.5299826814946738 snow covered trees in the mountains
+707 0.42716432161648366 a truck parked in front of a building
+708 0.38134802192681705 an old man holding a book
+709 0.8800875069268022 a woman walking through a library
+710 0.19335751395072776 a person jumping in the air
+711 0.4108575021107589 a man standing on a stage in front of a crowd
+712 0.9031212403776946 a person walking across a puddle
+713 0.26345112652953606 a person holding a bowl of food
+714 0.7509103132790064 a couple kissing on the street
+715 0.07874259447941778 a man holding a sign
+716 0.6508880240092235 a group of people at a party
+717 0.9980480871048788 two police officers talking to each other officers
+718 0.596223278443763 a person holding a gun
+719 0.27415032788635674 a woman sitting on a couch
+720 0.49565598772175445 a person riding a bike in the woods
+721 0.31741832641513645 two men wrestling in a ring
+722 0.5717535439788556 a person walking down a street
+723 0.3156511576830121 a man on a hammock
+724 0.4812950892703953 a person riding a bike
+725 0.1310105032499267 a person standing in the dark
+726 0.2354172991953981 a plant in a plastic container
+727 0.16052212689982126 a woman talking to a man
+728 0.3722325933930125 a man holding a camera
+729 0.6338533575800236 a man playing cricket in a field
+730 0.03825600757228942 two people walking down the street at night
+731 0.33970482398764357 a small plane on the grass
+732 0.2136070065876161 a boat with people on it
+733 0.08819384975514966 two people on stage with microphones
+734 0.6338756508074483 the wreckage of a plane that crashed in a crash
+735 0.5560428436915728 a woman playing a dj
+736 0.27660348885431696 drawing a santa claus
+737 0.2512890459768765 a person sitting at a table in the dark
+738 0.8928809416952305 a person standing in a room
+739 0.5474642562961761 a baseball player on the field
+740 0.30753935363496065 a woman standing in a room
+741 0.14604055288172646 a person riding a bike
+742 0.42615060044611064 a man and woman looking at a laptop
+743 0.742291458737609 a woman standing on a rock near a river
+744 0.5373210820729948 a man with his head on the ground
+745 0.1524199926171863 two people on the beach
+746 0.9108241653583258 a group of people on stage
+747 0.5242790336848174 a group of people in a room
+748 0.8645243524823629 two men on a boat holding a large fish
+749 0.09099062756676723 a person crossing a street
+750 0.6605202463739903 a room with a cat on the floor
+751 0.6761789912535944 two men sitting in front of a book shelf
+752 0.000956585815250266 two children playing in a stream
+753 0.697667231645517 a person standing in front of a sign
+754 0.7773642422290347 a woman getting into a car
+755 0.4457763887951848 a young man in a red shirt
+756 0.5767651969350764 a group of people at a party
+757 0.197686515685077 a seagul on the beach
+758 0.24462885856274774 two men working in a factory
+759 0.7349839624456082 a bride and groom during a wedding ceremony
+760 0.8062767258248564 a person playing a guitar
+761 0.918667585683629 two women sitting at a table
+762 0.9653342155459939 a group of men dancing on stage
+763 0.6640685893657035 a couple dancing at a wedding to music
+764 0.8127259107112484 an old car in a garage
+765 0.17150508471961423 a woman with a microphone in front of flowers
+766 0.38392181092256816 a woman holding a picture of a boy
+767 0.5204699621566669 a group of people playing instruments
+768 0.9964613407553005 a football game being played
+769 0.7034122183975267 people walking down a hallway
+770 0.9068209089482836 a parking filled with cars
+771 0.24415310686997704 a building that has been destroyed
+772 0.6096167879593684 a group of people on a stage
+773 0.15759090909757034 a person making food in a bowl
+774 0.27019807234930004 a woman playing a violin
+775 0.5367572115759117 a person in a school bus
+776 0.49400552552047594 a person diving in a pool
+777 0.04253213351933438 a person riding a bike
+778 0.2505170215934316 a man and woman sitting in the back seat of a car
+779 0.6498951865723216 a man in a suit and tie sitting on top of a pile of books
+780 0.07976248764970795 a giant elephant being lifted by a crane
+781 0.7532783783344525 a man holding a pair of scissors
+782 0.051222415579486036 a man taking a picture of a woman
+783 0.6904141271444366 a group of horses running in a field
+784 0.9772460808434731 a person standing in a room
+785 0.8210987929736333 a little girl in a blue dress
+786 0.11350567291335956 a group of people standing in a room
+787 0.8895387348664754 a wedding party in a church
+788 0.22488980689112525 a man holding a fish
+789 0.9449537791439161 a man standing in a field
+790 0.1131921659748032 a person in the desert
+791 0.07783641832027377 two people sitting at a table
+792 0.5349904507287204 a group of people sitting around a pool
+793 0.889694534922629 a concert with people in the background
+794 0.6999585073550629 a group of children in a classroom
+795 0.4272451211258458 a group of people sitting on the floor
+796 0.033408568957048024 a baby swimming in a lake
+797 0.8551894357334114 two men standing in a room
+798 0.9398589138237504 a woman standing in front of a computer
+799 0.36851027262252445 a group of people walking down a street
+800 0.7440368699531766 a group of people at a party
+801 0.5170203538130606 two children sitting in front of a fireplace
+802 0.5287283690672995 people in a boat on the water
+803 0.5508154196079752 a man eating a bowl of cereal
+804 0.9513841139729025 a man and woman getting into a car
+805 0.28903501637093687 a cat sitting on a chair in front of a mirror
+806 0.0890702955047944 a skateboarder doing a trick
+807 0.4303059443971159 people riding motorcycles down a street
+808 0.981027595089043 a man singing into a microphone
+809 0.4950054884981918 a man walking down a staircase at night
+810 0.15209293642327848 a woman taking a picture of a man
+811 0.34469520026973066 a woman standing in a room
+812 0.8955562417406915 a group of people standing in front of a building
+813 0.8666254674220204 two people sitting at a table
+814 0.1317668845639801 two men working on a piece of wood
+815 0.8572388544430968 a man and woman in a park
+816 0.8967885084168673 a tractor that is in the dirt
+817 0.15131334665366758 a woman standing in front of a window
+818 0.45512567492180833 two people standing next to each other person
+819 0.4168208496239234 a man in a suit and tie holding a soccer ball
+820 0.43930351223789643 a group of people playing instruments
+821 0.09158000867442684 a group of men playing soccer
+822 0.1319977018432804 a white car parked on the street
+823 0.7082905680577279 people walking down the street
+824 0.48980674683434433 a man in a skate park
+825 0.20041703835496238 a woman in a blue dress
+826 0.8183276086754069 a group of people in a room
+827 0.8026758723982457 a man sitting on the ground
+828 0.34938073493849253 a man on a climbing wall
+829 0.038904275267116595 a woman playing a cello
+830 0.4205444743657961 a group of people sitting in chairs
+831 0.779695995612577 a woman standing in front of a wall
+832 0.3748122830078563 a bride and groom
+833 0.4219049454080688 a man playing a guitar in the dark
+834 0.19915959451247256 a group of police officers walking down a street
+835 0.7945803594374541 a person on a skateboard
+836 0.5985611849190335 a group of people standing in front of a store
+837 0.9052694207030703 a man in a suit talking to a woman
+838 0.6889094622692552 a man in a plaid shirt and some people
+839 0.2861884090802075 two people sitting on top of a car
+840 0.245587912970894 a lion cub playing with a ball
+841 0.8735015019451017 a balcony with a table and chairs
+842 0.13580684023713374 two people sitting at a table
+843 0.12379751218843049 a man sitting on a boat
+844 0.2897216787408251 a little girl being held by her father
+845 0.5551423791949907 a man working on a motorcycle
+846 0.6448301595512979 a man playing a guitar
+847 0.2719721391831992 a woman dancing in the desert
+848 0.953988817002818 a woman and a man sitting on a couch
+849 0.23923030075245066 two people on a boat in the water
+850 0.9725915976478888 a truck with smoke coming out of it
+851 0.33237281622711123 a man and woman cooking food
+852 0.24063200211715496 a person in a room
+853 0.178028246036542 a stream in the woods
+854 0.3969162057269996 a group of people sitting in a room
+855 0.947746530210672 a person walking down a street at night
+856 0.9490212209285515 a person holding a golf put
+857 0.33275201304532953 a pot with a fire in it
+858 0.5107534078584341 two men in suits talking
+859 0.8507073619043214 a woman climbing a mountain
+860 0.051536784045782436 a man with a hammer in his hand
+861 0.8243337765298802 a man standing in front of a house
+862 0.1317535328499766 a black bear eating a piece of meat
+863 0.014870320519656421 a man walking down the street
+864 0.1919276303769092 a group of women dancing in a street
+865 0.8142561617749917 a man giving a presentation
+866 0.4860983537868231 a man sitting in front of a computer
+867 0.6968463925007178 a man putting food into a microwave
+868 0.16642297406990147 a boy holding a red heart
+869 0.17193275840140365 a group of people in the snow
+870 0.4851861505454934 a dog with a red heart on it's face
+871 0.09432933145630751 a person running in the snow
+872 0.25539971093185543 a man standing on a tennis court
+873 0.06146129074244111 a person holding a piece of wood
+874 0.33414653512479087 a man working on a bike
+875 0.12313370994943029 a room with a guitar in it
+876 0.7761947698483489 a man in a white shirt and tie
+877 0.5815145394937873 a room with a plant in it
+878 0.5486606374491158 a man standing outside of a house at night
+879 0.38778444002937296 a man in the cockpit of a plane
+880 0.45886781929609377 a man standing on a ladder
+881 0.3064490093231379 a person standing in a room
+882 0.31809946340067474 a man with a surprised look on his face
+883 0.08646106674128573 a group of chicks in a cage
+884 0.6193413938107839 a man standing in front of a mirror
+885 0.04478129420955346 two people walking across a bridge
+886 0.0871377743458257 a man and woman walking down the street
+887 0.6697298145049168 a person standing on a wall
+888 0.09748798535124581 a person standing in front of a mirror ball
+889 0.152549888916384 a man walking down the stairs
+890 0.9053107763940316 a woman standing in the rain
+891 0.0693950906418167 a man with a knife in his hand
+892 0.11240621802147122 a woman standing on the side of a hill
+893 0.10222737064081289 a crowd of people walking down a street
+894 0.6386006395964642 a group of women in sari sar
+895 0.6458045546474549 a person driving in the rain
+896 0.7576738139967669 a group of people walking through a building
+897 0.17757467227843804 two men in the back seat of a car
+898 0.7381912160638069 a band playing on stage
+899 0.4259853085952441 a man sitting in a chair holding a cat
+900 0.46834811065552406 a group of people playing a game
+901 0.7135464697617192 a man and a woman talking to each other people
+902 0.45241980321448694 a woman in a black dress singing in front of a piano
+903 0.38974995805577184 a woman is on a table
+904 0.2775376461978102 a woman wearing glasses and a hat
+905 0.32677966562949456 a group of kids playing basketball
+906 0.43065677153048953 a man and woman sitting on a lawn
+907 0.14374492002023798 a person standing in front of lockers
+908 0.5290981794866982 a man in a suit standing in front of a window
+909 0.10444902023248037 a person holding a cell
+910 0.25170977939514316 a man holding a flower in front of a window
+911 0.7648888940722147 a hot air balloon flying in the sky
+912 0.7991499813238523 two men holding an award
+913 0.7612135148607531 a processor being held by a man
+914 0.42531632868968794 a group of people in a crowd
+915 0.48792494887808335 a person climbing on a mountain
+916 0.030633921061951286 a snowboarder doing a trick
+917 0.36933436503937256 a red car driving down the street
+918 0.5920642376550731 a man standing in front of a wall with pictures on it
+919 0.9856691084255738 a woman talking to another woman
+920 0.030027362317445405 a person surfing in the ocean
+921 0.2586188069209878 a man kissing a woman
+922 0.6970444182290197 a person standing on top of a mountain
+923 0.413772927188502 a bride and groom at their wedding
+924 0.23364099714455122 a woman cleaning a bathroom
+925 0.9936655549259171 two people walking in front of a building
+926 0.9419344904554477 a man in a room with many pictures on the wall
+927 0.9307984956599598 a man walking down a sidewalk
+928 0.6884352956170151 a man working on a wall
+929 0.2413116563096508 people riding on a subway train
+930 0.8724513717189405 a woman with long brown hair
+931 0.013525303185268789 a dog eating food out of a bowl
+932 0.16077229007364524 a person in a grocery aisle
+933 0.06472285750536222 a group of people standing in the snow
+934 0.5298897516020495 a black panther in the wild
+935 0.7008027388831789 a person walking on the beach
+936 0.1590754843892509 a group of people standing in front of a car
+937 0.8814125574321064 a man working on a piece of wood
+938 0.5726566247842192 a man talking on a cell phone
+939 0.9768693848355635 a small town on the water
+940 0.5468096725537634 a skateboarder doing tricks
+941 0.06319506888951854 a person skiing down a mountain
+942 0.11145637546855447 a wedding dress on a tractor
+943 0.02600861498163165 a dead tree in a book
+944 0.0770476036712252 a man talking beside a shelf
+945 0.7916401542185288 a man holding an umbrella
+946 0.7523188045321176 a young boy running down the street
+947 0.8877913303489796 a boat in the water
+948 0.022663607180731793 a woman sitting on a chair in a living room
+949 0.35912827755399246 a person in a canoe
+950 0.16477677386665213 two hands working on a piece of wood
+951 0.493367128521352 a man in a room with wooden floors
+952 0.17448790791164992 a bride and groom cutting their wedding cake
+953 0.767158108254944 a man in a yellow shirt
+954 0.6175760899071603 chickens in a chicken coop
+955 0.7053287315661505 a group of people playing basketball
+956 0.7583388724870472 a man in a helicopter
+957 0.05826796156234182 some people at a conference
+958 0.7729267571430526 a group of people at a party
+959 0.7876173326975555 a man standing in front of a table with shoes on it
+960 0.6018493971845127 a group of people sitting in front of a screen
+961 0.11493388106597902 two men sitting on a couch playing guitars
+962 0.3071301583345377 a man playing a piano in a dark room
+963 0.11818950007775753 a woman sitting in the cockpit of a plane
+964 0.5598212742087104 a girl talking on a cell
+965 0.06422297607837302 a car driving down the street
+966 0.6124715259973142 a pile of crumpled paper in a park
+967 0.47013153061799806 a black hole in the sky
+968 0.34029831669296884 various makeup products on a table
+969 0.5168442532004045 a man and woman standing in front of a building
+970 0.5861130208110709 a person walking through a tunnel
+971 0.09163058093580057 a dirt bike track
+972 0.747771301718575 a person walking down a hallway
+973 0.0329390466195113 two birds in the mud
+974 0.35044318168504884 a man and a woman kissing in a library
+975 0.9118258126442517 a person holding a turntable
+976 0.8827896201717974 a person in a boat on a river
+977 0.03949055371997234 a group of people on a bus
+978 0.7269283447227315 a person standing in front of a fence
+979 0.969266231769437 a dolphin swimming in the ocean
+980 0.48265278309847315 a woman sitting under a tree
+981 0.28474140612827537 a group of people walking down the street
+982 0.7828901909483651 a waterfall in the woods
+983 0.2768544397647227 a group of people sitting around a table
+984 0.3130260860661135 a man walking down a bridge
+985 0.8562195833860838 a group of people standing in front of a building
+986 0.8908437407651767 a woman in a red jacket standing on rocks
+987 0.23697841104770523 a group of people sitting outside a restaurant
+988 0.46867100155289054 a person removing a garbage bag
+989 0.9522088667366271 a woman climbing up a mountain
+990 0.939552854181914 a group of people shaking hands in a room
+991 0.9067496562855147 a person digging a piece of wood
+992 0.49479388942783675 a man holding a cell phone
+993 0.8520309025837545 a white board
+994 0.6012275908574867 a man playing a guitar
+995 0.8954330396630139 a man riding a bike at night
+996 0.6564135722847548 a person standing in the dark
+997 0.9163406593213578 a woman writing on the side of a car
+998 0.07232676978846675 a person climbing on a rock
+999 0.5809895618715415 a little boy playing with a penguin
+1000 0.4034815167616007 a person skating on an ice rink
+1001 0.679383759570507 a person parading in the snow
+1002 0.06261013340678068 a dog standing in front of a group of people
+1003 0.9931016939306375 a man driving a golf cart
+1004 0.2804836600087818 a man sitting in front of a tv
+1005 0.6400358310017901 a flock of birds in the water
+1006 0.1866934722618342 a girl in a pink dress and a man in a white shirt
+1007 0.8159698417873749 a person on a screen in a room
+1008 0.8649662205016125 a woman in a wedding dress
+1009 0.5606618752406115 a man climbing up a mountain
+1010 0.20778703993034375 a person in a red jacket and helmet
+1011 0.8049369094500103 a person painting on a wall
+1012 0.10830963160737361 a snowboarder doing a trick
+1013 0.6412019436054398 a boy standing on the street
+1014 0.9880045845648433 a skate park
+1015 0.2401119763845735 a woman standing in front of a mirror
+1016 0.2551200568455636 a woman running on a park bench
+1017 0.49776819586666643 a person standing on a dock
+1018 0.1600272464036302 a dining room with a table and chairs
+1019 0.40088200446161637 a person walking down a hallway
+1020 0.49255080035606946 a city street at night time
+1021 0.840428657920047 a man playing a saxophone
+1022 0.6466912769118839 a man and a woman walking down a hallway
+1023 0.4076774541656304 a pot of soup on a stove
+1024 0.13670828082683317 a crowd of people at a basketball game
+1025 0.9543428085561149 a person taking a picture of a space shuttle
+1026 0.16618396892261855 a man holding up a trophy
+1027 0.4384503822682756 a woman smoking a cigarette
+1028 0.7317575288792545 a man blowing a green balloon
+1029 0.3370904636291798 a man reading a book
+1030 0.9574858944060919 a woman in a red dress
+1031 0.15162030857524844 a man walking with a dog in front of a crowd
+1032 0.751705541264009 a man sitting at a desk
+1033 0.18324151670206756 a man sitting at a desk with headphones on
+1034 0.3669473923077925 some flowers in a garden
+1035 0.8189776509518781 a woman driving a car
+1036 0.9345257829821241 a yellow bird in a parking lot, with music playing in the background
+1037 0.2520136433088771 a person walking on the beach with a surfboard
+1038 0.4857929829839853 a person's hand opening a microwave door
+1039 0.9701263966763103 a machine in a factory
+1040 0.0027381194352038563 a woman and a child playing in a stream
+1041 0.38280937042899466 a man standing next to a statue
+1042 0.7722683756579714 a black cat looking at the camera
+1043 0.06133340699012402 a person sitting on the ground
+1044 0.8231002892846867 people waiting in an airport
+1045 0.8194687037022748 a person walking down the street
+1046 0.9596142045154795 a man standing in front of a tent
+1047 0.8358697076390755 a swimming pool with a blue sky in the background
+1048 0.3007042331070241 a man standing next to a horse
+1049 0.1273231308309044 two men playing instruments in a room
+1050 0.9264648403277013 a man and woman in traditional clothing
+1051 0.8130016543022184 a woman walking down the street
+1052 0.5392798579027397 a group of people playing in the snow
+1053 0.028836887686889745 a woman sitting on a bed
+1054 0.1621271639644759 a man in a police car
+1055 0.2640157959398344 a man in a suit writing in front of a mirror
+1056 0.6649403602632482 a person jumping on a bench
+1057 0.8191278580528626 some glass bottles with food inside
+1058 0.4430823766581571 a woman walking through the woods
+1059 0.22758629177686718 a man wearing a santa hat
+1060 0.33392293840815035 a man standing next to a car
+1061 0.8572542862332933 a person standing in a dark room
+1062 0.2988623178124854 a man in a red shirt sitting on a blue chair
+1063 0.7296991960898283 a person walking through a field
+1064 0.14720765446064232 a man riding a bike
+1065 0.7719001831204299 a group of people sitting in chairs
+1066 0.398119876814081 a man in a white shirt and a woman in a yellow dress
+1067 0.5757473458527187 a man laying on the ground in front of a building
+1068 0.646387259759661 a woman in an apple orchard
+1069 0.6550488893544102 a football game being played
+1070 0.7035631962981066 a race car on display
+1071 0.7599848872473561 a person cutting a piece of paper
+1072 0.8895200279660699 a man working on a boat
+1073 0.2799070555721086 a water fountain at night
+1074 0.7471269576639586 a dog on the ground, with music playing in the background
+1075 0.8084644785640516 a man standing in a messy room
+1076 0.5624143860639994 a skateboarder doing a trick
+1077 0.6393423017853701 an airplane that is on the ground
+1078 0.2905492004975534 a woman in a yellow hat
+1079 0.604473416168184 a man doing a trick on a skateboard
+1080 0.5773644035020231 a group of people holding irish flags
+1081 0.6358193697268931 a man throwing a ball
+1082 0.07940407344773948 a house in the middle of a village
+1083 0.8815469428960768 a man sitting in the back seat of a car
+1084 0.4611473317871859 a bird's nest in the woods, with music playing in the background
+1085 0.5579552141315355 a group of people walking down the street
+1086 0.3336551920309927 a person on a snowboard
+1087 0.8678333806499401 a woman holding a sparkle wand
+1088 0.007314436606425501 a person on a snowboard
+1089 0.6650071524449336 two women sitting in chairs talking
+1090 0.18463872026244244 a person holding a flower
+1091 0.8557635277440938 a man sitting on a couch
+1092 0.9441770663901597 a man cutting a tree
+1093 0.8821626437644163 a man and a woman playing an old radio
+1094 0.345268297086174 a person wearing a mask
+1095 0.25930929994635565 a group of people on a beach
+1096 0.5126018762217134 a person riding a motorcycle
+1097 0.454030945075361 a woman wearing a black hat
+1098 0.3228405080215955 a woman standing in front of a mirror
+1099 0.9806834771698595 a man with long hair and sunglasses
+1100 0.6312508100733192 a woman talking to a man on the street
+1101 0.17320426988704796 a wedding dress on display
+1102 0.13308591005687676 a person walking across a stream
+1103 0.8277071516040352 a person on a boat
+1104 0.6863648235211397 a group of people dressed as santas
+1105 0.4485835727179376 two men sitting on a couch
+1106 0.046414852374563664 a person walking down a path
+1107 0.09862761477741278 two people standing in front of a building
+1108 0.07350640698060373 two sharks swimming in the ocean
+1109 0.3977053157906335 two snowboarders
+1110 0.41206932737797997 a woman in a clothing store
+1111 0.4207396844244309 a man holding a phone
+1112 0.49690789571805116 a man driving a car in the dark
+1113 0.8181148976475051 a man standing in front of a desk
+1114 0.4315006793610614 a man in a car
+1115 0.4279745539314722 a mountain with snow on it
+1116 0.3036909110143031 a piece of paper with writing on it
+1117 0.7396133278228477 a skateboarder doing a trick
+1118 0.3286791769929621 a group of people riding bikes
+1119 0.889163490187018 a video player on a computer
+1120 0.7334594005286974 a group of people standing in a room
+1121 0.6797880907561388 a chair in the water
+1122 0.7488148231569881 a man in a blue shirt and suspends talking to another man in a blue
+1123 0.2242987912659895 a woman with blood on her face
+1124 0.1106002334948587 a man on a tram
+1125 0.7511528092648846 a person standing in a room
+1126 0.618768677912203 a man and a little girl in a store
+1127 0.7912462327727191 a room filled with mattresses
+1128 0.8631018350557286 a group of young women working on a laptop
+1129 0.5924635446179122 a man and woman sitting on a couch
+1130 0.6497958833412787 a truck that is on fire
+1131 0.3045234863865086 a person on a surf board
+1132 0.7320291332917082 a man in a room with a knife
+1133 0.3088733743182791 a group of children standing in front of a crowd
+1134 0.5880634355653216 a person sitting on a bench
+1135 0.17797244759234154 a group of people singing in a room
+1136 0.8200755362145811 a bear in the woods
+1137 0.5805867639055577 a woman walking on the beach
+1138 0.2836429171647461 a person cutting a piece of cake
+1139 0.9488358488488811 a swimming pool with palm trees in the background
+1140 0.2786566916239379 a man in a pool
+1141 0.7559713342589346 a bride and groom walking down the aisle
+1142 0.7749002709885905 a man in a suit and tie playing trumpet on the street
+1143 0.7883706087983947 two men fighting in a wrestling ring
+1144 0.4188607566818391 a woman holding a comb
+1145 0.15292173491642658 two women walking down a red carpet
+1146 0.8959451409997179 two men sitting on a train
+1147 0.9563463046552242 people playing soccer on a field
+1148 0.3857983385493958 some people playing volleyball in a gym
+1149 0.6358018638259116 a group of people on a stage
+1150 0.13691703924941412 two men working on a wooden structure
+1151 0.7615220154620499 a couple dancing on the dance floor at a wedding
+1152 0.9050215360939307 a bowling game being played
+1153 0.03910800653972013 a person on a surfboard in the water
+1154 0.12887827361983462 a room filled with beds
+1155 0.27004105490808905 a little girl in a purple dress
+1156 0.3362705060739364 sand dunes in the desert
+1157 0.8333553226956135 a person riding a mountain bike
+1158 0.2698437297509142 a group of people flying in the air
+1159 0.017478071620929292 an alligator in the water
+1160 0.4119841110792968 two women sitting at a table
+1161 0.2187808821534588 a dog swimming in a pool
+1162 0.4023734653721618 a man and woman kissing in a church
+1163 0.08016456857547627 a man and woman in a kitchen
+1164 0.6239714936572306 a person riding a bike in a field
+1165 0.4739922333746639 a person playing a video game
+1166 0.3282652956750318 a couple kissing in the dark
+1167 0.8264730267637066 a person writing on a piece of paper
+1168 0.5246434492541245 a woman playing a guitar
+1169 0.46261045400298106 a man standing in front of a door
+1170 0.3140069513084267 a model train on a table
+1171 0.9550506518129213 a man riding a skateboard
+1172 0.6709978113997898 a woman holding a flag
+1173 0.33138236130011833 a man in a green jacket
+1174 0.44121987553075803 a group of people on a stage
+1175 0.2650294452934703 a street scene with a police truck
+1176 0.8267549649320618 a woman holding a soccer ball
+1177 0.23575451170971062 a person sitting on a rock
+1178 0.2531382059580711 a man in a boat with a net
+1179 0.2951064804495518 a person on a skateboard
+1180 0.7841024355838059 a man working in a factory
+1181 0.6454550088893165 a man standing in front of a stone wall
+1182 0.5897917149251374 two people in a car
+1183 0.3672119709098888 a man standing in a field
+1184 0.9261425710667961 a man riding a bike down a ramp
+1185 0.49434419517530404 a uniform hanging on a window
+1186 0.3263254436911146 two women talking to each other woman
+1187 0.7029994335635981 a woman with a knife in her hand
+1188 0.8525323581856574 two men in a gold frame
+1189 0.5150299254997509 a person climbing up a rock
+1190 0.04675043838798454 a man and woman holding up their wedding rings
+1191 0.6241843510133268 a couple sitting on the steps
+1192 0.4469982526901819 a woman in a car
+1193 0.0047096659280636555 a bird eating, with music playing in the background
+1194 0.48712070497479787 a white wall with trees in the background
+1195 0.8813604332797319 a man sitting at a table
+1196 0.6805736559263288 some people dancing in a room
+1197 0.5148909278179328 a woman in a colorful dress
+1198 0.03752694455429395 a man working on a piece of wood
+1199 0.2194031871416673 a person wearing a hat and jacket
+1200 0.7726915738015611 a group of people standing on the side of a road
+1201 0.48692765084160106 a man walking down a street
+1202 0.03349648914311576 a group of women in blue dresses
+1203 0.1631860338847263 a man holding a fish
+1204 0.08363726866495735 a group of people walking down a hill
+1205 0.9076857051132813 a man and a child walking down a path
+1206 0.25041765378541003 a doctor talking to a patient
+1207 0.2567439532185364 a man in a lab
+1208 0.47989347756137346 a group of people on the beach
+1209 0.23637401172446282 a man in a yellow shirt
+1210 0.9956358170835402 a man standing in front of a camera
+1211 0.17118738140599976 a man standing in front of a building
+1212 0.8132011044220276 a man driving a car
+1213 0.5861856143483639 a man and a woman in a car
+1214 0.8155127316274674 a man walking down a hill
+1215 0.0933972479644245 a man with glasses on his face
+1216 0.2502621865971911 a man playing a guitar
+1217 0.7235778485802914 a woman ironing a shirt
+1218 0.6210176385229069 a group of people in a classroom
+1219 0.3481968288906634 a coffee machine
+1220 0.1482558776621905 a person riding a bike
+1221 0.7485093916804743 a man in a cowboy hat playing a guitar
+1222 0.2390681872334537 a group of people standing in the dark
+1223 0.41852753310738966 a group of people dancing in the street
+1224 0.28053952441238605 a person walking in the dark
+1225 0.5997981074543051 a man working in a garden
+1226 0.030194041435503194 a man putting a ring on a woman's finger
+1227 0.8279484938319892 a group of people at a wedding
+1228 0.3206458050046558 two men standing on a stage
+1229 0.06257546133128544 a woman kneeling on rocks in a river
+1230 0.686860847242333 a man standing in the middle of a dirt road
+1231 0.5850838958461316 a woman holding a cup of coffee
+1232 0.29915938942679043 two people in the desert
+1233 0.18467059945020792 a person pouring liquid into a pot
+1234 0.4746571054962053 a bridge in the jungle
+1235 0.32242796102978666 a group of people sitting on the floor
+1236 0.5313732099017703 a person cooking food on a grill
+1237 0.6663340465934011 a person skiing down a mountain
+1238 0.8693938244734042 a group of people in a field
+1239 0.14193734096049415 a man with glasses on
+1240 0.15770804197260158 a man doing tricks on a skateboard
+1241 0.950588139466801 a man sitting at a table
+1242 0.16013886707870162 a man getting his hair cut
+1243 0.8312076741959135 a group of people sitting on stairs
+1244 0.134731477862287 people walking down the street
+1245 0.6722046265669676 a band playing in front of a building
+1246 0.2704800358849674 a band performing on stage
+1247 0.8596327730846922 a man and a woman standing in a living room
+1248 0.3228142683720252 a person riding a bike down a street
+1249 0.7598347422691794 a man and a woman in a bathroom
+1250 0.5030348237459511 a man standing in a field
+1251 0.4279372764459968 a group of cows grazing in a field
+1252 0.07738112219630222 a horse being led by a crowd of people
+1253 0.8834039194809858 a group of people dancing around a fire
+1254 0.685908995811767 a school of fish in the ocean
+1255 0.9877147022190991 a man cooking food in a kitchen
+1256 0.4573726237699052 a person swimming in the water
+1257 0.8382925594865965 a man playing a guitar
+1258 0.15373714378165704 a man standing in a room
+1259 0.16405206763423863 people walking down the street
+1260 0.3774757360881932 a choir in a church
+1261 0.19366326746019713 a person sitting at a table
+1262 0.7715315648433988 a man walking down a narrow alley
+1263 0.39157226901029296 a tractor on the beach
+1264 0.7263726503617655 a person in a white veil
+1265 0.6010863305232478 a woman standing in the woods
+1266 0.8591087175612426 a man sitting on a bench next to a river
+1267 0.5154178505778607 a man water skiing
+1268 0.5434452132979617 a man standing in front of a waterfall
+1269 0.5076022028518662 a man standing in front of a camera
+1270 0.8089801623283867 a man talking to another man
+1271 0.8946142650404026 a person laying on the ground
+1272 0.2685226299577026 a man holding a camera in the woods
+1273 0.5540408410452179 a bird flying in the sky, with music playing in the background
+1274 0.25936467957359866 a group of women dancing to music
+1275 0.2906555899843847 two people riding horses in the snow
+1276 0.91845776704257 a man and a woman sitting on a couch
+1277 0.8898851168672721 a group of people standing in front of a building
+1278 0.4068773414040723 a man standing in front of a truck
+1279 0.8802298747194061 a man standing in front of a laptop
+1280 0.763919656978328 a person holding a sign
+1281 0.23004262942099063 people standing in front of a building
+1282 0.1491229056246376 a man standing in a room
+1283 0.6511245156837533 a man with a surprised look on his face
+1284 0.33592881059882285 a shoe in a glass case
+1285 0.3335424782806241 a woman underwater in the ocean
+1286 0.8905265608999426 a person standing on a bathroom floor
+1287 0.8264216748906077 a woman doing pio pi
+1288 0.6657910597657981 a dragonfly resting on a blade of grass
+1289 0.9585283097722487 a group of people walking down the street
+1290 0.04867677023975636 a person with their hands up in the air
+1291 0.5419477461068422 a group of women with babies dancing to music
+1292 0.5409798839713734 a group of people playing instruments
+1293 0.6533665141091871 a girl sitting on a tree branch reading a book
+1294 0.18736322173664932 a baby with glasses on
+1295 0.003161701726942967 a group of people sitting at a table
+1296 0.497627515610911 a man and a young boy playing with a toy
+1297 0.036955070803775025 the sky with clouds in it
+1298 0.7738091479132256 a man in a tuxedo
+1299 0.07215660998919571 a group of people on a bus
+1300 0.9851471199041625 people walking along a river
+1301 0.654768544725733 a group of snowboarders
+1302 0.8352337417529121 a group of people running up a hill
+1303 0.3525258222106884 a man in a room with a painting on the wall
+1304 0.1585075551775823 a person standing in a dark room
+1305 0.24193985225704062 a man holding an orange balloon
+1306 0.8529504603140052 a man standing at a podium
+1307 0.7751930050756688 a skateboarder doing tricks
+1308 0.7588691786606763 a man looking at paintings
+1309 0.8652148714892793 a man and woman walking on a hill
+1310 0.2588307503734938 a man getting his hair cut
+1311 0.25357707792367723 a man standing in a room
+1312 0.6633888975049455 a person on a snowboard in the snow
+1313 0.06504532104519722 a person in a classroom
+1314 0.19097777508519787 a group of people cooking outside
+1315 0.8761794104671609 some boats in the water
+1316 0.6427688576098642 a woman speaking at a podium
+1317 0.08722751437792964 two men dancing together to music
+1318 0.7334282066406792 a car parked in a parking lot
+1319 0.6514041973409161 a woman on the side of a building
+1320 0.6326977078253054 a man standing on top of a truck
+1321 0.8061421583961476 a bride and her bridesmaids
+1322 0.5355277340242338 two people standing in front of a fire
+1323 0.1260731023513756 a woman in a black dress and a man in a gray shirt
+1324 0.8789034054740478 a person riding a quad
+1325 0.25044538125738414 a bus and people walking down the street
+1326 0.8226015523258536 a city at night
+1327 0.07922128322486888 a man in a suit and tie
+1328 0.6272890875672739 a group of people at a dinner table
+1329 0.030091667845848935 two people sitting in the cockpit of a plane
+1330 0.351163828359469 a man on a screen
+1331 0.9737719102465519 a man in a boxing ring
+1332 0.848582654872352 a person riding a skateboard down a road
+1333 0.8050845398934234 a dog swimming in a lake
+1334 0.2592753288015097 a man sitting in a chair holding a sign
+1335 0.3586958315420359 two people walking in the rain
+1336 0.4699276120278073 a car driving down a mountain road
+1337 0.13285201758790066 two people sitting on a couch
+1338 0.5970300981035339 a person climbing on a wall
+1339 0.14010594418946565 a woman sitting at a table
+1340 0.6120371588758261 people in the water at a beach
+1341 0.43339661828284126 a christmas tree in the middle of a city
+1342 0.14352217649262444 a man standing in front of a group of people
+1343 0.7891671711335252 a man in a hat and sunglasses on the beach
+1344 0.15146189975561863 a man sitting on a rock near the ocean
+1345 0.9773281926622317 a group of people in white shirts
+1346 0.5288206442515017 a group of people dancing to music
+1347 0.9523655465535478 a man carrying a bag of vegetables
+1348 0.47928383202760316 a woman dancing on the dance floor
+1349 0.9821183579081582 a person riding a bike
+1350 0.12801147795791668 a man sitting on a couch
+1351 0.10982798797670956 a group of people in a building
+1352 0.12742920635438826 a woman walking in a train station
+1353 0.08200719106594967 two men sitting at a desk
+1354 0.8896446100836273 people riding horses in a field
+1355 0.10863872056197144 two people in a recording room
+1356 0.9044697876554264 a person sitting on a bench
+1357 0.9240758359604877 a man sitting on top of a pile of garbage
+1358 0.4929388321730592 a band playing on the street
+1359 0.8324178144400434 a man climbing up the side of a mountain
+1360 0.3503926244577189 a group of people sitting around a table
+1361 0.3652801568654347 a group of children
+1362 0.6827590635855568 a wrestling match in a large auditorium
+1363 0.6400389188528101 a group of children sitting around a table
+1364 0.04688365934363159 a man sitting in a chair
+1365 0.5534272656597435 a man walking down a street
+1366 0.8289839280549359 a soldier talking to a patient
+1367 0.3605791265657997 a man climbing on the side of a mountain
+1368 0.06633420942086588 a small town with people walking down the street
+1369 0.9581363263324278 a man playing golf
+1370 0.1204654535551124 a group of people dressed as clowns
+1371 0.2565213127342779 a group of people on a dance floor
+1372 0.5143180511209878 an old book with the words of the bible
+1373 0.80663357207516 a man in a wheelchair
+1374 0.8539518397804234 a man standing in front of a screen
+1375 0.3646516162771096 a group of people standing on a rock
+1376 0.588683594474472 a man talking to another man
+1377 0.3366276892580603 a group of people standing around a table
+1378 0.34896044747718336 a man holding a green light saber
+1379 0.685486298806034 a person holding a pressure gauge
+1380 0.15247111108878442 a person and a dog on the beach
+1381 0.4807327875177356 a group of people in a room
+1382 0.9692518619691306 a man playing a trumpet
+1383 0.3987477431653852 a man in a superhero costume
+1384 0.2692228482070005 a person sitting at a table
+1385 0.5505570488415337 a kite flying in the sky
+1386 0.7799158534170935 a person riding a bike down a mountain
+1387 0.32191731742516994 a road with the words'the road side '
+1388 0.7933933014139957 a building with a blue sky in the background
+1389 0.6408866679923263 a person drawing with colored pencils
+1390 0.10538645283777115 a crowd of people walking down the street
+1391 0.43382581143525367 a bee on a flower
+1392 0.36937146150464273 a train going down the tracks
+1393 0.32905111254775044 a person opening a door
+1394 0.4411183660840836 a group of people playing instruments
+1395 0.46734663629119344 a train traveling through the countryside
+1396 0.9177040428226918 a small object in the middle of a city
+1397 0.29290597309060473 a group of people on a bus
+1398 0.5524797807240276 a band performing on stage
+1399 0.5719416017723573 a person on a snowboard
+1400 0.7089819139361393 a man climbing up the side of a mountain
+1401 0.5824594349052828 a group of people holding awards
+1402 0.9399641802145796 a man and woman in a car
+1403 0.03938755105459202 two people standing in front of a statue
+1404 0.7763855861799157 a woman walking down a runway
+1405 0.11121160295037424 a person eating a plate of food
+1406 0.08704312348995669 a man passing a revolving door
+1407 0.2383900626079175 a man playing a guitar
+1408 0.038093590477227046 a man in the woods
+1409 0.6262233859248966 a man throwing a ball
+1410 0.1353715599159172 a group of people at a party
+1411 0.3609404602372085 a group of people holding signs
+1412 0.27409087794565323 a woman driving a car
+1413 0.18596453415898428 a woman with a union flag on her leg
+1414 0.7645242735889257 a man walking down the street
+1415 0.3626042933364404 a man walking through a market
+1416 0.7303124844973536 a person on a rock in the water
+1417 0.8610104232206828 a person sitting on the ground
+1418 0.836013563454435 a person opening a box of fruit
+1419 0.4625236029302966 a man in a white hat on stage
+1420 0.08037315335954864 a person parading in the mountains
+1421 0.5290563382052305 a man sitting at a table
+1422 0.4375588810300335 a green car in a showroom
+1423 0.528787579799406 a man sitting next to a mountain bike
+1424 0.2751167627034614 a boat in the water
+1425 0.5826765908344509 a man holding a fishing rod
+1426 0.9826107711093114 a city with lots of buildings
+1427 0.02627314032246053 a man standing on the side of a train
+1428 0.09977490607710637 a person holding a bowl of tomatoes
+1429 0.3336127944028704 a man and a woman in a garden
+1430 0.8835298603830807 a group of people walking down a street
+1431 0.542214223227923 a person climbing up a rock
+1432 0.6788355150766718 a group of people on a stage
+1433 0.6544159138504789 two people walking in the snow
+1434 0.8482040292089852 a person holding a piece of paper
+1435 0.9661509700133507 a man standing on a tree branch
+1436 0.5742032099776153 a man and woman dancing
+1437 0.44157037316917536 a man playing a guitar
+1438 0.31547463030568024 a woman holding a car key
+1439 0.07460734409814496 a river with people in it
+1440 0.6126040406378787 a man standing in a living room
+1441 0.8188429725195479 a man singing into a microphone
+1442 0.9135969243798443 three women sitting at a table
+1443 0.3297341369996236 a car driving through a tunnel
+1444 0.7363068527396076 a bride and groom cutting their wedding cake
+1445 0.3608438098978243 a swing by a lake
+1446 0.5079179334774544 a kite flying over a body of water
+1447 0.4541530856875001 a man and woman talking to each other people
+1448 0.619715104627608 a man sitting in front of a camera
+1449 0.7618867793706162 a person's hand on top of a drawing board
+1450 0.15560201776693827 a basketball court with people playing
+1451 0.23167344829483427 a man climbing on a rock wall
+1452 0.4800658291284784 a man sitting on the ground
+1453 0.2555951840289018 a group of people in a field
+1454 0.17250199493877238 a little girl playing the piano
+1455 0.4820703157748025 a man holding a book
+1456 0.16566635033024069 a man and a woman walking in front of a building
+1457 0.5907456579762206 a man in a suit and tie
+1458 0.16054960103460403 a person climbing on a rock
+1459 0.8040897865239441 a group of people dancing
+1460 0.8917556857171041 two people on a boat
+1461 0.7879770992227693 a woman playing the piano
+1462 0.4314434715553529 a man sitting on a couch holding a pillow
+1463 0.503477487736615 a woman dancing in the street
+1464 0.9125006498971232 two men in a bathroom
+1465 0.5445145145231434 a group of people setting up a tent
+1466 0.7955433437212021 a person sitting on a bench in the dark
+1467 0.36571589643484304 a man riding a bike on a street
+1468 0.779186942710038 a person laying on a couch
+1469 0.5587884496246861 a mountain with a group of deer, with music playing in the background
+1470 0.26242077856075763 a woman laying on the floor
+1471 0.025889216345471366 a man standing in front of a door
+1472 0.31774448270191424 a person on a basketball court
+1473 0.37394098082881344 a group of people on a boat
+1474 0.3243906166527971 a man standing in front of a curtain
+1475 0.7955786717404245 a woman in a boat on a lake
+1476 0.666523808409775 a group of people standing around a table
+1477 0.5504108776054919 a man standing in a living room
+1478 0.5186509623077229 a little boy standing on a balcony
+1479 0.48604126419203664 a person riding a bike
+1480 0.8641483614732186 a truck that is going down a hill
+1481 0.6943945534550209 a bride and groom getting married
+1482 0.9070509959412213 a man holding a surfboard
+1483 0.3265910415348122 a man standing in front of a counter
+1484 0.23644017670633255 a group of women dancing in a room
+1485 0.3996459869157296 a fan in the back of a car
+1486 0.7661906997833507 a man wearing glasses
+1487 0.7194762734958928 a person sitting at a table
+1488 0.9077583838720042 a group of turtles
+1489 0.0065922132556771595 a waterfall in the middle of a river
+1490 0.027075939130593918 a fire burning in a pile of rocks
+1491 0.7194287354589503 a young boy playing with a toy
+1492 0.9696645316365933 a man working on a laptop
+1493 0.5002266867824784 a man and a woman holding a red balloon
+1494 0.16126076470799344 a group of kids standing in a classroom
+1495 0.5138682973381549 a woman walking down the street
+1496 0.8227055215891277 people in a store
+1497 0.8868097495369646 a man and a little girl
+1498 0.6747185685780084 a child eating food at a table
+1499 0.2491355835972877 a woman with blonde hair
+1500 0.8001405399978231 two men standing in front of a door
+1501 0.26709222178519176 a group of people on motorcycles
+1502 0.9473898205344833 a person holding a spoon
+1503 0.8689668717029846 a group of people holding a red banner
+1504 0.9499376029340418 a man riding a bike in the woods
+1505 0.9431510255371027 two men playing a game
+1506 0.9995901732994243 a bride and her bridesmaids
+1507 0.6734145357921975 two men working on a bike
+1508 0.14596852946883565 a woman sitting on the ground
+1509 0.41109125314091555 a man getting into a car
+1510 0.21843618663072706 a person walking down a trail
+1511 0.6837498121836931 a man looking out of a window
+1512 0.31121779288288065 a group of people on a stage
+1513 0.14084069792522125 a woman dancing in a room
+1514 0.37130009789118734 a river in the woods
+1515 0.6214328631165662 a robot walking down the stairs
+1516 0.9891886654717078 a man walking through a hole in the sand
+1517 0.1832215053015287 a group of people standing in front of a wall
+1518 0.6912887222333289 a person cooking in a kitchen
+1519 0.49881292829017054 two people sitting on the ground
+1520 0.8187549785709959 a car parked on the side of the road
+1521 0.9982597000117133 a man playing a guitar
+1522 0.5543567283052822 a man with headphones in front of a microphone
+1523 0.866013975440939 two people sitting on a boat
+1524 0.08725000860429244 a group of people in the woods
+1525 0.5646512317634822 a woman holding a microphone
+1526 0.6033797120774119 two men standing on a stage
+1527 0.579329714565539 a fire in the middle of a field
+1528 0.16752584930284375 a person holding a bowl of food
+1529 0.48626215565280817 a bunch of beans and beans
+1530 0.735371681205932 a beach with a plane flying over it
+1531 0.1859033544388221 two men in tuxedo
+1532 0.735869761578113 a man standing in front of a crowd
+1533 0.43849957338045054 a person on a train track
+1534 0.5863530676370546 a group of people sitting around a table
+1535 0.06745777736134995 a bride hugging her friend on the dance floor
+1536 0.9679240757709198 a bottle with a liquid in it
+1537 0.9013173462844533 a man doing tricks on a skateboard
+1538 0.3860941178068864 a person cutting a piece of paper
+1539 0.8858098150582392 two men in uniform talking to each other men
+1540 0.37391596716947195 a man singing into a microphone
+1541 0.21214443474882194 a man playing guitar in a subway station
+1542 0.5726240273989842 a cat sitting on the floor
+1543 0.7499009435174306 a group of people on a stage
+1544 0.2512315690563205 a group of people running in a marathon
+1545 0.5860727191233673 a person standing in front of a yellow car
+1546 0.02767645114032946 three people in a swimming pool
+1547 0.8908505425462535 a person standing in front of a fire
+1548 0.800345826203621 two young girls playing basketball
+1549 0.4810792188686387 a man holding a picture of a woman
+1550 0.6811995429939086 a person walking down a wooden bridge
+1551 0.28897413860974197 a man wearing headphones in front of a microphone
+1552 0.6717098955203301 a person dressed as a clown
+1553 0.17449959724933928 a dog sitting on a rock in the water
+1554 0.39715685089322816 a man in a kitchen
+1555 0.8794721889587298 a person walking up a flight of stairs
+1556 0.3063068941782984 two people swimming in the water
+1557 0.3255870733731372 a group of people walking down a street at night
+1558 0.08599569518824601 two people walking on the sidewalk
+1559 0.36526286947334274 a man dancing in a room
+1560 0.8342792669477911 a man holding a glass of wine
+1561 0.435771235258972 a baby laying on a bed
+1562 0.6518407906717172 a person in a car
+1563 0.6267852442464059 a person flying in the sky
+1564 0.00934441533459951 a dog sitting on the floor
+1565 0.8887392244039706 a person holding a bird
+1566 0.12691251041673557 a woman walking down the street
+1567 0.6496959309075576 a man in a suit and tie dancing
+1568 0.4124140900707103 a crowd of people walking down the street
+1569 0.24033351672476566 a basketball game in a gym
+1570 0.981389415078378 two people sitting in the grass
+1571 0.4149698888843023 a group of people in a parade
+1572 0.62336781465696 a man playing guitar in a recording room
+1573 0.967066947935965 a child on a sler in the snow
+1574 0.3128284758809745 a woman with long black hair
+1575 0.6459614543669202 a person standing next to a chair
+1576 0.38600870829874867 a woman in a graduation gown
+1577 0.15664016397227887 a man looking at himself
+1578 0.9259543230524229 a man standing in front of a waterfall
+1579 0.1735670316844936 a man climbing on a cliff
+1580 0.4688769281883717 a group of people standing in a room
+1581 0.1487077652467328 some people walking down the street
+1582 0.7748986046108104 a laptop with a bunch of flowers on the screen
+1583 0.183010491769809 two boys sitting at a table
+1584 0.6418412359563639 people walking down a street at night
+1585 0.5564278582653426 two people riding bikes in a parking lot
+1586 0.8948043236603956 a dog sitting on a chair
+1587 0.5526303127464571 a car driving down a hill
+1588 0.45339433385197003 a group of people on skis
+1589 0.2339906262634125 a crowd of people holding signs
+1590 0.10000281263990052 a man playing a cello
+1591 0.17832775677345925 a bride and groom on a horse drawn carriage
+1592 0.13863350845700606 a group of people dancing in a room
+1593 0.5814958101469131 a man smoking a cigarette
+1594 0.6670237496470414 a group of people standing in front of a house
+1595 0.4089466249666408 a little girl walking down the street
+1596 0.6224825230942148 a person wearing a helmet
+1597 0.7578822134281141 a wedding party on a patio
+1598 0.892914429787225 a turtle swimming in the ocean
+1599 0.5391713509073319 a man doing a trick on a basketball court
+1600 0.7303094080496997 a person walking down a set of stairs
+1601 0.34217476514841416 a skate park
+1602 0.35814219583832496 a group of people with parachutes
+1603 0.08760199348245334 a group of people walking down the street
+1604 0.45029191804949487 a man peeling an apple in a market
+1605 0.25692703672364436 a red double decker bus
+1606 0.5031196787338887 a man holding a watermelon
+1607 0.4065174445921268 a man working on a piece of wood
+1608 0.4349680274921661 a group of children walking down a street
+1609 0.9522394257281763 a group of people sitting in chairs
+1610 0.8730208585298113 a group of people in a room
+1611 0.7606177775896128 a man and a woman in the woods
+1612 0.42209273083049914 a person in a library
+1613 0.9357251052567083 a man sitting at a desk
+1614 0.8162258196374499 a dirt bike race in the middle of a city
+1615 0.5673324647256648 a house with a car parked in front of it
+1616 0.5746706449273575 a tree that has been cut down
+1617 0.9324870627029506 a woman dancing in the street
+1618 0.635408127270883 a group of people in a room
+1619 0.12437452551710515 a group of people on a boat
+1620 0.39415322130151487 a group of children looking at a book
+1621 0.5574499136987525 some colorful lights on a wall
+1622 0.31899138037588526 a man and woman sitting at a table
+1623 0.3976889943084343 two ducks swimming in the water
+1624 0.9490446104962204 a man with his eyes closed
+1625 0.8348967670606697 a group of people sitting on the ground
+1626 0.2432803083409132 a building with a sign on it
+1627 0.09483391605197633 a group of people at an outdoor restaurant
+1628 0.7550127865066318 a man opening a window with a roller
+1629 0.2876181055406981 a woman standing in front of a mirror
+1630 0.8887653784275887 a person doing a trick on a skateboard
+1631 0.6116823400157374 a man playing a video game
+1632 0.9267558287232746 a man and his dogs in the snow
+1633 0.5981510937076544 two children playing in the snow
+1634 0.16672771328985836 two men standing in the woods
+1635 0.03914291788945534 a woman standing in front of a mirror
+1636 0.6880466079670381 a man standing on top of a building
+1637 0.6222834389659925 a woman standing in front of a house
+1638 0.6354721548777552 a truck driving down the street
+1639 0.08010812051460925 a person in the water
+1640 0.4907833048054523 a person holding a pair of scissors
+1641 0.24488211131773596 a group of people at a party
+1642 0.2959805418032141 a group of people dancing
+1643 0.018998061008355216 a man and woman in front of a car
+1644 0.8718204679527938 two people sitting at a table
+1645 0.1424469199300772 a man in a bathroom
+1646 0.5218808920428432 a person standing in front of a screen
+1647 0.1844953845480808 a man in an orange shirt
+1648 0.9764224268493832 a building with graffiti on it
+1649 0.3894312612510814 a man pouring beer into a bottle
+1650 0.5699247748990364 two birds in the middle of nowhere, with music playing in the background
+1651 0.9422284222296026 a man walking down a street
+1652 0.030504190398414788 a person doing a trick on a bike
+1653 0.5123037000874336 a person walking up a snowy hill
+1654 0.91692147679161 a group of people standing in front of a fence
+1655 0.3117063366042161 a man wearing a hat and sunglasses
+1656 0.9756351201157629 a person standing on the beach
+1657 0.5094502980710272 a man driving a car at night
+1658 0.035325010549848046 a person climbing in the woods
+1659 0.3549047388001809 a person's finger pressing a button
+1660 0.8495901888423631 a person in the water
+1661 0.7938580729326111 a group of people sitting under a tent
+1662 0.8476436429029728 a man standing in a field
+1663 0.23101204355009508 a person in a helmet and goggles
+1664 0.1584309085985297 a group of people playing soccer
+1665 0.19643006825283293 a red car parked in front of a house
+1666 0.4648144875335978 a man holding a rope
+1667 0.9233164763395465 two men working on a construction site
+1668 0.8836757499314948 a person riding a bike
+1669 0.38283667824268186 a group of people in a park
+1670 0.7124439060222697 a woman standing in front of a building
+1671 0.9090183262059651 a man standing next to a cannon
+1672 0.6315483722155221 people swimming in the ocean
+1673 0.9171143488454878 a person's hand holding a tea cup
+1674 0.7046697542139994 a person on a surf board
+1675 0.2644348753381619 a man holding a cardboard box
+1676 0.8325728678917986 a man in a suit and tie
+1677 0.275899375903668 a person eating chips on a table
+1678 0.8973218489910554 santa claus in a scene from the film
+1679 0.9541210774131614 a woman standing in front of a glass door
+1680 0.7821809031509179 a man taking off shirt and a woman
+1681 0.6030063496317555 people fighting in the dark
+1682 0.684383985806522 a chef in a kitchen
+1683 0.8968976594640234 a group of people sitting around a table
+1684 0.8653880270339358 a man walking down the street
+1685 0.48809509263304174 a person holding a cell
+1686 0.7819660255823704 a little girl sitting at a table
+1687 0.38164343518989485 a man and a woman sitting at a table
+1688 0.9832205168777299 a group of people in the dark
+1689 0.8096299427136499 people sitting in a theater
+1690 0.4691139992984982 a person holding a rosary
+1691 0.8454441226152849 two police officers on a city street
+1692 0.7429592711034604 a woman standing on a stage
+1693 0.7234155845966773 a person holding a clock
+1694 0.9730819357633432 a person parading in the snow
+1695 0.5719868541781319 a woman sitting at a table
+1696 0.21138137518141475 a person holding a guitar
+1697 0.5905765342098118 a person climbing on a rock
+1698 0.660972505026804 two people on stage playing instruments
+1699 0.5864009102274517 shoes hanging from the ceiling
+1700 0.720220519096389 a person driving a car
+1701 0.6771199225307268 a red balloon in the sky
+1702 0.6782531266823822 a man in a yellow shirt
+1703 0.18509569524267577 a man sleeping in a car
+1704 0.1484501780999361 a man playing an organ
+1705 0.1406457517597287 a man holding a pair of gloves
+1706 0.8525177538683764 a woman in a red dress and a man in a green shirt
+1707 0.339791443260568 a woman holding a sign
+1708 0.9974066294870164 a kitchen with a table and chairs
+1709 0.2105420852251486 a man with a smile on his face
+1710 0.3477665049683394 a bride and groom outside
+1711 0.8934499879312053 a man playing tennis on a court
+1712 0.14101216827737406 a skate park
+1713 0.23937584213716046 a dead animal in the water
+1714 0.6404276863385109 a woman in a black dress
+1715 0.2726071603556306 a man working on a car
+1716 0.8248137801713374 a group of children in a classroom
+1717 0.3519757515248826 a person standing in the dark
+1718 0.5711807370750522 a group of people walking down a road
+1719 0.851548715860983 two people riding bikes on a path
+1720 0.6474203787052955 two people standing on a sidewalk
+1721 0.5276061456675449 a person sitting on a bench
+1722 0.7748768006959934 a plane flying in the sky
+1723 0.4241829877157436 an airplane flying over a field
+1724 0.7382838196428567 a man standing in a kitchen
+1725 0.5436463387150523 a group of people standing in front of a building
+1726 0.21374772173987433 a bride walking down the aisle
+1727 0.1803207407095948 a small pond with people in it
+1728 0.22663404197772097 a woman kayaking with her dog
+1729 0.9389846481887733 a man sitting in front of a drum kit
+1730 0.3515563152345538 a group of people in a room
+1731 0.4075463703810265 a bride and groom walking down the aisle
+1732 0.6305125634899483 a couple walking in front of a truck
+1733 0.420305233796315 a surfer riding a wave
+1734 0.8123747837545692 a man standing on a boat
+1735 0.942456204305642 three men walking out of a room
+1736 0.1305465085713603 two men playing guitars
+1737 0.03930018550660608 a person standing in a room
+1738 0.3500469585112893 a group of people standing around a fountain
+1739 0.9393488370955447 a man and woman working on a laptop
+1740 0.5107134042453078 a boy playing a piano
+1741 0.61144168866716 two women sitting in chairs talking
+1742 0.23975936973949774 two women walking down a narrow street
+1743 0.8787166424589783 a machine gun laying on the ground
+1744 0.9368329721183906 a bunch of ducks in a cage, with music playing in the background
+1745 0.5458761071307839 a person standing on a bridge
+1746 0.6366844119324624 a skateboarder doing tricks
+1747 0.2881776214144005 a bride and groom in a field
+1748 0.8686689670654054 a woman in a red dress
+1749 0.32172080263642033 a woman standing in front of a piano
+1750 0.7541479181342317 a man and a woman in the woods
+1751 0.9481466161853673 a man sitting in the back of a car at night
+1752 0.4802734337757154 a dump truck being lifted by a crane
+1753 0.8599524265657325 a band playing on a stage
+1754 0.5471455427947938 a car in the dark
+1755 0.7845612766698246 a person on a surf board
+1756 0.14572833210873026 a baby wrapped in a blanket
+1757 0.9943091216929582 a desert area with a mountain in the background
+1758 0.6680769547167188 a bride and groom walking down the aisle
+1759 0.3241160884065708 a cabin in the woods
+1760 0.09292713938623387 a man and woman standing in front of a house
+1761 0.49171648420091374 two women standing next to each other women
+1762 0.9341075664490281 a man sitting at a desk
+1763 0.5933007815261115 a group of women having a champagne toast
+1764 0.25925563123815654 a child in the middle of a crowd
+1765 0.3962885489249155 a woman playing a flute
+1766 0.7622276103911952 two people sitting at a table
+1767 0.7723162805485638 two people sitting on a bed
+1768 0.6036268659664064 a group of people sitting in a living room
+1769 0.4368088161405371 a person sitting at a table
+1770 0.6440360919995668 a fruit market
+1771 0.6529796534838381 two people playing in the water
+1772 0.7097808315603701 a woman getting her hair done
+1773 0.38105379033852194 a person on a laptop
+1774 0.9659740413772268 a girl in a black shirt and a guy in a green jacket
+1775 0.480459034818421 a man in the desert
+1776 0.20703075735954124 a lion laying on the ground
+1777 0.3124032950994956 a man writing on a piece of paper
+1778 0.6372813927028645 a man standing on a basketball court
+1779 0.9726415878819158 a group of people working in a garden
+1780 0.05231817903909741 a man fishing in the water
+1781 0.45523599794371705 a person pouring water from a bucket
+1782 0.04135806477020976 two people standing in a field
+1783 0.2962774462390668 a man in an orange vest
+1784 0.6009195572068254 a man driving a tractor through a field
+1785 0.1690657684623641 two men sitting at a table
+1786 0.697590094122123 a man in a suit walking on a balcony
+1787 0.5071741702888362 a group of people sitting on chairs
+1788 0.5665113455742935 a man and a woman playing in an inflatable
+1789 0.7723281484976985 a beach, with music playing in the background
+1790 0.6282892772676573 a man riding a red motorcycle
+1791 0.32395131297338164 a person on a surf board in the ocean
+1792 0.22221981742982022 two people sitting at a table
+1793 0.3363525375092514 a person doing a trick
+1794 0.5801346785284738 a man drinking a glass of water
+1795 0.5722345784411732 a car parked in a garage
+1796 0.8377002709339363 a group of people on a stage
+1797 0.720908206239614 a woman standing in front of a closet
+1798 0.11567035360109645 a man and a woman walking towards a car
+1799 0.4809060097465363 two people standing on a beach
+1800 0.8656492218958356 a man sitting on a chair
+1801 0.3008678696871707 a small plane on a runway
+1802 0.6322315496879208 a woman in a white dress
+1803 0.4317132830685241 a little boy getting his hair cut
+1804 0.9889044769589448 a man and a woman sitting in front of a television
+1805 0.41173296242576973 a man playing a guitar
+1806 0.49765903634375197 a woman holding a bouquet of flowers
+1807 0.9726271118719679 a man flying a kite on the beach
+1808 0.6255893260105816 a river with water and rocks
+1809 0.6926395317163683 a person standing in a building
+1810 0.5607658650614812 a group of people standing in a room
+1811 0.04177840525324217 two birds flying over a body of water, with music playing in the background
+1812 0.25948144342983404 a man putting a car with a camper trailer in the background
+1813 0.5223742508089717 two men sitting at a table
+1814 0.5146563402757567 a person on a screen
+1815 0.9242645014403109 a man playing a cello
+1816 0.3870910341167394 a man in a lab coat
+1817 0.9927524387702282 a group of people riding bikes in the woods
+1818 0.5656083640574116 a man on a golf course
+1819 0.24210951072669817 a group of people playing music
+1820 0.2892948420559429 a bride and groom with their wedding party
+1821 0.9718799270135108 a fence with a sign that says, there is no place to go
+1822 0.14383836210773526 a person standing on a bridge
+1823 0.1609751423563459 a person parading down a hill
+1824 0.508747253385828 a group of people in a gym
+1825 0.4230803471424851 two men shaking hands in front of a house
+1826 0.3854860040076673 a group of flamingos in the water
+1827 0.19251547667266444 a man in a red turbal
+1828 0.6633755354571629 two people playing instruments in the dark
+1829 0.7640197612223787 a man climbing on a wall
+1830 0.6756820690564623 two people standing in front of a sign
+1831 0.925425639320168 a group of people sitting around a table
+1832 0.4520290224341311 a man holding a sign
+1833 0.14597690595518253 a group of people on a cliff
+1834 0.10082828621313134 a man holding a gun in front of a wooden fence
+1835 0.09413834528275022 a man fishing in a river
+1836 0.6024418713150982 a man in a red and white shirt
+1837 0.3990125320306115 a man and woman standing in a room
+1838 0.05617579742259515 a man falling off a cliff
+1839 0.048994061996721516 a person kneeling in the snow
+1840 0.9984951631458359 two men playing instruments in a recording room
+1841 0.11878586580382311 a group of people standing around a fence
+1842 0.05332754854912314 a man in a white shirt
+1843 0.36518774626442163 a group of people on bicycles
+1844 0.6991489548549008 a person in a lab
+1845 0.485048110751612 two people climbing up a mountain
+1846 0.6841508720794925 a man in a suit and tie
+1847 0.08856437120517302 a woman in a headscar
+1848 0.3616010623653294 a bride and groom cutting their wedding cake
+1849 0.3016062593207116 two people standing on a roof
+1850 0.8146519324333836 an elephant walking across a river
+1851 0.8515911702849676 a woman walking on the beach
+1852 0.10225404857650378 a waterfall in the jungle
+1853 0.2332579506319652 a person walking in the snow
+1854 0.34864160713059 a crowd of people holding torches
+1855 0.8440157973012031 a man riding a motorcycle
+1856 0.9386870513210002 a woman standing in a room
+1857 0.6075652426950076 a bride and groom dancing at their wedding
+1858 0.6358338427295573 a ballerina's feet
+1859 0.7430056333292266 two young girls dressed as sailor and sailor
+1860 0.5147286585138843 a child playing with a basket
+1861 0.6420092087244871 a man sitting in the back seat of a car
+1862 0.2178362055078742 a little boy standing in front of a brick wall
+1863 0.612474475988563 two people sitting on a couch in front of a tv screen
+1864 0.11650744012712788 a person jumping on a tram
+1865 0.21940338935239345 a person standing by a body of water
+1866 0.005560305202667926 a group of people running on the beach
+1867 0.4655424309237254 a person sitting on a beach chair
+1868 0.29939642780176323 a group of people walking down the street
+1869 0.6662255729917327 a group of people outside a house
+1870 0.6552623964055742 a man leaning on a fence
+1871 0.30918486898239517 the sun shining over the ocean
+1872 0.7566671440557369 a man riding a bike on a tennis court
+1873 0.046548993435791775 a person sitting on a rock by the water
+1874 0.9579266553248817 a dead tree against a blue sky
+1875 0.3123167836236962 a wrestling match with a referee
+1876 0.2357122110472757 a bride walking down the aisle
+1877 0.4157043545229596 a man climbing on a cliff
+1878 0.7205703209800098 a group of people sitting on the ground
+1879 0.5292263844555333 two people sitting at a table
+1880 0.45285409296541634 a white car parked in front of a house
+1881 0.7458467622623896 a person swimming in the water
+1882 0.1604065262844998 a brown and white horse
+1883 0.5773619492877429 a man in a suit getting into a car
+1884 0.8259762674408319 a group of people camping in the woods
+1885 0.26798371236461616 a fire in the dark
+1886 0.9761564011421474 two people in the dark
+1887 0.06381605034757509 a man standing in a kitchen
+1888 0.8322742792916861 a person's hand reaching into a coffee machine
+1889 0.8650100248740457 two cars racing on a track
+1890 0.7567204572213913 an orange bird in the water, with music playing in the background
+1891 0.7363481206936575 a group of people standing in front of a building
+1892 0.06032517849717667 a group of children in a room
+1893 0.7111839446524155 a white wall with a list on it
+1894 0.5524084624150722 a group of people in wheelchairs
+1895 0.6423819926383895 a crowd of people walking down a street
+1896 0.9518451417316557 people walking on the street
+1897 0.10086771637566994 a man talking to another man
+1898 0.13476957264231315 a person holding a pair of scissors
+1899 0.7180514144946276 a family having a picnic on the beach
+1900 0.9926515923257395 a group of monkeys playing with each other monkeys
+1901 0.35694913104121906 two men sitting on a porch
+1902 0.41335224947477756 a group of people in a room
+1903 0.29578554698751114 a body of water with ice on it
+1904 0.4313521265525304 a bride and groom walking down the aisle
+1905 0.8126801443883237 a man wearing a beanie hat
+1906 0.9801799866561535 people sitting at tables in a restaurant
+1907 0.17505939330229014 a person working on clay
+1908 0.5923235201662198 two men standing in the snow
+1909 0.28965060799166864 two wrestlers fighting in a ring
+1910 0.47136685200972894 a woman standing in a kitchen
+1911 0.4543262002288714 a group of people standing in front of a building
+1912 0.8881639280268666 a train going under a bridge
+1913 0.36636432263315843 a person parading down a hill
+1914 0.02714739981934311 some people in a building
+1915 0.9414769719341064 a group of men sitting at a table
+1916 0.40004400359114667 a man and a woman sitting in front of a computer
+1917 0.4795272756570391 a person in a restaurant
+1918 0.575570510830023 some monkeys on top of a building, with music playing in the background
+1919 0.6269483357329847 a street at night time
+1920 0.4557082414807935 two people in the water
+1921 0.36557388633144017 a person working on a piece of metal
+1922 0.9595689143358246 a man in a tank top at a music festival
+1923 0.4567332486224014 a white board hanging on a wall
+1924 0.6940291224512616 a person in a black hoodie
+1925 0.8288170015789927 a group of people sitting around a table
+1926 0.7151503643488647 a woman with her hand on her face
+1927 0.3719953906675103 a book on a table
+1928 0.5576172032916318 a group of people dressed in blue and red
+1929 0.3217162749260586 a group of kids doing karate
+1930 0.45004852917814353 a bird chirping on a bird feeder
+1931 0.42608766948400456 a man with a beard and a shirt
+1932 0.44352640608036764 a man sitting at a table
+1933 0.1663444275934589 a classroom full of students
+1934 0.045032598662481216 a person on a motorcycle
+1935 0.04937006262889887 a man playing a turntable on a turntable
+1936 0.8770834477049163 people on a subway train
+1937 0.8006080553618429 a group of people riding bikes
+1938 0.8810485037440462 a man walking to another man
+1939 0.5569104069544876 a shark swimming in the ocean
+1940 0.29988563686612335 a couple getting married
+1941 0.11020009357163063 a man in a black jacket and a yellow hose
+1942 0.11918305411292263 a man standing in front of a door with balloons
+1943 0.5227927547012734 a man walking with two cows
+1944 0.29034151687513854 a person playing soccer on a field
+1945 0.7887950846567903 a car parked in a garage
+1946 0.25731136659719134 a man making food in a kitchen
+1947 0.16253298730773402 a man dressed as a snowman
+1948 0.9432167867294494 a group of children in a classroom
+1949 0.5422302387009755 a woman sitting at a table
+1950 0.20083890823576267 a man jumping
+1951 0.7041958499947427 a man standing in a living room
+1952 0.4786584459975728 a person holding a tablet
+1953 0.6119524620259473 a dog running on the beach
+1954 0.10592330627456037 a man in a red tuk
+1955 0.9776249123012195 a man on a stage with a fire in his hand
+1956 0.9679840602111629 a man working on a piece of wood
+1957 0.02307797232262998 a baseball player on the field
+1958 0.3459774444395154 a waterfall in the mountains
+1959 0.26258379272012855 a man sitting in the woods
+1960 0.5742128241749641 two people walking down the street
+1961 0.43452548534967106 a group of people standing around a fire
+1962 0.7776588785248737 a person riding a bike through a forest
+1963 0.7439625846320195 a man falling off a snowboard
+1964 0.3572848558766841 a woman in a green dress sitting on a couch
+1965 0.28965171103124165 a person looking at a stained glass window
+1966 0.39440730768970467 a man standing in a doorway
+1967 0.006979438424127293 a bird standing on a manhole
+1968 0.07676077229286715 a bridge over a river
+1969 0.22137431927989326 a man standing in front of a wall
+1970 0.3380648836113944 a river with water running through it
+1971 0.8090906465835597 a man working in the garden
+1972 0.19867665636471132 a woman walking down a hallway
+1973 0.3204850067623831 a skateboarder doing a trick
+1974 0.4599097445441659 a salad being served at a restaurant
+1975 0.9159827534489476 a house with snow on the ground
+1976 0.5107028205672001 a man sitting under a tree
+1977 0.8053202394737164 someone cutting off a shoe
+1978 0.7310151537444521 a woman cooking in a kitchen
+1979 0.028640219542354628 a street sign on a building
+1980 0.7380727164515459 a man sitting at a table
+1981 0.27712384159710235 some palm trees in a field
+1982 0.14715129446059272 a person doing a trick on a skateboard
+1983 0.03155770205825481 people walking down the street
+1984 0.04982235303918958 a person swimming in the ocean
+1985 0.4959897754152842 a man sitting on the ground
+1986 0.5729345554677698 a man in a tent with an apple
+1987 0.2289796565541694 a man with a green light on his face
+1988 0.3427029895499859 a woman walking in front of a house
+1989 0.05052684084152981 a cemetery with many graves
+1990 0.1900687863770799 a man sitting on a couch
+1991 0.9682522198357126 a fire truck at night
+1992 0.35395648147647696 a person standing on a rock
+1993 0.13096016822280632 a dog and a man at a dog show
+1994 0.5648239920299779 a child playing with a ball
+1995 0.17683312371007787 a person riding a bike
+1996 0.649977636210387 a group of people sitting on a blanket
+1997 0.845287060457001 a young boy in a field
+1998 0.5859727548167727 the inside of an airplane
+1999 0.29752617787612845 two people in a car
+2000 0.47300600264516135 a man in a suit talking to another man in a suit
+2001 0.8897641516482625 a child playing a guitar
+2002 0.26659487954614514 two women talking to each other women
+2003 0.8205420998270413 two people sitting on a couch
+2004 0.1361730602319342 a woman and two children playing outside
+2005 0.9603612614222171 a little girl sitting on the ground
+2006 0.19021966418716485 a car with a british flag on it
+2007 0.49044856824748984 a bride and groom in front of a window
+2008 0.58222027598101 a person knitting a piece of yarn
+2009 0.43402863065098907 a person holding a cell
+2010 0.8700942334652588 a boat on the beach
+2011 0.3650372096512705 a person using a spray bottle
+2012 0.7894408125442898 a woman sitting on a tree stump
+2013 0.514982916719005 a woman dancing in a theater
+2014 0.702392068078848 a bride and groom on a bridge
+2015 0.8838526535541209 a group of people working in a lab
+2016 0.189862606395792 a dirt road with trees in the background
+2017 0.4769094347298388 a person's foot in the grass
+2018 0.9656419238936891 a person walking on the beach
+2019 0.04245086827639655 a sailer sailing on the water
+2020 0.7059284538379519 a group of people standing in front of a screen
+2021 0.23534467826838334 a man standing in front of a table
+2022 0.12318704311187789 a person walking down a street
+2023 0.9720216883671479 two people standing in front of a whiteboard
+2024 0.4641883138716816 a woman wearing a top hat
+2025 0.6902000048186665 a person wearing a hoodie
+2026 0.34646967533976225 a man in a black shirt holding a microphone
+2027 0.2549716458962177 a bird flying over a body of water, with music playing in the background
+2028 0.5013433036411197 a man on a mountain
+2029 0.7334614245998021 a man rolling dice
+2030 0.34348027101293144 a church with people inside
+2031 0.20296977846477005 a man sitting on a couch
+2032 0.10183020806581322 a group of people in a room
+2033 0.11316187111249787 a man standing in a room
+2034 0.1098496050529777 two young girls holding books
+2035 0.38002441553991095 a ski lift going up a snowy mountain
+2036 0.9930320570304763 a man in a suit singing into a microphone
+2037 0.220277256280621 a person making food in a kitchen
+2038 0.18161415165878436 a person jumping off a cliff
+2039 0.4592796190127474 a group of kids playing in a field
+2040 0.049821921828825055 a person riding a horse
+2041 0.14227743996410214 a man with a mustache on his face
+2042 0.18787907256214764 a black and white photo of a machine
+2043 0.2247221653255378 a man fishing
+2044 0.7112581800281409 a park with trees and people
+2045 0.8825914786988293 a man fishing in the water
+2046 0.04195790562702684 a man and a woman in the water
+2047 0.02175490202670749 a dog swimming in the water
+2048 0.25872259713060586 a man in a military uniform
+2049 0.5321716077377765 a man standing in a room
+2050 0.2825709828792702 a wedding cake on a table
+2051 0.18267553022985372 two people sitting at a table
+2052 0.952464641014471 three people walking down a trail
+2053 0.40116089889412776 a person cutting food on a plate
+2054 0.27993953535187677 a person holding a cell phone
+2055 0.21030876770975804 a man in a tuxedo
+2056 0.7619204353200685 a person cutting a piece of glass
+2057 0.6935027269966444 two people walking down a dirt road
+2058 0.6713602955895369 a woman in a white dress standing in front of a map
+2059 0.01740674582073265 a monkey eating something on the ground
+2060 0.4386792145960976 two people walking down the street
+2061 0.2707609920447007 a group of people standing in front of a building
+2062 0.9348498150934001 a woman holding up a piece of paper with the word i hate
+2063 0.13346832529952235 a man standing on a ladder
+2064 0.8733477065627822 a person doing tricks on a skateboard
+2065 0.11747844519640738 a woman laying on a couch
+2066 0.3432391293862951 a man in the dark
+2067 0.7921257882931961 a person playing a guitar
+2068 0.8668783556803094 a man in a black shirt holding a red cloth
+2069 0.14886716673115363 a man in bed with a blanket over his head
+2070 0.1405662319322858 a person skiing down a mountain
+2071 0.8402099846181953 a man in a suit talking to another man in a suit
+2072 0.06165714742100392 a woman standing in front of a store
+2073 0.5304145192460391 a man and woman kissing
+2074 0.23938466474027476 a man standing on a stage
+2075 0.23449796005301482 two people riding bikes down a dirt road
+2076 0.4871468661502013 two police officers talking to each other officers
+2077 0.3793621504531792 a person sleeping on a bed
+2078 0.41013666737409105 a person pouring tea into a cup
+2079 0.9174422944435708 a man talking to a woman
+2080 0.4749807851997043 a man standing in tall grass
+2081 0.5443382387779823 a man holding a phone
+2082 0.8119927646215985 a bedroom with pink walls
+2083 0.17837792201385416 a house that has been destroyed
+2084 0.32361119842012076 a person doing a trick
+2085 0.5662040966945588 people riding bikes on a mountain road
+2086 0.11766991116319714 a man and woman sitting on a bed
+2087 0.9224235530954924 a man dancing in a tuxedo
+2088 0.14239122817910732 people swimming in the ocean
+2089 0.10692558347629377 a woman with a hat and scarf
+2090 0.31634473194708 a man sitting in a theater
+2091 0.9523301415237638 a red flower with green leaves
+2092 0.11833004734689556 a house in the snow
+2093 0.6354005547852006 a fish in the ocean
+2094 0.8461649951202473 a man standing next to a car
+2095 0.7485757902166091 two people standing next to a car
+2096 0.43878181526096993 a monkey climbing a wall
+2097 0.584447091969905 some people playing instruments in a room
+2098 0.692292481244302 a group of people walking down the street at night time
+2099 0.30712563242128954 a person playing with puzzles
+2100 0.5605575745286557 a person riding a bike
+2101 0.17781834316289535 a group of people toasting with champagne
+2102 0.23498827667685895 two women sitting on a couch
+2103 0.3150154528674003 a man fishing on the water
+2104 0.003050358848240231 a construction site in mumbai
+2105 0.8727506057567201 a man sitting in a chair
+2106 0.4293900029724921 a football team talking to each other players
+2107 0.1211775217365213 a group of people standing in the woods
+2108 0.012843476292960676 a man standing in front of a building
+2109 0.35592108913637244 a woman throwing a baseball
+2110 0.7422765657724755 a man clapping a woman playing the piano
+2111 0.29338440428430235 a black and white photo of a man with a skull on his back
+2112 0.4990921144665714 two dogs eating food on a table
+2113 0.08047280807904733 a crowd of people at a concert
+2114 0.183565393746438 a woman eating a piece of food
+2115 0.9501550797975519 two people standing in front of a roller coaster
+2116 0.8641955335266889 a man in a suit and tie
+2117 0.33311255215524316 a man in a santa hat playing a banjo
+2118 0.8541625491978344 a woman in a kitchen
+2119 0.2928294208336436 a person pouring something into a bowl
+2120 0.7498181686188714 a woman smoking a cigarette
+2121 0.06400337840420234 a group of people standing on a stage
+2122 0.5171727895807597 a bride and groom at a wedding
+2123 0.48714663948849546 a man in a white shirt and black pants
+2124 0.340384003759137 a canal filled with boats
+2125 0.5075742948772933 a man sitting on a couch
+2126 0.9322744719817487 a person on a skateboard
+2127 0.9366339182893837 a woman sitting on a swing
+2128 0.5365591543420327 a group of people dancing in a room
+2129 0.9652257740936666 a man holding a megaphone
+2130 0.23646054383345216 a man with a cigarette in his mouth
+2131 0.10673577123260669 a stage with people sitting at tables
+2132 0.6257518175459709 a train with smoke coming out of it
+2133 0.09953924090109467 a group of people jumping in the air
+2134 0.003199607342108668 a man and woman holding cocktail glasses
+2135 0.40539658079826624 a man in a red shirt and blue shorts
+2136 0.02319140858393831 someone mixing something in a bowl
+2137 0.2339031669863345 a little girl playing with a soccer ball
+2138 0.8625845495439768 a man in a room with a bed
+2139 0.9668118809593639 a man in a suit shop
+2140 0.6824772809608755 a person on a parachute
+2141 0.5458577380722637 a dog running in the dark
+2142 0.6259177271771543 two gis in the middle of a road
+2143 0.8543032095968229 a bird on the ground
+2144 0.07911298924968613 a person in a dark room
+2145 0.291586895065597 a man sitting in the back seat of a car
+2146 0.2885797534293044 a woman in a black leather jacket
+2147 0.8651187444785805 a person cutting a piece of pizza
+2148 0.3962345738577312 a wooden table with black and white stripes
+2149 0.3418411337715208 a person in a bedroom
+2150 0.8907310370538755 a person doing a trick on a skateboard
+2151 0.8166702510666227 a person on a snowboard
+2152 0.5673750634705952 a woman laying on a bed
+2153 0.010748286058204104 a pot of food on a stove
+2154 0.05134730310591151 a plant with green leaves
+2155 0.440182403691315 a man and woman standing in front of an ancient building
+2156 0.5904872212260257 a man kneeling on the ground
+2157 0.8422814454309968 two people in a field
+2158 0.03659721176887143 a person taking a picture of a camera
+2159 0.6995074786918746 two penguins in a cave
+2160 0.30536100570357516 a person riding a skateboard
+2161 0.7313519786324268 people walking down the street
+2162 0.945377016590326 a man climbing in the jungle
+2163 0.0019689646942362415 people walking down a sidewalk
+2164 0.6022029714743248 a man with long hair and a beard
+2165 0.9226531885557964 two people in a room
+2166 0.5731049475421651 a woman talking on the phone
+2167 0.8845265366223368 a person making food on a table
+2168 0.611649428353991 a group of people standing in a room
+2169 0.1608653676704943 a cell phone with a text message on it
+2170 0.4833365293521049 a bride and groom having a joke
+2171 0.27807355678541423 ufos flying over a city at night
+2172 0.008042253414292655 a woman in a black and white dress
+2173 0.7643397423848086 two men standing next to each other men
+2174 0.11257587059785013 a woman standing in a room
+2175 0.5491277131997792 a couple being married at their wedding
+2176 0.19097852473675936 a snowboarder doing a trick
+2177 0.4578042370677312 a group of people sitting on the street
+2178 0.25725567316803577 a group of people in graduation gowns
+2179 0.9362278465479816 a group of people sitting around a table
+2180 0.3220814924651194 a group of children playing in a field
+2181 0.5756878651582947 a group of people dancing in the street
+2182 0.7393547434568736 a person working on a machine
+2183 0.18340968823367287 a group of people playing soccer
+2184 0.39004281545538655 a man playing a guitar in the water
+2185 0.2965611493626854 some people playing basketball on a court
+2186 0.7707084094624178 a building that has been painted white
+2187 0.9904714521878802 a man and woman sitting on the beach
+2188 0.5754926448361503 a group of people on the beach
+2189 0.16047401234827774 a man standing in front of a camera
+2190 0.15843053021032383 a man riding a skateboard down a street
+2191 0.7742210014499358 a man in a dark room
+2192 0.6669116005489039 a person doing a trick on a motorcycle
+2193 0.5599298394652596 a woman getting her makeup done
+2194 0.6318023288300875 two men playing a game
+2195 0.12152593464357198 a plane at an airport
+2196 0.08310470566094408 a man standing in an abandoned building
+2197 0.36501401498689634 a group of people dancing in the park
+2198 0.6072611338889387 two girls playing with a huor
+2199 0.3398621129588807 a man getting his hair done
+2200 0.839226299185175 a group of people playing basketball
+2201 0.6393289840856398 a classroom with desks and chairs
+2202 0.4347695330157063 a person on a hang glider
+2203 0.37485126927880974 a man with no shirt
+2204 0.29812444411307093 two boys talking to each other boy
+2205 0.013058320649616317 a person riding a bike
+2206 0.03595832976336755 a crowd of people walking down a street
+2207 0.04793341625949887 a man holding a fish
+2208 0.7166247637227309 a dog with its tongue out
+2209 0.5449855115506445 a man in a white shirt is being filmed by a police officer
+2210 0.19058824198797952 a man with sunglasses on
+2211 0.23086228904144201 a person on a snowboard
+2212 0.6435456554017118 a man playing a drum in the woods
+2213 0.376118978495278 people sitting on benches in a park
+2214 0.5856967442672253 a helicopter flying through the air
+2215 0.2759927479880331 a woman standing on a ladder
+2216 0.4831503138714305 a man and woman standing outside a house
+2217 0.45000106944165197 a group of men standing in front of a building
+2218 0.6953560141027929 a man holding a fish
+2219 0.656994317610845 a person standing in the leaves
+2220 0.7076353060891682 the interior of a church
+2221 0.18396640915440676 a bride and groom kissing
+2222 0.01463533371547987 clothes hanging on a clothes line
+2223 0.4012674821180575 two people sitting at a table
+2224 0.18265066901072902 the aftermath of a house in the aftermath of a tornado
+2225 0.5623406214489117 a ski lift going up a mountain
+2226 0.8720832648692459 a person picking leaves from a tree
+2227 0.8003053292489782 a little girl walking on the beach
+2228 0.9964433557708499 a man taking a picture of a golf course
+2229 0.9796710159039784 a street with clouds in the sky
+2230 0.6971847537388718 a plate of food on a table
+2231 0.655805486335215 an empty room with the word's on it
+2232 0.10475363117158631 a man and a woman on a boat
+2233 0.2813858096517037 a man kneeling on the ground
+2234 0.3313473838813701 a man and woman sitting on a couch
+2235 0.33738504188292373 a woman preparing food in a kitchen
+2236 0.9515503639199736 a man riding a bike in a parking lot
+2237 0.48574169178798643 two tigers in a cage
+2238 0.24882803715480328 a pot on a stove
+2239 0.786554735617867 a basketball player in a blue uniform
+2240 0.2707217537241048 two priests in a church
+2241 0.16260633874873875 people sitting at tables in a restaurant
+2242 0.47639615319800477 two women wrestling in a ring
+2243 0.23660068475600382 a person on a rock in the water
+2244 0.959565659340798 a basketball court with people playing
+2245 0.7605709667229098 a man in a suit and tie
+2246 0.6952871641482246 a man standing on a stage
+2247 0.7957242556932234 a chair in the woods
+2248 0.08565020748231356 two people sitting at a table
+2249 0.19349690183795076 a snake in the corner of a house
+2250 0.24112443657119675 a man in a suit and tie
+2251 0.824555210024449 the water with a boat in the background
+2252 0.7752670423495367 a dog playing with a book
+2253 0.2049594147906345 a person swimming in the water
+2254 0.03896755229142168 a woman looking up at the camera
+2255 0.6892036467504543 a teddy bear sitting in front of a door
+2256 0.1526909434460284 a group of young boys standing in a basketball court
+2257 0.2800361005111155 a group of chickens in a barn
+2258 0.30247292966713535 a person holding an open book
+2259 0.7946168507210504 two people standing on a beach
+2260 0.3903025431635616 a suit hanging on a wall
+2261 0.3087082072606987 a man and woman playing guitar
+2262 0.3715116363694029 two girls walking down a long hallway
+2263 0.4476974859053954 a woman cooking in a kitchen
+2264 0.5502016639449723 a group of people flying hot air balloons
+2265 0.4871379311369529 some paint and a brush
+2266 0.8401513662369575 two planes flying in the sky
+2267 0.7141672022235284 a man sitting at a table
+2268 0.3574766914347878 a book shelf with books on it
+2269 0.09717546452272963 a person cutting cus with a knife
+2270 0.7446188775511738 a group of people dancing around a fire
+2271 0.9841684391736241 a woman holding a baby
+2272 0.6599722990213656 a man driving a blue tractor
+2273 0.0757432780317151 two women sitting at a table
+2274 0.07345259576874641 a woman with long blonde hair
+2275 0.9116838571798999 a person working on a piece of paper
+2276 0.11505537369658325 a little girl looking at a horse
+2277 0.20399604305004249 a man standing in front of a store
+2278 0.25374517103751915 a monkey in the jungle
+2279 0.017197020190634404 people standing in front of the lincoln memorial
+2280 0.49956721989900765 a group of people sitting around a table
+2281 0.06738758590877048 a person standing in front of a light
+2282 0.10320007550335042 pigeons on the ground in front of a building
+2283 0.3184263884976827 a table with pictures on it
+2284 0.050583733711792034 a group of people standing on a bridge
+2285 0.4043417720497854 a woman kneeling on the floor
+2286 0.10783221555040012 a person skiing down a hill
+2287 0.23638107488748072 a man sitting on the ground
+2288 0.695049235446522 a person skiing down a hill
+2289 0.1419597431418731 a man fishing in a lake
+2290 0.2518104993243925 a group of people on a water slide
+2291 0.9308895812788047 a car with the words arrow checker on it
+2292 0.3836854678355551 the inside of a train
+2293 0.8161514625044328 a group of people planting trees
+2294 0.7046246447933417 a person riding a bike at night
+2295 0.8070285336270103 a person standing in a living room
+2296 0.5850453791162483 a pool with people in it
+2297 0.25686582189369256 a person on a surfboard in the water
+2298 0.8264513795753672 a skateboarder doing a trick
+2299 0.6129146215074832 a group of motorcycles parked in a garage
+2300 0.4339575388399912 a woman wearing a hat and scarf
+2301 0.03892740217578727 a woman getting her hair done
+2302 0.9619968814349574 a man standing next to a large white cat
+2303 0.6887063419007295 a man laying in the sand
+2304 0.7998541759248436 two people sitting in a bus
+2305 0.5577679370252757 a group of people climbing up a mountain
+2306 0.7127254639489151 a woman in a wedding dress
+2307 0.5768226525619382 a man and woman sitting in a chair
+2308 0.2597278723818147 a woman holding up a book

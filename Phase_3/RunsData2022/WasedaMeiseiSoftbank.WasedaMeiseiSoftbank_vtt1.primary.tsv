@@ -1,0 +1,2311 @@
+Task=D
+loss=kldivloss
+runType=VV
+1	0.41603803634643555	a man is playing a guitar in a studio with other instruments.
+2	0.4659425616264343	a man is driving a car and turning the steering wheel.
+3	0.4070999324321747	a man is standing in a room and he is moving his arms around.
+4	0.47240081429481506	a group of people are singing and dancing to the music.
+5	0.34275463223457336	a person is going down a slide and is screaming at the camera.
+6	0.4214836359024048	a woman is standing in front of a camera and talking about the weather.
+7	0.4643682837486267	a group of people are doing a dance routine in a room.
+8	0.4212622344493866	a person is looking at the beach and is looking at the sea.
+9	0.49485161900520325	a man is using a chainsaw to cut a plant.
+10	0.454948753118515	a man is holding a microphone in his hand and he is proposing to a woman.
+11	0.27082717418670654	a man is talking about the importance of july and then he is shown.
+12	0.5458032488822937	a group of men are playing a game of soccer.
+13	0.44655841588974	two men are cutting down a tree in fast motion.
+14	0.4227152168750763	two men are standing in the sand and they are playing in the background.
+15	0.3873002827167511	a person is working on a piece of metal with a tool.
+16	0.35137808322906494	a group of people are standing around and watching a person do something.
+17	0.39758577942848206	a person is shown dancing on a bench in front of a bench.
+18	0.40795567631721497	a person is walking around a room with a dog on the floor.
+19	0.3644237220287323	a person is showing how they play with a toy that is in a room.
+20	0.46473991870880127	a group of people are walking around in a line.
+21	0.3544160723686218	a woman is standing in front of a large group of people and she is drinking a glass
+22	0.5202838182449341	a man and a woman are sitting down and talking to each other.
+23	0.35016322135925293	a boat is slowly moving in the water while a man is talking.
+24	0.5118990540504456	a man is surfing on a surfboard in the ocean.
+25	0.3786303699016571	a group of people are working on a car and they are doing some work on it
+26	0.5295165777206421	a group of people are playing soccer in a field.
+27	0.38779667019844055	a group of people are walking around a room and they are walking around.
+28	0.33141854405403137	three girls are dancing to music in a room with a wall.
+29	0.4489862620830536	a group of people are sitting on a bed and one of them is dancing.
+30	0.3174952566623688	a person is showing how they read a book with different colors.
+31	0.5103192329406738	a man is sitting at a table and talking to a group of people.
+32	0.36851391196250916	a person is sitting down and is making a noise with their mouth.
+33	0.4191493093967438	a football game is being played and the crowd cheers.
+34	0.4996945559978485	a man is sitting in a chair and talking to another man.
+35	0.40558570623397827	a man is bowling and getting a strike.
+36	0.3831377625465393	a girl is standing in front of a computer and is talking to someone.
+37	0.5395257472991943	a man is sitting on the floor and trying to put his shoes on.
+38	0.32042911648750305	a man is walking down the street and is trying to get his picture.
+39	0.42472603917121887	a man and a woman are walking around a public area.
+40	0.4444519579410553	a woman is standing in front of a camera and she is talking to the camera.
+41	0.3464857041835785	a person is riding a motorcycle and is talking to the camera.
+42	0.3657340109348297	a woman is speaking into a microphone while another woman is shown singing.
+43	0.5440053343772888	a man is pushing a car down the street at night.
+44	0.4237525463104248	a group of people are outside and they are standing around.
+45	0.42261385917663574	a person is showing off a pair of glasses that are on a table.
+46	0.43735453486442566	a woman is sitting on the ground and playing with a stick.
+47	0.4515987038612366	a man is sitting in a studio and he is whistling.
+48	0.5025613307952881	a group of girls are sitting at a table and talking about something.
+49	0.48448142409324646	a group of people are in a room and they are dancing.
+50	0.26513901352882385	a person is making a flower with a glass and then placing the ingredients on the table
+51	0.3111281394958496	a man is cutting up a pineapple with a knife.
+52	0.41746634244918823	a man and woman are dancing to music in a wedding.
+53	0.398294061422348	a man is using a tool to fix the car tire.
+54	0.39514341950416565	a girl is sitting at a table and is making a video with her hands.
+55	0.5162845253944397	a group of soccer players are playing a game of soccer.
+56	0.5029910206794739	a person is hang gliding in the sky with a parachute.
+57	0.34601306915283203	a video of a video of a group of people in a field are shown.
+58	0.2894672751426697	three young men are singing and dancing while a man is talking.
+59	0.46589821577072144	a person is showing how they make a necklace with beads.
+60	0.3900763690471649	a person is sitting in a car and is moving their head to the side of the car
+61	0.4892042279243469	a man and woman are dancing in a room with music playing in the background.
+62	0.3434608578681946	a person is sitting on the floor and is playing with their hands.
+63	0.4012936055660248	three men are sitting on a couch and one of them is singing.
+64	0.3475149869918823	a man is laying on a large rock and petting it.
+65	0.4248312711715698	a group of people are playing a game of soccer.
+66	0.3481239378452301	a person is hanging from a rope and is moving it around.
+67	0.5393519997596741	a group of children are picking up easter eggs and putting them in a basket.
+68	0.47478336095809937	a little girl is sitting down and talking about something.
+69	0.27440622448921204	a man is holding a microphone and then he walks up to a woman.
+70	0.42300930619239807	a large group of people are standing in a circle and they are singing.
+71	0.47849026322364807	a woman is walking down a path in a wooded area.
+72	0.299055278301239	a man is backing up a boat and it is backing up.
+73	0.40345460176467896	a person is walking on a bridge with a rope.
+74	0.2887166440486908	a person is using a white mask and a mask on the wall
+75	0.4555688798427582	a person is doing a moonwalk on a wood floor.
+76	0.4999046325683594	a large group of people are walking through a crowded area.
+77	0.43208667635917664	two men are wrestling in a circle while others are cheering them on.
+78	0.39848557114601135	a man is holding a large ball in his hands and he is holding.
+79	0.31860604882240295	a person is sailing on a sailboat and it is very fast.
+80	0.3655957281589508	a man is standing on a chair and he is talking to a man.
+81	0.47408512234687805	a man is riding a skateboard down a road.
+82	0.49973997473716736	a man is playing a harmonica while a group of people are watching.
+83	0.39446601271629333	a man is standing in a room and he is using a tool to work on a large
+84	0.3917611241340637	a group of people are watching a lion in a cage.
+85	0.4287694990634918	a man and woman are standing in front of a tv monitor and they are talking about something
+86	0.6088143587112427	a group of people are sledding down a snowy hill.
+87	0.41208523511886597	a man and a woman are standing in front of a camera and they are drinking from a
+88	0.3194043040275574	a man is talking about the experience of a certain type of event.
+89	0.3092733919620514	a group of men are shown performing a country song.
+90	0.29360952973365784	a person is working on a counter and making some food
+91	0.48890700936317444	a man is playing a guitar while standing in front of a camera.
+92	0.38464969396591187	a man is doing graffiti on a wall with a paint.
+93	0.3757966458797455	a man and a woman are standing in a restaurant and they are kissing.
+94	0.30826669931411743	a person is making a cup of tea and then they are making it.
+95	0.6170322895050049	a group of people are dancing on a stage in front of an audience.
+96	0.3411827087402344	a man is using a large wrap to wrap up a red box.
+97	0.4621239900588989	a man and a woman are sitting on a bench and talking.
+98	0.4060465097427368	a group of people are singing and dancing while others are singing.
+99	0.34585490822792053	a chicken is walking around in a tree and a person is talking.
+100	0.3200569450855255	a man is walking through a hallway and is following the camera.
+101	0.44931432604789734	a man is using a spray gun to spray a wall.
+102	0.4390317499637604	a woman is sitting down and another woman is putting some type of product on her face.
+103	0.5062525868415833	a large group of people are eating and talking to each other.
+104	0.3829582929611206	a boy is standing on a lake and is trying to get something out of the water.
+105	0.4593265950679779	two women are sitting on a chair and one is talking to the other.
+106	0.38253819942474365	a man is sitting on a chair and holding a box in his hand.
+107	0.43609756231307983	a woman is putting a contact lens on another woman.
+108	0.4370802640914917	a man is sitting in a chair and is talking to someone.
+109	0.33111363649368286	a man is standing in a field and is trying to pull a large object.
+110	0.4188985526561737	a person is skydiving out of a plane and is in the sky.
+111	0.3672809600830078	a band is playing music and a man is playing the guitar.
+112	0.5357749462127686	a man is blowing up a balloon with his mouth.
+113	0.5460222959518433	a man is playing a violin while another man is playing the violin.
+114	0.42988064885139465	a man is standing on a sidewalk and he is doing some sort of dance.
+115	0.3687496483325958	a person is standing in front of a rock and is whistling.
+116	0.4269801080226898	a person is in the water and is trying to get something out of the water.
+117	0.4684576690196991	a man is standing in front of a white curtain and is playing the maracas.
+118	0.34304141998291016	a group of people are standing around a building and they are playing music.
+119	0.39414599537849426	a woman is sitting in a chair and talking about the weather.
+120	0.35196617245674133	a woman is talking about a group of women in a room.
+121	0.4087259769439697	a man is sitting in a chair and talking about the process of the day.
+122	0.5606558918952942	a basketball team is playing a game of basketball in a gym.
+123	0.33172857761383057	a man is standing in a room with a group of people and he is holding a bottle
+124	0.35480567812919617	a person is outside and is moving around in the grass.
+125	0.37781262397766113	a person is in a cave and is using a flashlight to work on a wall.
+126	0.41143035888671875	a man is working on a car and is fixing the oil.
+127	0.5814757943153381	two men are using a machine to carve a piece of wood.
+128	0.3098742961883545	a group of people are walking around and then a boy is walking around.
+129	0.4404246509075165	a man is using a glass to make a glass of wine.
+130	0.18883787095546722	a woman is shown with a long stick and then she is shown pulling a long stick.
+131	0.32003751397132874	a boat is pulling a boat up to the dock.
+132	0.35074836015701294	a man is sitting in a chair and is making a hole in his hand.
+133	0.40575557947158813	a bartender is behind a bar and is mixing a drink.
+134	0.5331876277923584	a person pours liquid into a pot of liquid and pours it into a glass.
+135	0.41587141156196594	a person is showing how they are outside in a field.
+136	0.3625718057155609	a man is standing on a river and is throwing something in the water.
+137	0.34760016202926636	a group of people are painting a table and painting something on a table.
+138	0.3389770984649658	a fish is caught in a fish pond and a man is talking about it.
+139	0.5856184363365173	a group of people are riding bikes in a circle.
+140	0.4029826521873474	a person is driving a four wheeler through a mud.
+141	0.3277170658111572	a person is showing how they use a machine to make a paper.
+142	0.3840903639793396	a person is listening to music and is rapping to the music.
+143	0.42490673065185547	a man is using a pair of leather shoes to shine a pair of black shoes.
+144	0.4095361530780792	a group of people are standing around and talking to each other
+145	0.4306466579437256	a group of people are watching a man do a stunt on a bike.
+146	0.3799471855163574	a man and a woman are skydiving and then they are in a plane.
+147	0.3760117292404175	a person is filming themselves in the ocean and there is a lot of noise in the background
+148	0.3521277606487274	a man with a mask on is playing with a horse.
+149	0.36675891280174255	a man is standing on a bench and he is walking down the stairs.
+150	0.38132259249687195	a large crowd of people are cheering and cheering as a person is shown.
+151	0.4137003719806671	a woman is weaving a piece of clothing using a loom.
+152	0.3326569199562073	a man is driving a vehicle with a woman on the back seat.
+153	0.5009335279464722	a person is moving their head to the beat of the music.
+154	0.398019939661026	a woman and a man are in a car and they are talking.
+155	0.30688223242759705	a woman is walking around a room with a light and is talking.
+156	0.360117107629776	a man is using a water ski to water skis.
+157	0.41920486092567444	a woman is standing in front of a window and she is talking to another woman.
+158	0.34023940563201904	a man is standing in the water and is swimming around.
+159	0.4200369119644165	a group of people are dancing and singing to the song.
+160	0.35820472240448	a man is sitting on a floor and playing a long tube.
+161	0.43288978934288025	a man is in a store and is trying to get something out of a box.
+162	0.3569387197494507	a person is skiing down a snowy hill and is snowboarding.
+163	0.525227427482605	a person is writing on a piece of paper with a pen.
+164	0.41328808665275574	a large group of people are running around and dancing.
+165	0.34590986371040344	a woman is standing outside and she is talking to someone else.
+166	0.39738017320632935	a man is standing in front of a camera and he is dancing.
+167	0.39803406596183777	a person is sitting on a train and looking at the camera
+168	0.4050445258617401	a group of people are dressed up as characters and they are dancing.
+169	0.43671315908432007	a man is singing into a microphone while another man is singing.
+170	0.3855794668197632	a boy is doing tricks on a skateboard and then jumps off the stairs.
+171	0.3510453999042511	a man is standing on a balcony and he is looking at the window.
+172	0.5095380544662476	a group of young girls are dancing on a stage.
+173	0.463105171918869	a man is using a machine to bend metal pieces.
+174	0.3754911422729492	a race car is being driven on a track while a man talks about it.
+175	0.35903090238571167	a person is snowboarding down a hill and then jumps off.
+176	0.40754440426826477	a man is sitting on the ground and holding a gift in his hand.
+177	0.4296329617500305	a group of people are standing around a table and they are making something.
+178	0.35595664381980896	a man is recording himself in a room with a window.
+179	0.3496018946170807	a person is riding a motorcycle on the road and is passing by.
+180	0.24917510151863098	a person is showing how they can use a flashlight.
+181	0.4461974501609802	a large group of people are standing in a room and they are dancing.
+182	0.5433140993118286	a person is cooking some food in a pan on a stove top.
+183	0.4321783483028412	a group of people are swimming in a pool and one person is talking.
+184	0.5481973886489868	a man and a woman are dancing together in a parking lot.
+185	0.39482149481773376	three men are sitting in a room and one of them is singing.
+186	0.38445577025413513	a man is standing in a room and is making a sculpture.
+187	0.41977185010910034	a man and a woman are sitting at a desk and talking about the news.
+188	0.3375490605831146	a group of people are outside and they are playing with a machine
+189	0.27867940068244934	a person is showing how they can get a great time in the ocean.
+190	0.5113521814346313	a person is using a tool to shape a piece of wood.
+191	0.5297826528549194	a man is shaving his face in a bathroom.
+192	0.4265490472316742	a man is standing at a table and talking to another man.
+193	0.5079041719436646	a group of people are dancing to music in a room.
+194	0.4585086703300476	a woman in a robot costume is dancing to music.
+195	0.47990238666534424	a group of people are sitting on the floor and talking to a group of people.
+196	0.540488600730896	a person is using a machine to shape a piece of material.
+197	0.4785879850387573	a person is playing a song on a piano while another person is playing the piano.
+198	0.5061724781990051	a group of people are sitting around a table and talking.
+199	0.524170994758606	a group of people are doing a dance routine in unison.
+200	0.3640965223312378	a man is laying down and then he wakes up and begins to cry.
+201	0.4298483729362488	a person is playing with a stick that is on the ground
+202	0.36926668882369995	a man is holding a microphone and talking to a woman who is holding.
+203	0.3633156716823578	a man and a woman are sitting in a room and one of them is getting ready to
+204	0.38185518980026245	a man is scuba diving and wearing a mask on.
+205	0.46768859028816223	a person is skydiving with another person in the background.
+206	0.29118311405181885	two women are dancing with a large item in their hands.
+207	0.4871954321861267	a young boy is outside and is using a garden to water the plants.
+208	0.4015083611011505	a woman is sitting down and is looking at the camera.
+209	0.4971686005592346	a woman is holding a microphone while another woman is standing next to her.
+210	0.28613078594207764	a football game is being played and a man is running and jumping up.
+211	0.3413282036781311	a group of people are riding on a horse and the horse is being driven by a man
+212	0.4095260500907898	a man is using a pick to dig through the snow.
+213	0.47734445333480835	a group of people are riding motorcycles in a street.
+214	0.3991284668445587	a group of people are in a field and they are feeding the animals.
+215	0.3738868236541748	a woman is holding a bouquet of flowers and then she starts to make a flower arrangement.
+216	0.4802955090999603	a group of people are standing in a room and they are talking about something.
+217	0.4096401631832123	a young boy is sitting at a table and is eating a pizza.
+218	0.44141387939453125	a person is parasailing in the sky with a parachute.
+219	0.4640030562877655	a man is holding a glass of wine and then he spits it out.
+220	0.301582932472229	a man is jumping over a barrier and then jumps over a tree.
+221	0.38766610622406006	a group of people are working on a wall and talking.
+222	0.3645874559879303	a man in a suit is dancing and singing while another man is talking.
+223	0.45367202162742615	a young boy is standing in front of a goat and is feeding a goat.
+224	0.2830071449279785	a woman is talking about the camera while she is doing.
+225	0.4776408076286316	a person is skiing down a hill while music is playing.
+226	0.5009746551513672	two men are sitting in a room and one of them is cleaning the other.
+227	0.3678124248981476	a person is walking in a dark room with a light.
+228	0.5333591103553772	two men are playing a game of basketball on an outdoor court.
+229	0.4229590594768524	a woman is holding a green marker and talking about it.
+230	0.3227212727069855	a man is on stage and is being cheered by a woman on stage.
+231	0.3366544842720032	a person is walking on a trail and looking at the camera
+232	0.48057490587234497	a man is standing in front of a white board and is talking.
+233	0.5270709991455078	a group of young boys are playing basketball in a parking lot.
+234	0.4960052967071533	a group of people are dancing to music in a room.
+235	0.4650292694568634	two people are climbing a rock wall while music is playing.
+236	0.34192800521850586	a person is holding a book and looking at the pictures.
+237	0.5530976057052612	a group of people are playing soccer in a field.
+238	0.33038195967674255	a person is putting some food in a box and putting it in a box
+239	0.44445207715034485	a group of people are dancing to music in the street.
+240	0.4767898619174957	a group of people are singing and singing a song.
+241	0.41295674443244934	a group of people are in a room and they are talking.
+242	0.45781242847442627	an older woman is sitting down and talking to the camera
+243	0.4094012975692749	a group of people are standing and doing some sort of exercise.
+244	0.40445470809936523	a person is showing how they can go down a slide.
+245	0.3936481177806854	a group of people are jogging down a path while a woman talks to them.
+246	0.29291826486587524	a person is riding a motorcycle and is going up a ramp.
+247	0.5054547786712646	a man and a woman are sitting at a desk and talking.
+248	0.5351735949516296	a man and a woman are sitting on a chair and talking to each other.
+249	0.4093698263168335	a woman is singing into a microphone while she is singing.
+250	0.4255773425102234	a group of people are swimming in a lake and talking about it.
+251	0.34015414118766785	a person is outside in the dark and is moving around.
+252	0.39892420172691345	three men are standing in a street and one of them is standing on the side of the
+253	0.46172061562538147	a man is walking down the street in a crosswalk.
+254	0.31146836280822754	a woman is talking about the weather and then a man is shown standing in front of her
+255	0.38792112469673157	two people are climbing a rock wall while another person is holding the rope.
+256	0.32697930932044983	a person is recording themselves outside and they are moving around.
+257	0.2507367432117462	a person is riding a raft through a river and is flowing.
+258	0.41448140144348145	a group of people are standing in front of a table and they are singing.
+259	0.3675707280635834	a little girl is playing with a ball and then she walks away.
+260	0.2758810818195343	a person is recording a video of a person looking for something
+261	0.5320252180099487	a man is using a large shovel to move a large amount of snow.
+262	0.584769606590271	a group of people are playing a game of flag football.
+263	0.48938360810279846	a person is flying a kite on the beach in the wind.
+264	0.30951476097106934	a person is walking around a room and is wearing a jacket.
+265	0.5793752670288086	a group of people are singing and dancing in a dark room.
+266	0.3845483958721161	a person in a red costume is dancing around a room.
+267	0.3882436454296112	a person is operating a machine that is moving around.
+268	0.4581257104873657	two people are riding their bikes and one of them falls off the ground.
+269	0.34011465311050415	a man is standing in a crowd and he is talking to someone.
+270	0.3515050411224365	a group of people are shown in a room and one of them is holding a phone.
+271	0.42378243803977966	a person is using a torch to work on a wall.
+272	0.38112494349479675	two men are sitting on a couch and one of them is dancing.
+273	0.3930128216743469	a man is surfing on a wave and then falls off.
+274	0.390922874212265	a group of people are celebrating and dancing and clapping.
+275	0.3977411687374115	two babies are playing with each other while the baby is laughing.
+276	0.5298095941543579	a group of people are doing the same dance in the ocean.
+277	0.40197116136550903	a man is in a tree and is cutting a large tree.
+278	0.39025500416755676	a young boy is riding a tractor in a neighborhood.
+279	0.6042466759681702	a group of people are playing basketball in a gym.
+280	0.34658247232437134	a man is sitting in a chair and is shaking his hand.
+281	0.37442290782928467	a person is blowing up a long tube with their hands.
+282	0.49414917826652527	a woman is sitting down and getting her hair braided.
+283	0.3528482913970947	two women are in a room and one woman is talking.
+284	0.39536330103874207	a person is water skiing on a lake and is holding onto a rope.
+285	0.4977380633354187	a man is sitting on a couch and is petting a dog.
+286	0.4866103231906891	a group of people are in a room and they are playing laser tag.
+287	0.3706022799015045	a man is jumping off a cliff and then he jumps off.
+288	0.49971210956573486	a man is dancing in front of a camera while music is playing.
+289	0.40919214487075806	a group of people are standing in a line and they are looking at something
+290	0.43103039264678955	a woman is standing on the beach and is looking at the beach.
+291	0.46084821224212646	a group of people are in a kitchen and they are dancing.
+292	0.446509450674057	a group of people are performing a play with swords.
+293	0.36350885033607483	a group of people are playing in the ocean and a person is standing on the beach.
+294	0.3425510823726654	a group of people are dressed in civil war clothing and are shooting guns.
+295	0.4255944490432739	a group of people are chanting and chanting in the background.
+296	0.5313359498977661	a person is using a machine to sew a piece of paper.
+297	0.46215569972991943	a group of people are walking through a muddy area.
+298	0.29330262541770935	a little girl is putting together a flower arrangement and making a face.
+299	0.4360560178756714	a man on stage is talking to a crowd of people.
+300	0.4010789692401886	a woman and a man are sitting on a beach and they are sitting on the beach.
+301	0.4561484456062317	a man is standing on a stage and is speaking to a crowd.
+302	0.4211500585079193	a group of young boys are huddled together and cheering.
+303	0.31937822699546814	a group of people are eating and drinking wine in a large room.
+304	0.32684025168418884	a group of people are playing with a ball and a woman is talking.
+305	0.3077299892902374	a person is using a hand to move a disk.
+306	0.5721815824508667	a man and a woman are dancing together in front of a building.
+307	0.4370628595352173	a man is standing in front of a camera and talking.
+308	0.43725961446762085	two men are fighting each other with boxing gloves.
+309	0.5077046155929565	a man is playing a song on a keyboard in a room.
+310	0.3415612578392029	a young boy is blowing a bubble with his mouth.
+311	0.42837730050086975	a man and a woman are standing in a car and they are hugging each other.
+312	0.3787766396999359	a man is holding a target and another man is holding it in his hand.
+313	0.4350236654281616	a woman is talking to a group of people who are standing around a table.
+314	0.42620500922203064	a woman is shucking oysters on a table while others are talking.
+315	0.38840779662132263	a person is holding a fish in a fish pond.
+316	0.392607182264328	a man is sitting on the ground and is trying to find something.
+317	0.42898237705230713	a person is playing a keyboard with both hands and hands.
+318	0.38181424140930176	a man is slapping a woman's face and then he laughs.
+319	0.474932461977005	a man is playing a cello while sitting down in a chair.
+320	0.3752552568912506	a person is slowly opening a door with their hands.
+321	0.34323951601982117	a person is riding a bicycle in the woods and is going to get the bike.
+322	0.6127498149871826	a man and a woman are sitting at a table talking to each other.
+323	0.3734954595565796	a group of men are in a room and they are moving their arms around.
+324	0.36619290709495544	a man with a beard and a beard is talking to someone.
+325	0.3512157201766968	a man is standing on a ladder and is playing a very large wooden instrument.
+326	0.3259507715702057	a large crowd is cheering as a stadium is cheering.
+327	0.3426278233528137	a person is skiing down a hill and then jumps over a small flag.
+328	0.3867238461971283	a person is standing on a ladder and is making a puppet show.
+329	0.3339289426803589	a crowd of people are standing and clapping while a man is shown on a stage.
+330	0.44813525676727295	a large group of people are standing in line and looking at something.
+331	0.4076510965824127	a person is swimming in the ocean with a lot of fish.
+332	0.3840091824531555	a man is trying to get the bull to the back of a bull.
+333	0.3209872543811798	a person is showing how they use a new item.
+334	0.36878007650375366	a man is sitting at a table and is flipping through a card.
+335	0.4099906384944916	two young boys are playing basketball on a paved surface.
+336	0.5001208782196045	a group of people are walking around in a large building.
+337	0.4313490390777588	a boy is walking down a street and then stops to the camera.
+338	0.4040326774120331	a woman is preparing a meal in a restaurant with other people.
+339	0.5378720760345459	a man is sitting on a couch and reading a book.
+340	0.34242427349090576	a man is using a computer to break apart a computer.
+341	0.3712420165538788	a group of people are jumping and playing a game of fighting.
+342	0.3560318648815155	a person is lighting a fire in the dark with a fire.
+343	0.3164946436882019	a group of people are doing some sort of tricks on a concrete wall.
+344	0.46349000930786133	two young men are standing in a room and one of them is talking.
+345	0.5117977261543274	a group of people are sitting at a table and talking to each other.
+346	0.5483702421188354	a group of people are playing a game of dodge ball.
+347	0.470803827047348	a group of people are dancing and dancing to music.
+348	0.5384150743484497	a group of people are flying kites in the sky.
+349	0.4235864579677582	a woman is demonstrating how to make a certain type of craft.
+350	0.4040798842906952	a man is standing in a kitchen and is talking to another man.
+351	0.3530750870704651	two women are on a stage and they are doing a dance.
+352	0.2914995551109314	a man is in a bathroom and is talking while he is doing something.
+353	0.4916192591190338	a little boy is walking around with a basket of easter eggs.
+354	0.43259164690971375	a person is snowboarding down a snowy hill while wearing a helmet.
+355	0.4519243836402893	three women are standing in front of a camera and they are waving.
+356	0.5013355612754822	a man is sitting in a boat and is fishing with a fishing pole.
+357	0.3967340290546417	a person is using a tool to make a small piece of ice.
+358	0.39814990758895874	a person is hanging from a rope and is going down a mountain.
+359	0.4300521910190582	a group of people are swimming in a pool and they are doing the same.
+360	0.3401836156845093	a man is working on a car and is trying to pull the car off.
+361	0.3829435706138611	a person is trying to pull a large bag from the back of a field.
+362	0.48622360825538635	a man is using a tool to fix a pair of glasses.
+363	0.3169706463813782	a person is recording a bird that is on the ground
+364	0.36486199498176575	a man is driving a truck and putting them in a pile.
+365	0.4595926105976105	a woman is standing in front of a crowd of people and she is speaking in the background
+366	0.35759520530700684	a man is talking and holding a microphone and talking.
+367	0.4277481436729431	a man is sitting on a chair and he is talking to another person.
+368	0.37236711382865906	a group of people are watching a large building and a person is talking in the background.
+369	0.3076353967189789	a person is in a boat and is moving the water with their feet.
+370	0.42237332463264465	a little boy is smiling and smiling while smiling at the camera
+371	0.5146807432174683	a group of men are playing soccer in a field.
+372	0.4321197271347046	a woman is sitting down and using her hands to make a beat.
+373	0.43849804997444153	a man is sitting in a chair and is rubbing his head with his hands.
+374	0.5093813538551331	a man is on a golf course and is hitting a golf ball with a club.
+375	0.47195518016815186	a group of people are playing instruments and one of them is playing the violin.
+376	0.3986939787864685	a person is pouring tea into a cup and then pouring it into a cup.
+377	0.32683345675468445	two women are standing in a room and they are dancing.
+378	0.5418647527694702	a group of people are running around on a field.
+379	0.32211291790008545	a person is riding a vehicle and looking at the camera
+380	0.3357284665107727	a person is putting money into a machine and then another person is talking.
+381	0.4476028084754944	two men are pushing a wheel barrow with a man in it.
+382	0.4139057397842407	a man and a woman are talking to each other and then the woman starts talking.
+383	0.35173293948173523	a person is riding a bicycle with their hands and they are laughing.
+384	0.4421437978744507	two men are standing on a sidewalk and one of them is trying to catch the other.
+385	0.507239043712616	a group of kids are celebrating a birthday party and they are blowing out the candles.
+386	0.4419061243534088	a man is speaking into a microphone while a group of people are sitting at a table.
+387	0.5198466181755066	a man is eating a hot dog and then takes a bite.
+388	0.3773399591445923	a little girl is holding a large white mushroom and is showing it to the camera.
+389	0.48188525438308716	a man and a woman are singing a song in a studio.
+390	0.34507760405540466	a man is doing tricks with his hand and walking around.
+391	0.3764629065990448	a man and a woman are outside in the open field.
+392	0.3980216383934021	a man is standing on a hill and is flying a kite.
+393	0.30437546968460083	a boy is talking and then he starts to talk.
+394	0.41861212253570557	a person is using a tool to wrap a fishing lure.
+395	0.4118382930755615	a man is sleeping on a bed and another man is laughing.
+396	0.44182395935058594	a group of people are standing on a trail and talking.
+397	0.3509175777435303	a person is standing at a river and is skipping rocks.
+398	0.3846622109413147	a man and a woman are standing in front of a white curtain and they are talking.
+399	0.5092837810516357	a person is parachuting in the air with a parachute.
+400	0.43092161417007446	two girls are singing and dancing to a song that is playing.
+401	0.4479963481426239	a group of people are riding bikes in a circle.
+402	0.39104142785072327	a man is headphones on is headphones and headphones.
+403	0.36471548676490784	a young girl is walking on a sidewalk and she is talking to someone.
+404	0.446969211101532	a woman in a costume is dancing to music in a large room.
+405	0.3489364981651306	a couple of people are sitting at a table and talking about the restaurant.
+406	0.4777664840221405	a person is using a pencil sharpener to sharpen their pencil.
+407	0.3561238944530487	a person is sitting on a bull and is moving it around.
+408	0.3771176040172577	a person is standing in front of a large window and is looking at the camera
+409	0.46033692359924316	a person is using a knife to cut through a large mushroom.
+410	0.37382468581199646	a group of people are walking down the street and one of them is walking.
+411	0.4210578203201294	a football game is being played and a man throws the ball to the receiver.
+412	0.40797144174575806	a person is recording a race car on a track.
+413	0.49593302607536316	a man is looking at the camera and is fixing his hair.
+414	0.35928642749786377	a person is standing in a river and is looking at the water.
+415	0.24557574093341827	a man is working on a large room with a large flag.
+416	0.46678975224494934	a woman is using a machine to fill up bags.
+417	0.5032615065574646	a man is playing a guitar and singing while sitting down.
+418	0.38123440742492676	a person is showing how they make a game with her hands.
+419	0.45456740260124207	two men are standing in a room and one of them is holding a wooden board.
+420	0.3128410279750824	a man is talking about a police officer that is located on the road.
+421	0.4235287010669708	a person is showing how they are collecting eggs in a basket.
+422	0.43995293974876404	a woman is using a comb to style her hair.
+423	0.5475781559944153	a woman is dancing in front of a group of people.
+424	0.2828735113143921	a man is in a store and is busy up a box of items.
+425	0.3369392454624176	a person is wearing a costume and dancing in a sand pit.
+426	0.5035313367843628	a man is running on a track and jumping into a sand pit.
+427	0.44601982831954956	a large group of people are waiting in line to enter a building.
+428	0.46208059787750244	a group of people are dancing to music in the background.
+429	0.47698885202407837	two men are playing guitars and singing while another man plays a guitar.
+430	0.35994112491607666	a person is opening a box with a lot of items.
+431	0.38413146138191223	a man is tying a string around a stick that is tied to a string.
+432	0.4292300045490265	a group of people in red and white shirts are dancing to music.
+433	0.43489381670951843	a woman is rubbing her face with her hand and rubbing it.
+434	0.3739069104194641	a man is sitting in a restaurant and is making a drink with his hands.
+435	0.4229111969470978	a bulldozer is driving through the snow and then a man is talking about it.
+436	0.577172577381134	a group of people are playing paint ball in a field.
+437	0.4543500542640686	a man is jumping out of a plane and then jumping out of it.
+438	0.3680114448070526	a group of men are standing in a room and one is rapping.
+439	0.334492027759552	a woman is talking about the best way to do something.
+440	0.44649431109428406	a group of men are standing on a field and they are playing a game of cricket.
+441	0.5231419801712036	a man is writing on a whiteboard while talking to a group of people.
+442	0.2946818172931671	a person is showing how they make a drink with a small glass.
+443	0.4522266983985901	a man is standing in front of a poster and reading a book.
+444	0.30449023842811584	a group of people are playing in the dirt and one of them is trying to get the
+445	0.2741972804069519	a man is putting a toy on a table and he is putting it on the wall.
+446	0.48023146390914917	a person is pouring a liquid into a glass and then pouring it into a glass.
+447	0.605762779712677	a group of people are jumping off a cliff into the water.
+448	0.4502880275249481	a group of men are standing around and shaking their hands.
+449	0.3764035105705261	a woman is showing how to do a certain type of hair.
+450	0.2915518581867218	a news anchor is talking about a news channel while another woman is standing behind her.
+451	0.3163231909275055	a girl is wearing sunglasses and is wearing sunglasses and is wearing sunglasses.
+452	0.3048062026500702	a person is showing a bunch of different colors of art.
+453	0.49407345056533813	a man is standing in front of a microphone and he is singing a song.
+454	0.33445242047309875	a large machine is being driven through a large field.
+455	0.4063608646392822	a woman is standing in front of a camera and is singing a song.
+456	0.4551621377468109	a woman is standing in a fenced area and she is throwing a ball.
+457	0.4476860463619232	a woman is playing a guitar and singing while another woman is playing the drums.
+458	0.32695701718330383	a person is walking around a room and then throwing things at a wall.
+459	0.3935241997241974	a large group of people are walking around a street.
+460	0.34793993830680847	a man is in a room and is throwing things into a pile of trash.
+461	0.4677589237689972	a group of people are racing go carts on a sandy area.
+462	0.49560749530792236	two men are working on a wall in fast motion.
+463	0.35921767354011536	a group of people are standing on a platform and they are trying to climb over a wooden
+464	0.37098464369773865	a group of people are walking down a street and talking.
+465	0.4560551941394806	a man is using a machine to fold a piece of paper.
+466	0.476582795381546	a basketball game is being played in a gym.
+467	0.3512592315673828	a group of people are sitting around and talking while a man is talking.
+468	0.42017662525177	two men are standing at a table and they are talking and talking.
+469	0.5135287642478943	a person is using a saw to cut through a branch.
+470	0.2988106608390808	a man is walking down a street and then he stops to drink it.
+471	0.5247026681900024	a group of people are walking around in a field.
+472	0.395808607339859	a person is standing on a wooden platform and feeding the birds.
+473	0.32062026858329773	a person is making a craft with a white cloth.
+474	0.3147786259651184	a person is recording a video of a large white animal.
+475	0.48728424310684204	a baby is laying on its back and sneezes.
+476	0.27370476722717285	a large crowd is walking around and looking at the camera
+477	0.3857257664203644	a man is speaking on a microphone while another man is standing on a stage.
+478	0.45904096961021423	a woman is dancing to music in a church while music is playing.
+479	0.37401288747787476	a man and woman are on a balcony and a man is standing on a bench.
+480	0.3220061957836151	a man is wearing a hat and is blowing smoke rings.
+481	0.42988789081573486	a man and a woman are standing in front of a camera and they are talking.
+482	0.545502781867981	two men are in the bathroom and one of them is washing his hair.
+483	0.5224835872650146	a man and woman are passionately hugging each other on a sunny day.
+484	0.389647513628006	two people are walking down a sidewalk and one of them is walking.
+485	0.4331917464733124	a man is dancing and shaking his head back and forth.
+486	0.35866186022758484	a woman is reading a picture of a bird and talking about it.
+487	0.33200907707214355	a child is walking around a path and is looking at the camera.
+488	0.39301225543022156	a man is showing how to make a certain type of drink.
+489	0.43840673565864563	a man is sitting at a desk and watching a video on a computer.
+490	0.46810367703437805	a man is driving a car and listening to music and he is listening to music.
+491	0.3312331736087799	a man is standing on a platform and is making a statue.
+492	0.32302960753440857	a man is walking through a green field and picking up green green bags.
+493	0.47842109203338623	a man and a woman are playing a harmonica and making music.
+494	0.34264814853668213	a group of people are standing around a stage and talking.
+495	0.3894146680831909	a group of people are in a room and one woman is walking around.
+496	0.3559146523475647	a group of people are standing in a truck and they are going through a dumpster.
+497	0.2808588445186615	a truck is being driven into a small truck and then a man is talking about it.
+498	0.3183065950870514	a woman is standing in a desert and is trying to get something out of her face.
+499	0.48010092973709106	two people are sitting at a table and playing with a remote control.
+500	0.4107942283153534	a young girl is standing in a field and is talking to someone.
+501	0.5387584567070007	two men are boxing in a boxing ring while music is playing.
+502	0.48918312788009644	a person is using their fingers to make music by tapping on a table.
+503	0.2854466140270233	a man is shown pulling a piece of string and then he starts to eat it.
+504	0.5404542684555054	a group of people are snowboarding down a hill.
+505	0.4445916712284088	a woman is sitting at a table and tapping a box on the table.
+506	0.3811701834201813	a person is showing how they can do some sort of game.
+507	0.5037030577659607	a group of kids are playing a game of laser tag.
+508	0.31229573488235474	two women are moving a couch and a dog is running around.
+509	0.3356093764305115	a person is walking around a deck on a deck.
+510	0.5544764399528503	a group of people are playing a game of soccer.
+511	0.48499470949172974	a man is playing the drums while another man is playing the drums.
+512	0.4471058249473572	a person is using a tool to make a design on a rock.
+513	0.3545026481151581	a man is blowing his nose and making a funny face.
+514	0.3961584270000458	a group of people are singing and dancing to music.
+515	0.39416301250457764	a young girl is standing in a field and is moving her hair around.
+516	0.3848583400249481	three young men are standing in a circle and one of them is slapped.
+517	0.3318355083465576	a man is walking on a trail and then a man is walking in the background.
+518	0.36785492300987244	a large group of people are standing in a large crowd and a man is standing in front
+519	0.49849170446395874	a man in a red dress is dancing in front of a car.
+520	0.4975629150867462	a woman is sitting in a chair and sneezing into a tissue.
+521	0.4644455313682556	a man is looking at the camera and is moving his head back and forth.
+522	0.5040436387062073	a man is showing how to fix a pair of glasses.
+523	0.35626962780952454	a man is doing the moonwalk in a room with a white background.
+524	0.5671314597129822	a man is giving a presentation in front of a group of people.
+525	0.4099394679069519	a man is doing some tricks on a concrete surface.
+526	0.3427373468875885	a group of people are pushing a car and the man is talking to the other.
+527	0.2878832519054413	a woman is shown making a funny face and making faces.
+528	0.4339282512664795	a man is riding a bike down the street and another man is talking.
+529	0.37689584493637085	a man is cleaning a room with a cloth and talking.
+530	0.2714538276195526	a person is filming themselves in a room with a lot of noise.
+531	0.49287325143814087	a group of people are watching a fire reenactment.
+532	0.41976964473724365	a group of men are sitting around and talking and laughing.
+533	0.41593867540359497	two men are standing in front of a camera and one of them is making a funny face
+534	0.41881063580513	three men are standing in a room and one of them is standing up and talking.
+535	0.4594205915927887	a large group of people are outside and they are dancing.
+536	0.3282250165939331	a group of people are standing around and watching a person with a white mask.
+537	0.348991721868515	a man is holding a box with a woman and he is holding.
+538	0.41314569115638733	a man is riding a skateboard down a road.
+539	0.318294495344162	a group of people are riding bikes and one person is trying to get the other down.
+540	0.32246968150138855	a woman is trying to get a yellow canoe to the side of a river.
+541	0.4000636339187622	a group of women are outside and they are outside and they are talking.
+542	0.4263395369052887	a man is driving a car while he is driving.
+543	0.351195752620697	a person is walking around in the dirt and finds a lot of dirt.
+544	0.48151230812072754	a man is playing a piano while another man is playing the piano.
+545	0.42191648483276367	a man is sitting at a table and is whistling to music.
+546	0.3139062523841858	a cat is shown in the background and a person is looking at the camera
+547	0.5137000679969788	a group of people are riding their bikes in the woods.
+548	0.4068067967891693	a man is on the ground and doing a dance with his hands.
+549	0.4352366626262665	a man is sitting on a chair and talking to the camera.
+550	0.4410592019557953	a group of people are working on a structure that is being built.
+551	0.3579545021057129	a man is shooting a gun and another man is talking.
+552	0.4714325964450836	a man is giving a demonstration on how to use a machine.
+553	0.3390543460845947	a woman wearing a blue headband is talking to someone in a room.
+554	0.48743146657943726	a man is sitting at a table and talking to another man.
+555	0.4531208872795105	a man is fishing in the water with a fishing pole.
+556	0.49955418705940247	a group of people are riding a raft down a river.
+557	0.26801666617393494	a man is talking about the importance of july and how to do it.
+558	0.48579445481300354	a man is throwing a frisbee at a park.
+559	0.45393937826156616	a man is sitting on a couch and is talking into a microphone.
+560	0.43987929821014404	a man is sleeping and someone is trying to wake him up.
+561	0.27942562103271484	two women are standing in a large room and they are making a video.
+562	0.4710742235183716	a group of people are working in a wood shop.
+563	0.4846615493297577	a large crowd of people are watching a show show.
+564	0.44593527913093567	a woman is sitting down and reading a book while talking about it.
+565	0.41742464900016785	a man is playing a guitar while another man is playing the guitar.
+566	0.4552968144416809	a man is speaking into a microphone while he is holding a microphone.
+567	0.36749938130378723	a man is standing in a room and is shaking two heavy balls.
+568	0.47816526889801025	two men are talking and one of them is speaking in the background.
+569	0.3677951693534851	a couple of people outside in the day playing with each other
+570	0.4077368974685669	a man is throwing a knife at a stone wall.
+571	0.28058379888534546	a man is walking through a room and is talking to a woman.
+572	0.574417233467102	a person is using a pen to write on a piece of paper.
+573	0.4765930473804474	a man is sitting on the ground and is trying to get something out of it.
+574	0.4655124247074127	a person is riding a skateboard on a paved road.
+575	0.39581960439682007	a person is pouring a liquid into a cup into a funnel.
+576	0.5102630257606506	a group of men are sitting around a table and listening to music and talking.
+577	0.3601219058036804	a car is driving down a road in the mountains.
+578	0.4698943793773651	a man is writing on a desk and talking about it.
+579	0.49838611483573914	a person is using a pair of scissors to cut a small piece of metal.
+580	0.6333917379379272	a man is milking a cow while another man is talking in the background.
+581	0.5970444083213806	a person is writing on a piece of paper with a pen.
+582	0.4370265603065491	a group of girls are standing in a circle and they are singing.
+583	0.25031575560569763	a person is showing a puppet and is wearing a costume.
+584	0.41449227929115295	a man is doing pull ups on a bar in a room.
+585	0.47252190113067627	a man is standing in front of a window and slowly stretching his arms.
+586	0.5251224637031555	a group of people are playing a game of soccer.
+587	0.31370866298675537	a group of people in a huddle and chanting together.
+588	0.3938441574573517	a person is spray painting a picture with a red and white paint.
+589	0.33479130268096924	a group of people are standing on a road and one of them is standing on the side
+590	0.4030645489692688	a person is walking down the street with a lot of people.
+591	0.44952139258384705	a baby is being held up by a woman and is talking to him.
+592	0.47795334458351135	a man is painting a picture on a white canvas.
+593	0.45641475915908813	a person is swimming in a pool with a lot of people.
+594	0.4486432671546936	a man is eating a chocolate cream cone while another man is talking in the background.
+595	0.27093058824539185	a person is showing how they are enjoying the zoo and the animals are talking.
+596	0.5261059999465942	a group of people are sitting at a table and eating and talking.
+597	0.32521989941596985	a person is flowing down a waterfall in a river.
+598	0.49807050824165344	two people are dancing in a room with music playing in the background.
+599	0.329494446516037	three young boys are eating something and laughing.
+600	0.49468815326690674	a man is washing a woman's feet in a large tub of water.
+601	0.4427547752857208	three women are sitting at a table and talking about something.
+602	0.48459795117378235	a man is sitting in a chair and talking to another man.
+603	0.5057728886604309	a group of men are dancing and waving their arms.
+604	0.5345879793167114	a person is using a tool to create a design on a piece of fabric.
+605	0.365100234746933	a man is sitting on a chair and holding a camera in his hand.
+606	0.5099036693572998	a large group of people are walking around in a field.
+607	0.384968638420105	a woman is driving a car and the man is talking about it.
+608	0.41119492053985596	a man is looking through a store and looking at items in a store.
+609	0.2957765460014343	a man is dressed in a very dark clothing and is shooting a gun.
+610	0.4358716607093811	a woman and a dog are playing with a dog.
+611	0.49294987320899963	a group of people are doing some sort of dance moves.
+612	0.297031432390213	a man is talking about a microphone while he is talking.
+613	0.41089653968811035	a woman is laying down and is blowing bubbles with her hands.
+614	0.32514315843582153	a man is holding a snow covered in snow and is trying to get it to the camera
+615	0.33342766761779785	a person is walking around a mall and is going back and forth.
+616	0.5380330681800842	a man is dancing in front of a wall while music is playing.
+617	0.44974642992019653	a man on stage is speaking to a crowd of people.
+618	0.38970547914505005	a person is looking through different items that are in a store
+619	0.3893589973449707	a large orchestra is being played in a large auditorium.
+620	0.3701695501804352	a group of people are standing in a lake and are feeding the birds.
+621	0.43260064721107483	two girls are in a room and one of them is trying to get the other.
+622	0.42295679450035095	a group of people are sitting in a room and they are singing.
+623	0.410908967256546	a large group of people are standing in a circle and they are dancing.
+624	0.4905705451965332	a group of people are using a water bottle to clean a window.
+625	0.3547264337539673	a man is walking down a road with a backpack on his back.
+626	0.4336414039134979	a woman is standing in front of a camera and is singing a song.
+627	0.3937012851238251	two young girls are walking down a street and one of them is running.
+628	0.35955342650413513	a group of people are in a water park and are trying to get out of the water
+629	0.41494128108024597	a man and a woman are standing on a ledge and one of them is standing next to
+630	0.29621726274490356	a woman is walking around a store with a bunch of people.
+631	0.36697298288345337	a person is standing in front of a wall and is painting the wall with a paint.
+632	0.25121399760246277	a man is walking through a room with a gun and then he is shown.
+633	0.4179326295852661	a group of people are sitting on a ski lift and one of them is standing on the
+634	0.4159328043460846	two women are standing in front of a car and they are singing.
+635	0.3539760410785675	two women are standing in a park and one of them is holding a stick in his hand
+636	0.42076772451400757	a person is using a machine to make adjustments on a circuit board.
+637	0.4028448164463043	two people are wrestling each other with each other and laughing.
+638	0.4464833438396454	a man is shining a piece of clothing with a cloth.
+639	0.48229745030403137	a man in a wheel chair is rolling around in a restaurant.
+640	0.4304249882698059	a group of people are digging in the dirt and planting it.
+641	0.4093194603919983	a person is showing how they drive in a car.
+642	0.3035377562046051	a person is filming themselves in the daytime and there is a lot of snow
+643	0.3705335557460785	a woman is standing in a field and is dancing around.
+644	0.4822721481323242	two people are parasailing in the air with a parachute.
+645	0.5715261697769165	a man is drawing a picture of a woman on a piece of paper.
+646	0.4656306505203247	a woman is sitting down and speaking to the camera.
+647	0.3870512545108795	a group of girls are sitting on the ground and they are wearing headphones.
+648	0.4210440516471863	a group of people are skateboarding in a park.
+649	0.5174378156661987	a man and a woman are sitting on a chair and eating something.
+650	0.43473920226097107	two boys are standing in the ocean and one of them is slapping the other.
+651	0.28062498569488525	a view of a river with many different people walking around.
+652	0.40786299109458923	a person is sitting on the ground and is moving their legs around.
+653	0.46988779306411743	two men are in a boxing ring and one of them is knocked down.
+654	0.31497594714164734	a person is filming a group of people in the wilderness.
+655	0.34391558170318604	a group of people are riding bikes and they are trying to get a long jump.
+656	0.47774165868759155	a person is driving a boat in a body of water.
+657	0.43471696972846985	a group of people are sitting around a table and drinking wine.
+658	0.37670037150382996	a large crowd is watching a football game and the crowd cheers.
+659	0.4447323977947235	two girls are laughing and laughing while one of them is laughing.
+660	0.4392344653606415	a man is sitting at a table and is taking a bite of a large burger.
+661	0.38111165165901184	two men are cooking something in a pan while another person is talking.
+662	0.40640193223953247	two boys are walking down a street and one of them is pushing the other.
+663	0.38060662150382996	a group of men are sitting on a bench singing and singing.
+664	0.49642786383628845	a person is drawing a picture of a girl on a piece of paper.
+665	0.35693785548210144	a group of people are walking around in a field.
+666	0.39584511518478394	a large crowd is watching a football game and the crowd is cheering.
+667	0.4146873354911804	a band is playing music and a man is playing the drums.
+668	0.4217459261417389	a person is recording themselves riding a motorized scooter.
+669	0.34422677755355835	a car is driving down a road and is moving to the side of the road.
+670	0.39830678701400757	a group of people are driving a car that is stuck in the mud.
+671	0.3705734312534332	two girls are dancing and singing a song while dancing.
+672	0.30904802680015564	a person is showing how they are using a plastic tube to pull the inner tube out of
+673	0.46930694580078125	a person is recording themselves playing laser tag in a dark room.
+674	0.3815324306488037	a group of people are riding motorcycles and one person is waving their hands.
+675	0.4472343623638153	a man is packing a suitcase and putting it in a bag.
+676	0.4287690222263336	a group of people are in a karate class and they are doing some karate moves.
+677	0.3596503734588623	a group of people are standing on a snowy mountain and they are waiting for something
+678	0.5156523585319519	a man is playing a guitar and singing a song.
+679	0.5120556354522705	a group of people dance to music in a large room.
+680	0.40437787771224976	a person is walking through a tunnel and looking for something.
+681	0.43681880831718445	a group of people are dancing and performing on a stage.
+682	0.46568045020103455	a person is doing tricks with a ball in a parking lot.
+683	0.3867154121398926	a man is pressing a metal object on a metal surface.
+684	0.4201638102531433	a man is standing on a stage and he is dancing on a stage.
+685	0.39114153385162354	a group of people are standing on a cliff and one of them is standing on the ground
+686	0.4245413541793823	a group of people are outside and they are outside in a field.
+687	0.3812214434146881	a man is sitting at a table and talking to a woman who is watching.
+688	0.5133616924285889	a group of people are surfing in the ocean on surfboards.
+689	0.3901808559894562	a man is sitting on the ground and is putting a ball in his hand.
+690	0.5572486519813538	a person is walking on a tight rope that is strung between two trees.
+691	0.4982026219367981	a man is playing a guitar while sitting on a bench.
+692	0.5071625113487244	a group of people are playing music on the street.
+693	0.43068015575408936	a woman is sitting in a chair and talking about a book.
+694	0.5102154612541199	a person is changing the tire on a car while music is playing.
+695	0.4198790490627289	a man is climbing down a cave with a flashlight on.
+696	0.5719524621963501	a group of people are walking in a body of water.
+697	0.4617415964603424	a woman is dancing in a circle while music is playing.
+698	0.31524285674095154	a group of people are standing around and one of them is trying to get the other to
+699	0.41649961471557617	a man is sitting in a dark room and he is listening to music and moving his arms
+700	0.5367423892021179	a large group of people are watching a race on a dirt track.
+701	0.2697059214115143	a man is dancing in a field with a large white flag.
+702	0.5553731918334961	a man and a woman are passionately kissing each other.
+703	0.31015992164611816	a man is sitting in a stadium and is watching a game.
+704	0.2974478602409363	a man is walking through a subway and he is talking to someone.
+705	0.3516814410686493	a man is standing in front of a large screen and then a man is shown talking about
+706	0.4079170227050781	a person is recording themselves skiing down a snowy mountain.
+707	0.3859112560749054	a group of people are working on a truck that is being constructed.
+708	0.5276952981948853	a man is sitting on a bench and reading a book.
+709	0.32886552810668945	two girls are walking in a hallway and talking about the experience.
+710	0.40768876671791077	a person is doing tricks on a skateboard and then jumps off a ramp.
+711	0.38158801198005676	a man is on stage and is singing while the crowd cheers.
+712	0.39421162009239197	a person is walking on a river with their shoes on.
+713	0.3939615786075592	a man is sitting down and is cleaning the bottom of a bowl.
+714	0.4759409725666046	a man and woman are in the street and they are kissing each other.
+715	0.2846316695213318	a man is standing on a stage and is getting ready to get a picture.
+716	0.45026153326034546	a group of people are dancing and dancing in a room.
+717	0.38649845123291016	a group of people are standing around a table and they are talking.
+718	0.4093370735645294	a man is demonstrating how to use a tool to work on a small object.
+719	0.39976608753204346	a girl is sitting on a chair and she is throwing a ball to the other side.
+720	0.4299551546573639	a group of people are doing stunts on their bikes.
+721	0.5082939863204956	two men are wrestling in a ring while a referee watches.
+722	0.3701465427875519	a man is throwing something into a truck and then walks away.
+723	0.33587056398391724	a man is outside and is using a grill to move food.
+724	0.4836485683917999	two people are riding their bikes in a gym.
+725	0.35262933373451233	a man is using a flashlight to make different lights.
+726	0.5725747346878052	a person is using a water hose to water the plants.
+727	0.2552855610847473	a woman is talking about her experience and then she is going to take a picture of her
+728	0.3971560597419739	two people are sitting at a table and looking at a camera.
+729	0.41605696082115173	a man is walking a dog on a leash and the dog is running.
+730	0.3376582860946655	two men are walking down the street and one of them is playing a song.
+731	0.2674502730369568	a person is using a large red tractor to turn over a small track.
+732	0.32827362418174744	a group of people are in a boat and they are trying to get out a boat.
+733	0.408623605966568	a man is singing on stage while another man plays the guitar.
+734	0.393546462059021	a group of people are walking around a large room.
+735	0.43687140941619873	a woman is playing a musical instrument with her hands.
+736	0.5037396550178528	a person is using different colors to color in a picture.
+737	0.47104254364967346	a woman is sitting at a table and singing a song.
+738	0.4405859112739563	a man is folding clothes on a table with his hands.
+739	0.3969743847846985	a boy is practicing his baseball skills in a baseball field.
+740	0.3568725287914276	a man is walking through a house and then looks at the camera.
+741	0.4186381995677948	a woman is riding a motorized cart down a street.
+742	0.3800385594367981	a woman is sitting down and talking about her phone.
+743	0.30897948145866394	a woman is walking on a rock and then she is walking.
+744	0.36782750487327576	a young boy is laughing and laughing while he is laughing.
+745	0.43482208251953125	a man is standing in the sand and is waving his hand up and down.
+746	0.37834617495536804	a man is on stage and is talking to a group of people.
+747	0.33132848143577576	a group of men are standing around and cheering while a man is talking.
+748	0.5029374957084656	two men are on a boat and one of them is holding a fish.
+749	0.30574652552604675	a person is walking down the street and then a person is shown walking.
+750	0.40290534496307373	a man is laying down on the floor and is using a tool to move the carpet.
+751	0.4076797366142273	two men are sitting in front of a camera and talking.
+752	0.40575742721557617	a group of people are walking around a rocky area.
+753	0.3478829860687256	a person is shown performing a rap song on a wall.
+754	0.4917227327823639	a woman is pushing a car while another woman is talking in the background.
+755	0.4471471309661865	a group of kids are riding their bikes in a circle.
+756	0.41064321994781494	a group of girls are standing in a room and they are talking.
+757	0.41752514243125916	a person is holding a bird in their hand and is feeding it.
+758	0.4279393255710602	a person is in a barn and is feeding a cow.
+759	0.48617231845855713	a man and a woman are standing in front of a crowd and they are talking.
+760	0.4159545302391052	a woman is playing a guitar and singing while the audience cheers.
+761	0.4485664665699005	two girls are sitting at a table and one of them is trying to get the other to
+762	0.49714189767837524	a group of people are on a stage and they are dancing.
+763	0.4024495780467987	a man is dancing in a bar with a woman in the background.
+764	0.4026212990283966	a group of people are unloading a large truck from a truck.
+765	0.245991513133049	a woman is talking about her new flowers and she is doing.
+766	0.3199315071105957	a woman is showing off her husband that she has made.
+767	0.47990864515304565	a group of people are playing music and one man is playing the guitar.
+768	0.41055697202682495	a football game is being played and a referee is talking about it.
+769	0.2937389612197876	a group of people are walking around a mall and then a girl is shown dancing.
+770	0.3173806965351105	a group of cars are driving down a road while cars are parked.
+771	0.30214786529541016	a large crane is being used to demo a building.
+772	0.5353689193725586	a group of women are dancing to music on a stage.
+773	0.37115979194641113	a person is mixing a bunch of ingredients in a bowl with a hand.
+774	0.38608866930007935	a woman is playing a violin in a room with a piano.
+775	0.36633971333503723	a group of people are standing in a bus bus and they are talking.
+776	0.41961774230003357	a man is swimming in a pool with a mask on.
+777	0.36264270544052124	a group of people are running down a street with a man on a wheel chair.
+778	0.43600836396217346	a man and a woman are in a car and they are talking about the car.
+779	0.294077068567276	a person is showing a picture of a book and then shows pictures of the pictures.
+780	0.4041203558444977	a man is standing on a stage and is moving his arms up and down.
+781	0.3817737400531769	a man is tying a fishing lure with a string.
+782	0.3078666627407074	a man is using a phone to make a joke.
+783	0.5435298681259155	a group of people are riding horses and playing a game of polo.
+784	0.4919821619987488	a man is standing on a stage and singing a song.
+785	0.4203658103942871	a man and a little girl are walking around a mall and talking.
+786	0.3916233777999878	a group of people are standing around a table and one person is holding a bottle of wine
+787	0.3791007101535797	a group of people are standing in a room and they are singing.
+788	0.37515920400619507	two men are riding on a boat and they are driving.
+789	0.2851286828517914	a man is running on a track and is running with a dog.
+790	0.34877151250839233	a man is doing some type of dance moves on a desert.
+791	0.39322683215141296	a woman is cleaning the window of a window with a cloth.
+792	0.4764944911003113	a group of people are standing in a line and they are playing instruments.
+793	0.36480581760406494	a person is showing how they can do with their hands.
+794	0.39993202686309814	a group of girls are singing a song with their hair.
+795	0.45354992151260376	a group of kids are sitting on the floor and they are sitting down.
+796	0.4085023105144501	a little boy is in the water and is trying to get his attention.
+797	0.4680075943470001	a man is cleaning the hair of another man in a room.
+798	0.28922951221466064	a girl is dancing in her room and she is trying to get the ball out of the
+799	0.5039435029029846	a group of people are outside and they are trying to put out a fire.
+800	0.3591838777065277	a group of people are attending a wedding and a man is talking to a woman.
+801	0.379903644323349	a man and a woman are sitting on a bench and they are playing a song with sticks
+802	0.3201090395450592	two men are rowing in a canoe and they are moving their arms.
+803	0.40192750096321106	a man is standing in a kitchen and is mixing a bowl of water.
+804	0.3199808895587921	a woman is wrapping a red dress in a red dress.
+805	0.4931469261646271	two people are listening to music and shaking their heads back and forth.
+806	0.4255198836326599	a group of people are doing tricks on a skateboard.
+807	0.49067842960357666	a group of people are riding motorcycles down a street.
+808	0.5004521012306213	a man is singing into a microphone while singing a song.
+809	0.559043824672699	two people are outside in the snow and are having a snowball fight.
+810	0.39958876371383667	a man is standing in front of a classroom and talking about a project.
+811	0.4243963956832886	a woman is standing in a store and talking to someone else.
+812	0.4407590925693512	a group of people are standing in a room and they are clapping.
+813	0.5126909017562866	a group of people are sitting at a table and talking into a microphone.
+814	0.45233622193336487	two people are working together to make a wooden box.
+815	0.3055836856365204	a man is kissing a woman and he is kissing him.
+816	0.4298795461654663	a person is driving a tractor that is plowing the dirt.
+817	0.6054354310035706	a man is using a tool to carve a piece of wood.
+818	0.43548333644866943	two young men are standing in front of a white wall and singing.
+819	0.46404916048049927	a man is standing in front of a camera and he is talking.
+820	0.3750992715358734	a group of people are playing instruments and singing while others are walking around.
+821	0.4850960671901703	a group of soccer players are walking around on the field.
+822	0.35535928606987	a car is driving through a parking lot and then a person is talking about it.
+823	0.4370590150356293	a group of people are standing in a line and they are standing in a line.
+824	0.35425397753715515	a person is doing some tricks with their hands and falling.
+825	0.3977207839488983	a woman is weaving a basket and then another woman is talking in the background.
+826	0.41764035820961	a group of people are in a room and are dancing.
+827	0.365123987197876	a man is sitting on a chair and is getting his hair cut.
+828	0.4934878647327423	a man is climbing a rock wall while another man is talking in the background.
+829	0.409368634223938	a woman is playing a large bass bass while another woman is talking in the background.
+830	0.41411417722702026	a group of people are sitting in a circle and a person is talking.
+831	0.4061249792575836	a young man is walking around a room with other people.
+832	0.47466859221458435	a man and woman are standing in front of a microphone and they are talking.
+833	0.5128287672996521	a man is playing the drums and another man is playing the drums.
+834	0.4510963261127472	a large group of people are standing in a line and they are cheering.
+835	0.48849502205848694	a person is riding a skateboard and doing tricks on it.
+836	0.45512518286705017	a group of people are standing in front of a camera and they are standing in front of
+837	0.4580320715904236	a man and a woman are walking down a sidewalk.
+838	0.29451948404312134	a man is talking about the process of making a gun.
+839	0.4433894753456116	a group of people are standing in a parking lot and one man is pushing a car.
+840	0.423102468252182	a bear is laying on the ground and a person is talking about it.
+841	0.3280385732650757	a couple of people are in a room and they are moving around
+842	0.4028039276599884	a man is juggling three objects while another man is talking to him.
+843	0.5306862592697144	a man is sitting on a boat and listening to music and dancing to the music.
+844	0.4723711907863617	a man is holding a baby and the baby is talking to him.
+845	0.418692409992218	a man is in a garage and is fixing a motorcycle.
+846	0.4611559808254242	a young girl is sitting in a chair and is getting her hair cut.
+847	0.49772948026657104	a woman is dancing in the middle of the beach.
+848	0.5232017636299133	two men are sitting on a couch and talking about something.
+849	0.36427921056747437	a man is riding a jet ski in a lake.
+850	0.41352036595344543	a group of people are outside and they are trying to get out a fire.
+851	0.5729149580001831	a man and a woman are cooking on a grill.
+852	0.41662710905075073	a man is welding a metal object while wearing a protective mask.
+853	0.4378109574317932	a group of people are walking through a muddy area.
+854	0.4065375328063965	a group of people are in a building and they are moving around.
+855	0.38127076625823975	a man is singing in front of a large crowd.
+856	0.3719264268875122	a person is showing how they use a tool to bend a piece of metal.
+857	0.3758952021598816	a person is cooking some food in a pot on a stove.
+858	0.402807354927063	two men are in a room and one of them is dancing and the other is laughing.
+859	0.3358483910560608	a woman is standing on a hill and then she throws a rock at the camera.
+860	0.3230164647102356	a person is making a picture of a woman on a rope.
+861	0.3059629499912262	a person is walking around a park and is looking at the camera
+862	0.27989014983177185	a person is filming a chicken and is looking at the animal.
+863	0.3368569016456604	a woman is outside and is trying to get a dog to go.
+864	0.45426979660987854	a group of people are dancing and singing in unison.
+865	0.4594365656375885	a group of people are sitting at a table and a person is speaking in the background.
+866	0.4002995193004608	a man is talking about a group of people who are sitting down and talking.
+867	0.4515973627567291	a man is removing the cookies from the oven and putting them in a pan.
+868	0.47077858448028564	a young boy is playing with a toy and talking.
+869	0.40590623021125793	a group of people are snowboarding and one person is recording them.
+870	0.36826714873313904	a man is sitting in front of a curtain and is playing with a puppet.
+871	0.418415367603302	a woman is making a snowball in the snow.
+872	0.47356122732162476	two young men are dancing to music in a tennis court.
+873	0.6359080672264099	a person is using a tool to carve a piece of wood.
+874	0.4066171646118164	a man is using a tool to make adjustments on a bicycle.
+875	0.36903291940689087	a man is playing a large piece of furniture in a building.
+876	0.45830070972442627	a man is folding a white cloth on a table.
+877	0.38549426198005676	a man is walking around a room with a large screen.
+878	0.4405307471752167	a group of people are in a building and they are moving around.
+879	0.43753117322921753	a man is driving a vehicle and talking to the camera.
+880	0.4146474599838257	a man is painting a picture of a mario on a wall.
+881	0.3335176110267639	a young girl is playing with her mother and is trying to get it to the camera.
+882	0.3898416757583618	an older woman is talking to a woman who is laughing.
+883	0.3918073773384094	a group of birds are eating food and feeding the birds.
+884	0.4055823087692261	three young men are standing in a room and talking.
+885	0.4516446590423584	a group of men are standing in line and talking.
+886	0.4959486126899719	a man is singing and playing the guitar while singing.
+887	0.48953038454055786	a man is standing on a ledge and he is jumping off of it.
+888	0.4655340015888214	a woman is playing with a glass ball that is on the ground.
+889	0.4337695240974426	two people are standing on a ladder and one of them is cleaning the window.
+890	0.3745121955871582	a woman is using a plastic bottle to clean a path.
+891	0.33427128195762634	a person is weaving a basket with a needle and a needle.
+892	0.3141064941883087	a woman is shown doing a demonstration on how to use a box.
+893	0.41328954696655273	a large group of people are walking through a line and looking at something.
+894	0.35296356678009033	a group of women in colorful outfits are dancing in a line.
+895	0.49301210045814514	a person is driving a car and listening to music.
+896	0.2896728217601776	a person with a black costume is wearing a hat and is wearing a hat.
+897	0.4380432963371277	two men are in a car and one of them is talking.
+898	0.40261584520339966	a band is playing on stage and the audience is cheering.
+899	0.45009708404541016	a man is sitting in a chair and talking about the camera.
+900	0.5540561079978943	a group of girls are playing a game of field hockey.
+901	0.3218921720981598	a group of people are laughing and laughing while one woman is trying to get the other.
+902	0.5087835192680359	a man and a woman are playing a song on a stage.
+903	0.48818230628967285	a person is drawing a picture of a woman with a brush.
+904	0.4776231646537781	a woman wearing a hat is talking to the camera
+905	0.5077593326568604	a group of young boys are playing a game of basketball.
+906	0.4774148762226105	a man and a woman are sitting in a chair talking to each other.
+907	0.5117472410202026	a group of people are walking around and talking to each other.
+908	0.28692591190338135	a woman is moving a box around a restaurant and then she starts to move.
+909	0.36726996302604675	a person is cracking their knuckles on a table and making a noise.
+910	0.3612504005432129	a girl is putting on a pair of glasses and then she starts to put on it.
+911	0.45916658639907837	a person is parasailing in the air with a parachute.
+912	0.37587013840675354	a man is holding a trophy and another man is holding a trophy.
+913	0.42693522572517395	a man is holding a small metal object and showing it to the camera.
+914	0.4634827971458435	a large group of people are standing in a circle and listening to music.
+915	0.3576388955116272	a person is snowboarding down a mountain and then jumps off.
+916	0.3720049262046814	a man is snowboarding on a snowboard with another person.
+917	0.3949539363384247	a car is being driven in a parking lot while music is playing.
+918	0.326852023601532	a man is talking about the importance of july and then he is talking about it.
+919	0.4554969072341919	a group of women are standing in a line and they are listening to music.
+920	0.5308657288551331	a group of people are surfing in the ocean with music playing in the background.
+921	0.40493354201316833	a man is kissing a woman on the cheek and then kisses her.
+922	0.287970632314682	a man is running through the air and then he is running in the air.
+923	0.5089322328567505	a man and a woman are standing in front of a camera and they are smiling.
+924	0.4485470950603485	a woman is using a brush to clean a window.
+925	0.5293750762939453	a group of people are walking around and talking to each other.
+926	0.322653591632843	a person is looking at a picture of a family.
+927	0.3201994001865387	a person is walking on a sidewalk and making a dance.
+928	0.4434323310852051	a man is standing on a platform and he is doing some kind of dance.
+929	0.39368098974227905	a group of people are sitting in a subway and one man is speaking.
+930	0.380012571811676	a woman is sitting down and talking about the camera.
+931	0.44108644127845764	a child is stirring a bowl of food and talking about it.
+932	0.4094424247741699	a woman is walking through a shopping store and looking for items.
+933	0.41999879479408264	a group of people are hiking on a rocky mountain.
+934	0.4402247965335846	a man is petting a cat and the dog is laughing.
+935	0.38562506437301636	a man is walking in the water and is looking at the shore.
+936	0.45381438732147217	a group of people are standing around a red car.
+937	0.45521315932273865	a man is shining a shoe while talking about it.
+938	0.5655878782272339	a man is shaving his beard in front of a mirror.
+939	0.4018496572971344	a boat is moving on the water while a man is talking in the background.
+940	0.3697499930858612	a group of people are doing tricks on a wall.
+941	0.39888492226600647	a person is skiing down a hill and then jumps off.
+942	0.4759916663169861	a person is driving a tractor in a field full of trees.
+943	0.41428181529045105	a person is flipping through a picture of a man and talking about it.
+944	0.2576747238636017	a man is talking about the business of july and then he is doing.
+945	0.34604784846305847	a man is holding a phone and talking to someone.
+946	0.49521830677986145	a little girl is pushing a wheelbarrow around a yard.
+947	0.3297950327396393	a boat is backing up to a dock and it is very slowly.
+948	0.42265480756759644	a woman is sitting on a chair and talking to another woman.
+949	0.3569352626800537	a person is in a canoe and is trying to get the canoe to the water.
+950	0.5288015604019165	a person is using a tool to cut a piece of wood.
+951	0.35315778851509094	a person is showing how they use a machine to make a craft.
+952	0.43404141068458557	a man and woman are in a restaurant and they are dancing.
+953	0.36968207359313965	a person is using a paintbrush to clean off a dirt covered ground.
+954	0.32108595967292786	a chicken is standing in a cage and is being fed by a person.
+955	0.5547307729721069	a group of young men are playing basketball in a gym.
+956	0.42628931999206543	a man is riding a go kart on a very fast pace.
+957	0.4830401837825775	a man is speaking in front of a large crowd of people.
+958	0.32255589962005615	a group of people are cheering and cheering while a man is shown.
+959	0.47903022170066833	a woman is showing how to pack a suitcase with clothes.
+960	0.5013941526412964	a group of people are sitting in a room and talking to a group of people.
+961	0.5397303700447083	two men are sitting down and playing a musical instrument.
+962	0.376301646232605	two people are on a stage and they are playing a song.
+963	0.49635636806488037	a woman is riding in a car and talking to the camera.
+964	0.4678191840648651	a group of people are standing around and talking to each other.
+965	0.34350258111953735	a person is driving a car that is covered in the back of a truck.
+966	0.5469239950180054	a group of people are running around in the grass.
+967	0.3803213834762573	a person is shining a flashlight in a dark room.
+968	0.477856308221817	a woman is applying makeup to her face with a brush.
+969	0.44292011857032776	a woman is standing outside and she is doing some kind of dance.
+970	0.31744620203971863	a person walks through a dark area with a lot of lights.
+971	0.40103644132614136	a man is doing some construction work on the side of a hill.
+972	0.4565400183200836	a man is walking down a hallway while another person is talking.
+973	0.3722975552082062	a person is showing a bunch of birds that are on the ground
+974	0.42512744665145874	a man is trying to lick a woman's neck while she is laughing.
+975	0.38721200823783875	a person is playing a game of drums with his hands.
+976	0.46366989612579346	a person is kayaking in a river while music is playing.
+977	0.5022097229957581	a group of people are riding in a vehicle and talking.
+978	0.3337176442146301	a person is outside and is trying to put something in a chain.
+979	0.3533449172973633	a person is swimming in the ocean and is looking at the sea.
+980	0.5824326872825623	a man is sitting in a chair and reading a book.
+981	0.4104357659816742	a large group of people are cheering and cheering for a game.
+982	0.4423508644104004	a person is shown jumping off a waterfall into a waterfall.
+983	0.34999796748161316	a group of people are dancing and singing while others are watching.
+984	0.2923774719238281	a woman is walking around a large white box that is covered in it.
+985	0.5842470526695251	a man is dancing in front of a crowd of people.
+986	0.2879300117492676	a woman is walking through a river and picking up a bag of water.
+987	0.41270390152931213	a man is walking around on the street in front of a store.
+988	0.4280165433883667	a person is packing items into a bag and placing them in a bag.
+989	0.29123198986053467	a young boy is climbing a rock and then he is climbing up.
+990	0.38861504197120667	a group of women are standing in a room and one woman is talking.
+991	0.47974255681037903	a person is using a hammer to break a piece of wood.
+992	0.5567107796669006	a man is using a tool to polish a piece of metal.
+993	0.49011972546577454	a man is using a tool to fix a pair of glasses.
+994	0.5309195518493652	a man is playing a guitar while singing a song.
+995	0.34440693259239197	a group of people are standing around and one of them is playing a game with a lot
+996	0.326046347618103	a man on stage is acting out a play while a man is talking.
+997	0.3705247640609741	a woman is painting a car with a black and white paint.
+998	0.5118665099143982	a person is climbing up a rock while another person is talking in the background.
+999	0.29268649220466614	a young boy is making a video of his mother and he is making a video.
+1000	0.43113118410110474	a young girl is ice skating in a rink and she is talking to her.
+1001	0.38181784749031067	a person is flying a parachute in the snow while others watch.
+1002	0.3589406907558441	a group of people are standing around a dog and they are getting ready to take a bath
+1003	0.39133840799331665	a man is driving a tractor and is driving it.
+1004	0.45296812057495117	a man is sitting in a chair talking about a video game.
+1005	0.3625410199165344	a group of people are watching a seagul in the water.
+1006	0.3182383179664612	a woman is dancing to a man in a restaurant.
+1007	0.37957391142845154	a group of children are watching a cartoon show on the television.
+1008	0.406435489654541	a woman in a costume is wearing a costume and wearing a costume.
+1009	0.3847804367542267	a man is climbing a rock with a rope and is attached to the top.
+1010	0.351702481508255	two people are parachuting down a road with a lot of trees.
+1011	0.4704299569129944	a person is playing a musical instrument with their hands.
+1012	0.35266831517219543	a man is skiing and doing tricks while skiing on a snowboard.
+1013	0.3748525083065033	a young man is laughing and laughing while he is laughing.
+1014	0.4202471673488617	a man is skateboarding in a skate park and doing tricks.
+1015	0.3764248192310333	a man is standing in front of a wall and is using a brush to paint the head
+1016	0.3851238191127777	a woman is running on a field with her legs behind her.
+1017	0.36027991771698	a man is walking on a bridge and is walking on the water.
+1018	0.2572453022003174	a living room is shown with a lot of people and a woman is talking about it.
+1019	0.34662172198295593	three young boys are walking around and one of them is trying to get the other.
+1020	0.28676971793174744	a person is walking around a city street and looking at the camera
+1021	0.4954584538936615	a man is playing a musical instrument in a studio.
+1022	0.37937605381011963	a group of people are walking around a hallway and then one man walks into the room.
+1023	0.47975319623947144	a person is cooking some food in a pot on a stove.
+1024	0.5052675008773804	a group of people are sitting in a room and listening to music.
+1025	0.4126953184604645	a person is driving a vehicle with a lot of wheels.
+1026	0.5132926106452942	a man is singing and dancing in front of a store.
+1027	0.4091169238090515	a woman is using a tool to make a necklace.
+1028	0.3788279891014099	a group of people are using laser guns to make a beat.
+1029	0.6364916563034058	a man is sitting in a chair and reading a book.
+1030	0.280364453792572	a woman is talking about her work on a table.
+1031	0.4040011763572693	a group of people are sitting around and looking at something.
+1032	0.5249465703964233	a man and a woman are sitting at a desk and talking.
+1033	0.39968782663345337	a man is sitting in a studio and listening to music and he is listening to music.
+1034	0.33956781029701233	a person is outside and is throwing a water bottle.
+1035	0.4598885178565979	a woman is sitting in a car and talking about the experience.
+1036	0.37109053134918213	a person is dancing around with a monster truck on the ground.
+1037	0.41207554936408997	a young man is in the water paddling a surfboard.
+1038	0.33174949884414673	a person is showing how to use a printer to make a copy.
+1039	0.3612368702888489	a machine is moving a piece of metal through a machine.
+1040	0.45155787467956543	a woman is trying to get her shoe out of a river.
+1041	0.36502400040626526	three men are standing on a sidewalk and one of them is trying to make a sculpture.
+1042	0.3506094813346863	a woman is reading a book and reading a story.
+1043	0.46927565336227417	two girls are sitting on the ground and they are playing with their hands.
+1044	0.4724358320236206	a group of people are sitting in a room and listening to music.
+1045	0.27387991547584534	a man is talking about the goods of a store.
+1046	0.3873917758464813	a man is walking around a room with other people.
+1047	0.5514631867408752	a man and a woman are swimming in a pool.
+1048	0.43485817313194275	a man is riding a horse and talking to the camera.
+1049	0.4703342020511627	a group of men are playing music together in a room.
+1050	0.3618631660938263	a group of women are talking and one woman is rubbing something in her hands.
+1051	0.26009437441825867	a person is riding a red red vehicle with a robot on it.
+1052	0.47479841113090515	a group of people are walking around in the snow.
+1053	0.44522491097450256	a woman is sitting on the floor and is folding a piece of fabric.
+1054	0.4992845058441162	a man is driving a car while another person is talking in the background.
+1055	0.5299591422080994	a man is writing on a piece of paper with a pen.
+1056	0.3922159671783447	a group of men are doing tricks on a table.
+1057	0.2973594665527344	a woman is talking about a cup of tea and she is making it.
+1058	0.3737320005893707	a person is standing on their tip toes and they are standing on their feet.
+1059	0.2488086074590683	a man is laying down and is sleeping and then he is wearing a white hat.
+1060	0.28301170468330383	a man is pushing a car and then he is stopped.
+1061	0.5222136378288269	a woman is dancing on a stage in front of a large crowd.
+1062	0.559410035610199	a man is sitting on a chair and shaving his legs.
+1063	0.4206744134426117	a young boy is walking around in a field with a lot of trees.
+1064	0.3838856816291809	a man is working on a bike and is fixing the tire.
+1065	0.41231074929237366	a group of people are sitting in a circle and one person is talking.
+1066	0.4862377643585205	a group of people are waving and waving at the camera.
+1067	0.4145360291004181	a man is sitting on a bench and talking to a crowd of people.
+1068	0.39314863085746765	a man and a woman are shown pruning a tree with a lot of trees.
+1069	0.39163973927497864	a football game is being played and a man throws a ball to the receiver.
+1070	0.2724163830280304	a four - car is being pushed into a race car.
+1071	0.40420132875442505	a person is using a cloth to clean a pair of black shoes.
+1072	0.36895516514778137	a man is using a tool to break up a large piece of metal.
+1073	0.30110663175582886	a fountain is shown with a lot of people in the background.
+1074	0.4318696856498718	a person is playing hopscotch on a sidewalk.
+1075	0.3830198645591736	a woman is working on a wood table with a machine.
+1076	0.4412999749183655	a group of young men are skateboarding in a circle.
+1077	0.306378573179245	a person is driving a car on a track and then stops.
+1078	0.3677792549133301	a man in a suit is walking through a canyon.
+1079	0.4668474793434143	a person is using a machine to make a piece of metal.
+1080	0.44370514154434204	a group of men are standing in a circle and they are waving their arms.
+1081	0.32424330711364746	a man is holding three balls of balls and then he picks them up.
+1082	0.28797924518585205	a large machine is shown and a person is moving around.
+1083	0.40053701400756836	a man is in the car and is listening to music and moving his head back and forth
+1084	0.33157387375831604	a person is showing how they are picking up some type of basket.
+1085	0.37409111857414246	a group of people are walking in a line and they are walking.
+1086	0.2975793182849884	a person is skydiving and then they are wearing a harness.
+1087	0.4789939820766449	a man and a woman are dancing to music in a room.
+1088	0.3865118622779846	a person is walking on a snow covered surface with music playing.
+1089	0.36716121435165405	two women are sitting on a chair and one is talking about the other.
+1090	0.34370872378349304	a person is making a flower arrangement with a large gold plate.
+1091	0.5165359377861023	a man is sitting on a couch and reading a book.
+1092	0.5121164321899414	a group of people are trying to unload a car from the back of a truck.
+1093	0.3494182229042053	two men are playing music on a drum set while listening to music.
+1094	0.42365261912345886	a person is using a tool to make a piece of leather.
+1095	0.3255082070827484	two women are dancing to music and one of them is trying to get the camera.
+1096	0.41313618421554565	two men are riding on a motorcycle and one of them is wearing a helmet.
+1097	0.3582129180431366	a woman is wearing a mask and is talking to the camera.
+1098	0.44643545150756836	a woman is speaking into a microphone while another woman is standing behind her.
+1099	0.48545950651168823	a man is sitting in a vehicle and is talking to the camera.
+1100	0.3056207299232483	a woman is talking to a woman in a public place.
+1101	0.37234261631965637	a group of people are walking around a store and talking.
+1102	0.4332219958305359	a woman is trying to cross a rock in a forest.
+1103	0.3771529197692871	a man is riding a small vehicle on a dirt road.
+1104	0.40166735649108887	a group of people are running in a race and they are running.
+1105	0.5630579590797424	two men are sitting on a couch and talking to each other.
+1106	0.33244267106056213	a person is standing on a cliff and is looking at the edge of it
+1107	0.2818330228328705	a group of people are moving around and moving their hands around.
+1108	0.41526299715042114	a person is swimming in the water with a fish.
+1109	0.40186402201652527	a group of people are standing on a snowy mountain and they are talking.
+1110	0.3502424657344818	a woman is walking around a store and talking about the clothes.
+1111	0.4645937979221344	a man is standing in front of a camera and talking to the camera.
+1112	0.40491288900375366	a man is sitting in a chair and is singing a song.
+1113	0.42853060364723206	a man is putting together a small box on a table.
+1114	0.5073940753936768	a man is driving a car and singing a song.
+1115	0.32826894521713257	a person is skiing down a hill and is making a way.
+1116	0.32219982147216797	a person is showing how they draw a word with a pen.
+1117	0.45482179522514343	a person is doing some tricks on a skateboard.
+1118	0.3091573417186737	a group of cyclists are standing around and one of them is trying to get the other.
+1119	0.4660249948501587	a person is sitting at a computer and playing a game of poker.
+1120	0.40173256397247314	a group of people are sitting in a room and one man is texting.
+1121	0.3532772362232208	a person is showing how they can go out of the water.
+1122	0.329455703496933	a man is talking to another man about the experience of a conference.
+1123	0.38087260723114014	a woman is using a paint to paint her face.
+1124	0.3585588335990906	a man is practicing his boxing skills in a large ring.
+1125	0.41911324858665466	two people wearing masks and masks are dancing to music.
+1126	0.30691099166870117	a man is showing off his skills of making a video.
+1127	0.4646417200565338	a group of people are racing around a race car.
+1128	0.4136457145214081	a group of people are sitting at a table and one of them is trying to get the
+1129	0.5436283349990845	two men are sitting on a couch and one of them is playing the drums.
+1130	0.555148184299469	a person is using a machine to clean a piece of metal.
+1131	0.4968036115169525	a man in a kayak is rowing in a kayak.
+1132	0.434686541557312	two men are wrestling in a room and one of them is hitting the other.
+1133	0.49562838673591614	a group of young girls are dancing to music in a large room.
+1134	0.4974943697452545	a man is sitting on a bench and whistling a song.
+1135	0.4987834692001343	a group of people are singing and dancing to the music.
+1136	0.3682551980018616	a man in a forest is wearing a mask and is dancing.
+1137	0.4776938557624817	a woman in a bikini is walking in the sand on a beach.
+1138	0.4641430377960205	a little boy is sitting at a table and is making a meal.
+1139	0.32645198702812195	a man is showing how to properly set up a pool.
+1140	0.35597753524780273	a man is using a long tube to clean the pool.
+1141	0.331186443567276	a woman is sitting in a chair and is trying to climb a large piece of cloth.
+1142	0.3653647303581238	two men are dancing together on a city street.
+1143	0.42024460434913635	a man is fighting in a boxing ring while others watch.
+1144	0.41057607531547546	a woman is standing on a ledge and is playing a game with her hands.
+1145	0.39073145389556885	a group of people are walking around a large area.
+1146	0.536068320274353	a man is sitting in a chair and talking to another person.
+1147	0.5514544248580933	a group of people are playing a game of soccer.
+1148	0.5614566206932068	a group of girls are playing volleyball in a gym.
+1149	0.5878021121025085	a group of people are performing a dance routine in front of an audience.
+1150	0.4577566385269165	a group of people are standing in a line and they are clapping.
+1151	0.4172801375389099	a group of people are dancing in a room with a man in the background.
+1152	0.4253588914871216	a person is bowling and throwing a ball down the lane.
+1153	0.4770351052284241	a woman is dancing in the middle of the water.
+1154	0.3776163160800934	a group of people are in a room and are moving around.
+1155	0.4506624639034271	a little girl is eating a piece of candy and then she puts it all over her face
+1156	0.388008713722229	a group of people are riding on the desert and the sun is shown.
+1157	0.5614227652549744	a group of people are riding their bikes through a forest.
+1158	0.43678396940231323	a group of people are skydiving and then they fall down.
+1159	0.5082404613494873	a man is sitting on top of an alligator and is pulling it out of the water.
+1160	0.4159489870071411	a group of people are in a dining room and they are eating and laughing.
+1161	0.472517192363739	a man is swimming in a pool with a dog.
+1162	0.3868611752986908	two men are standing in a room and one of them is shaking the other.
+1163	0.44902610778808594	a man and a woman are laughing and dancing to music.
+1164	0.551422119140625	a person is riding a dirt bike in a field.
+1165	0.4134753346443176	a person is using a machine to make a beat on a table.
+1166	0.37867656350135803	a couple is standing in a dark room and kissing each other
+1167	0.4703015089035034	a person is drawing a picture on a piece of paper.
+1168	0.3693234324455261	a woman is playing a guitar and singing while people are cheering.
+1169	0.44060733914375305	a person is writing graffiti on a wall with a black background.
+1170	0.3507612347602844	a toy train is being driven down a track while a man talks.
+1171	0.42230817675590515	a group of people are skateboarding in a street.
+1172	0.4116862714290619	a group of people are standing around a building and a woman is talking.
+1173	0.43426406383514404	a man is standing on a sidewalk and talking to a crowd of people.
+1174	0.3999525308609009	a man is talking to a group of people and they are standing in front of them.
+1175	0.33352550864219666	a man is directing a garbage truck and is directing the trash.
+1176	0.28978270292282104	a woman is showing off a new game of game.
+1177	0.3811759948730469	a woman is sitting on a rock and is looking at the camera.
+1178	0.3674916625022888	a group of people are in a boat and they are trying to get the boat to the
+1179	0.5179082751274109	a man is doing tricks on a skateboard in a skate park.
+1180	0.49316975474357605	a man is working on a machine that is in front of him
+1181	0.37943512201309204	a woman is talking to a man in a dark room.
+1182	0.4490474760532379	a group of people are at a gas station and they are dancing to music.
+1183	0.42632272839546204	a man is standing in a field and talking about the weather.
+1184	0.5084146857261658	a man is riding a bike up a ramp and then jumps off a ramp.
+1185	0.32955923676490784	a person is showing how they are wearing a dartie.
+1186	0.398861289024353	two women are standing in front of a camera and they are talking.
+1187	0.42186295986175537	a woman is applying lip liner to her lips in a room.
+1188	0.42558589577674866	a group of men are sitting around a table and talking.
+1189	0.3513419032096863	a man is climbing a rock and then another man is shown climbing.
+1190	0.4689687192440033	a man and a woman are doing a trick with their hands.
+1191	0.3755485415458679	two women are sitting on a chair and one is holding a large piece of fabric.
+1192	0.2941388189792633	a girl is laughing and screaming while she is trying to get her car out of the car
+1193	0.5166659355163574	a person is holding a bird in their hand and feeding it.
+1194	0.3931293487548828	a person is running on a metal object that is in front of them
+1195	0.4708460569381714	a man is sitting at a table and is eating a meal.
+1196	0.3650592267513275	a group of people are in a room and one person is holding a bottle
+1197	0.4161238968372345	a woman is speaking in a foreign language while a group of people are standing around her.
+1198	0.5903580188751221	two men are using a drill to make a hole in a piece of wood.
+1199	0.5053603649139404	a man is standing in front of a camera and he is shaking his head.
+1200	0.35694679617881775	a group of people are riding bikes and then a person is shown riding a bike.
+1201	0.4011405408382416	a group of people are working on a building and talking.
+1202	0.4016258418560028	a group of girls are standing in a circle and they are taking a picture.
+1203	0.4844292998313904	a man is standing in a river and holding a fish in his hands.
+1204	0.42554911971092224	a group of people are walking in a field and they are walking.
+1205	0.5018572807312012	a group of people are walking around and talking to each other.
+1206	0.42329126596450806	a man in a white suit is talking and talking.
+1207	0.411067932844162	a group of people in a room are talking and talking.
+1208	0.4888262450695038	a man is standing on a platform and is blowing into a long pole.
+1209	0.4988096356391907	a boy is using a hammer to hit a piece of metal.
+1210	0.29418057203292847	a group of people are standing around a building and one person is using a phone to make
+1211	0.37050697207450867	a man is standing on a chair and is playing a guitar.
+1212	0.4872995615005493	a man is sitting in a car and is whistling a song.
+1213	0.551424503326416	a group of people are dancing to music in the back of a boat.
+1214	0.40784451365470886	a person is riding a horse down a hill and then stops.
+1215	0.40614911913871765	a person is using a pair of glasses to make a noise.
+1216	0.35142895579338074	a man is showing off his skills and he is doing.
+1217	0.3384898602962494	a person is folding a shirt on a table and talking.
+1218	0.42213812470436096	a group of people are sitting in a room and talking about something.
+1219	0.3266336917877197	a person is showing how to use a machine to make a transaction.
+1220	0.4159901738166809	a boy is riding a bike and another boy is walking behind him.
+1221	0.44385725259780884	a man wearing a cowboy hat is playing a song on a large stage.
+1222	0.3966076076030731	people are walking through the dark with a flashlights.
+1223	0.3674505949020386	two women are dressed in costumes and dancing in a street.
+1224	0.3816319406032562	a girl is standing in the dark and is talking to someone else.
+1225	0.29013386368751526	a man is shown in a field and is stepping on a wooden box.
+1226	0.5126568078994751	a woman is sitting at a table and she is playing with her fingers.
+1227	0.4999843239784241	a group of people are standing around and talking to each other
+1228	0.45609429478645325	a man is singing on stage while the crowd cheers him on.
+1229	0.3848428428173065	a woman is sitting on the ground and is picking up rocks.
+1230	0.36146461963653564	a woman is smiling and smiling while she is laughing.
+1231	0.40275391936302185	a woman is showing how to make a jar of cream.
+1232	0.3215678036212921	two women are standing in a circle and one is wearing a helmet.
+1233	0.3481217920780182	a person is pouring a liquid into a glass and then they are talking about it.
+1234	0.41881969571113586	a person is walking on a bridge and then jumps off.
+1235	0.4506556987762451	a group of people are sitting on the floor and one woman is talking.
+1236	0.35174843668937683	a man is cooking a dish in a kitchen with other ingredients.
+1237	0.4723893105983734	a group of people are skiing down a mountain in the snow.
+1238	0.47856655716896057	a group of people are outside and they are playing with each other
+1239	0.4197429418563843	a man is looking at the camera and then he is wearing a pair of glasses.
+1240	0.4792824983596802	a group of people are skateboarding in a circle while music is playing.
+1241	0.3419502079486847	a woman is sitting at a table and is talking to a man who is laughing.
+1242	0.35372498631477356	a group of people are in a room and they are fighting each other with a mask.
+1243	0.5388931632041931	a group of people are sitting on the ground and talking.
+1244	0.4524436295032501	a group of people are walking across a busy street.
+1245	0.4636543393135071	a group of men are playing instruments in a circle.
+1246	0.3922410011291504	a band is playing on stage and the band is playing.
+1247	0.4376565217971802	a group of people are dancing and singing to the song.
+1248	0.4331074655056	two girls are standing in a line and talking to each other.
+1249	0.4002649486064911	two girls are in a room and one of them is talking and the other is laughing.
+1250	0.4574137032032013	a man is standing in a field and is talking to the camera.
+1251	0.4480119049549103	a person is driving a tractor in a field.
+1252	0.41592592000961304	a man is fighting a bull with a red cloth.
+1253	0.49513161182403564	a group of people are dancing and dancing on stage.
+1254	0.40535786747932434	a person is swimming in the water with a lot of fish.
+1255	0.39944925904273987	a man is cooking in a kitchen and is cooking.
+1256	0.41512346267700195	a group of people are swimming under water and one person is swimming.
+1257	0.41878098249435425	a man is playing a guitar while standing on a bench.
+1258	0.34192249178886414	a group of people are shown smashing a pile of garbage.
+1259	0.4496297240257263	a group of people are standing in a line waiting for a picture.
+1260	0.4312607944011688	a group of people are playing instruments in a large room.
+1261	0.42103344202041626	a boy is showing how to properly set up a table.
+1262	0.3769107162952423	a man is walking around a room with a lot of people.
+1263	0.426029771566391	a man is driving a tractor with a plow attached to it.
+1264	0.44273659586906433	a woman is standing in front of a white door and she is looking at the camera.
+1265	0.3770170211791992	a woman is dancing in the woods with a lot of trees.
+1266	0.44720593094825745	a man is sitting on a staircase and is trying to climb it.
+1267	0.5529657006263733	a man is water skiing while holding onto a rope.
+1268	0.3837185204029083	a person is using a blue object to climb up a rock.
+1269	0.3522515296936035	a man is on stage and he is talking to a woman on stage.
+1270	0.45323991775512695	a group of people are playing music on the street.
+1271	0.35355111956596375	two girls are shown in a room and one of them is sitting down.
+1272	0.3331424295902252	a man is in the woods with a camera and is looking at something.
+1273	0.4189924895763397	a person is flying a kite in the sky with a lot of buildings.
+1274	0.4247966706752777	two women are dancing to music in a room.
+1275	0.5726986527442932	a group of people are riding horses through a snowy path.
+1276	0.568823516368866	a man and a woman are sitting at a table and they are folding paper.
+1277	0.33318156003952026	a group of young men are playing a game of dance.
+1278	0.3782946467399597	a man is directing traffic in a parking lot while another man is talking.
+1279	0.4151764214038849	a man is demonstrating how to use a device to make adjustments.
+1280	0.34222865104675293	a large crowd of people are cheering and cheering as a person is shown.
+1281	0.45889705419540405	a group of people are standing around and talking to each other.
+1282	0.4455769956111908	a man is painting a wall with a brush and a brush.
+1283	0.3632267117500305	a man is whistling a song while he is playing.
+1284	0.2840936779975891	a person is looking at the glass and showing the inside.
+1285	0.371823251247406	a woman is swimming underwater and is swimming in the ocean.
+1286	0.335223913192749	a person is standing on their toes and slowly putting their foot on the ground
+1287	0.4237630069255829	a woman is laying on a table and is demonstrating how to do a stretch.
+1288	0.3561566174030304	a person is using a tool to create a fly.
+1289	0.4473755955696106	a large group of people are standing in a line and they are looking at the camera
+1290	0.3870185315608978	a person is swimming underwater and is looking at the camera.
+1291	0.5472593307495117	a group of women are dancing to music in a studio.
+1292	0.40847912430763245	a group of men are playing instruments and singing in a foreign language.
+1293	0.5255594253540039	a girl is sitting on a tree and reading a book.
+1294	0.4440276622772217	a baby is sitting in a baby seat and is being held by a woman.
+1295	0.4221676290035248	a man and a woman are sitting at a table and they are playing a game of sc
+1296	0.3772489130496979	a man is playing a drum set with a little boy.
+1297	0.4597141146659851	a person is flying a kite in the sky while music is playing.
+1298	0.38051557540893555	a man is on stage and is dancing to the audience.
+1299	0.45912832021713257	a large group of people are dancing and clapping their hands.
+1300	0.4247380793094635	a group of people are standing on a sidewalk and talking.
+1301	0.3510601222515106	a group of people are standing in front of a camera and they are taking a box of
+1302	0.3575214743614197	a group of people are walking on a mountain with a lot of people.
+1303	0.4155716896057129	a man is standing in a store and is doing a magic trick with a sword.
+1304	0.42818233370780945	a man is walking through a room with other people.
+1305	0.5099177956581116	a group of kids are outside and they are playing with each other
+1306	0.510809063911438	a man is standing on a stage and talking to a group of people.
+1307	0.5473228693008423	a man is riding a skateboard and doing tricks on a ramp.
+1308	0.35556545853614807	a man is talking and then he turns around and talks.
+1309	0.5174317359924316	a group of people are walking around in a field.
+1310	0.46776267886161804	a young girl is sitting on a bed and cleaning her shoes.
+1311	0.4347003698348999	a man is sitting at a table and talking to another man.
+1312	0.36761119961738586	a young boy is walking in the snow and then he stops.
+1313	0.3370910882949829	a boy is talking and then he is making a video of himself.
+1314	0.3960374891757965	a group of people are standing around a table and one of them is getting ready to cook
+1315	0.305531769990921	a view of a large city with buildings and buildings.
+1316	0.5177289247512817	a woman is standing at a podium talking into a microphone.
+1317	0.47990718483924866	a group of kids are dancing and dancing to music.
+1318	0.304111123085022	a car is being driven in a car and the car is stopped.
+1319	0.2331707775592804	a girl is talking and then she is talking about the camera.
+1320	0.4146631062030792	a man is showing how to lay down a wall.
+1321	0.3880409896373749	a group of women are dancing and singing in unison.
+1322	0.31938838958740234	people are walking around a fire while a man is talking.
+1323	0.43821433186531067	a man and woman are talking to each other and they are playing rock paper scissors.
+1324	0.6112673878669739	a person is riding a four wheeler through a body of water.
+1325	0.45545610785484314	a person is showing how they drive down the street.
+1326	0.33792635798454285	a person is filming a very high building and there is a lot of buildings.
+1327	0.35483482480049133	a man is talking to another man and then a man is talking.
+1328	0.43901440501213074	people are sitting at a table and they are eating food.
+1329	0.4826567769050598	three people are sitting in a vehicle and talking to each other.
+1330	0.4202005863189697	a man is giving a presentation on a screen in front of a large screen.
+1331	0.4926154613494873	two men are wrestling in a wrestling match while a crowd watches.
+1332	0.5696575045585632	two people are riding skateboards down a winding road.
+1333	0.35070541501045227	a dog is standing in a pond and is being fed by a person.
+1334	0.4614444077014923	a large group of people are sitting at a table and listening to a man speak.
+1335	0.5278700590133667	a man and a woman are dancing to music in a foreign language.
+1336	0.3587700426578522	a person is driving a car down a road in the day.
+1337	0.5221990942955017	a man and a woman are sitting on a couch and one of them is singing.
+1338	0.4946298897266388	a man is climbing a rock wall while another man is talking in the background.
+1339	0.37237945199012756	a woman is sitting down and is talking to the camera.
+1340	0.5376032590866089	a group of people are playing volleyball in the water.
+1341	0.2974432408809662	a person is showing how they build a very large structure.
+1342	0.3190992474555969	a man is holding a piece of paper and then he is laughing.
+1343	0.41477730870246887	a man is standing in the water and is talking to the camera
+1344	0.5193753838539124	a man is standing on a beach and talking to the camera.
+1345	0.3853842616081238	a group of men are dancing to music and dancing.
+1346	0.5408225655555725	a group of people are dancing to music in a room.
+1347	0.3834434747695923	a man is carrying a large bag of clothing and putting it in a bag.
+1348	0.5238302946090698	a woman is dancing in a room with music playing in the background.
+1349	0.5870416164398193	a group of people are riding their bikes on a dirt track.
+1350	0.5412116646766663	a man is sitting on a couch and talking to someone else.
+1351	0.49706506729125977	a group of people are walking around in a mall.
+1352	0.4065161943435669	two women are standing in a room and one is talking.
+1353	0.38489076495170593	two men are sitting in a room and one is playing air drums.
+1354	0.6138319373130798	a group of people are riding horses in a field.
+1355	0.3209117650985718	a man is talking about the experience of a conference.
+1356	0.43269672989845276	a group of people are sitting on a bench and playing a song.
+1357	0.4111438989639282	a man is digging through a pile of trash.
+1358	0.48008084297180176	a man is playing a guitar and singing while another man plays the drums.
+1359	0.5309255719184875	a person is rock climbing while another person is talking in the background.
+1360	0.5415971279144287	a group of men are sitting down and playing a musical instrument.
+1361	0.4314737617969513	a group of people are standing in a circle and they are chanting.
+1362	0.5433362722396851	a group of people are watching a wrestling match in front of a crowd.
+1363	0.4388890862464905	a group of kids are celebrating a birthday party and they are celebrating.
+1364	0.5426415205001831	a man is sitting in a chair and speaking to the camera.
+1365	0.36544421315193176	a group of people are standing in front of a building and then a man walks up to
+1366	0.4799463152885437	a man and a woman are sitting in a chair and one woman is talking.
+1367	0.5228551030158997	a man is rock climbing while another man is talking in the background.
+1368	0.3071596920490265	a person is walking down a street and then stops to stop.
+1369	0.5625238418579102	a man is on a golf course and is hitting a golf ball with a club.
+1370	0.3799409866333008	a group of people are putting on a table and they are putting on a show.
+1371	0.45896637439727783	a group of people are standing around and listening to music.
+1372	0.4607650339603424	a person is reading a book and reading the words.
+1373	0.4015375077724457	a group of people are sitting in a chair and they are moving their arms around.
+1374	0.34134456515312195	a man is dancing and moving his arms around and over again.
+1375	0.35892388224601746	a group of people are standing on a cliff and looking at the camera
+1376	0.35342028737068176	a man is talking into a microphone while two men are standing on a road.
+1377	0.4200175702571869	a group of people are dancing to music and dancing.
+1378	0.37029126286506653	a person is twirling a light in the dark with lights.
+1379	0.3294267952442169	a person is using a machine to turn the levers on a board.
+1380	0.43912118673324585	two dogs are playing with a dog on a beach.
+1381	0.4301407039165497	a group of children are in a room and they are popping balloons.
+1382	0.508084774017334	a man is playing a trumpet while standing in front of a wall.
+1383	0.3750067353248596	a man in a mask is dancing around a room.
+1384	0.44095784425735474	a woman is preparing a meal in a kitchen.
+1385	0.5171601176261902	a person is flying a kite in the air while music is playing.
+1386	0.342907577753067	a person is skateboarding down a hill and going around the side.
+1387	0.4909476041793823	a man is rollerblading in a parking lot while music is playing.
+1388	0.5259281992912292	a person is using a long brush to clean the side of a building.
+1389	0.4596938192844391	a person is using a colored pencil to color in a picture.
+1390	0.42941930890083313	a large group of people are dancing and cheering in a large room.
+1391	0.3700553774833679	a person is using a tool to cut a flower.
+1392	0.37553679943084717	a truck is being driven by a man on a sunny day.
+1393	0.49337977170944214	a person is using a door to open a door.
+1394	0.38583216071128845	three men are playing music and singing while the other is playing the drums.
+1395	0.45437607169151306	a group of people are watching a fire reenactment.
+1396	0.37629735469818115	a man is standing on a lake and is throwing a fish into the water.
+1397	0.4526450037956238	a group of people are sitting in a line and singing.
+1398	0.3451436758041382	a woman is on stage performing a dance routine while another woman is playing the guitar.
+1399	0.40474480390548706	a man is skiing down a snowy hill while wearing a helmet.
+1400	0.375861257314682	a man is sitting on a rope and trying to climb up a large rock.
+1401	0.34359243512153625	a man is talking to a crowd of people and they are standing on a stage.
+1402	0.455477774143219	a man and a woman are in a car and they are kissing.
+1403	0.40105709433555603	a group of people are dancing to music and singing.
+1404	0.3189895451068878	a woman is on stage and she is wearing a costume.
+1405	0.33270272612571716	a group of people are serving and serving a dish.
+1406	0.3008273243904114	a person is walking around a building and is moving around.
+1407	0.550104022026062	a woman is playing the violin while people walk by.
+1408	0.43329280614852905	a man is sitting on a chair and is getting his hair cut.
+1409	0.435916006565094	a man is using a long rod to shape a piece of glass.
+1410	0.40877068042755127	a band is playing on stage with a large crowd of people.
+1411	0.4619940221309662	a group of people are standing in a line and talking.
+1412	0.4291139543056488	a woman is driving a car and talking about the gears.
+1413	0.3627086281776428	two women are standing in the snow and one of them is trying to get the other.
+1414	0.3310195207595825	two men are playing a drum set with sticks and drums.
+1415	0.4495089054107666	a man is walking through a grocery store and is looking at the camera.
+1416	0.40390950441360474	a group of people are climbing a rock and one of them is trying to climb up.
+1417	0.35281047224998474	a man is in a boat and is trying to catch a fish.
+1418	0.3045404553413391	a man is cutting up fruit in a large plastic bag.
+1419	0.6406531929969788	a group of people are playing laser tag in a dark room.
+1420	0.3688599467277527	a person is parachuting down a hill and is falling down.
+1421	0.4442412257194519	a man is sitting at a table and talking about the topic.
+1422	0.4318994879722595	a group of people are pushing a car out of a car.
+1423	0.45601794123649597	a man is sitting on the ground and talking about the bike.
+1424	0.31582263112068176	a boat is driving through the water and it is very fast.
+1425	0.39948326349258423	a man is using a tool to make a sound on a horse.
+1426	0.28989896178245544	a person is filming a video of a person walking down a large building.
+1427	0.4213482439517975	a man is climbing a ladder while another man is talking in the background.
+1428	0.3478407561779022	a person is mixing some red liquid in a bowl with other ingredients.
+1429	0.3734957277774811	a man is sitting on a chair and is drumming with his hands.
+1430	0.5247073173522949	a large group of people are walking down a street.
+1431	0.3237338960170746	a person is climbing a rock in a very dark area.
+1432	0.49499282240867615	a group of people are dancing and dancing to music.
+1433	0.37193137407302856	a group of people walking through the snow and walking
+1434	0.34456387162208557	a man is sitting down and counting a paper in a fast motion.
+1435	0.33392345905303955	a dog is being walked by a man and the dog is barking.
+1436	0.5120265483856201	a man and a woman are dancing to music in a room.
+1437	0.4572038948535919	a man is playing a harmonica while another man plays the drums.
+1438	0.46594351530075073	a woman is doing a demonstration on how to use a card.
+1439	0.39158979058265686	a group of people are riding on a very rocky day.
+1440	0.40174776315689087	a man is running in a room and is playing the drums.
+1441	0.39159518480300903	two men are singing and dancing in a room with a microphone.
+1442	0.4762721657752991	three women are sitting at a table and talking about the game of monopoly.
+1443	0.44994282722473145	a person is smoking a hookah and blowing smoke out of it.
+1444	0.3454331159591675	a man is standing in front of a table and is getting ready to cut the cake.
+1445	0.3112773895263672	a group of people are on a boat and they are watching the boat go.
+1446	0.3726104497909546	a person is parasailing in the air and then falls down.
+1447	0.43822920322418213	a man and a woman are in a room and they are singing.
+1448	0.500416100025177	a woman and a man are sitting in a chair and talking to each other.
+1449	0.4720589518547058	a person is using a pencil to color in a drawing of a woman.
+1450	0.5319981575012207	two boys are playing basketball on a basketball court.
+1451	0.42332446575164795	a person is climbing up a rock wall with a rope.
+1452	0.49078482389450073	a man is sitting on the ground and he is doing some sort of exercise.
+1453	0.4191610813140869	a group of people are outside and they are cleaning a truck.
+1454	0.558207631111145	a young girl is playing a song on a piano.
+1455	0.42466628551483154	a man is holding a book and showing the pages of it.
+1456	0.3759065568447113	a woman is standing in front of a wall and she is wearing a yellow scarf.
+1457	0.5712282061576843	a little boy is sitting in a chair and playing the piano.
+1458	0.48643016815185547	a man is climbing a rock while another man is talking in the background.
+1459	0.4286361038684845	a group of young people are dancing in a circle.
+1460	0.5255813598632812	a group of people are riding on a boat and they are waving their hands.
+1461	0.4822947084903717	a man is playing a song on a piano in a room.
+1462	0.4744311571121216	a man is sitting in a chair and talking about a website.
+1463	0.466096431016922	a man is shining a woman's hand while music is playing.
+1464	0.521249532699585	a group of people are in a bathroom and one of them is washing his hands.
+1465	0.3432929217815399	a group of kids are playing with a toy and a man is talking.
+1466	0.41773852705955505	a man is dancing in the dark while music is playing.
+1467	0.472769170999527	a man is pushing a man in a wheel chair down a street.
+1468	0.47715601325035095	a man is sitting on a couch and he is sitting on a couch.
+1469	0.5116864442825317	a person is using a leaf blower to cut grass.
+1470	0.3656514883041382	a woman is singing in a dark room with neon lights.
+1471	0.3700331747531891	a man is holding a large child and he is putting it on the wall.
+1472	0.4398508369922638	two people are playing a game of basketball on a basketball court.
+1473	0.4130626618862152	a group of people are standing around a large body of water and a man is talking.
+1474	0.5048120617866516	a man is standing in front of a white wall and he is speaking into a microphone.
+1475	0.4132499396800995	a woman is standing in a boat and is trying to get something in the water.
+1476	0.4000927209854126	a man is standing in front of a crowd and he is making a drink.
+1477	0.36259642243385315	a man and a woman are in a room and they are moving their arms around.
+1478	0.3390394449234009	a little boy is walking around a house and then he stops and walks away.
+1479	0.4666818678379059	a man is riding a bike and doing tricks on a ramp.
+1480	0.502514123916626	a person is driving a four wheeler through a muddy field.
+1481	0.39150598645210266	a man and woman are sitting in a chair and they are talking.
+1482	0.42183050513267517	a man is holding a surf board and he is trying to hold it up.
+1483	0.3566926121711731	a man is in a shop and is talking to someone else.
+1484	0.3441694974899292	a group of women are standing in a room and they are holding a cloth.
+1485	0.41916176676750183	two men are in a room and one of them is dancing around.
+1486	0.49298563599586487	a man is sitting in a chair and speaking to the camera.
+1487	0.43503132462501526	a group of people are sitting at a table and talking.
+1488	0.35576412081718445	a person is holding a bird in their hand and is feeding the birds.
+1489	0.4869532883167267	a person is shown jumping off a cliff into the water.
+1490	0.32097235321998596	a person is using a tool to move a small dog.
+1491	0.4183225631713867	a young boy is jumping on a large pile of foam blocks.
+1492	0.42868685722351074	a man is sitting at a desk and he is making music with his hands.
+1493	0.4696020185947418	a group of people are singing and dancing to music.
+1494	0.4629238545894623	a group of children are standing in a circle and they are talking.
+1495	0.44347885251045227	two men are jogging in a public area while music is playing.
+1496	0.3916967511177063	two women are in a store and one is dancing to the music.
+1497	0.47523343563079834	a man is showing a little boy how to use a tool to catch something.
+1498	0.4472784399986267	a boy is sitting at a table and is eating a piece of food.
+1499	0.43575283885002136	a woman is showing how to properly put on a skirt.
+1500	0.4571264684200287	three men are standing in front of a door and one of them is talking.
+1501	0.44353920221328735	a large group of people are standing in a line and they are waving their hands.
+1502	0.36740073561668396	a woman is in a kitchen and is mixing some food in a bowl
+1503	0.4105374813079834	a group of people are walking down the street with a flag.
+1504	0.3880186676979065	a group of people are in the woods and they are trying to get something out of the
+1505	0.6042539477348328	two boys are sitting on the floor playing a game of monopoly.
+1506	0.3361068367958069	three women are standing in a circle and they are fixing their eyes.
+1507	0.43078145384788513	two boys are trying to fix a bicycle with the help of a bike.
+1508	0.37028124928474426	a man is sitting on the ground and is looking at a box.
+1509	0.4002320468425751	a man in a white suit is dancing around a car.
+1510	0.5984086990356445	a group of people are riding their bikes on a dirt road.
+1511	0.5009574890136719	a man is using a sprayer to clean the windows of a building.
+1512	0.4548254907131195	a group of people are dancing to music in a concert.
+1513	0.3454720377922058	two girls are dancing in a room and one of them is running around.
+1514	0.40111446380615234	a person is running and jumping into a small pond.
+1515	0.2619200050830841	a person is moving a large box of trash and then they are talking.
+1516	0.46499282121658325	two young boys are making a sand castle in the sand.
+1517	0.39070194959640503	a group of people are standing in a room and they are wearing a suit.
+1518	0.47400447726249695	a person is using a hammer to make a beat on a surface.
+1519	0.3028237521648407	a man is showing a picture of a woman and she is looking at her.
+1520	0.5262229442596436	a man is directing traffic in the middle of the street.
+1521	0.5339657664299011	a man is playing a guitar and singing a song.
+1522	0.39606571197509766	a man is playing a guitar and headphones on.
+1523	0.40210822224617004	a group of people are watching a man ride a boat.
+1524	0.5000871419906616	a man is climbing a tree while music is playing.
+1525	0.4970042407512665	a woman is holding a microphone and singing a song.
+1526	0.41586753726005554	a group of people are standing in front of a crowd and they are holding a trophy.
+1527	0.3840211033821106	a woman is sitting on the beach and is trying to get something out of the water.
+1528	0.5544500350952148	a person is mixing something in a bowl with a spoon.
+1529	0.3670765459537506	a person is using a machine to mix some coffee beans.
+1530	0.38563838601112366	a person is flying a kite on the beach and the wind blows.
+1531	0.38700979948043823	two men are standing in a room and one of them is talking.
+1532	0.49271395802497864	a group of men are singing and singing into a microphone.
+1533	0.43052753806114197	a man is climbing down a ladder that is very high up.
+1534	0.36906716227531433	a woman is sitting in a room and a group of people are sitting around her.
+1535	0.23976148664951324	two women are talking about a video of a woman.
+1536	0.4112837612628937	a person is showing how they use a machine to make something.
+1537	0.4941495954990387	a group of people are doing tricks on their skateboards.
+1538	0.4968585968017578	a man is using a knife to cut a piece of leather.
+1539	0.4119906425476074	a group of people are walking in a field and a man is talking.
+1540	0.4224388599395752	a group of men are making music with their hands.
+1541	0.4225013256072998	a man is playing a long wooden instrument while sitting down.
+1542	0.39780792593955994	a cat is on the floor and a person is trying to get it to the side.
+1543	0.5041609406471252	a group of people are dancing on a stage while others watch.
+1544	0.48681095242500305	a large group of people are running in a race.
+1545	0.4369599521160126	a woman is dancing in a car while another person is talking in the background.
+1546	0.5359677672386169	a group of women are doing a backstroke in a pool.
+1547	0.2989663779735565	a man is skating around a large square of fire.
+1548	0.5728967785835266	a man is teaching a young boy how to dribble a basketball.
+1549	0.3194520175457001	a man is standing at a podium and is holding a book while a woman is talking.
+1550	0.42255899310112	a young girl is walking on a wooden platform in a forest.
+1551	0.4297352433204651	a man is sitting in a recording studio and is singing into a microphone.
+1552	0.4336022734642029	a woman in a costume is dancing in front of a crowd.
+1553	0.29296061396598816	a man is watching a sea creature swims in the water.
+1554	0.3859613835811615	a man is driving a car and listening to music and dancing.
+1555	0.35563310980796814	a person is walking down a flight of stairs and then stops.
+1556	0.4425261616706848	a man and a woman are in a pool and they are laughing.
+1557	0.4653995931148529	a group of people are riding bikes down a street.
+1558	0.3930090367794037	a man is walking on a sidewalk and is walking on the side of the street.
+1559	0.37939199805259705	a man is doing a jacks in a room with a song playing in the background.
+1560	0.5253746509552002	a person is pouring a glass of wine in a glass.
+1561	0.4921293556690216	a baby is laying down and waving his arms and legs.
+1562	0.3808916211128235	a person is driving a car on a road with trees.
+1563	0.4573357403278351	a person is parachuting in the air with a parachute.
+1564	0.292030394077301	a man is talking about his dog and then he is shown.
+1565	0.44408920407295227	a woman is holding a bird in her hand and feeding it.
+1566	0.32586801052093506	a woman is dancing in a room with a bunch of people.
+1567	0.3422988951206207	a woman is performing a dance with a ball in a tent.
+1568	0.4829959273338318	a large group of people are dancing and waving their arms.
+1569	0.5396096706390381	a group of people are playing basketball in a gym.
+1570	0.45978301763534546	a group of people are sitting in a field and one of them is sitting down.
+1571	0.3990515172481537	a group of people are standing in a line and they are waving their hands.
+1572	0.46345484256744385	a man is playing a guitar and singing while another man is playing the guitar.
+1573	0.5525074005126953	a group of people are pulling a sled down a snowy hill.
+1574	0.38944095373153687	a woman is sitting down and talking to someone else.
+1575	0.4077509939670563	a man is showing how to set up a table with a table.
+1576	0.42089328169822693	a young girl is standing in front of a tree and talking about it.
+1577	0.3921494483947754	a man is sitting in a chair and is shaking his head.
+1578	0.5066434144973755	a man is standing in front of a waterfall and talking about it.
+1579	0.47038570046424866	a man is climbing a rock wall while another man is talking in the background.
+1580	0.5126028060913086	a group of women are dancing to music in a room.
+1581	0.4518677294254303	a group of people are standing in a line and they are talking.
+1582	0.37416478991508484	a person is using a computer to control a computer.
+1583	0.41724249720573425	two young boys are sitting at a desk and one of them is banging his head on the
+1584	0.37731415033340454	a man is doing tricks on a skateboard and then he falls down.
+1585	0.5870959162712097	a group of people are playing a game of tennis.
+1586	0.3361365497112274	a man is training a dog to get it to sit on a platform.
+1587	0.3785947561264038	a car is driving down a road and then a person is talking about it.
+1588	0.3683137893676758	a large group of people are waiting in a line to ski down a snowy slope.
+1589	0.394369512796402	a group of people are standing in a line and a person is talking.
+1590	0.5366168022155762	a man is sitting on a chair playing a song on a cello.
+1591	0.5126976370811462	a woman in a white dress is sitting in a chair in a chair.
+1592	0.3601841926574707	a man is on a stage and is putting a tube in his hand.
+1593	0.46854373812675476	a man is smoking a cigarette while another man is talking in the background.
+1594	0.40198493003845215	a man is standing in front of a group of people and he is talking to a woman
+1595	0.35990458726882935	a young boy is playing a game with his hands and a woman is talking to him.
+1596	0.38135358691215515	a person is showing how they are wearing a helmet and they are wearing a helmet.
+1597	0.41208863258361816	a group of people are outside and they are sitting at a table.
+1598	0.3832492232322693	a turtle is swimming in the ocean and a person is swimming with the sea.
+1599	0.45885518193244934	a man is break dancing on a floor while others watch.
+1600	0.34013786911964417	a person is walking down a long narrow path in a very fast pace.
+1601	0.5524659752845764	a man is doing tricks on a skateboard in front of a crowd.
+1602	0.43446600437164307	a group of people are parasailing and one person is recording them.
+1603	0.38126248121261597	a man is walking through a crowded city street with people walking by.
+1604	0.40635210275650024	a man is standing at a counter and is cutting apples.
+1605	0.33447277545928955	a person is driving down the street and many people are walking around.
+1606	0.4076458215713501	a group of people are standing in a line and they are trying to push the cart.
+1607	0.46199116110801697	a man is sitting at a table and using a tool to make something.
+1608	0.47562387585639954	three young boys are standing in front of a camera and they are waving their arms.
+1609	0.37520864605903625	a man is sitting in a chair and he is listening to a woman in a room.
+1610	0.46813371777534485	a group of people are sitting in chairs and one person is sitting down.
+1611	0.3547438383102417	a man and woman are outside and they are picking up a large mushroom.
+1612	0.332103431224823	a young girl is laughing and laughing while she is laughing.
+1613	0.40162089467048645	a group of men are working on a table and they are making something.
+1614	0.35278013348579407	a person is filming themselves outside in the daytime and there is a lot of noise in the
+1615	0.45538654923439026	a man and a woman are outside and they are dancing to music.
+1616	0.5063389539718628	a man is trying to unload a truck from the back of a truck.
+1617	0.344024121761322	a man is singing and singing while a crowd of people are walking around him.
+1618	0.42285656929016113	a woman is standing in front of a man and is talking to her.
+1619	0.2999275326728821	a boat is backing up to the dock and it is moving around.
+1620	0.4606032371520996	a woman is writing on a piece of paper while a man is talking to her.
+1621	0.23031625151634216	a man is doing a rope and is moving his arms around.
+1622	0.5938807725906372	a man and a woman are sitting at a table and talking.
+1623	0.3029535710811615	a person is holding a large fish and is looking at the sea.
+1624	0.3561050593852997	a person is filming themselves in the dark and they are moving their hands around.
+1625	0.43837273120880127	a group of young men are dancing to music while sitting down.
+1626	0.3255499601364136	a person is walking around a building and looking at the camera
+1627	0.3519590198993683	a group of people are outside and they are waiting for a ride.
+1628	0.4195092022418976	a person is using a roller to clean the windows of a room.
+1629	0.3517845571041107	two girls are playing and laughing and talking about it.
+1630	0.5231102108955383	a boy is doing tricks on a skateboard and doing tricks.
+1631	0.3985300064086914	a group of people are standing around a table and they are taking items out of a box
+1632	0.5723095536231995	a group of dogs are pulling a sled through the snow.
+1633	0.46122005581855774	a young boy and a woman are ice skating on a frozen surface.
+1634	0.3782826364040375	two men are jogging in a park and one of them is running.
+1635	0.42379793524742126	a group of women in leotards are dancing in a circle.
+1636	0.3653129041194916	a man is climbing down a ladder and is looking at something.
+1637	0.30989623069763184	two women are dancing to music while wearing a bikini.
+1638	0.4222160279750824	a group of people are outside and they are talking to each other
+1639	0.31588077545166016	a woman is walking in the water and is pulling a large amount of cloth.
+1640	0.5814817547798157	a person is showing how they tie a knot with a rope.
+1641	0.3535720407962799	a group of people are at a party and one woman is holding a microphone and talking to
+1642	0.43662238121032715	a group of people are dancing in a line while others watch.
+1643	0.36108046770095825	a woman is sitting in a doorway and she is sitting down and talking about the action.
+1644	0.5169506072998047	two girls are sitting at a table and one of them is shaking her head.
+1645	0.49076682329177856	a man is standing in a bathroom and he is opening a bottle of beer.
+1646	0.31619012355804443	a woman is giving a speech on stage and then a man is shown talking.
+1647	0.3289167582988739	a man is talking about a statue that is in front of him
+1648	0.3941177427768707	a group of people are standing around a wall and one person is painting graffiti on the wall
+1649	0.3732296824455261	a group of people are making shots of alcohol and talking.
+1650	0.3395550549030304	a person is flying a kite in the air and the birds are flying around.
+1651	0.5094103813171387	a man is using a paint sprayer to paint a wall.
+1652	0.46892157196998596	a man is riding a bicycle in a race while people watch.
+1653	0.502479076385498	a group of people are outside and they are shoveling snow.
+1654	0.428411066532135	a group of people are outside and they are playing a game of baseball.
+1655	0.44325992465019226	a man is riding in a boat and listening to music.
+1656	0.46101248264312744	a young boy is walking on the beach with his mother.
+1657	0.429911345243454	a girl is driving a car and she is dancing to music.
+1658	0.40523383021354675	a group of people are climbing a mountain with ropes.
+1659	0.5375388860702515	a man is explaining how to use a copy machine.
+1660	0.4835951030254364	a person is using a rope to propel down a rope.
+1661	0.400971919298172	a group of people are sitting at a table and they are dancing.
+1662	0.4129102826118469	a person is outside and is trying to get something out of the field.
+1663	0.4442702829837799	a person is parachuting in the air with a parachute.
+1664	0.5047652721405029	a group of men are playing soccer in a field.
+1665	0.3865964710712433	a group of people are outside and they are trying to get something out of the tree.
+1666	0.4717724323272705	a man is demonstrating how to use a rope to work on a rope.
+1667	0.38126716017723083	a group of men are outside and one is using a large shovel to move dirt.
+1668	0.309488445520401	a man in a helmet is riding a bicycle and then he stops to the camera.
+1669	0.5614456534385681	a group of people are playing a game of tennis.
+1670	0.31922635436058044	a woman is standing in front of a green wall and then a man is talking about the
+1671	0.30069538950920105	a group of people are standing around a long line and they are walking.
+1672	0.40954774618148804	a group of people are surfing in the ocean and surfing.
+1673	0.4518977403640747	a person is making a cup of tea and pouring it into a cup.
+1674	0.32543420791625977	a man is standing on a surf board and he is moving his arms around.
+1675	0.42335233092308044	a group of people are standing around a table and one man is holding a board with his
+1676	0.4167060852050781	a man is walking down the street and talking to someone.
+1677	0.2608530819416046	a person is making a pizza with a pen and then they are making.
+1678	0.3025113344192505	a man is smoking a pipe and making a face.
+1679	0.3175310790538788	a woman is standing outside and is playing a guitar.
+1680	0.41668927669525146	two men are standing in front of a microphone and singing into a microphone.
+1681	0.4935499429702759	a group of people are dancing in a circle while music is playing.
+1682	0.3677392601966858	a man is in a kitchen and is making a meal.
+1683	0.38520097732543945	two girls are sitting at a table and one of them is banging her head around.
+1684	0.3616679608821869	a man is standing on a platform and is holding a bucket of wine.
+1685	0.3516090214252472	a person is using a tool to make a small hole in a car.
+1686	0.3890877962112427	a teacher is teaching a group of people how to write on a table.
+1687	0.47369542717933655	a group of people are laughing and laughing and laughing.
+1688	0.3197336196899414	a person is using a machine to make a large metal object.
+1689	0.46779170632362366	a group of people are sitting in a room and listening to a man speak.
+1690	0.5388666987419128	a woman is sitting at a table and showing how to make a knot.
+1691	0.44155940413475037	a traffic officer is directing traffic and directing traffic.
+1692	0.43519091606140137	a woman is on stage singing a song while a man is speaking in the background.
+1693	0.3017025589942932	a person is showing how they can move a coin.
+1694	0.4372226297855377	a man is kite surfing on a windy day while music is playing.
+1695	0.39414557814598083	a woman is sitting down and getting her hair brushed by another woman.
+1696	0.4833120107650757	a person is playing a guitar and singing a song.
+1697	0.495812326669693	a man is climbing up a rock while music is playing.
+1698	0.5197919011116028	a group of people are on a stage singing and playing instruments.
+1699	0.3860384523868561	a person is holding a pair of shoes that is hanging from a string.
+1700	0.4453143775463104	a person is driving a car and turning the steering wheel.
+1701	0.2884849011898041	a man is blowing a large white and white balloon.
+1702	0.5535655617713928	a man is using a tool to work on a wall.
+1703	0.4609752595424652	a man is sleeping in a chair and is sleeping.
+1704	0.4328537881374359	a man is playing a large organ in a room.
+1705	0.3523017168045044	a man is showing how to do a certain type of hand puppet.
+1706	0.30997443199157715	three girls are laughing and laughing and dancing to music.
+1707	0.5304147601127625	a woman is standing at a podium and giving a speech to a group of people.
+1708	0.3218521475791931	a woman is walking around a house and talking about the process.
+1709	0.43702852725982666	a man is smiling and waving his hand in front of the camera.
+1710	0.367771714925766	a man is standing in front of a group of people and he is looking at the camera
+1711	0.3755720555782318	two people are playing tennis on a court while a man is talking.
+1712	0.5146096348762512	a group of people are skateboarding on a skate park.
+1713	0.3758833706378937	a group of people are watching a large group of fish swim around them.
+1714	0.47645866870880127	a woman is standing in front of a camera and is using a blow dryer to style
+1715	0.3778018355369568	a person is using a machine to make a car.
+1716	0.4199143052101135	a group of girls are in a room and they are doing a dance.
+1717	0.3897591829299927	a person is filming themselves doing some sort of exercise.
+1718	0.400867760181427	a group of people are standing in the middle of the street and a man is talking.
+1719	0.48157185316085815	a group of people are riding bikes down a path.
+1720	0.24732382595539093	a man is walking around with his child and then stops to pick up a small plant.
+1721	0.4042624533176422	a man is sitting on a stool and he is sitting on a stool and he is talking
+1722	0.4202522337436676	a group of people are skydiving and one of them is falling.
+1723	0.3172122836112976	a person is showing the different types of planes in a plane.
+1724	0.4502738416194916	a man is cooking a dish in a pan on a stove.
+1725	0.390447199344635	a man is trying to put a strap on a man's foot.
+1726	0.3680545389652252	a group of women in a room are dancing to music.
+1727	0.39210307598114014	a group of people are outside and they are working on the water.
+1728	0.38753533363342285	a woman is standing on a kayak and is trying to get it to the side.
+1729	0.5219705700874329	a boy is playing the drums and cymbals with his hands.
+1730	0.31721341609954834	a man is holding a microphone and holding a microphone in his hand and he is holding a
+1731	0.4262285828590393	a man is standing in front of a woman and she is talking to her.
+1732	0.32447052001953125	a man and woman are outside and they are putting a large white box on the side of
+1733	0.5206673741340637	a group of surfers are surfing in the ocean.
+1734	0.4504795968532562	a man is on a boat and is fishing in the water.
+1735	0.43642303347587585	two young men are in a room and one of them is trying to get the other to
+1736	0.43978890776634216	three men are sitting on a couch and playing a guitar.
+1737	0.39138010144233704	a woman is laughing and laughing while she is eating a sandwich.
+1738	0.45148026943206787	a group of people are riding an elephant in a zoo.
+1739	0.5347581505775452	a man and a woman are dancing to music in a studio.
+1740	0.518791139125824	a man is playing a song on a piano while another man is playing the piano.
+1741	0.35270610451698303	two women are sitting on a couch and one is doing a dance.
+1742	0.3727966845035553	three girls are walking down a street and one of them is walking.
+1743	0.37596994638442993	a man is working on a floor with a lot of tools.
+1744	0.5007947087287903	a flock of pigeons are eating from a person's hand.
+1745	0.3347169756889343	a young girl is standing on a deck and is trying to get her to go.
+1746	0.44552648067474365	a group of people are dancing in a competition while music is playing.
+1747	0.2658509612083435	a man and a woman are holding a large white cloth and they are holding a white cloth
+1748	0.38250061869621277	a man is playing a musical instrument while another man is talking to him.
+1749	0.34893113374710083	a young girl is walking around a table and is talking to the camera.
+1750	0.3513413071632385	two girls are in a field and one of them is trying to get her hair.
+1751	0.38219767808914185	a man is in the dark and is playing with a car.
+1752	0.2839741110801697	a man is operating a large machine that is moving it.
+1753	0.475286066532135	a man is playing a guitar and singing while another man plays a guitar.
+1754	0.34154078364372253	a car is driving in the middle of the car and the car is shown.
+1755	0.494777113199234	a man is wind surfing on the water while music is playing.
+1756	0.49548280239105225	a baby is staring at the camera while a woman talks to him.
+1757	0.36945420503616333	a group of people are in a desert and they are looking at the scenery
+1758	0.2637908160686493	a young girl is walking around a table and then she is dancing.
+1759	0.34844937920570374	a man is running around a yard and is running around.
+1760	0.43394264578819275	a group of people are walking around and talking to each other.
+1761	0.4256507158279419	two women are staring at the camera and making faces.
+1762	0.4664503037929535	a man is sitting at a desk and talking to someone.
+1763	0.31219786405563354	three girls are holding wine and one of them is trying to get the other.
+1764	0.4832681119441986	a group of people are playing with each other in a room.
+1765	0.3634680509567261	a girl is playing a flute in her room with a blue background.
+1766	0.41414880752563477	a group of people are sitting at a desk and one of them is banging the computer.
+1767	0.429894357919693	a man and a woman are sitting on a couch and one of them is sitting down and
+1768	0.44007670879364014	a group of people sitting on a couch and one of them is sitting on the couch.
+1769	0.5675056576728821	two people are sitting at a table and talking to each other.
+1770	0.33874741196632385	a woman is standing on a stage and is cutting up fruit.
+1771	0.4264254570007324	a group of people are playing in the water and one of them is jumping in.
+1772	0.4357878565788269	three women are standing in front of a wall and one of them is talking.
+1773	0.41705358028411865	a man is using his hand to make a video on a laptop.
+1774	0.3683032691478729	two girls are sitting in a room and one of them is making a video.
+1775	0.4165516197681427	a man is using a large hammer to hit a large rock.
+1776	0.3467019200325012	a man is on a stage and is doing a dance routine.
+1777	0.5219097137451172	a person is writing on a piece of paper with a black marker.
+1778	0.6432740688323975	a man is dancing in front of a group of people.
+1779	0.44979748129844666	a group of people are working in a construction site.
+1780	0.44663694500923157	a man is sitting on a rock and he is trying to catch something.
+1781	0.413690447807312	a person is washing a large amount of dirt in a bowl.
+1782	0.42711928486824036	two men are standing in a field and one of them is trying to get the other.
+1783	0.3891616463661194	a group of people are standing in a line and they are singing.
+1784	0.5010512471199036	a person is driving a tractor on a field of grass.
+1785	0.4010147154331207	two men are standing in front of a camera and one of them is blowing out a flame
+1786	0.3564552962779999	a person is standing on a balcony and is looking at the camera
+1787	0.41522666811943054	a group of people are standing around a stage and they are talking.
+1788	0.5344666838645935	a group of kids are jumping on a bouncy house.
+1789	0.42712077498435974	a person is surfing on a wave in the ocean.
+1790	0.4695485234260559	a man is pushing a red car down a road.
+1791	0.5932506918907166	a group of people are wind surfing in the ocean.
+1792	0.4720987379550934	a man and a woman are sitting at a desk and talking about the news.
+1793	0.3797827959060669	a group of people are wrestling and one of them is holding the other's head.
+1794	0.4073866307735443	a man is sitting in a car and he is trying to get his shoe out of it
+1795	0.4935472905635834	a person is showing how they change a car out of a car.
+1796	0.4242924749851227	a group of girls in a gym are performing a dance routine.
+1797	0.3440580368041992	a woman is showing how to wear a skirt in a closet.
+1798	0.33589497208595276	a man is outside and is trying to get the knife to the side of a road.
+1799	0.5432389378547668	a group of people are on the beach and they are flying kites.
+1800	0.4137282073497772	two people are sitting in a chair and one is sitting in a chair.
+1801	0.3688599467277527	a person is driving a car on a very fast pace.
+1802	0.4254888892173767	a man is performing a magic trick with a crowd of people.
+1803	0.33913761377334595	a woman is holding a child and they are trying to get it to the camera.
+1804	0.45489931106567383	a man is using a remote to make a video on a television screen.
+1805	0.375018835067749	a man is standing in a bar and is making a drink.
+1806	0.36297905445098877	a person is arranging a flower arrangement in a very fast motion.
+1807	0.3601234555244446	a man is on a beach and is making a lot of tricks.
+1808	0.4011010527610779	a person is kayaking in a river with a blue background.
+1809	0.33830147981643677	a woman is walking on a pile of rocks and then she starts to walk.
+1810	0.4951728880405426	a group of people are drinking wine and drinking wine.
+1811	0.3301036059856415	a large bird is flying in the air and a person is holding.
+1812	0.38653260469436646	a man is using a large tool to clean a car.
+1813	0.4721304178237915	three men are sitting at a table and talking into a microphone.
+1814	0.4389362037181854	a group of people are on a stage and they are playing a song.
+1815	0.5059261918067932	a man is playing a cello while another man plays the piano.
+1816	0.5461438894271851	a man is sitting in a chair and listening to music and listening to music.
+1817	0.552434504032135	a group of people are riding bikes in the woods.
+1818	0.4211050570011139	a man is standing on a stage and talking to a crowd of people.
+1819	0.4303637444972992	a band is playing music and one man is playing the guitar.
+1820	0.40352821350097656	a group of people are standing together and talking to each other
+1821	0.3119077980518341	a person is throwing a ball at a fence and then looking at the fence.
+1822	0.3822247385978699	a young girl is standing on a log and is trying to get something.
+1823	0.44937077164649963	a person is parachuting in the air with a parachute.
+1824	0.38364654779434204	a group of people are jumping around and playing with each other
+1825	0.39859694242477417	a group of people are walking around a building and one of them is walking.
+1826	0.3631233870983124	a group of birds are eating and feeding the birds.
+1827	0.5529720783233643	a group of people are singing and dancing in front of a crowd.
+1828	0.3344055116176605	two people are wearing masks and using a balloon to make a balloon.
+1829	0.30936506390571594	a young boy is climbing down a building and then he falls.
+1830	0.24593405425548553	a woman is talking to a woman and she is going to be a park.
+1831	0.46809136867523193	a large group of people are sitting at a table and eating.
+1832	0.48926979303359985	two men are standing in front of a camera and talking.
+1833	0.5975512266159058	a group of people are jumping off a cliff into the water.
+1834	0.27768048644065857	a man is walking around a shed and then he is carrying a box.
+1835	0.3748267590999603	a man is pulling a boat out of the water and then he is holding.
+1836	0.4948825240135193	three men are standing in front of a camera and they are waving their arms.
+1837	0.5034014582633972	a man and a woman are laughing and talking to each other.
+1838	0.2946421802043915	a person is climbing a cliff with a rope and then the camera pans to the top
+1839	0.3660668134689331	a man is in the snow and is putting a plastic bag in a plastic bag.
+1840	0.47960031032562256	a man is playing a cello while another man is playing the piano.
+1841	0.3444157838821411	a crowd of people are gathered around and watching a person run through the air.
+1842	0.3914566934108734	a man is speaking to the camera and he is speaking to the camera.
+1843	0.44114160537719727	a group of people are standing around and looking at something.
+1844	0.3823542594909668	a person is using a tool to work on a small object.
+1845	0.542404294013977	a group of people are climbing up a rock wall.
+1846	0.4017286002635956	a man is dancing in front of a camera and then stops to the camera.
+1847	0.28000614047050476	a woman is talking about a certain type of type of type of type.
+1848	0.49400603771209717	a man is proposing to a woman in a restaurant.
+1849	0.48140719532966614	a man and a woman are dancing to music in a parking lot.
+1850	0.38368481397628784	a man is walking through a lake and is trying to get it out.
+1851	0.34992003440856934	a woman is standing in the middle of a field and she is holding a pair of sticks
+1852	0.3714974820613861	a person is riding a raft down a waterfall in a river.
+1853	0.36233940720558167	a man is skiing down a hill and then jumps off a snow bank.
+1854	0.5402030348777771	a group of people are juggling sticks that are on fire.
+1855	0.4367212653160095	a group of people are riding bikes and one of them is wearing a helmet.
+1856	0.36871036887168884	two girls are walking around a room and one of them is running.
+1857	0.4740234315395355	a man and a woman are hugging each other and laughing.
+1858	0.26987624168395996	two people are walking on a tip toes and they are wearing socks.
+1859	0.3382292687892914	two women are wearing pink and making faces at the camera.
+1860	0.4965459406375885	a little girl is pushing a shopping cart in a store.
+1861	0.43820762634277344	a person is driving a car and shifting gears in a parking lot.
+1862	0.43892547488212585	a boy is sitting on the ground and is trying to get something out of it.
+1863	0.3773723244667053	a man and a woman are sitting in a chair and watching a video of a man.
+1864	0.5054007172584534	a man is doing flips on a trampoline and then does a back flip.
+1865	0.502107560634613	a young man is skipping a rock across a lake.
+1866	0.3840249478816986	a group of people are standing around a track and they are doing some kind of exercise.
+1867	0.42025864124298096	a group of people are on the beach and are surfing.
+1868	0.4465367794036865	a man is sitting in a chair and is being recorded by another person.
+1869	0.5035684108734131	a group of people are walking around and talking to each other.
+1870	0.41185951232910156	a man is sitting on a bench and he is looking at the camera.
+1871	0.5936434268951416	a group of people are kite surfing in the ocean.
+1872	0.4391981065273285	a person is riding a tennis ball on a court.
+1873	0.4477657377719879	a woman is sitting on a mat and doing yoga.
+1874	0.39651575684547424	a person is in the middle of a tree and is cutting the branches.
+1875	0.4880658984184265	two men wrestle in a wrestling match while a referee watches.
+1876	0.3755445182323456	two people are in a room and they are making a video of themselves
+1877	0.3196316063404083	a man is climbing down a rock and then he is hanging from the rope.
+1878	0.38077741861343384	a woman is talking on a phone while she is holding a phone.
+1879	0.4757251739501953	a man and a woman are sitting at a desk and talking about something.
+1880	0.2691148817539215	a man is walking around a garage and is going to the back of his truck.
+1881	0.4236562252044678	a person is scuba diving in the ocean with a lot of other people.
+1882	0.44042640924453735	a person is showing how they brush a horse with a brush.
+1883	0.4537245035171509	a man is pushing a car and another man is pushing it.
+1884	0.44948461651802063	a group of people are in a forest and they are using sticks to make something.
+1885	0.3998207449913025	two people are outside and one of them is lighting a fire.
+1886	0.41032272577285767	two men are sitting on the ground and one of them is trying to get something out of
+1887	0.41796237230300903	a man is moving a large piece of furniture through a machine.
+1888	0.37269827723503113	a person is showing how to use a machine to make a coffee.
+1889	0.3989197611808777	a group of people are racing a car on a track.
+1890	0.408456414937973	a person is holding a bird in their hand and is feeding it.
+1891	0.49521300196647644	a group of people are standing around and talking to each other
+1892	0.39191633462905884	a group of children are standing together and they are holding hands.
+1893	0.45969346165657043	a person is writing on a white board and talking about it.
+1894	0.3655403256416321	a group of people are in a race and they are being pushed by a man.
+1895	0.40450814366340637	a large group of people are standing in line and they are walking.
+1896	0.30584967136383057	a man is walking around in a parking lot and is looking at the camera.
+1897	0.4776143729686737	a group of men are standing in front of a store and talking.
+1898	0.42946910858154297	a person is using a tool to make a balloon.
+1899	0.4143490493297577	a man and a child are sitting on a stool and they are talking.
+1900	0.408449649810791	a man is laying on a table and is getting ready to do something.
+1901	0.3745725154876709	two men are sitting in chairs and making a beat.
+1902	0.43089228868484497	a man is sitting in a chair and is getting his hair worked.
+1903	0.3323281705379486	a person is walking in the water and looking at the water.
+1904	0.42561212182044983	a man and a woman are on stage and one of them is holding a microphone.
+1905	0.3028193712234497	a man is talking about the city and then a man is shown walking around.
+1906	0.3994882106781006	a group of people are sitting at a table and they are eating.
+1907	0.5451900959014893	a person is using a tool to carve a large piece of clay.
+1908	0.5284708738327026	two men are standing in the snow and talking to each other.
+1909	0.45133984088897705	a group of people are doing a skating routine in front of a crowd.
+1910	0.4498852789402008	a man and a woman are in a room and they are laughing.
+1911	0.34629738330841064	a group of people are moving and rolling around in a circle.
+1912	0.29396066069602966	a person is recording a lot of people walking around.
+1913	0.4490906298160553	two people are parachuting in the air with a parachute.
+1914	0.3946000039577484	a group of people are working on a tire with a sledge hammer.
+1915	0.5843871831893921	a group of people are sitting at a table and talking.
+1916	0.33796197175979614	a person is sitting in a computer and is using a computer to control a computer.
+1917	0.4311874210834503	a group of people are in a room and they are listening to music and talking.
+1918	0.28132233023643494	a large group of people are sitting around a large building and looking at the monkeys.
+1919	0.5164851546287537	a man is standing on the side of the street and singing a song.
+1920	0.501869797706604	a man and a woman are swimming in the water and one of them jumps into the water
+1921	0.40051281452178955	a person is using a tool to bend a metal object.
+1922	0.33702072501182556	a man is talking about the event that is going to be a competition.
+1923	0.43964865803718567	a man is standing in front of a camera and is talking to someone.
+1924	0.331773966550827	a woman is sitting down and is counting a lot of money.
+1925	0.4922655522823334	a man is talking to a group of people who are sitting at a table.
+1926	0.6365236639976501	a woman is applying makeup to her face with a brush.
+1927	0.3167150616645813	a person is showing off a picture of a game.
+1928	0.39944395422935486	a group of people are walking down a street and they are wearing costumes.
+1929	0.43248870968818665	a group of young boys are in a karate class and they are practicing karate.
+1930	0.3313225507736206	a bird is eating in a fence and is being fed by a person.
+1931	0.3475413918495178	a man is sitting down and talking about how he can do.
+1932	0.469445139169693	two men are sitting down and one of them is talking.
+1933	0.4680311381816864	a group of people are sitting around and listening to music.
+1934	0.3071939945220947	a person is riding a horse and is trying to get it to the ground.
+1935	0.37933149933815	a man is playing a drum set with his hands.
+1936	0.3863949477672577	a man is walking in a subway and is talking to someone.
+1937	0.38701874017715454	a group of people are riding bikes and one of them is trying to get the other to
+1938	0.40989455580711365	two men are in a room and one of them is dancing and the other is playing the
+1939	0.2983464002609253	a scuba diver swims in the ocean and then a person is swimming.
+1940	0.5310962796211243	a man is proposing to a woman in front of a crowd of people.
+1941	0.37941887974739075	a man is using a rope to push down a rope.
+1942	0.3763830065727234	a man is standing in front of a table and he is playing with a stick.
+1943	0.33117055892944336	a man is walking around a large amount of cows.
+1944	0.4893622100353241	a man is kicking a soccer ball to another man.
+1945	0.3464483916759491	a person is showing how they drive a car out of a garage.
+1946	0.5092434287071228	a group of people are in a kitchen and they are eating food.
+1947	0.42835190892219543	a group of people are outside and they are playing in the snow
+1948	0.5060051679611206	a group of children are singing and dancing to the song.
+1949	0.4382956624031067	a woman is sitting in a chair and she is doing a wheel chair.
+1950	0.35960978269577026	a man is doing some exercises by using his hands and hands.
+1951	0.3815107047557831	a man is in a room and is moving around in circles.
+1952	0.34877535700798035	a person is using a phone to control a screen.
+1953	0.3668869435787201	a man is playing with his dog and the dog is running around.
+1954	0.3265819251537323	a group of people are dancing in a room with a lot of cloth.
+1955	0.4654594659805298	a man is performing a show with fire in his hands.
+1956	0.5731143355369568	a man is using a tool to work on a piece of metal.
+1957	0.4538918137550354	a baseball player is practicing his skills in a baseball field.
+1958	0.4401821792125702	a person is descending down a mountain with a rope.
+1959	0.4802258312702179	a man is sitting in a chair and is playing the drums.
+1960	0.2847755551338196	three men are walking in a car and they are moving their legs.
+1961	0.4201354384422302	a group of people are gathered around a fire and they are sitting around it.
+1962	0.4360591173171997	a person is riding a bike down a trail in a forest.
+1963	0.35844266414642334	a person is laying on the ground and is laughing.
+1964	0.3090360164642334	a woman is sitting on a chair and is getting her knees shaved.
+1965	0.3705238997936249	a person is showing how they can do with their hands.
+1966	0.2868972718715668	a person is walking down a hall and is making a drink.
+1967	0.38999396562576294	a person is walking on the street and is walking by.
+1968	0.3704434931278229	a person is riding a water slide on a very high speed.
+1969	0.47069892287254333	a man is sleeping on a bed and another man is talking.
+1970	0.40804871916770935	a person is riding a water raft down a river.
+1971	0.3856450617313385	a man is cutting down a bush with a chainsaw.
+1972	0.33662736415863037	a young girl is dancing in a room and then turns around.
+1973	0.3959714472293854	a man is doing skateboarding tricks in a gym.
+1974	0.4745005965232849	a person is showing how they cook in a restaurant.
+1975	0.3190707266330719	a man is walking around a house and is removing the snow from the house.
+1976	0.41136038303375244	a man is sitting on the ground and is trying to get something out of the grass.
+1977	0.433041512966156	a man is sitting on the ground and is putting a sock on his foot.
+1978	0.49332165718078613	a woman is showing how to make a recipe in a kitchen.
+1979	0.3971041142940521	a person is standing on a building and is climbing down the side of it.
+1980	0.6111322641372681	a man is sitting at a table and speaking into a microphone.
+1981	0.29928719997406006	a person is outside and is recording a video of a person walking in the background.
+1982	0.36204391717910767	a man is doing tricks on a skateboard and then he jumps off the ground.
+1983	0.4491703510284424	a group of people are walking down a street and they are walking.
+1984	0.4781399965286255	a group of people are swimming in the ocean and one person is swimming.
+1985	0.49083012342453003	a man is sitting on the ground and playing a drum with his hands.
+1986	0.39229053258895874	a group of people are outside and they are cleaning apples.
+1987	0.4236280918121338	a person is using a tool to make a design on a piece of fabric.
+1988	0.3975851833820343	a woman walks up to a house and then walks out to a house.
+1989	0.29430583119392395	a woman is walking on a path and is looking at the camera
+1990	0.4407985508441925	a man is sitting on a couch and talking about the hobby.
+1991	0.43580740690231323	a person is playing a game of pin ball in a pin.
+1992	0.5038948655128479	a man is climbing up a rock wall while another man is talking in the background.
+1993	0.33801236748695374	a man is training a dog to get it to get it.
+1994	0.4188387989997864	a little girl is walking around a room and playing with her toys.
+1995	0.34578508138656616	a man is pushing a wheelchair with a woman in it.
+1996	0.4257418215274811	a group of kids are sitting on a mat and laughing.
+1997	0.46937623620033264	a man is standing in a field and talking to another person.
+1998	0.36580169200897217	a person is riding a vehicle on a very fast speed.
+1999	0.5079357028007507	a man is driving a car while a woman is talking to him.
+2000	0.4669744074344635	a man is standing in front of a group of people and he is singing.
+2001	0.5479740500450134	a man is playing a guitar and singing a song.
+2002	0.4255248010158539	two women are standing in front of a wall and they are playing a song.
+2003	0.41888627409935	a man is talking to another man while he is sitting down and talking.
+2004	0.4191362261772156	a woman is showing a little girl how to set up a table.
+2005	0.5206013321876526	a young girl wearing headphones is singing a song.
+2006	0.37710314989089966	a group of people are pushing a car out of a car.
+2007	0.4381622076034546	a man is on a stage and is giving a speech to a woman.
+2008	0.4505434036254883	a woman is knitting with two needles and green yarn.
+2009	0.4819628596305847	a person is using their hand to crack their knuckles.
+2010	0.4045751094818115	a boat is slowly moving on the water while a man is talking in the background.
+2011	0.4512825310230255	a person is using a water bottle to spray a bottle on the top of a table.
+2012	0.4925817549228668	a woman is sitting on the ground and talking about something.
+2013	0.414287805557251	a person is on stage and doing a dance routine.
+2014	0.44362306594848633	a man and a woman are dancing together in front of a large crowd.
+2015	0.34819740056991577	a person is showing how they are using a machine to clear water.
+2016	0.33922895789146423	a person is walking down a road with a backpack on.
+2017	0.435310423374176	a man is holding a snake in his hand and he is holding it.
+2018	0.40508317947387695	a person is using a pair of boots to clean a pair of shoes.
+2019	0.4378366768360138	a sailboat is sailing on the water while a man is talking in the background.
+2020	0.37540560960769653	a group of people are sitting in a room and they are talking about something.
+2021	0.29325753450393677	a woman is sitting on a stage and is talking to a man.
+2022	0.3327154219150543	two men are standing in a car and one is trying to push the car.
+2023	0.48317742347717285	a woman is standing in front of a camera and talking about something.
+2024	0.48165783286094666	a woman in a costume is dancing to music in a room.
+2025	0.3419484496116638	a person is using a piece of cloth to make a face.
+2026	0.3853529095649719	a man is beat boxing and making a beat with his mouth.
+2027	0.406581848859787	a person is holding a rope and is skiing across the water.
+2028	0.35574284195899963	a man is hiking through a mountain with a lot of trees.
+2029	0.4585840702056885	a man is riding a skateboard in a skate park.
+2030	0.29166820645332336	a group of people are standing at a large building and a person is walking up and down
+2031	0.3261043429374695	a man is sitting on a chair and he is showing off his new box.
+2032	0.4442605972290039	a group of people are having a party and they are having fun.
+2033	0.41388797760009766	a group of people are in a room and they are doing some kind of dance
+2034	0.38887402415275574	a young girl is standing in front of a camera and she is talking about the camera.
+2035	0.3780532777309418	a person is recording themselves skiing down a snowy hill.
+2036	0.3986775279045105	a man is singing on stage while the audience cheers.
+2037	0.4216020107269287	a person is using a machine to mix a large batch of dough.
+2038	0.4417147934436798	a man is rock climbing on a rock with a rope attached to him.
+2039	0.33881068229675293	a group of kids are standing around a track and they are talking.
+2040	0.4683898687362671	a man is trying to get the tail of a horse.
+2041	0.3850122094154358	a man is laying down and is getting his head slapped.
+2042	0.3497776389122009	a person is showing how they use a machine to make a transaction.
+2043	0.47231385111808777	a man is standing on a ledge and cleaning the water with a long pole.
+2044	0.41464704275131226	a man is running and kicking a ball to another person.
+2045	0.3400915563106537	a man is fishing in a fish boat and is caught by a man.
+2046	0.47039350867271423	two girls are in the water and one is trying to get something out of the water.
+2047	0.47112932801246643	two people are snorkeling in the ocean and one of them is swimming.
+2048	0.29123976826667786	a man is shown in the mud with a large flag gun.
+2049	0.37909331917762756	a young boy is standing in a room and is playing with a toy.
+2050	0.25483816862106323	a person is showing how they make a very large fish.
+2051	0.3453439772129059	a man is sitting at a table and is lighting a candle.
+2052	0.4973168671131134	a group of people are walking down a trail in a wooded area.
+2053	0.4381812512874603	a person is showing how they cook a meal with a knife.
+2054	0.2769984006881714	a man is showing a phone and showing the different types of things.
+2055	0.3327459394931793	a woman is dancing and shaking her hand to music.
+2056	0.38168051838874817	a person is using a tool to unpack a piece of plastic.
+2057	0.39102503657341003	two people are walking down a path in a country.
+2058	0.5757550597190857	a woman is giving a weather report in front of a screen.
+2059	0.3845018446445465	a group of people are watching a monkey in a zoo.
+2060	0.50876784324646	a group of people are walking around on the street.
+2061	0.41215482354164124	a group of kids are outside and they are talking and talking.
+2062	0.3032590448856354	a woman is talking about a piece of paper and then she is shown.
+2063	0.42467767000198364	a man is using a machine to make music.
+2064	0.5818761587142944	a man is doing tricks on his skateboard in front of a crowd.
+2065	0.5119212865829468	a woman is laying on a bed and another woman is combing her hair.
+2066	0.37542107701301575	a group of people are crawling in a muddy area.
+2067	0.41439905762672424	a person is playing a guitar with his fingers and fingers.
+2068	0.3979799151420593	a man is using a large piece of cloth to wrap a piece of clothing.
+2069	0.41879358887672424	a man is wearing a suit and talking to the camera.
+2070	0.4735168218612671	a person is skiing down a slope while music is playing.
+2071	0.42348021268844604	two men are in a room and one of them is shaking the other.
+2072	0.3667027950286865	a man is dancing in front of a mirror and then stops.
+2073	0.4101088047027588	two men are tickling each other while the other is laughing.
+2074	0.5506393313407898	a man is giving a presentation on a stage in front of a crowd.
+2075	0.4204774796962738	a man is riding a bike down a path in a rural area.
+2076	0.39064157009124756	a man is standing in front of a camera and talking to a man.
+2077	0.381027489900589	a person is laying on a bed and is covering his eyes with his hands.
+2078	0.3514070212841034	a man is pouring coffee into a cup of coffee.
+2079	0.4957825541496277	a man is holding a baby and showing how to use it.
+2080	0.40339574217796326	a man is outside and is trying to break something out of the grass.
+2081	0.3880055248737335	a man is playing a beat on a table with his hands.
+2082	0.26488736271858215	a person is recording a video of a person recording themselves
+2083	0.4752581715583801	a man is using a large machine to crush a piece of wood.
+2084	0.6111288666725159	a man is break dancing in front of a large crowd.
+2085	0.34605303406715393	two people are standing on a ledge and one of them is trying to get something.
+2086	0.5900960564613342	a man and a woman are sitting on a couch and talking.
+2087	0.4730737805366516	two men are sitting on a couch and one of them is dancing.
+2088	0.5308605432510376	a group of people are scuba diving in the ocean.
+2089	0.5535839200019836	a woman is playing a guitar and singing a song.
+2090	0.5140717029571533	a man is sitting in a chair and whistling a song.
+2091	0.5634062886238098	a person is using a water hose to water a plant.
+2092	0.3492911756038666	a person is recording themselves in the snow and there is snow covered in snow
+2093	0.3660183250904083	a sea turtle is swimming in the ocean and a person is filming it.
+2094	0.3603058159351349	a man is standing in front of a car and is talking to a man.
+2095	0.43401187658309937	a man in a red suit and a red hat is dancing in the street.
+2096	0.41357916593551636	a man is sitting on a couch and holding a bottle in his hand.
+2097	0.3839781880378723	a group of musicians are playing music and singing while the other plays the guitar.
+2098	0.4262898862361908	a group of people are walking in line to music.
+2099	0.43039658665657043	a person is using a tool to cut pieces of wood.
+2100	0.3969421088695526	a man is riding a bike and jumping it around.
+2101	0.4381900131702423	a woman is holding a glass of wine and then she takes a drink.
+2102	0.403497576713562	two women are sitting on a couch and talking about the experience.
+2103	0.46187663078308105	a man is standing on a boat and is fishing with a fishing pole.
+2104	0.38146135210990906	a group of cars are driving down a busy street.
+2105	0.43266576528549194	a woman is applying makeup to a woman's eyebrows while she is talking.
+2106	0.39971795678138733	a group of football players are standing in a circle and they are getting ready to play.
+2107	0.4552147090435028	a group of people are watching a man ride a motorcycle.
+2108	0.3917860984802246	a man is standing on a stage and is playing a musical instrument.
+2109	0.4145243167877197	a girl is practicing her baseball skills in a baseball field.
+2110	0.3894711434841156	a woman is on stage and is playing the piano while a man is playing the piano.
+2111	0.2909316420555115	a person is showing off their skills in a park.
+2112	0.3759060502052307	a person is mixing some food in a bowl with a spoon.
+2113	0.33687999844551086	a group of people are in a concert and they are moving their heads around.
+2114	0.2899076044559479	a woman is eating a chocolate cake with a powdered powdered powdered powder.
+2115	0.3101198077201843	a group of people are walking around a building and they are trying to get the top.
+2116	0.31345343589782715	a man is talking about the experience of a video of two men.
+2117	0.42435964941978455	a group of men are playing instruments and singing in a large room.
+2118	0.3850831985473633	a woman is dancing to music while she is playing.
+2119	0.446239709854126	a person is pouring water into a cup and pouring it into a glass.
+2120	0.33320164680480957	a woman is shown lighting a cigarette and then she exhales it.
+2121	0.5404984354972839	a group of people are on a stage singing and dancing.
+2122	0.4738808870315552	a woman is singing into a microphone while another woman is singing.
+2123	0.4035576581954956	a man is standing at a table and is cutting a piece of meat.
+2124	0.4263286888599396	a large group of people are walking in the middle of a street.
+2125	0.43863144516944885	a man is sitting on a couch and talking about the experience of july.
+2126	0.39553916454315186	a woman is walking around a room with her hands.
+2127	0.3919993042945862	a woman is shown sneezing and then she sneezes.
+2128	0.32416650652885437	a man is on stage singing while another man is dancing.
+2129	0.4737558662891388	three young men are dancing in front of a camera.
+2130	0.41502565145492554	a man is walking through a wooded area and talking to the camera.
+2131	0.41818422079086304	a man is standing at a podium and is speaking to a crowd.
+2132	0.2954913079738617	a vehicle is slowly driving down a road at night.
+2133	0.5867673754692078	a group of people are skydiving in the air.
+2134	0.3733624219894409	a woman is watering a flower bottle with a plastic bottle.
+2135	0.36724787950515747	two people are hanging from a rope and they are trying to climb up a hill.
+2136	0.4223068058490753	a woman is showing how to make a recipe with different ingredients.
+2137	0.4540354907512665	a group of kids are playing basketball in a court.
+2138	0.4677719473838806	two men are making a bed and making a bed.
+2139	0.3484550714492798	a man is trying to get a pair of clothing in a clothing store.
+2140	0.4482159912586212	two people are parachuting in the air with a parachute.
+2141	0.4565972685813904	a man is balancing on a tight rope and doing tricks with his legs.
+2142	0.3474143445491791	a camel is being led by a man in the background.
+2143	0.3709978461265564	a person is flying a kite in the sky with a parachute.
+2144	0.36936238408088684	a man is sitting down and is tapping his hands on the ground.
+2145	0.5197970867156982	a group of people are in a car and they are listening to music.
+2146	0.256072074174881	a woman is shown in a room and she is trying to get her dress.
+2147	0.43512260913848877	a person is showing how they make a cake with frosting.
+2148	0.4336499869823456	a person is using a stick to play a game on a table.
+2149	0.4498528838157654	a man is making a bed by putting a sheet on the bed.
+2150	0.4473498463630676	a group of people are skateboarding on a skate park.
+2151	0.426981121301651	a person wearing a helmet is wearing a helmet and is wearing a helmet.
+2152	0.3791350722312927	a man is sleeping on a bed and then he is sleeping.
+2153	0.3985987901687622	a person is making a pizza with a fork and a fork.
+2154	0.3940911591053009	a person is showing how they are pruning a plant with a garden.
+2155	0.3916066884994507	a man and woman are standing in front of a large screen and talking about the weather.
+2156	0.3569354712963104	a group of men are sitting in a field and one of them is sitting down and is
+2157	0.4659571945667267	a man is beating on a piece of metal with his hands.
+2158	0.4610040783882141	a young boy is looking at a camera and looking at the camera.
+2159	0.3187216818332672	a group of birds are watching a fish in a zoo.
+2160	0.35693076252937317	a woman is walking on the side of a road with her hands.
+2161	0.4345349669456482	a large group of people are walking down the street and a man is talking.
+2162	0.5120868682861328	a man is climbing a rope that is attached to a tree.
+2163	0.4602358341217041	a man is walking on the ground in front of a crowd of people.
+2164	0.528793215751648	a man is playing a guitar and singing while he is playing the guitar.
+2165	0.45951899886131287	a man is sitting on a chair and is playing the drums with his hands.
+2166	0.3540596663951874	a woman is giving a demonstration on how to do a certain type of type of type of
+2167	0.3444204032421112	a person is making a pizza with pizza sauce and then he puts the topping on the table
+2168	0.3733814060688019	a group of boys are boxing and making faces with their hands.
+2169	0.4445788562297821	a person is using a phone to text messages on a phone.
+2170	0.46289297938346863	a man and a woman are standing in front of a camera and they are smiling.
+2171	0.41175392270088196	a person is flying a kite in the air while music is playing.
+2172	0.41027557849884033	a woman is showing how to make a certain type of work.
+2173	0.3603843152523041	a man with a mask on is playing with a mask on his head.
+2174	0.4216146171092987	a woman is demonstrating how to use a small piece of clothing.
+2175	0.3695496618747711	a group of indian people are standing in a circle and they are waving their hands.
+2176	0.35878992080688477	a person is snowboarding down a hill and is snowboarding.
+2177	0.4399445950984955	a group of people are outside and they are playing with each other
+2178	0.48965194821357727	a group of people are standing in front of a building and they are singing.
+2179	0.3544550836086273	a group of kids are playing a game with some toys
+2180	0.42618367075920105	a group of people are outside and they are playing with a toy.
+2181	0.4030957818031311	a large group of people are dancing in a circle.
+2182	0.5468785166740417	a man is using a tool to smooth out a piece of metal.
+2183	0.5657469034194946	a group of girls are playing a game of soccer.
+2184	0.6053670644760132	a man is sitting in a boat and playing a guitar.
+2185	0.5761067867279053	a group of girls are running around in a parking lot.
+2186	0.48787394165992737	a person is spraying a piece of metal on the side of a building.
+2187	0.4850824177265167	a group of kids are sitting on the beach and talking to each other
+2188	0.4420800805091858	a large group of people are running around and playing with a large ball.
+2189	0.4002712666988373	a man is playing a drum set with his hands.
+2190	0.4525010585784912	a group of people are walking across a busy street.
+2191	0.43582624197006226	a group of people are in a dark room and they are playing with each other
+2192	0.35906749963760376	a person is riding a three wheeled vehicle in a circle.
+2193	0.5274379253387451	a woman is applying wax to another woman's eyebrows.
+2194	0.5156478881835938	a man is shooting arrows at a target in a field.
+2195	0.44333207607269287	a person is driving a go kart on a dirt track.
+2196	0.4555589556694031	a man is spray painting a wall with spray paint.
+2197	0.5042597651481628	a group of people are dancing together in a circle.
+2198	0.487355500459671	a group of young girls are playing in a yard.
+2199	0.5203862190246582	a person is using a knife to cut into a piece of wood.
+2200	0.492046058177948	a group of young girls are performing a dance routine in a gym.
+2201	0.30953648686408997	a classroom full of people are watching a person play.
+2202	0.4300774335861206	a person is parachuting in the sky with a lot of trees.
+2203	0.403266966342926	a man is standing in a field and he is throwing a ball.
+2204	0.44098079204559326	a man and a woman are standing in front of a crowd and they are talking.
+2205	0.41658642888069153	a group of people are riding bikes and one man is talking.
+2206	0.3121018409729004	a man is talking about a group of people who are watching him.
+2207	0.40576645731925964	a man is holding a large fish that is in his hands
+2208	0.46887823939323425	a dog is sticking out his tongue out and sticking his tongue out.
+2209	0.4181711673736572	a group of people are standing in the middle of a street and one of them is trying
+2210	0.44656914472579956	a man wearing a hat and a hat is talking to the camera
+2211	0.4534741938114166	a man is snowboarding down a hill while another person is recording him.
+2212	0.3591306209564209	a person is using a stick to make a sound.
+2213	0.3343757092952728	a man is sitting on a chair and is trying to get his child to go.
+2214	0.45076215267181396	a person is riding a four - wheeled vehicle down a road.
+2215	0.42885035276412964	a man is playing a musical instrument with his hands.
+2216	0.34404802322387695	a man is outside and is cleaning the door with his hands.
+2217	0.4710165560245514	a group of people are standing together and talking to each other.
+2218	0.40341296792030334	a man is standing in the water and is talking about how to use a fishing pole.
+2219	0.40728071331977844	a person is walking on the ground with their bare feet.
+2220	0.300991415977478	a man is walking around a large indoor ice rink.
+2221	0.4925343990325928	a man and a woman are kissing each other in a room.
+2222	0.4472578763961792	a group of people are outside and they are doing laundry.
+2223	0.5728543996810913	two men are sitting at a desk and talking to each other.
+2224	0.40397101640701294	a person is using a large machine to cut a large log.
+2225	0.4025615155696869	a group of people are skiing down a hill and one person is recording them
+2226	0.4293995499610901	a person is using a leaf to cut a large amount of leaves.
+2227	0.3715272545814514	a young girl is walking on the sand and then she walks around.
+2228	0.35150447487831116	a man is holding a remote to his ear and he is talking.
+2229	0.48250940442085266	a group of people are outside and they are trying to put out a fire.
+2230	0.37289509177207947	a man is making a sandwich with a woman talking to him.
+2231	0.4066010117530823	a man is sweeping the floor with a broom and then he is sweeping the floor.
+2232	0.38530638813972473	a woman is standing on a dock and is talking to another woman.
+2233	0.4784122407436371	a group of people are sitting on the ground and watching birds fly around.
+2234	0.45177161693573	two men are sitting on a couch and talking about a topic.
+2235	0.3797397017478943	a woman is in the kitchen and is cleaning up a piece of food.
+2236	0.5005541443824768	a boy is riding a unicycle and then jumps off of it.
+2237	0.41258299350738525	a group of people are watching a lion through a cage.
+2238	0.44203048944473267	a person is cooking some food on a stove top.
+2239	0.3777754604816437	a man is slapping his hands on a table with his hands.
+2240	0.4791336953639984	a priest is washing the feet of a man in a church.
+2241	0.47138285636901855	a group of people are sitting around a table and talking.
+2242	0.42219236493110657	two women in a wrestling match are having a fight.
+2243	0.4509586989879608	a man is kayaking down a river while music is playing.
+2244	0.5363011360168457	a group of young boys are playing basketball in a gym.
+2245	0.5264875888824463	a man is standing in front of a white screen and speaking a foreign language.
+2246	0.4324566125869751	a man is giving a presentation on a projector.
+2247	0.5212894678115845	a man is using a hammer to break a piece of wood.
+2248	0.4800279438495636	a group of men are sitting at a table talking and talking.
+2249	0.3461463153362274	a person is holding a snake and then it drops it.
+2250	0.38530436158180237	a man wearing a black suit and a black shirt is sitting in a chair talking.
+2251	0.453323096036911	a man is swimming in the water with a large fish.
+2252	0.4431903660297394	two men are wrestling in a ring while a referee watches.
+2253	0.459988534450531	a group of people are in the water and they are trying to get something out of the
+2254	0.28654587268829346	a man is talking about the topic of a room.
+2255	0.43392303586006165	a person is showing how they open a sliding glass door.
+2256	0.39262697100639343	a group of people are chanting and chanting in a circle.
+2257	0.46895769238471985	a group of people are playing a musical instrument with their hands.
+2258	0.4240224063396454	a person is showing how they paint a picture of a picture.
+2259	0.4200044572353363	a group of people are standing on a wall and one of them is spraying something.
+2260	0.382864773273468	a person is showing how they are in a closet.
+2261	0.5068103075027466	two people are playing a song with their hands and singing.
+2262	0.5239013433456421	a man and a woman are walking down a hallway.
+2263	0.48418354988098145	a man is sitting on the floor and is stirring a pot of water.
+2264	0.45438411831855774	a large group of people are standing in a circle and they are waving their hands.
+2265	0.4617415964603424	a person is showing how they paint a jar with different colors.
+2266	0.37495142221450806	a group of people are watching a plane that is flying in the air.
+2267	0.406901478767395	a group of people are dancing and dancing to music.
+2268	0.4415475130081177	a person is using their hands to make a beat on a table.
+2269	0.4973198473453522	a person is using a knife to cut a green bell.
+2270	0.47943583130836487	a group of people are outside and they are blowing fire out of their mouth.
+2271	0.4490272104740143	a woman is holding a baby and the baby is trying to get it to the camera.
+2272	0.39994657039642334	a man is driving a tractor with a lot of wheels.
+2273	0.4668378531932831	three women are sitting at a table and one of them is talking.
+2274	0.5875743627548218	a woman is applying red lipstick to her lips in front of a camera.
+2275	0.42735567688941956	a person is using a string to make a necklace.
+2276	0.48746612668037415	a young girl feeds a goat through a fence while a woman talks to her.
+2277	0.4448085129261017	a man is dancing in front of a store while people are talking.
+2278	0.5540516972541809	a man is climbing up a tree while another man is talking in the background.
+2279	0.2685238718986511	a group of people are standing on a tall building and they are trying to get their attention
+2280	0.43211492896080017	a group of people are clapping and clapping while a man is talking.
+2281	0.43048083782196045	a man and woman are standing in front of a camera and they are talking.
+2282	0.444130003452301	a large group of people are standing around and feeding a flock of pigeons.
+2283	0.2524269223213196	a woman is talking about her family that are in the room.
+2284	0.40673181414604187	a group of young men are jumping off a ramp into a river.
+2285	0.5018590688705444	a person is doing a dance on the floor in front of a statue.
+2286	0.3686679005622864	a man is outside in the snow and is trying to hit a wooden board.
+2287	0.5032848715782166	a man is sitting on the ground and is playing with a ball.
+2288	0.468720018863678	a person is cross country skiing on a snowy mountain.
+2289	0.3888304531574249	a person is standing on a rope and is throwing a rope into the water.
+2290	0.44593438506126404	a group of people are dancing in the water while music is playing.
+2291	0.3652653992176056	a man is pushing a car with a lot of gas.
+2292	0.3339771628379822	a group of people are riding in a subway and they are moving around.
+2293	0.584556519985199	a group of people are planting a tree in the ground.
+2294	0.6025810837745667	a person is riding a bike in the middle of the street.
+2295	0.2504326105117798	a man is moving a table and then he is moving the table.
+2296	0.47775912284851074	a group of people are standing at a wine tasting event.
+2297	0.5745944976806641	a person is wind surfing on a large body of water.
+2298	0.40724992752075195	a man is doing tricks on a skateboard and then he jumps off the stairs.
+2299	0.4117521345615387	a group of people are doing a group of high fives.
+2300	0.39138227701187134	a woman is standing in a circle and talking to the camera.
+2301	0.41387686133384705	a young woman is shown running her fingers through her hair.
+2302	0.4510946273803711	a man is making a sculpture out of a giant ice sculpture.
+2303	0.502741277217865	a man is in the sand and is doing somersaults.
+2304	0.46427881717681885	a group of people are riding in a vehicle and one of them is driving.
+2305	0.3917446732521057	a group of people are climbing up a rock and then they are climbing.
+2306	0.44240716099739075	a woman is standing in front of a white door and talking to someone.
+2307	0.24295537173748016	a news reporter is talking about a game of july.
+2308	0.3687279522418976	a woman is looking at the camera and showing a picture of a woman.

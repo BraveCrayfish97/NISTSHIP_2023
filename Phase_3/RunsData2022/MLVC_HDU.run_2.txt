@@ -1,0 +1,2311 @@
+Task=D
+loss=categorical crossentropy
+runType=VV
+1 0.8630423 A guitar is playing a guitar on a stage
+2 0.5250151 A man in a blue shirt and a blue baseball cap drives a car and opens the door of a vehicle
+3 0.7418266 A man in a black shirt talks to the camera in a room
+4 0.8311942 A group of young people are sitting in a classroom
+5 0.6727618 A man in a blue shirt holds a camera in front of a camera
+6 0.0756786 A woman in a white shirt and a black man wearing a white shirt and black pants and a black and white shirt stands next to her
+7 0.6156468 A woman in a black outfit walks toward the camera in a room with white walls
+8 0.6705588 Two black and white females are sitting on the floor of a house
+9 0.6664215 With music playing in the background on a sunny day in a field with music playing in the background
+10 0.5112239 A young woman in a wedding dress is holding a book in a garden in a park
+11 0.9837827 man speaks into the camera
+12 0.9680261 a group of people playing a soccer match
+13 0.5988061 A young man in a blue baseball cap and a baseball cap stands in the woods on a sunny day
+14 0.8890335 2 men are dancing on a beach
+15 0.430761 A man in a black and white striped shirt takes a picture of a person in a white shirt
+16 0.5318297 A group of people are standing in front of a van to a group of people on a sunny day
+17 0.1809959 A man in a white shirt sits on a bench next to a table in a white shirt and a woman in a white shirt with a <UNK>
+18 0.4149232 A dog is walking in the corridor of a house with a white cat on the side of the room
+19 0.8550515 The camera pans down the aisle of a room
+20 0.7689073 A group of people are walking in a park in the daytime
+21 0.7101556 A blonde woman talks to a group of people in a large room
+22 0.3494565 a man and a woman sit on a bench in front of a man in a black and white shirt and black pants
+23 0.519757 A man in a blue kayak walks along a lake with a lake in the water on a sunny day
+24 0.6444515 A man in a blue shirt and blue shorts paddles on a board on a sunny day
+25 0.4242135 A man in a black shirt and a red shirt is riding a car in a gym
+26 0.822266 A group of men are playing in a field on a sunny day
+27 0.5485751 A woman in a red dress and a black vest walks down a hall on a table
+28 0.03125 A young white woman in a
+29 0.8259626 A group of men are sitting on the floor of a room
+30 0.6700445 A man is narrating by a man in a room
+31 0.3399761 A young man and woman sit at a table in front of the camera and speaks to a young man in a blue shirt
+32 0.8788609 A young man is looking into the camera
+33 0.7827094 Football game in which a player makes a touchdown
+34 0.5789521 A young man and a woman sit on the floor in a room with a light blue wall
+35 0.3753982 A man in a yellow jacket and a black suit is standing in front of a screen in a room
+36 0.867197 A man is looking at a computer screen
+37 0.6284445 A man in a white shirt and black pants stands in front of a mirror in a room
+38 0.4489042 A young man in a red jacket stands in front of a brick building in front of a brick building in a building
+39 0.877522 A bride and groom walk down the street on a sunny day
+40 0.7108862 A young woman with long dark hair wearing a black dress is dancing in a room
+41 0.5800788 A man in a blue shirt and black pants is driving a car parked on a sunny day
+42 0.8770167 A man in a yellow jacket talks into a microphone
+43 0.4517573 at night a man walks away from the car and then the car starts to the car
+44 0.5003642 A man in a red jacket stands in front of a red truck and talks to a person in red
+45 0.3641812 A man is sitting at a fabric table and a woman in a black and white dress on a table
+46 0.5934129 A young boy in a blue plaid shirt and a plaid shirt is walking in the woods on a sunny day
+47 0.6384506 A woman sings into a microphone while two little boys plays behind them
+48 0.578013 Two men sit at table in front of a table and one of them talks to the camera
+49 0.4487628 A bride and groom dressed in white wedding dress and groom are walking around a table in a room
+50 0.643886 A special effects video of a man in a green shirt is making a <UNK>
+51 0.5862647 A woman in a white hat is sitting on the ground in a shop
+52 0.4854759 A man in a black suit and a woman in a white dress are talking to a man in a suit and tie
+53 0.5342319 A man in a black baseball cap and a black baseball cap is talking on a gas station
+54 0.9292419 A man is talking into the camera
+55 0.9795134 a group of people playing a soccer match
+56 0.8281388 A person is seen gliding in the air
+57 0.8231766 A man is narrating in a field on a sunny day
+58 0.3033178 A young boy wearing a blue shirt and blue shirt is holding a little boy and another little boy in a green shirt
+59 0.3012635 With music playing in the background on a table with a table is playing with a table and a big table is shown
+60 0.8065313 Two dogs are driving in a car in the day time
+61 0.03125 A young man wearing a blue
+62 0.6981578 A woman in a white dress is sitting on a table in a white room
+63 0.7971718 A group of men and a woman are singing together in a room
+64 0.7158167 A large body of water is moving along a body of water
+65 0.6945394 On a soccer field a group of men are playing soccer in the field
+66 0.4368606 With music in the background in the daytime a man in a black and white helmet is seen from the ground on a sunny day
+67 0.711584 A group of men playing a game of an outdoor game
+68 0.6713068 A young boy sits on a chair in front of a laptop on his lap
+69 0.5191052 A man in a white suit and a black suit is walking down the street in the daytime
+70 0.5656758 A group of people dressed in red and white flags are standing in front of a large group of people on a sunny day
+71 0.3870371 Two young Asian women stand in the woods and one of them holds a bouquet of flowers on the other side
+72 0.7114222 A red car is moving in the air on a sunny day
+73 0.03125 With music playing in the background
+74 0.6046279 A woman wearing a white dress and a hat is walking on a stage
+75 0.4760313 A person in a black and white striped pants is shown on the floor of a wooden floor
+76 0.5645581 A man in a green shirt and blue jeans dances with a group of people in the street on a sunny day
+77 0.5562212 A woman in a white shirt and black pants sits on the floor in a room with other people
+78 0.6845188 A young woman in a red shirt and shorts walks across a field on a sunny day
+79 0.5398801 A video of a blue boat with a blue sky on the water
+80 0.1319727 A man in a black suit and a woman wearing a black jacket and black pants is sitting in a room with another man
+81 0.6968137 A man on a bicycle rides a bicycle down a road in the daytime
+82 0.6455569 in the daytime a man sits on the ground and speaks into the camera
+83 0.4987613 A man in a white shirt and black pants is laying on the floor in a room with white walls
+84 0.6876335 A small monkey walks out of a metal cage outside on a sunny day
+85 0.6437959 A young man is sitting on a bed and is dancing in a music video
+86 0.710023 A snow boarder comes down a snow covered hill in the snow
+87 0.4950434 A young white woman with a blue shirt and a blue shirt is holding a baby in her hand
+88 0.2860926 A man with a black mustache and a mustache talks to a black man wearing a black baseball cap and a black shirt is holding
+89 0.5057622 A group of men dressed in black hats and hats are standing in a room with a fireplace
+90 0.5848455 A man in a white shirt is writing something from a table
+91 0.5219781 A young white man with a beard wearing a black and white striped shirt and black pants is playing in a room
+92 0.5100128 A man in a black shirt and a black cap stands in front of a large building in a large room
+93 0.7741813 A bride and groom are sitting at a table in a church
+94 0.1758043 With music playing in the background in a room with a white table in the background on the table is playing with a cup of water
+95 0.8097734 A group of dancers are performing on a stage
+96 0.5045831 An Asian man in a black jacket is talking to a woman in a red dress
+97 0.3924644 A woman in a white sweater sits on a chair and talks to a black man sitting in front of a brick wall
+98 0.8501359 A bride and groom are outdoors on a sunny day
+99 0.6879347 A brown bear is sitting on the ground in a room
+100 0.5769839 A man in a white tee shirt walks down a flight of stairs in a large room
+101 0.8145881 A person is climbing up a wall outside on a sunny day
+102 0.4534592 A woman wearing a blue and white striped shirt and black pants walks around a table in a room
+103 0.7274629 A group of people are sitting at a dinner table in a room
+104 0.4743067 A young man in a white shirt and a black hat is standing next to a lake on a sunny day
+105 0.3646958 A man in a black and white shirt and a woman in a white dress sit at a table in front of a white wall
+106 0.7716096 A man is sitting in a chair and talking to a woman in a room
+107 0.9774918 A man is looking into the camera
+108 0.7938078 A man in a white shirt and glasses is talking to someone off camera
+109 0.5288692 A man in a blue shirt and a white helmet stands on a field on a sunny day
+110 0.4262759 A man in a white helmet and a helmet is jumping over a fire in the daytime
+111 0.9246773 A group of musicians perform on a stage
+112 0.3057397 With music playing in the background in the background a white male with a yellow ball is shown with a yellow cup
+113 0.8050236 A man in a black and white striped shirt plays the violin on a sunny day
+114 0.4842804 A young man dressed in black is walking down a city street with two people watching him
+115 0.6787408 A man with a beard and a beard is standing in front of a stone wall outside on a sunny day
+116 0.3980246 A woman with long dark hair wearing a white shirt and a blue shirt is holding a
+117 0.3339101 A young man in a white shirt and a pink shirt is standing in front of a table with flowers on it
+118 0.6787813 A group of people are standing in front of a store talking on a sunny day
+119 0.5822741 A young white woman with long brown hair wearing a white top and black pants is sitting on a table
+120 0.03125 A white woman with black hair
+121 0.6344228 A young man wearing a blue plaid shirt is sitting on the ground in a field on a sunny day
+122 0.8730984 A group of men are playing basketball in a gym
+123 0.7950604 A group of young men are dancing and singing
+124 0.6879198 A young man is sitting on a lawn chair on a sunny day
+125 0.5988248 A man in a white shirt and a red cap stands in front of him outside on a sunny day
+126 0.5607803 A man is sitting in the back of a car parked on the ground in the daytime
+127 0.03125 A man in a blue shirt
+128 0.4853206 A woman in a white dress and a black hat walks down a street in front of a brick wall
+129 0.257994 A man in a black and white shirt and black shorts is in a bathroom and takes a drink out of a
+130 0.6304789 A young woman with long dark hair and a black shirt is singing
+131 0.4127522 A man in a yellow tee shirt and a woman in a yellow hat walks along a river on a sunny day
+132 0.8312372 Two men sit on the floor in a room
+133 0.6443787 A woman in a store is standing at a table in a store in the daytime
+134 0.5633115 A person is pouring food from a bowl into a glass table
+135 0.5299613 A large crowd of people is moving along a large field with palm trees on a sunny day
+136 0.6852095 A man in a blue shirt walks across a lake in a park on a sunny day
+137 0.526787 A young woman sits at a table in front of a table and speaks to a group of people sitting at a table
+138 0.9516384 A fish is swimming in the water
+139 0.6470853 A man in a white helmet rides a bicycle in a wheel chair in the daytime
+140 0.8200786 A person is driving a blue car
+141 0.5969365 A video of a coffee to be seen in the kitchen
+142 0.4460893 A man in a white shirt and a woman in a black dress walks through a window of water on a sunny day
+143 0.6775151 A man is holding a small white object on his hands
+144 0.5559956 With music in the background and a group of people are walking in the middle of the road in the daytime
+145 0.6942655 A bicycle race is driving a motorcycle in a stadium
+146 0.6117314 A man in a black and white helmet rides his helmet on a sunny day
+147 0.03125 With music in the background in
+148 0.5138527 A man in a blue shirt and a blue cap is sleeping in the water on a sunny day
+149 0.7337744 A group of young people are standing on a stage at night
+150 0.7507295 A group of people are walking through a crowd of people
+151 0.4852303 A young Asian woman with black hair in a black and white mask is looking at her cell phone
+152 0.8177763 A man and a woman are riding in a bus on a sunny day
+153 0.8832454 A person is looking into the camera
+154 0.5798277 A young man in a plaid shirt and a plaid shirt is talking to the camera in a store
+155 0.6670872 A man in a blue shirt is standing in front of a green wall
+156 0.5246808 A young man wearing a helmet and a helmet is jumping over a bridge in a park
+157 0.3990543 A young woman with long hair is walking in a hallway with a young man in the back of her
+158 0.516552 A man in a bathing suit and a woman in bathing suit on a beach next to a beach on a sunny day
+159 0.7424812 A group of young men and women are dancing in a park on a sunny day
+160 0.7222017 A man in a blue shirt stands in front of a microphone and speaks to a microphone
+161 0.6593961 A man in a blue shirt is standing in front of a store talking to the camera
+162 0.2069426 A man in a black ski suit stands on a snowy mountain in front of a snow covered mountains with a red and white
+163 0.7329933 A man in a blue shirt is holding a book in a room
+164 0.6911566 A large crowd of people are standing in front of a large building on a sunny day
+165 0.3970782 A young woman with long dark hair and a white dress is taking a picture of a man in a black and white dress
+166 0.5650151 A man in a black suit walks across a stage with a white curtain in the background
+167 0.3977337 A group of young men are holding up a rock and one of them is holding a large body of water
+168 0.6073047 A group of people dressed in costumes are walking on the street in a large room
+169 0.5489386 A man in a dark suit sings into the camera as a man plays in front of him
+170 0.6998608 A young man is walking down a snow covered hill in the woods
+171 0.5395883 A blonde woman in a white dress is holding a book in her hands on a sunny day
+172 0.7808253 A group of people are performing on a stage in a large room
+173 0.3999329 A man in a blue shirt and a blue shirt is standing in a large room with a blue and white walls
+174 0.6979688 A yellow race car is driving on a green road during the day
+175 0.7059162 A man in a red jacket performs tricks on a snowy mountain on a sunny day
+176 0.6028892 A man in a white shirt and a woman in a white dress are walking down a path in a park
+177 0.8363554 A group of people are sitting at a table outside on a sunny day
+178 0.3301038 A young man wearing a black and white shirt is sitting in a chair and looking at a picture of a man sitting on the floor
+179 0.7443377 Two cars are driving on a road in the daytime
+180 0.4589498 The camera pans across the floor of a <UNK> and a <UNK> is shown
+181 0.7580557 A bride and groom stand in front of a crowd of people
+182 0.8148792 A man is cooking in a kitchen
+183 0.5800915 A young man wearing a white tee shirt is standing on the road in the day time
+184 0.4718039 A man in a red jacket and a woman in a red jacket walks down a street in the daytime
+185 0.8261994 Two men in a room are talking to each other
+186 0.6421323 A large metal cylinder is lowered by a large metal structure
+187 0.5588956 A woman is standing in front of a large screen with a large screen behind her
+188 0.6373223 A young man in a blue shirt is looking at the camera outside on a sunny day
+189 0.6081085 A gray cat is holding a small white cat on its hind legs
+190 0.6978948 A man is holding a piece of paper in his hand
+191 0.645608 A young white man with a beard and beard is in a bathroom mirror indoors
+192 0.8494078 Two men sit at a table in a restaurant
+193 0.835391 A group of young people are dancing in a large room
+194 0.7366388 A young woman with long dark hair wearing a black dress is singing
+195 0.7678042 A man in a yellow jacket talks to a group of people
+196 0.795514 A man is holding a piece of wood in a room
+197 0.8653281 A man is playing the piano on a stage
+198 0.5652411 A group of young men and women are sitting at a table and one of them throws something out of the room
+199 0.7942051 A group of men dressed in black are dancing on a stage
+200 0.7108671 A young white woman with brown hair and a white shirt is singing in a room
+201 0.7090781 A man in a green shirt rides a scooter down a hill on a sunny day
+202 0.6999349 A man in a white shirt is looking at the camera in a room
+203 0.4851489 A bride and groom are seated in a room with their hands on the side of a church
+204 0.8868449 A scuba diver is swimming in the water
+205 0.6889413 A person wearing a helmet is climbing a rock in the air
+206 0.8839402 a man is dancing on a stage
+207 0.5388793 A woman in a blue shirt holds a baby in her hand as she sits on a sunny day
+208 0.739056 A young woman with long brown hair is singing and playing a guitar
+209 0.756571 A man is talking to a woman in a white t-shirt outside on a sunny day
+210 0.8665896 in a football stadium a player in black and white clothes make a score
+211 0.8177437 A group of men are riding on a dirt road on a sunny day
+212 0.1839204 A man in a blue jacket and a white helmet holds up a large backpack and holds it up in the snow on a sunny day
+213 0.6810916 A man in a black and white helmet rides a motorcycle on a motorcycle outside on a sunny day
+214 0.8219769 A group of people are walking in the woods on a sunny day
+215 0.6632028 A young woman in a red dress stands in front of a camera and speaks to the camera
+216 0.3635819 A woman in a yellow shirt and blue shorts is standing in front of a wall with a yellow wall behind her
+217 0.4674111 A man in a black and white shirt sits at a table and speaks to a woman in a restaurant
+218 0.6574707 A person is seen in the wind of a mountain on a sunny day
+219 0.5000395 A bride and groom are in a white and white dress with their hands on it
+220 0.6461217 A young boy wearing a blue shirt is sitting on the edge of a park at day time
+221 0.5471177 A woman is holding a black and white video of a person in a room
+222 0.7524163 A man in a suit jacket walks down a city street
+223 0.4619164 Outdoors in a yard during the day a young man is holding a goat and talking to him
+224 0.03125 A woman in a brown jacket
+225 0.225533 A man in a red shirt and blue shorts is standing on the side of a blue and white parachute on a sunny day
+226 0.4425652 A young Asian man in a white shirt is holding a book in his hands and his hands over his head
+227 0.8375127 Two young men are walking down the stairs
+228 0.7601205 A man is running on a soccer field outside in daytime
+229 0.5070455 A young Asian woman wearing a pink top is holding a bouquet of flowers in a park
+230 0.5567433 A woman in a blue shirt and blue pants stands on a stage in front of a blue wall
+231 0.7810095 A group of people are sitting on a bench outside on a sunny day
+232 0.7018756 A man in a white shirt and a blue shirt speaks into the camera
+233 0.8484933 A group of people are standing in a park on a sunny day
+234 0.7634208 a group of people are standing in front of a stage
+235 0.7448473 A young man climbs up a rock in the woods
+236 0.7499227 A woman is holding a picture of flowers
+237 0.9936939 a soccer player scores a goal on a soccer field at daytime
+238 0.4676612 A man in a red shirt is cutting a bottle of another man in a red shirt
+239 0.6820668 A black man wearing a white shirt and black pants is skateboarding in the street
+240 0.6205731 A group of Asian young men in a school uniforms are talking in front of the camera
+241 0.5626023 A young woman in a black and white dress is sitting on a table in a room
+242 0.7755204 A young man in a blue shirt and glasses speaks into the camera in a room
+243 0.6675913 A young black man and a woman are fighting on a bar
+244 0.4764812 A young woman wearing a blue and white dress is sitting on a wooden floor outside on a sunny day
+245 0.4446224 A young man wearing a blue shirt and blue shorts is standing on the front of a swimming pool on a sunny day
+246 0.7347645 A man in a white helmet is talking to the camera outside on a sunny day
+247 0.5585431 A man in a black suit and tie sits at a table in front of a desk and speaks to the camera
+248 0.582294 A man in a blue shirt sits in front of a blue wall and speaks to a camera
+249 0.9184218 A woman is speaking into a microphone
+250 0.8123891 A group of people are in the water on a sunny day
+251 0.6476647 A person in a red jacket walks through a snow covered mountains in the mountains
+252 0.7718128 A group of men and women are walking in a park on a sunny day
+253 0.4730767 A young man wearing a white tee shirt and black pants with a white tee shirt and black pants is walking down the street
+254 0.5321544 A man in a suit and a woman in a black suit stands in front of a window in a large room
+255 0.554193 A woman in a white shirt and black pants is holding her hand up and down outdoors at day time
+256 0.6353012 A small white truck is moving in the middle of a truck on a sunny day
+257 0.6743675 A man in a green shirt and green shorts paddles down a river on a sunny day
+258 0.5277343 Four girls wearing red tops and a red hat are sitting in a room singing and dancing
+259 0.5920625 A boy in a blue shirt and black shorts walks across a lawn lawn lawn in a park on a sunny day
+260 0.5466499 A video of a garden is shown picking up a wooden structure
+261 0.6364535 A young man in a red baseball cap stands on a frozen board outside on a sunny day
+262 0.6632127 A group of young men and women are playing in a field on a sunny day
+263 0.7324245 A man in a blue shirt is running in the ocean on a sunny day
+264 0.251701 A man in a white suit and a woman in a white dress walks down a hall to a man in a white suit and tie
+265 0.7031555 A band is performing on a stage with lights on the stage
+266 0.550769 A person in a red and white striped shirt walks across the floor in a room
+267 0.262364 A man in a yellow helmet and a helmet stands on a rope attached to a rope on a rope
+268 0.7290114 A bicycle rider is riding a bike on a dirt road on a sunny day
+269 0.8234917 A man in a black shirt speaks into the camera outside on a sunny day
+270 0.4905491 A woman in a black dress and a man holding a microphone in front of a group of people in a room
+271 0.7173347 A man in a white shirt walks from behind a building
+272 0.2591749 a woman sits on a couch holding a baby in her hand as a man in a blue jacket sits next to a man in a blue shirt
+273 0.5626556 A person in a white helmet jumps over a snow covered hill in the daytime
+274 0.3693874 A man in a suit and a woman in a white dress are sitting at a table in a room with a large table
+275 0.683452 A small child sits on a table in front of a camera
+276 0.5159747 A group of young men and women dressed in blue and white shirts are dancing in a field
+277 0.8425371 A man is walking in the woods on a sunny day
+278 0.6625119 A man in a red shirt drives a truck into a small truck on a sunny day
+279 0.5539553 A young man wearing a red shirt and black shorts throws a ball into the basket of the gym
+280 0.2772683 A man in a black suit and tie and a black tie wearing a white shirt and black tie and tie in a black suit
+281 0.633303 A video of a <UNK> <UNK> is walking on the floor
+282 0.5104928 A young woman with long dark hair wearing a black and white sweater is lying on the floor
+283 0.03125 A woman in a white dress
+284 0.6339841 A man in a white shirt and black shorts rides a wave on a sunny day
+285 0.5256816 A man in a white shirt sits on a bed in a room with a white wall and talks to the camera
+286 0.8384147 A group of people are walking in the street at night
+287 0.7622556 A man wearing a helmet and a backpack walks down a hill on a sunny day
+288 0.6805486 A man in a suit and sunglasses walks along a street in front of a brick wall
+289 0.7310204 A group of people are sitting on the ground on a sunny day
+290 0.5070488 A young woman with long dark hair wearing a black and white dress stands on a beach next to a sea
+291 0.7342294 A woman in a black and white dress walks into a kitchen in the kitchen
+292 0.4940281 A group of men dressed in black are holding a sword in the air outdoors in the daytime
+293 0.5150495 With music playing in the background in the daytime a group of young men in black and white are running in the water
+294 0.8538391 A group of men are walking in the woods on a sunny day
+295 0.8628658 A group of men and women dance together
+296 0.145327 In a darkened room a man in a white tank top and a black hat is set up and down
+297 0.8456329 A group of people are gathered on a sunny day
+298 0.7128741 A little girl in a pink dress stands in front of a Christmas tree
+299 0.7864375 A man in a blue shirt speaks into a microphone in front of a blue wall
+300 0.3650917 A young man in a black baseball cap and a black baseball cap approaches a young man in a black baseball cap on a sunny day
+301 0.5040016 A group of people are cheering in a large auditorium in a large arena filled with spectators
+302 0.6165327 A group of men wearing white shirts and blue shirts are sitting on a field on a sunny day
+303 0.6277818 A young woman with long hair is talking to a young man in a dark room
+304 0.5303019 A young woman in a white shirt runs up and down a ramp and falls to the ground
+305 0.9585864 With music playing in the background
+306 0.3315041 A man in a white shirt and blue jeans walks toward the camera as a man in a blue shirt walks by a man in a blue shirt
+307 0.8999557 a man speaks into the camera outdoors at daytime
+308 0.8854376 Two men are wrestling in a boxing ring
+309 0.6189706 A woman plays the violin of a man and a woman play together
+310 0.7107471 A young man is holding a cell phone in his hands outdoors day time
+311 0.7711962 A bride and groom are standing in front of a white door outside on a sunny day
+312 0.4855834 A young man in a blue and white shirt and blue pants is playing with a young boy in a gym
+313 0.2632149 A man in a white shirt and glasses stands at a table in front of a table with a white table and a woman in a white shirt
+314 0.7130011 A group of people are sitting at a table in a kitchen
+315 0.913707 A fish is swimming in the water
+316 0.4250456 Two men one wearing a black hat and a black hat are picking up and down outdoors
+317 0.8922302 A person is playing a keyboard
+318 0.8359639 A bride and groom are kissing each other indoors
+319 0.8157606 A man is playing the violin on a stage
+320 0.7789281 A person is seen on a dark stage
+321 0.3553996 A man in a blue shirt and black pants and a red shirt is sitting on a tree in a park on a sunny day
+322 0.541522 A young man wearing a grey sweater and a tie sits at a table and speaks to a woman wearing glasses
+323 0.3351608 A young man in a blue shirt and blue jeans holds a bottle of another young man in a blue and white shirt and jeans
+324 0.7940565 A man in a green shirt and sunglasses speaks into the camera
+325 0.4934652 A man in a white shirt stands in front of a white wall with a large metal structure in the background
+326 0.6945996 A crowd of people is cheering on a stage with spectators watching
+327 0.8279926 A man in a red shirt rides a bicycle down a hill on a sunny day
+328 0.4370961 With music in the background in the background a man in a black suit is walking in the snow with a woman in the background
+329 0.50731 A man in a black suit and tie stands on a stage in front of a crowd of people
+330 0.03125 A woman in a black and
+331 0.9297896 A scuba diver swims in the ocean
+332 0.536137 A man in a black and white shirt and black hat is walking in the middle of the water on a sunny day
+333 0.6815627 A young man is holding a red card on a table
+334 0.7429009 A person is using a knife using a knife
+335 0.4229191 On a city street a man in black and white shirt and grey pants dances on a city street
+336 0.3244387 A young man in a blue shirt and blue pants is watching a young man in a blue shirt and blue shorts at an indoor gym
+337 0.405447 A young man is walking down the street and a young woman with long dark hair is walking in the street
+338 0.8953927 A woman is sitting at a table
+339 0.6504287 A man in a blue shirt sits in front of a book and talks to someone off camera
+340 0.528826 A man in a blue shirt and black pants is climbing a large rock in the woods
+341 0.7426941 A young man in a black shirt skateboards down a ramp in a gym
+342 0.5110956 A person in a black and white striped top is in a dark area
+343 0.6702867 A young white male is sitting on the edge of a water outdoors at daytime
+344 0.4868027 A young man wearing a white shirt and a tie is standing in front of a window on a sunny day
+345 0.5238647 A young man sits at a table in front of a table and speaks to a man sitting on a chair in a room
+346 0.7254652 A man in a white shirt does a trick in a gym
+347 0.8442674 A group of young students are sitting in a classroom
+348 0.383495 With music playing in the background in the daytime a group of people are in the air and is being filmed in the air
+349 0.6463877 A woman pours a glass of a bottle with a bottle of fruit
+350 0.5500877 A woman in a white shirt is talking to a man sitting at a table in the kitchen
+351 0.4470309 Two white girls are sitting in a room with a white and white curtains on the wall
+352 0.2387405 A young woman in a black and white shirt and black pants is walking in a room with a door and a man in a black suit
+353 0.7792642 A young boy is playing a stick outdoors in the daytime
+354 0.5876581 A man in a blue jacket and black pants is walking down a snow covered hill on a sunny day
+355 0.524928 A woman with long dark hair wearing a black top and a black top is standing in front of a wall
+356 0.6799517 A woman is sitting in a boat in the water in the daytime
+357 0.6661947 A person wearing a blue shirt is eating a glass of fruit
+358 0.1777711 A mountain climber is seen from the top of a blue and white parachute as it is seen from the side of the mountain
+359 0.404987 In a gym a man in black and white trunks jumps into a pool of water and then falls down
+360 0.5717524 A black man in a white shirt and black pants sits in a car and opens the door of a parked car
+361 0.7422828 A man in a green shirt is moving in a field on a sunny day
+362 0.6288242 A man in a black and white shirt holds a black and white liquid in his hand
+363 0.7091211 A group of people are walking on a paved road on a sunny day
+364 0.0718787 A man in a black and white shirt and a woman in a black shirt is taking a picture of a man in a red shirt
+365 0.4725436 a man in a black suit and a woman in a white dress walks down the aisle of a group of people
+366 0.5216666 A man in a black and white shirt and a black suit speaks to a man in a room
+367 0.5040856 A young white woman with long brown hair and a blue shirt is sitting in a room with a white wall
+368 0.7443605 A man is walking in the street in the daytime
+369 0.6753196 A small boat goes down the water near a body of water
+370 0.6990666 A young woman with blonde hair is talking to someone off camera
+371 0.8058722 A group of young men are playing soccer on a soccer field at daytime
+372 0.6218169 A young white woman in a white sweater is talking to a man in a room
+373 0.656284 A young man with black hair and a white shirt is sitting on a bed indoors
+374 0.4010864 A man in a white tee shirt holding a golf ball in his hand and throws it to the ground in the woods
+375 0.7306937 A woman in a white dress plays a guitar and sings into a microphone
+376 0.7179019 A person is sitting on a table in a kitchen
+377 0.6764288 A young man dressed in black is dancing on the floor in a room
+378 0.7242009 a group of men is running on a field at daytime
+379 0.8354576 View of a plane plane in the window
+380 0.5551257 A man in a black shirt and a blue shirt is looking at a picture on a sunny day
+381 0.6633139 A man in a blue shirt and white pants is walking in the woods on a sunny day
+382 0.2229772 A young woman with long black hair and a white shirt and black hair and a young man with long black hair in a dark room
+383 0.5943925 A young man wearing a black and white helmet is riding his bike on a dirt road on a sunny day
+384 0.03125 A man in a green shirt
+385 0.8198758 A group of young people are sitting at a table in a room
+386 0.658525 A white woman with a microphone is talking in front of a group of people
+387 0.9135514 A man is looking at the camera
+388 0.2466775 A man wearing a baseball cap is eating a plate of food in the air and is being fed
+389 0.4814703 A black woman wearing glasses and a black jacket talks to a young man in a black and white shirt and glasses
+390 0.5330391 A young man in a blue shirt and blue jeans walks along a sidewalk in front of a building
+391 0.6129246 A person with a helmet is going up in the water on a sunny day
+392 0.835464 A group of people walk down a hill on a sunny day
+393 0.5232191 A young man wearing a blue shirt is looking through the door of a room with a glass door
+394 0.8316361 A hand is holding a piece of paper
+395 0.5187232 A woman is lying on the floor of a man lying on a bed next to a couch in the daytime
+396 0.58168 A man in a blue shirt and a woman in a blue shirt talks to the camera
+397 0.5737781 <UNK> view from the side of a lake with mountains in the background
+398 0.7094295 A bride and groom in a wedding dress are walking in a church
+399 0.8347074 A person is gliding gliding on a cloudy day
+400 0.4758534 A little girl in a pink dress and pink pants is dancing in front of a group of children in a room
+401 0.6596981 A group of young people are walking along a road in the daytime
+402 0.7997363 A man in a blue shirt is talking into the camera in a room
+403 0.03125 With music playing in the background
+404 0.6597443 A young woman in a red dress walks toward the camera in front of a large room
+405 0.5723485 Two Asian men sit at a table in a restaurant and one of them is talking to the camera
+406 0.6055322 A person is walking in a room with a white wall behind them
+407 0.5778269 A black and white bird is sitting on the ground of a house
+408 0.7738348 A white <UNK> is sitting on a wooden board on a sunny day
+409 0.8024536 A man is cutting a piece of food
+410 0.3232568 A man in a white shirt with red writing on the side of a city street with graffiti on it
+411 0.9985013 a football player scores a goal on a football field
+412 0.8047247 A red race car is shown on a sunny day
+413 0.8708371 A man in a red shirt is talking into the camera
+414 0.6194577 Someone is showing a picture of a white wall with a blue wall
+415 0.3619593 A man in a blue shirt and white shorts stands in front of a glass panel and throws it out of the window
+416 0.5218295 A young Asian man sits on a board and speaks into the camera
+417 0.599027 A man in a white shirt plays a guitar and sings to the camera while another man plays in the background
+418 0.6590231 A hand is cutting into a white cloth on a table
+419 0.8303387 A group of young men are dancing in a room
+420 0.7993565 A man in a red shirt talks into the camera in a room
+421 0.2689623 A person is drinking from a large pot that has a <UNK> of food that is used in it
+422 0.9581203 A woman is looking into the camera
+423 0.2919519 A woman dressed in black is dancing on a stage as another man in a black suit and a woman in a white dress
+424 0.279178 A man in a blue shirt and blue jeans stands in front of a store and talks to a young man in a black shirt
+425 0.6936839 A man in a red shirt and black shorts rides a skateboard on a sunny day
+426 0.3362311 Two men wearing black and white shorts and black shorts are standing on the side of the field in front of an audience
+427 0.8124975 A group of people are walking down the street on a sunny day
+428 0.03125 Two young men one wearing a
+429 0.7398528 A young man plays guitar and sings while another plays the guitar in a room
+430 0.5796517 A man in a blue shirt holds a book in front of a book and holds a book in his hand
+431 0.3906339 A black man wearing a black and white t-shirt and black pants is holding a piece of paper in a room
+432 0.586927 A group of people are standing in a large room with flags and a flag on a sunny day
+433 0.7229535 A young man and a young woman are smiling and clapping
+434 0.7369315 People are walking around a large table in a restaurant on a sunny day
+435 0.6815983 A snow boarder rides down a ramp in the snow
+436 0.7029238 A group of people are sitting in a park at daytime
+437 0.8155416 A man is looking at the door of a plane
+438 0.4265233 Two young Asian men one with a black and white shirt and the other with a black hat are in a room
+439 0.7214865 A man in a green shirt and glasses is talking to someone in a room
+440 0.4439462 A man in a blue shirt throws a ball to a man in a white tee shirt and throws the ball to the ground
+441 0.4720951 A man in a blue shirt and a blue shirt is standing in a room with a white wall behind him
+442 0.4277872 With music playing in the background we see the <UNK> of a person with a black and white dress
+443 0.2924035 A blonde woman in a white dress is standing in front of a camera with a picture of a man in a white shirt and holding a camera
+444 0.6457398 A man in a black shirt rides a bike on a dirt road in the daytime
+445 0.4061478 A little boy in a white shirt is playing with a little boy in a pink shirt with a <UNK> on it
+446 0.2304357 A man is holding a small white liquid in his hand and a small white liquid in a dark room
+447 0.6004369 A man in swim trunks jumps into a pool of water and then jumps into the water
+448 0.1622443 A man with a beard and a mustache wearing a white shirt and black vest and a white shirt and black pants is holding a camera and another
+449 0.3892304 A young white woman with black hair and a white dress is shaking a black and white dress with a black and white dress
+450 0.7219106 A woman in a white sweater is talking to another man in a room
+451 0.7445804 A young girl with long hair and glasses is talking to the camera
+452 0.5812298 A red and white striped red dress is shown in a kitchen
+453 0.8208432 A man in a blue jacket talks into a microphone in a room
+454 0.6362741 A video of a man and a woman are looking at the camera
+455 0.6558732 An Asian woman in a black and white dress is holding a microphone in her hand
+456 0.6043334 A woman wearing a white shirt and black pants is walking around a fence outside on a sunny day
+457 0.4765091 A woman and a young woman with long dark hair wearing a white top and black pants is dancing in a room
+458 0.719275 A man in a white shirt walks out of a building in an interior room
+459 0.7904314 A group of people are gathered around a corner outside on a sunny day
+460 0.3261958 A young man in a blue shirt and black pants is talking to the camera in a room with other people
+461 0.7919494 A man on a motorcycle rides down a dirt road on a sunny day
+462 0.5027051 A man wearing a white tee shirt and black pants is standing on the floor in front of a house
+463 0.486413 A group of young men and a young boy are sitting on a picnic table in the day time
+464 0.6556222 A man and woman walk on a sidewalk in the street on a sunny day
+465 0.6266166 A man in a black suit is sitting at a table in a room with a white table
+466 0.8811683 A group of men playing basketball in a gym
+467 0.6371337 A young Asian girl dressed in pink is dancing in a room
+468 0.5655018 A man in a blue shirt and a woman in a white shirt are talking to each other
+469 0.7016277 A black and white bird is sitting on a tree branch on a sunny day
+470 0.8794366 A man walks down the street on a sunny day
+471 0.5450145 A man wearing a white shirt and a white shirt is moving his head back and forth
+472 0.8600483 Two ducks are swimming in the water
+473 0.5896115 The video of a white substance is shown from a <UNK>
+474 0.7811381 A deer is walking in the grass on a sunny day
+475 0.6917418 A baby is sitting on a table with a baby on his lap
+476 0.7186577 A large group of people are walking on the street at night time
+477 0.5852217 A man in a white shirt and black pants walks on a stage in front of an audience
+478 0.5362091 A woman in a white dress is standing next to a window in a room with a white wall
+479 0.8245873 A bride and groom are walking on a bridge outside on a sunny day
+480 0.7098894 A man in a blue suit is riding a bike on a city street
+481 0.6443638 A man in a black and white jacket talks to a group of people outside on a sunny day
+482 0.8432082 A man holds a cell phone in his hand
+483 0.4580288 A woman in a blue shirt and black pants is holding her hand up and down in the daytime
+484 0.5131506 A man in a blue shirt and a woman in a black jacket walks down a hill on a sunny day
+485 0.6043092 A man in a black vest and white shirt walks into a room in the daytime
+486 0.4863765 A little boy is sitting at a table in a room with a table and other things on the table
+487 0.5655334 A small dog walks along a sidewalk next to a fence and looks at the camera
+488 0.5617156 A bearded man in a red shirt and a red shirt talks to the camera in a kitchen
+489 0.6864318 A man is sitting at a desk and talking to a group of people in a room
+490 0.9521701 a woman in a car speaks to the camera
+491 0.7005397 A group of people are walking around a room with white walls
+492 0.685011 A man is holding a small white dog on the ground
+493 0.6034296 A bearded man in a black and white shirt talks into a microphone in front of a microphone
+494 0.7891347 A group of people are sitting on a stage
+495 0.5978106 A woman in a white shirt and black vest walks across a counter in a classroom
+496 0.03125 A man in a blue shirt
+497 0.1418552 A car drives down a road in the woods with an open roof of the road and then two men
+498 0.7253159 A group of young men are sitting on a field on a cloudy day
+499 0.817826 A man holds a camera in front of a camera
+500 0.7759777 A woman with long brown hair is walking in the woods on a cloudy day
+501 0.2666376 A shirtless man in a blue shirt and black shorts is standing in a room with a red curtain and the other man
+502 0.8286738 A man is playing a keyboard in a room
+503 0.6899095 A man in a blue shirt holds a small white object in his hands
+504 0.7138412 A group of people are in a circle on a sunny day
+505 0.7236457 A white woman with black hair and black pants is sitting on a chair in a room
+506 0.5136176 With music playing in the background a person is playing a music video of a person in a black and white
+507 0.7371583 a man in a green shirt talks to a boy in a blue shirt
+508 0.6895543 A woman is sitting on a couch in a living room talking to someone off camera
+509 0.7939296 A group of people sitting at a table in a restaurant during the day
+510 0.8580284 A group of people run across a field on a sunny day
+511 0.9460726 A band plays on a stage
+512 0.864657 A man is holding a piece of paper
+513 0.7389858 A young man is listening to music in the background
+514 0.4083271 A young white woman with long black hair is walking down the street with a young boy wearing a black and white striped shirt
+515 0.5986413 A man in a white shirt puts a bouquet of flowers on his head
+516 0.4267017 A man in a white shirt and a woman in a white shirt and black pants is talking in a park
+517 0.8046169 Two young men stand on a beach next to the sea
+518 0.7340079 A group of people are standing on the beach of a beach
+519 0.42618 A young man in a white shirt and a woman in a white shirt is dancing in the street
+520 0.6016583 A young woman in a white blouse sits on a bench in a room with a white wall
+521 0.6120274 A hand is shown as the camera pans to the camera
+522 0.7457831 A young woman in a blue jacket is talking to someone in a park
+523 0.3861062 A man dressed in a tuxedo is walking down a hallway with a door and a man wearing a suit
+524 0.6803167 A group of young men and women are standing in front of a large church
+525 0.6411671 A man in a white tee shirt and blue jeans stands on a skateboard outside on a sunny day
+526 0.5895035 A man in a black jacket is driving a car and talking to a group of people
+527 0.7663462 A black woman wearing a black and white dress is talking
+528 0.6244087 A young man wearing a white shirt and black pants is riding a bike on a road in the daytime
+529 0.2731623 A man in a black and white shirt sits on a sofa in a room with a red curtain and a black woman in a white dress
+530 0.6585919 a person in a black hoodie walks through a window in a room
+531 0.6078859 A group of people are standing in the middle of a large crowd on a sunny day
+532 0.5230666 A bearded man wearing a white shirt is sitting at a table with another man wearing a white shirt
+533 0.1699554 A young woman wearing glasses and a man is holding a young man in a black t-shirt with a black man behind her
+534 0.4084978 A man in a blue shirt and blue jeans and a white tee shirt points to a group of young men in a room
+535 0.7486646 A group of people are walking around in a large room
+536 0.770921 A group of young men and women are outdoors in the daytime
+537 0.5742462 A man in a red shirt talks to a woman in a red dress and a woman in a red dress
+538 0.4639445 A man in a blue shirt and a woman in a blue shirt is holding a skateboard on a cloudy day
+539 0.6357198 A man wearing a helmet and a backpack is walking down a rocky mountain on a sunny day
+540 0.6055993 A young boy in a green jacket is sitting on the grass on a sunny day
+541 0.6894522 Two young men wearing baseball caps are talking to each other outside on a sunny day
+542 0.6604137 A young woman is driving a car on the wheel of a car
+543 0.03125 With music playing in the background
+544 0.03125 A bearded man in a black
+545 0.7031566 A man in a blue shirt is standing in front of a white wall
+546 0.7262649 An animal is moving on the floor of a house
+547 0.6162847 A man in a red shirt and black pants is riding a bike down a hill on a sunny day
+548 0.2381259 A man is sitting on the floor of a black and white cat on a stage and a man in a dark suit
+549 0.3356237 A man in a blue suit and a woman in a white jacket sitting on a bench next to a man in a park on a sunny day
+550 0.03125 A man in a blue shirt
+551 0.2217646 A group of men and women dressed in black and white film and black outfits are playing a game indoors
+552 0.51318 A man in a red shirt stands in front of a computer screen showing a picture of a video camera
+553 0.5783686 A man in a blue and white striped shirt is talking to someone off camera
+554 0.3608488 A young man in a white shirt and a plaid shirt is holding a book in a room with a table and pictures
+555 0.7284962 A man in a red shirt stands next to the water on a sunny day
+556 0.8023481 A man in a yellow kayak paddles down a river on a sunny day
+557 0.829614 A man in a suit is talking to someone
+558 0.6184272 A young man in a white tee shirt jumps over a railing into a lake on a sunny day
+559 0.7053151 A young Asian man is holding a cell phone while holding a phone in his lap
+560 0.6489036 A woman wearing a black and white dress is lying on a bed
+561 0.2744978 A woman in a blue dress and a white hat talks to the camera as a young man wearing a hat and blue shirt
+562 0.4398216 A man in a blue shirt and glasses stands in front of a large building in front of a wall of windows
+563 0.6090648 A large crowd of people are cheering on a large screen on a sunny day
+564 0.5753025 A young woman in a red dress sits in front of a desk in front of a bookcase and speaks
+565 0.7055931 A man in a white shirt plays a guitar on a city street
+566 0.5496617 A white man with a beard and mustache is talking in front of a white wall with a picture of water
+567 0.4973284 A young black man in a white shirt and black pants sits in a chair and sings into the camera
+568 0.8728452 A man is talking to another man in a room
+569 0.5507408 A young man wearing a white tee shirt and black pants is walking on the sidewalk in the street
+570 0.3870771 A young man wearing a white shirt and a white shirt is walking in a garden in a park at day time
+571 0.5453544 A woman in a white dress and a man in a suit walks down a hall in front of an audience
+572 0.8992787 A person is shown
+573 0.8101611 A young boy is sitting on a bench outside on a sunny day
+574 0.6647441 A man in a red shirt and black pants is riding a motorcycle on a sunny day
+575 0.5647291 A hand is shown in a black and white top of a black board
+576 0.8617526 2 men sit at a table in a large room
+577 0.8235453 A car is driving on a road on a sunny day
+578 0.6223366 A man in a blue shirt is talking to a group of people in a room
+579 0.7118844 A hand is holding a picture of a black and white
+580 0.3440461 A young white woman with long brown hair and a white t-shirt is holding a piece of paper in her hand
+581 0.7739515 A person is drawing a picture on a table
+582 0.6965229 A group of people are standing around a large group of water on a sunny day
+583 0.5938037 With music playing in the background in the background in the background in the background a person is in the background
+584 0.0572937 A young man walks out of a window as a young woman with long black hair in a black shirt and black hair in a blue shirt
+585 0.6476558 A black man dressed in black is moving in the door of a moving car
+586 0.7554648 A group of people are running in a park on a sunny day
+587 0.4484684 A man in a red and white shirt and black pants is dancing in a circle in a gym
+588 0.741198 A person dressed in a blue outfit is dancing on a stage
+589 0.7289955 A man in a yellow helmet rides a motorcycle on a motorcycle outside on a sunny day
+590 0.7589656 A man in a blue jacket is walking down the street on a sunny day
+591 0.8783582 A baby is sitting in a room
+592 0.7005007 A young woman wearing a blue shirt is holding a sheet of paper
+593 0.9196531 A scuba diver is swimming in the water
+594 0.6112344 A black man wearing a white shirt and black pants is sitting at a table in a room
+595 0.8532119 A turtle is running in the water
+596 0.5906467 A group of people are sitting around a table and one is talking into the camera
+597 0.6923306 Water is moving down a rocky stream on a sunny day
+598 0.5341681 A man in a blue shirt and jeans walks into a room with a blue and white walls
+599 0.4771157 A young man wearing a blue shirt is talking to a young boy sitting on a bench outdoors during the day
+600 0.4755089 A young man in a white shirt and black pants is standing in front of a white wall in a room
+601 0.3682876 a man sits in front of a desk in front of a desk in front of a desk in front of a desk in front of a desk
+602 0.5230191 A man in a white shirt and a plaid shirt is sitting in a store in the daytime
+603 0.886223 A group of young men are dancing in a room
+604 0.5310437 A man in a blue shirt is painting a picture of a man in a blue shirt on a sunny day
+605 0.03125 A man in a black and
+606 0.8435092 A group of people are standing in a park on a sunny day
+607 0.2469823 a woman is wearing a white shirt and a black man wearing a black and white shirt and a black shirt is driving in a car
+608 0.6221786 A machine is showing a picture of a person in a store
+609 0.6455617 A woman wearing a black and white dress and black pants is walking in the woods
+610 0.5329444 A little boy in a green shirt and black pants is playing in the grass on a sunny day
+611 0.8206952 A group of men are performing in an indoor venue
+612 0.9158154 A young man is talking into the camera
+613 0.780618 A large fish swimming in the water
+614 0.8157116 A snow covered snow in the snow during the day
+615 0.6947724 a young man in a blue shirt walks down the aisle of a train station
+616 0.512604 A group of men dressed in black and yellow costumes are dancing on a stage in front of an audience
+617 0.5055294 A young man wearing a white shirt and black pants is sitting on a stage with a red and white background
+618 0.790068 A person is looking into the camera
+619 0.8114333 A group of musicians are playing musical instruments in a room
+620 0.7447032 A group of people are standing in the water on a sunny day
+621 0.675083 A young woman with long dark hair and a white shirt is looking at the camera
+622 0.3856636 A young man and woman sit at a table in a room with a large screen behind him and speaks
+623 0.7032971 A large group of people are standing at night in front of a building at night
+624 0.5317956 A video of a man is sitting on the floor of a white wall
+625 0.5999321 A young man wearing a blue top and a backpack is walking down a rocky mountain on a sunny day
+626 0.8705426 2 women are talking to each other in a room
+627 0.6656658 A young man wearing a white shirt and black pants is walking down a city street
+628 0.4429531 A man in a white shirt rides a wave and a woman in a white shirt rides a wave on a sunny day
+629 0.5319905 A man in a white suit and a woman in a white dress stands next to a man in a white dress on a sunny day
+630 0.7143774 A woman in a red dress is talking to a group of people
+631 0.5893509 A man in a white shirt and a woman in a white dress walks on a street on a sunny day
+632 0.6365769 A man in a black and white checked shirt and black pants is talking to someone
+633 0.5398449 A man in a blue jacket and a black helmet rides a wave in the snow on a sunny day
+634 0.6252678 A young Asian woman in a white jacket is talking to someone in front of a store
+635 0.6209456 A woman in a green shirt talks to a man in a green shirt outside on a sunny day
+636 0.7287413 A hand is explaining how to use a <UNK> machine
+637 0.4870111 A group of young men are laying on the floor of a room with a pillow on the wall
+638 0.6130381 A man is sitting on the ground in a room with a wooden floor
+639 0.2983292 A man in a white shirt and shorts walks across the floor in a large room with a yellow ball and looks on
+640 0.5125572 A man in a white shirt and a black hat is eating something from a white pot outside on a sunny day
+641 0.84297 A car is driving in a car
+642 0.6321593 A view of a large building is seen in the sky at dusk
+643 0.6930615 Two young girls are walking down the road in the day time
+644 0.7966537 A group of people are standing on a sunny day
+645 0.7891374 A man in a black shirt is painting a wall
+646 0.7850232 A woman in a blue blouse talks to the camera in a room
+647 0.8563404 A man is lying on a bed
+648 0.7993715 A young man is doing tricks on a skateboard outside on a sunny day
+649 0.6696037 A young woman with long dark hair is sitting on a bench talking to another man
+650 0.7251392 Two young men are on a beach next to a pool
+651 0.5029988 With music in the background in the daytime a group of people are walking in a large body of water
+652 0.6375395 A man in a blue and white shirt sits on the ground in front of a brick wall
+653 0.6201181 A shirtless man wearing a white shirt and black shorts is sitting on a bench in a gym
+654 0.7590715 A view of water is seen in the wind on a sunny day
+655 0.7406261 A man in a red shirt rides a bicycle down a hill on a sunny day
+656 0.7430153 The video shows the water of a boat on a cloudy day
+657 0.4918583 A group of men are sitting at a table and one of them is drinking from a cup of beer
+658 0.8085106 A group of people are walking in a circle on a sunny day
+659 0.5756222 A young woman with long dark hair and a blue shirt is talking to a group of women in a room
+660 0.5648211 A bearded man in a red shirt is sitting in the middle of a field in the daytime
+661 0.7641969 A person in a yellow apron is cooking in a kitchen
+662 0.3275655 A young man wearing a blue jacket and a black jacket is holding a baby in his hand and he puts his hands over his head
+663 0.4729689 A young man in a blue jacket and a black jacket sits on a sidewalk next to a city street
+664 0.5550998 A man is narrating in a notebook with a black and white writing on a table
+665 0.7657247 An elephant is walking in a field on a sunny day
+666 0.8621594 a football player catches a ball on a football field
+667 0.5856029 A black man in a white shirt and black pants dances in front of a group of people on a sunny day
+668 0.642535 With music playing in the background in the daytime in the background a person is walking in the background
+669 0.6691565 A white car is taking pictures of a moving car on a cloudy day
+670 0.7006373 A man in a black jacket climbs up a hill on a sunny day
+671 0.8104289 A young woman and a young boy are dancing in a room
+672 0.560134 A person drives a car with an <UNK> engine on a sunny day
+673 0.6953412 A person in a black suit is seen from the side
+674 0.8504585 A group of cyclists are riding their bikes on a sunny day
+675 0.5396259 A person dressed in a yellow jacket sits on a couch and holds a yellow plastic bag
+676 0.6952278 A group of young men and women dressed in white are dancing in a room
+677 0.6731779 A group of people dressed in winter clothing are walking down a snowy hill on a sunny day
+678 0.9609669 A young man plays guitar and sings in a room
+679 0.8026472 A group of people are sitting at a table inside a room
+680 0.4759782 A person in a black hat is walking down a narrow street with another person
+681 0.5378834 A young man wearing a white shirt and black pants is walking down the stairs in a gym
+682 0.7430578 A young man is skateboarding on a skateboard in the street
+683 0.667785 A man in a blue shirt holds a piece of paper in a room
+684 0.3158131 A man in a black jacket with a black and white jacket and black pants and a red tie speaks into a microphone
+685 0.4353388 A man in a blue jacket and a woman in a blue jacket is walking on a mountain on a sunny day
+686 0.3779564 In a field with music playing in the background a white man in a green shirt and black shorts is running in the
+687 0.7697462 The camera pans down a glass of water
+688 0.6225675 A man in a blue shirt and black shorts rides a wave on a sunny day
+689 0.3243627 A woman in a white shirt and black pants sits on the floor of a stage with her legs in front of her
+690 0.6391357 A young man in a blue shirt and blue shorts stands in the middle of a sports field in the daytime
+691 0.7208059 A man in a white tee shirt plays guitar and sings while a man plays guitar
+692 0.8205132 A group of musicians are playing in the street at night
+693 0.6586069 A woman in a purple top sits in front of a laptop and reads a book
+694 0.0165485 A white dress and a white dress is seen from the side of a black and white fabric on the floor of a white car
+695 0.03125 A rock climber wearing a black
+696 0.6895845 A group of men are standing in the middle of a rodeo on a sunny day
+697 0.1253973 A man is on a stage with his feet on his feet while a woman dressed in black and white outfit and black pants
+698 0.4236446 A woman with black hair and a white head scarf is touching her head by a man outdoors in the daytime
+699 0.8700955 A man is looking at the camera outside on a sunny day
+700 0.7033769 A man in a red shirt rides a bicycle in a dirt field on a sunny day
+701 0.8474866 A bride and groom are walking in a field on a sunny day
+702 0.6359803 A young white woman with black hair and a white dress is talking in front of a white wall
+703 0.8457743 A man in a red hat walks through a crowd of people outside on a sunny day
+704 0.5269071 A person in a blue jacket walks out of a store and walks out of a store
+705 0.5340057 A man in a white shirt stands in front of a large screen in the daytime in a large room
+706 0.6740018 A man in a blue jacket is standing in the snow on a sunny day
+707 0.7752896 A group of people are riding around a race car on a sunny day
+708 0.8116414 A man in a red shirt is sitting at a desk in a room
+709 0.7826547 A young woman dressed in black is dancing in a music video
+710 0.8126 A blue car is driving on a sunny day
+711 0.7815216 A group of musicians are performing on stage in an indoor venue
+712 0.801335 A group of water are walking in the water on a sunny day
+713 0.5778764 A man is sitting on a wooden board on a table in a room
+714 0.613031 A man in a white shirt and a woman in a black jacket on a city street at night
+715 0.524942 A group of Asian people are sitting around a table holding a bouquet of flowers in a room
+716 0.8236832 A group of men and women are dancing in a room
+717 0.7377248 A man in a green shirt talks into a group of people on a sunny day
+718 0.1481112 A man's hands is shown as the camera pans to the camera as a man in a black shirt is holding a piece of equipment
+719 0.6430099 A young woman wearing a black and white dress is sitting on a sofa in a living room
+720 0.7158435 A man in a red shirt jumps up and down a hill in the woods
+721 0.9399168 Two men are wrestling in a gym
+722 0.7449083 A man in a white shirt walks out of a building on a sunny day
+723 0.5509216 A man in a blue shirt and blue shorts sits on a lawn next to a house outside on a sunny day
+724 0.5724415 A man in a white shirt and black pants rides a bike on a bicycle in front of a wall
+725 0.4074106 A man in a black and white shirt and a woman in a black jacket sings in a dark room
+726 0.899383 With music playing in the background in the daytime
+727 0.4987081 A woman in a blue and white blouse sits at a table in front of a blue wall and speaks to someone in a room
+728 0.6455914 A man in a black and white shirt sits at a table in a room with a camera
+729 0.7854841 A group of men are playing soccer balls in a field
+730 0.7565398 A man in a green shirt plays a guitar on a stage
+731 0.7428904 A small helicopter is landing on a runway on a sunny day
+732 0.8175678 A group of people are dancing in a large body of water
+733 0.6501523 A woman with long hair is talking to a microphone while sitting on a stage
+734 0.7966425 A group of people are walking in the street at night
+735 0.6919352 A man in a black shirt plays a guitar on a table in a dark room
+736 0.6005911 A person is holding a red and white plastic bag
+737 0.7343343 A young man is sitting at a table in front of a computer screen
+738 0.667325 A woman in a green shirt is holding her hand up and down in a room
+739 0.5668045 A baseball player in a white shirt and baseball cap is standing in the field
+740 0.2722568 A man in a suit and a woman in a room with a white wall behind him and a man wearing a suit
+741 0.6559733 A bride and groom walk by a white woman in a white dress on a sunny day
+742 0.8280037 A young woman with long dark hair is sitting in a room
+743 0.4875664 A young man in a green shirt and shorts walks along a rocky shore into the ocean on a sunny day
+744 0.4784613 A young woman in a black and white shirt lies on a mat with her hands in front of him
+745 0.5254549 A man in a white shirt and black pants stands in front of a group of people on a sunny day
+746 0.6311552 A group of men dressed in black are singing in front of a microphone
+747 0.6353677 A group of young men wearing blue shirts are holding a large trophy in a large room
+748 0.6610207 A man in a blue shirt is standing on a boat in the water
+749 0.3297553 On a sunny day a woman in a blue and white striped top is walking down a street in the street
+750 0.3369646 A young woman is sitting on a wooden floor and throws a ball on a table with a wooden board
+751 0.5670859 A man in a suit is sitting in front of a bookcase and a book in a room
+752 0.6726382 Two young men and a woman are walking in the woods at day time
+753 0.4051566 A man in a red shirt with a logo on it is talking to a man in a white shirt on a sunny day
+754 0.4222216 A man in a black suit and a woman in a black dress stands in front of a car parked on a sunny day
+755 0.5979278 A young man in a white shirt rides his bike on a sidewalk in the daytime
+756 0.7417008 A young man and a woman are dancing in a room
+757 0.8192356 Two black and white birds are walking on the ground in the daytime
+758 0.2757716 A man wearing a white mask and a mask and a mask and a mask is standing in front of a metal machine
+759 0.4570073 A bride and groom are standing in front of a white wall with a black and white dress
+760 0.7244728 A man on a stage sings into a microphone while another plays the guitar
+761 0.4385227 A white woman sitting at a table in a classroom with a laptop on her head is talking to the camera
+762 0.8654222 A group of men are dancing on a stage
+763 0.886267 A bride and groom are dancing in a large room
+764 0.7301326 A red car is moving around on a city street
+765 0.6392534 A young Asian woman wearing an orange top is talking to the camera outdoors at day time
+766 0.6295282 A man in a black and white striped shirt sits in front of a wall and speaks to someone
+767 0.7692894 A group of men playing a game in an outdoor venue
+768 0.7419928 A group of players are playing a ball on a soccer field
+769 0.03125 A young woman in a white
+770 0.7863026 A group of people are standing on a motorcycle outside on a sunny day
+771 0.5225203 A video of a motorcycle is being filmed by a <UNK> on a sunny day
+772 0.7919768 A group of women in costumes are dancing on a stage
+773 0.6445628 A woman is cutting a bowl of fruit on a table
+774 0.7987027 A man in a black shirt plays the piano on a stage
+775 0.3786919 A young boy in a blue shirt sits in the grass next to a dog and puts it over his head
+776 0.7123454 A man in a black suit and black shorts swims on the water
+777 0.6493679 A woman in a white jacket is riding a bike on a road in the daytime
+778 0.2685325 A young white woman in a black and white striped shirt is sitting in the back seat of a car with a white van and
+779 0.7096036 A man in a white shirt is holding a cell phone in front of a screen
+780 0.1309881 A man in a red and white helmet and black pants is holding a red and white helmet with a red flag on the ground
+781 0.3994173 A man holds a cell phone to a man in a black shirt and a woman in a room
+782 0.4374861 A man with glasses and a mustache wearing a white shirt and glasses is looking at something on a wall
+783 0.8200912 A group of horses are running in the field
+784 0.4604591 A man in a suit and a woman in a black suit speaks to a group of people in a room
+785 0.6454605 A young woman and a young girl are standing in front of a white wall outside on a sunny day
+786 0.801242 A man and a woman are talking to each other
+787 0.7380338 A bride and groom walk down the aisle of a church
+788 0.2885513 A young man in a black and white shirt stands next to a boat with his hands as he takes a photo of water
+789 0.3521832 A young man wearing a red shirt and black shorts and a red shirt is running on a dirt road in the daytime
+790 0.6826583 A man walks along a rocky path near a lake on a sunny day
+791 0.3395393 A man in a white shirt and a woman in a white shirt and black vest stand around a table in a large room
+792 0.7343175 A group of people are standing on a beach next to a beach on a sunny day
+793 0.5227996 With music playing in the background a black and white video of a black and white video is being shown
+794 0.6748872 A group of Asian young women dressed in red clothing are dancing in a room
+795 0.4543182 A group of children and girls are sitting on the floor of a room with many other people
+796 0.7045199 A man in a blue shirt is moving his body in the water on a sunny day
+797 0.03125 A young man with a beard
+798 0.3940463 A young Asian woman in a black and white dress sits at a table in front of a table in a room with a table
+799 0.7367043 A group of men are in a room with a white wall behind them
+800 0.5329617 A man in a suit and a woman in a wedding dress walk down the aisle of a room
+801 0.3976677 A white woman with glasses and a man wearing a white jacket is talking to a group of people
+802 0.2772004 On a sunny day with music playing in the background a man in a red and white swim suit is moving along a lake
+803 0.6602028 A man in a black shirt pours a liquid in a glass of water
+804 0.0290591 A woman in a white dress and veil with a bouquet of flowers in her hand as a young man in a white shirt and a black vest
+805 0.2744573 A man in a black shirt and a woman in a white shirt is moving around on a table in a dark room
+806 0.2841983 A young man wearing a green shirt and a white tee shirt is jumping from the top of a house into a house
+807 0.7798544 A group of people are walking around a corner on a sunny day
+808 0.4046174 A man in a white shirt and black pants is holding a microphone with a black and white shirt
+809 0.8350763 A man rides a skateboard on a city street at night
+810 0.2275929 A man in a room with a red and white walls and a man in a blue shirt is sitting at a desk in a room
+811 0.4247282 Two young men are standing at a table in a restaurant and one of them is talking to another man
+812 0.780561 A bride and groom are walking in a church in the daytime
+813 0.5868142 A woman in a green shirt and black pants plays a keyboard on the floor in a room
+814 0.5749588 A man in a white shirt is standing on a table in a room with a white wall behind him
+815 0.6438839 A group of young men and a woman are talking to each other outdoors
+816 0.573604 A <UNK> is moving along a dirt road in the daytime
+817 0.6277096 A man in a white shirt is standing in front of a camera on a sunny day
+818 0.5972103 A young man and woman are talking to the camera while the camera pans to the camera
+819 0.8282592 A man in a black suit is talking into the camera
+820 0.7760248 A group of musicians are standing in front of a band on a sunny day
+821 0.4113385 On a soccer field a soccer player in red and white uniforms with red stripes on the side of the field
+822 0.855761 A white car is driving in the street at night
+823 0.4579013 A woman in a blue dress walks down the street with a group of people standing on a sidewalk
+824 0.6030013 A boy in a blue shirt and black pants rides a skateboard in a park on a sunny day
+825 0.7577125 A person wearing a Santa hat is dancing on a table
+826 0.8101728 A group of people are sitting around a table in a large room
+827 0.5485451 A man in a black suit and sunglasses is standing on a beach next to a man in the ocean on a sunny day
+828 0.7002835 A man is jumping over a wall of stairs on a sunny day
+829 0.3677526 A girl in a black and white striped shirt sits on a keyboard and sings and plays a guitar with a guitar
+830 0.5833034 On a sunny day in a park a group of people are standing in front of them
+831 0.4854636 A young man with a beard and a mustache wearing a blue shirt is standing in front of a mirror
+832 0.8450823 A man and a woman are singing into a microphone
+833 0.7441104 A man in a white shirt plays a guitar and sings into a microphone
+834 0.5884692 A group of men in military uniforms stand in front of a group of people on a sunny day
+835 0.7753837 A young man in a white shirt jumps over a skateboard outside on a sunny day
+836 0.7823746 A man and a woman are talking to each other in a room
+837 0.6162174 A man in a suit and tie is walking down the aisle of a church
+838 0.191084 A man in a white shirt and a woman in a white shirt with a camera on the back of a white man in a white shirt
+839 0.6218929 A man in a black and white shirt sits in a car and speaks to the camera
+840 0.728418 A dog is sitting on the edge of a lake at daytime
+841 0.8021583 The camera pans in the water in the daytime
+842 0.03125 A man in a suit and
+843 0.6301889 A man in a black baseball cap and a blue cap is talking into the camera outside on a sunny day
+844 0.6657953 A little girl is sitting in a chair holding a baby with her hands
+845 0.8599333 A man is talking to someone in a room
+846 0.3318134 A woman with black hair and a black top and black pants sits on a bed next to a table in a room
+847 0.7129309 a woman with black hair and black shorts is dancing on a stage
+848 0.6686716 A man sits in a chair next to a window talking to someone off camera
+849 0.7458845 A group of people are sitting on a boat on a sunny day
+850 0.1221147 A drone of a <UNK> vehicle is seen around a curve and hits a green and blue smoke
+851 0.6301105 A woman in a pink dress is talking to a group of people sitting at a table
+852 0.536222 A man in a plaid shirt and a woman in a white dress stands in front of a wall
+853 0.7073832 A man in a red shirt walks in the woods on a sunny day
+854 0.3353254 A young man in a blue shirt and a woman in a yellow shirt walks up and down a hallway in a large room
+855 0.6236686 A young woman with long dark hair and a red dress is walking down the street at night
+856 0.7721533 A hand is being held by a person
+857 0.6928001 Two men are sitting in a large pot outside on a sunny day
+858 0.3454947 A man in a black vest and sunglasses walks around a room with a man in a black and white shirt and black vest
+859 0.5831272 A young woman wearing a black and white shirt and black pants is running in the distance
+860 0.6239144 A man in a white jacket and black pants stands on a rope in the woods
+861 0.7114971 A young man is walking in a large building on a sunny day
+862 0.5628924 A person in a red collar walks out of a pond
+863 0.7020692 A man in a suit is standing and talking into the camera inside a room
+864 0.3004006 A group of young men dressed in red and red shirts are standing in front of a red backdrop with a large red and white flag
+865 0.8026386 A group of people are sitting at a table in a room
+866 0.6060172 A man in a blue and white shirt talks to a woman in a white shirt and glasses
+867 0.6780258 A man is cutting a woman in a room
+868 0.8076527 a man in a room holds a piece of paper
+869 0.03125 A man in a black ski
+870 0.6945305 A small black and white rabbit is playing with a puppet in a room
+871 0.5919263 A man in a red jacket and a blue jacket is walking down a hill on a sunny day
+872 0.6146377 A young man wearing white shirt and blue shorts is playing a tennis ball on a soccer field
+873 0.6624622 A person is holding a piece of flowers in their hand
+874 0.7822912 A man is holding a camera in a room
+875 0.5597752 A man in a blue shirt and shorts walks across the floor in a room with a yellow wall
+876 0.4182219 A woman in a white dress and black pants is walking down the stairs of a stone building in the daytime
+877 0.5958784 A woman in a red dress walks into a room and a man walks across the room
+878 0.3718273 A man in a blue shirt walks into a room with a fireplace and a man in a blue shirt walks away
+879 0.6249185 A man in a black baseball cap is driving a car in the day time
+880 0.6215334 A man with black hair and a blue shirt is holding a black paint
+881 0.4708974 With music playing in the background in the daytime in the daytime a group of young people in the background are playing in the background
+882 0.7514329 A man with a beard and a mustache is moving in a room
+883 0.7210562 A group of four men are walking in a cage
+884 0.6527973 A man in a blue shirt stands in front of a wall and speaks to another woman indoors
+885 0.8183931 A group of men are walking in a forest on a sunny day
+886 0.7574054 A young man in a white t-shirt speaks into the camera outside on a sunny day
+887 0.3360189 A video of a stone wall with a large statue of water and a big statue
+888 0.612043 A man in a black and white costume is playing outside on a sunny day
+889 0.3164499 A man in a green shirt and black pants walks down a street with a white woman and a man in black
+890 0.2164553 A man in a white shirt and a woman in a white hat and a woman in a white hat are sitting on a road near a river
+891 0.7248086 A man is holding a black bag in a room
+892 0.2075777 A young man wearing a plaid shirt and blue jeans jumps up to a young man and then jumps off his back to the ground
+893 0.8617858 A group of people are walking in the street at day time
+894 0.6170223 A group of young men and women dressed in white are walking in a park on a sunny day
+895 0.8304702 A man is driving a car on a sunny day
+896 0.2734813 A woman with long dark hair and a man wearing a purple jacket and a black jacket is holding a large camera
+897 0.6904861 A man in a blue shirt is talking to someone in a car
+898 0.5195006 A band is playing a guitar on the stage while a man plays the guitar and another man plays guitar
+899 0.6603541 A man is sitting in a chair talking to a man in a room in a room
+900 0.5276928 A group of young people are standing on a field in front of a blue wall
+901 0.8038591 A group of people are walking around a room
+902 0.7352268 A man in a black and white shirt plays a grand piano on a stage
+903 0.5415733 A man wearing a black cap and a black cap is laying on a chair in a room
+904 0.7691399 A young man wearing a white shirt and a black hat is talking to the camera
+905 0.8335361 A group of young people are playing a game indoors
+906 0.03125 A man in a blue shirt
+907 0.4962576 A young man in a black shirt and black pants walks down a hallway with another young man
+908 0.2865124 A man in a black suit and a white cap is walking down the aisle of a room with a window and a window on the wall
+909 0.6505815 A hand holds a hand to a man in a black and white shirt
+910 0.7056304 A man in a white shirt sits on a chair in a room with a white wall
+911 0.7755423 Two hot air balloons are flying in the air on a sunny day
+912 0.8722346 a man in a suit talks to the camera
+913 0.8261333 A man is holding a cell phone in a room
+914 0.8538177 A group of people are dancing in a room
+915 0.858465 A person is skiing down a snowy mountain
+916 0.6239611 A man on a snowboard jumps up a ramp and lands on a snowboard
+917 0.7626945 A red car is driving in the street in the daytime
+918 0.7778916 A man in a white shirt is talking to someone in a room
+919 0.8565217 a group of people in a room
+920 0.9219971 A surfer rides a wave on a sunny day
+921 0.3664757 A young Asian man in a black and white shirt and black vest sits down in a room with another person
+922 0.03125 A man in a blue and
+923 0.2232173 A man in a white shirt and a tie and a white woman in a white dress with a bouquet of flowers on his lapel
+924 0.5482813 A woman in a black and white dress walks through a glass window and speaks to a young man
+925 0.4541621 A man in a dark suit and a woman in a black suit is standing on a bridge on a sunny day
+926 0.6681929 A man is sitting on a chair in a room with a Christmas tree
+927 0.7864673 A man in a blue jacket is walking in the street
+928 0.2808248 A shirtless man in a black shirt and black pants is exercising on the wall and the man lifts the camera
+929 0.7490754 A group of people are sitting on a train platform on a cloudy day
+930 0.9496189 A young woman is talking to the camera
+931 0.6843854 A person is mixing on a plate of food in the daytime
+932 0.6637942 A girl in a grocery cart is walking down the aisle of a grocery store
+933 0.2139604 a man in a blue shirt and a backpack walks away from the side of a lake to a river from the water
+934 0.4174607 A young man in a black suit is drinking from a faucet to the ground
+935 0.7451276 A large body of water is swimming in the water
+936 0.03125 A group of men dressed in
+937 0.4282675 A man in a blue shirt and black pants is pulling a black bag on the floor in a room
+938 0.5122717 A bald man in a white shirt and glasses sits in a chair and talks to a man in a white shirt
+939 0.7170562 The camera pans across a large body of water on a sunny day
+940 0.3867053 A boy in a yellow shirt rides his bike on a bicycle in a large room with graffiti on the wall
+941 0.8423861 A man skies down a snow covered mountain on a sunny day
+942 0.7187363 A man in a blue shirt is standing on a sunny day
+943 0.8204602 The camera pans over a window of water
+944 0.6675516 A bearded man in a white shirt and glasses talks to the camera in front of a mirror
+945 0.6141983 A young man in a blue shirt is standing in front of a camera on a sunny day
+946 0.5557012 a little boy in a blue shirt is playing a piano in a small village
+947 0.4585845 On a boat on a sunny day a man in a boat is moving along a boat into the water
+948 0.5400566 A woman in a black and white striped shirt and black pants sits on a couch in a room with a wooden wall
+949 0.8440819 A person is swimming in the water on a sunny day
+950 0.7223815 A hand is holding a black and white paper
+951 0.448451 With music playing in the background on a sunny day a man in a white shirt is walking down a rocky mountain
+952 0.1492226 A man in a black shirt walks around a table in a kitchen with a large knife on the floor and another man comes up to another
+953 0.3240685 A person in a blue helmet and a yellow helmet rides out of a <UNK> area on a sunny day
+954 0.7471132 Two men walk around in a cage outside on a sunny day
+955 0.5081826 A young boy in a yellow shirt and blue shorts is bouncing a ball on a basketball court
+956 0.5634159 A man in a black baseball cap and a helmet is riding in a car on a sunny day
+957 0.7916475 A group of people are sitting at a table in a room
+958 0.8501992 A group of men and women are dancing in a room
+959 0.4205724 A young man in a blue shirt and a blue shirt is standing in front of a mirror looking on the wall
+960 0.5923194 A man in a suit and tie speaks to a group of people standing in front of a large screen
+961 0.6576198 A man in a yellow shirt talks to the camera while sitting on a chair in a room
+962 0.6823859 A person is sitting on a chair in a room with a monitor
+963 0.5760431 A young man is talking into the camera while a group of people are standing in the street
+964 0.2434486 A young man wearing a black and white shirt and blue jeans is hugging a young white woman with a black sweater on
+965 0.7305608 A white van is driving in the wind on a cloudy day
+966 0.5175667 A young man and a woman are walking near the grass near a body of water
+967 0.3144522 A person in a dark blue shirt and black pants walks away from the camera as another person looks on
+968 0.75786 A blue <UNK> is moving its head
+969 0.470839 A man in a white tee shirt and a woman in a white tee shirt stands next to a stone wall
+970 0.8364407 A person is walking through a door
+971 0.6246706 in the daytime a group of people are running and jumping over a hill
+972 0.4545858 A man in a blue shirt is standing in front of a large mirror of a room with a yellow wall
+973 0.7579687 A brown bear is walking on the ground
+974 0.5953812 A man and a woman are sitting in a room with a yellow wall and talking
+975 0.6672905 With music playing in the background a person is holding a small white instrument
+976 0.7134029 A video of a boat with a fish in the water
+977 0.4308498 A group of young people are in the back seat of a plane and a plane on the back seat
+978 0.7738755 A man is narrating by a fence outside on a sunny day
+979 0.8686476 A <UNK> is swimming in the water
+980 0.5076606 A man in a white shirt and a woman in a black jacket is looking at something on a sunny day
+981 0.9027653 A group of people are standing outside on a sunny day
+982 0.6743678 With music in the background on a sunny day a person is seen in the distance
+983 0.7734906 A group of people are sitting around a table in front of a table
+984 0.4717039 A man in a white suit and a woman in a white dress walks down a path in front of a stone wall
+985 0.5066443 A group of young men and women are playing in the middle of a group of people on a sunny day
+986 0.4889814 a man in a blue shirt and a cap walks along a rocky path and talks to the camera
+987 0.7992775 A group of people are standing in front of a building on a sunny day
+988 0.6639773 A man in a yellow shirt is looking out of a red box outside on a sunny day
+989 0.6595343 A young white man in a white shirt climbs a rock in the woods during the day
+990 0.7126259 A group of young people are standing around and talking on a sunny day
+991 0.6316623 A man is narrating in the ground of a wooden floor
+992 0.6306828 A man in a plaid shirt is looking at something in a room
+993 0.7844733 A person is looking through the camera
+994 0.875738 A man is playing a guitar on a stage
+995 0.764501 A man in a white shirt rides a bike down a city street at night
+996 0.5696483 A man in a black suit and a woman in a black suit are walking on a stage
+997 0.4866343 A young white woman with long dark hair is sitting on a bench in a room with white writing on it
+998 0.5165538 A person in a red swim suit is seen from the water to the ground in the water
+999 0.5883014 A young child wearing a blue coat and blue jacket is walking in a park at day time
+1000 0.6125417 A young woman wearing a white jacket and black pants is walking in the street
+1001 0.6494832 With music playing in the background on a sunny day a group of people are standing in the snow
+1002 0.3920771 a man in a black and white costume walks along a sidewalk next to a fence and walks away
+1003 0.6794462 A man in a blue shirt rides a golf cart in the daytime
+1004 0.5007225 A young black man in a white shirt is sitting on the floor and talking to someone off camera
+1005 0.8836326 People are walking in the water
+1006 0.6946757 A woman in a white dress and a pink dress is dancing in a room
+1007 0.5791814 A group of people are standing in front of a large screen showing a picture of a large screen
+1008 0.5227004 A young woman in a white dress stands in front of a white wall and holds a bouquet of flowers in her hand
+1009 0.4079174 A man in a blue shirt holds a rope and holds up to the ground as another man looks on
+1010 0.03125 A man in a red helmet
+1011 0.4103002 A person wearing glasses and a blue shirt is holding a green tape over his head
+1012 0.5341469 A man in a ski jacket and a helmet rides a wave in the snow on a sunny day
+1013 0.6593528 A man in a grey jacket and a red jacket talks into a camera
+1014 0.716615 A young man is jumping over a ramp in a park
+1015 0.6854512 A woman dressed in black is taking a picture of another man in a room
+1016 0.5624968 A man dressed in a suit and a woman in a black suit walks across the grass in a park
+1017 0.6517188 A woman in a bathing suit walks across a river in the ocean on a cloudy day
+1018 0.5748244 A group of people are sitting in a room with a fireplace and windows
+1019 0.7825946 A man in a white shirt walks down the street
+1020 0.6177849 A car is going down a city street with shops on it
+1021 0.8340463 A man in a black and white costume sings into a microphone
+1022 0.4963832 A man in a blue shirt walks up to a woman in a house and speaks to the camera
+1023 0.5752938 A person is standing in front of a stove with a pot on a sunny day
+1024 0.744195 A group of men are sitting on the floor in a room
+1025 0.8396138 A man is driving a car on a sunny day
+1026 0.7118431 A young man in a white shirt talks to the camera in a large room
+1027 0.7356553 A woman in a blue dress is holding a camera in a room
+1028 0.1205685 A young man wearing a black and white t-shirt is holding a glass of beer and a man in a black shirt and sunglasses
+1029 0.6878707 A man is sitting in a room and holds a paper bag
+1030 0.5838097 A woman in a red dress sits on the floor in a room with a wooden board
+1031 0.7248928 A group of young people are walking in a large barn on a sunny day
+1032 0.4674112 A man in a blue shirt and a woman wearing a white shirt and glasses is talking to another man
+1033 0.5273266 A man in a white shirt and glasses sits at a desk in a room with a white wall behind him
+1034 0.6695217 A video of a tree and a tree is shown in the water
+1035 0.8355673 in the daytime a woman drives a car in the car
+1036 0.5374182 A small dog wearing a red and white outfit is walking in front of a brick wall
+1037 0.7163869 A young man in a blue shirt is standing on a beach on a sunny day
+1038 0.6533886 A hand is pulling on the floor of a <UNK> machine
+1039 0.7181228 A machine is being videotaped on a wooden floor
+1040 0.5298501 A man in a blue shirt and a woman in a black jacket on a sunny day
+1041 0.4291902 A man in a grey jacket and a gray jacket talks to a group of people on the street
+1042 0.6513047 A hand is seen from the side of a black and white cat
+1043 0.4036374 A woman with black hair sits on a bench next to a man in a green shirt and black pants sits on a bench
+1044 0.6846878 A woman in a black dress walks across a parking lot at night
+1045 0.4624503 A young man with a beard and a mustache wearing a hat is walking on the sidewalk in front of a store
+1046 0.7465953 A group of people are standing on a platform on a sunny day
+1047 0.5243953 A young man in a bathing suit stands in front of a swimming pool and turns into the camera
+1048 0.8399676 A group of men are riding their bikes outdoors in the daytime
+1049 0.6296325 A man in a white shirt plays a keyboard while another man plays a guitar and sings into a microphone
+1050 0.8335539 A bride and groom are kissing in a room
+1051 0.7620303 A man in a blue shirt walks towards a camera outside on a sunny day
+1052 0.6998671 a man in a green costume dances around in front of a group of people
+1053 0.5763508 A young woman in a black and white dress sits on a bed and speaks to someone off camera
+1054 0.3431485 A man in a black shirt and a white helmet is driving a car and starts to ride a vehicle on a sunny day
+1055 0.6785613 A man in a white shirt sits on a chair and holds a book in his hand
+1056 0.6680459 A young man in a blue shirt and black pants is riding a skateboard in a park on a sunny day
+1057 0.4938159 A small white kitten is playing with a green and yellow liquid in the water
+1058 0.7464542 A black and white dress is walking on a hanger outside on a sunny day
+1059 0.3185396 A person dressed in red and white turban is sitting on a table in a room with a red and white cake
+1060 0.3712291 a young man in a red shirt and black pants gets out of the car and opens the door of a white van
+1061 0.6296747 A man in a red shirt and black pants is dancing in front of a group of people
+1062 0.587016 A blonde woman in a red dress sits in a room with a red curtain on her lap
+1063 0.5522274 A child in a blue and white striped shirt and blue shorts walks across a field in the daytime
+1064 0.5051666 A bicyclist wearing a black and white polo shirt is riding a bike on a bike on a sunny day
+1065 0.8526759 A group of people are sitting in a circle on a sunny day
+1066 0.5043974 A man in a white shirt and sunglasses is holding a microphone while another man in a white shirt and sunglasses
+1067 0.8169243 A group of people are walking down the street during the day
+1068 0.4597022 A woman in a blue shirt is being moved by a tree with a tree
+1069 0.7805116 Two teams of football players on a field during the day
+1070 0.6556582 Two red race are sitting in a circle on a race track
+1071 0.421119 A man in a black suit and a woman wearing a black jacket and black pants is sitting at a desk in a room
+1072 0.3798319 A man wearing a blue shirt and a hat is cutting a large fish on the floor in a room
+1073 0.6388671 At night fountain sprays lights in the background
+1074 0.8091969 A black and white cat walks across the floor on a tennis court
+1075 0.7667359 A man in a green shirt is talking to someone in a room
+1076 0.7730699 A young man in a white shirt jumps off a wall outside on a sunny day
+1077 0.8955073 An airplane is flying in the sky on a sunny day
+1078 0.1989061 A man in a black and white turban and a woman wearing a black hat and sunglasses walks along a path outside on a sunny day
+1079 0.5141323 A man is sitting on a table in a large room with a wooden roof on a sunny day
+1080 0.7039828 A group of people are standing in front of a large green building on a sunny day
+1081 0.6953729 A man in a blue shirt and blue jeans is talking to someone outside on a sunny day
+1082 0.6597264 A video is being taken by a large building
+1083 0.5762736 A man in a black shirt and a white shirt is singing in the passenger seat of a car
+1084 0.813661 A man is holding a green leaf
+1085 0.743363 A group of people are walking in the middle of a street on a sunny day
+1086 0.4938331 A person wearing a yellow jacket and a yellow jacket is holding a yellow rope in the water
+1087 0.6674782 A group of young women dressed in costumes are dancing and singing
+1088 0.6285352 A young man in a white jacket is skating on a skate board outside on a sunny day
+1089 0.2860645 A man and a woman sit on a table in front of a black and white man and a woman in red and black
+1090 0.7930477 A person is holding a bowl of flowers
+1091 0.4857509 A woman in a red dress and black pants is holding a book in her hand and holding a book in her hand
+1092 0.7678288 A group of people are standing around on a sunny day
+1093 0.4550254 A woman in a black and white striped shirt sits in a chair next to a man and a woman sits next to each other
+1094 0.7233762 A person is pulling a piece of cloth on a table
+1095 0.3815329 With music playing in the background a white man in a black and white striped shirt is holding a bunch of flowers on the ground
+1096 0.7349929 A man in a white helmet rides a motorcycle on a motorcycle outside on a sunny day
+1097 0.6753355 A man in a black and white shirt is looking at the camera
+1098 0.2109947 A blonde woman in a blue dress and a man in a black and white shirt and black pants is in a room with a white wall
+1099 0.65614 A young white man with a beard wearing sunglasses is singing in a car
+1100 0.8620134 a man talks into a microphone in a crowd of people
+1101 0.8790559 A bride and groom walk down the aisle on a sunny day
+1102 0.471744 A young man wearing a black and white shirt and black pants is jumping over a rocky gorge on a sunny day
+1103 0.7479514 A man in a blue shirt is walking down a rocky mountain on a sunny day
+1104 0.6279427 On a sunny day a group of people are sitting and playing a guitar
+1105 0.75649 A woman sits on a chair and speaks to a man sitting on a couch
+1106 0.6968657 A man in a blue shirt stands on a beach next to a beach on a sunny day
+1107 0.7950687 A man walks into the camera in a building
+1108 0.5368231 A woman in a blue and white striped shirt walks in the ocean
+1109 0.5366914 A man in a yellow jacket and holding a yellow helmet walks along a snowy mountain on a sunny day
+1110 0.6794951 a woman in a blue dress is standing next to a man in a blue dress
+1111 0.7281053 A man in a blue shirt plays a piano on a sunny day
+1112 0.3579269 A dark haired woman in a black dress and a black dress sits on a table in front of a black car
+1113 0.4862905 A man is standing in front of a computer screen that has a black and white object
+1114 0.6792905 a man in a blue shirt and a blue shirt talks to the camera in front of a car
+1115 0.7819797 A person is skiing down a snow covered hill on a sunny day
+1116 0.6658546 A table of a room with <UNK> written on the wall
+1117 0.5641118 With music playing in the background in the background on a sunny day a young woman with long black hair is walking in the background
+1118 0.03125 A man in a red shirt
+1119 0.6864342 A group of people sitting at a podium in a theater
+1120 0.465882 A man in a white shirt and a woman in a black and white shirt is talking to someone in a room
+1121 0.7079464 the camera pans across a beach in the water on a beach
+1122 0.3055303 A young man wearing a blue shirt and a white shirt is standing next to a man wearing a white shirt and a tie wearing a white shirt
+1123 0.7267936 A young woman with long dark hair is holding a cigarette
+1124 0.6443196 A group of people are riding around a race outside on a sunny day
+1125 0.3974558 A man in a black and white shirt and black pants walks around a room with another man in a black and white shirt
+1126 0.3538285 A young black man wearing a black teeshirt and blue jeans is walking through a store aisle in a store
+1127 0.775047 A blue car is driving on a race track
+1128 0.1860877 A woman in a white blouse sits on a desk in a room with a laptop and a man in a grey sweater and a grey sweater
+1129 0.2255827 Two men sit in front of a couch and one of them talks to the camera and then the other with a red shirt
+1130 0.6172559 A person wearing a blue shirt is driving a car on a sunny day
+1131 0.5393382 A man in a red shirt and a blue shirt is standing on a boat in the ocean on a sunny day
+1132 0.4500803 A young black man in a blue shirt and blue jeans jumps over a blue and blue wall
+1133 0.8156037 A group of young men and women are dancing in a room
+1134 0.7899001 A little boy is sitting on the floor of a house
+1135 0.8608105 a group of young men and women dancing in a room
+1136 0.5759678 A black man wearing a black hat is lifting a gun on a sunny day
+1137 0.6352245 A woman with long black hair wearing a black bathing suit and black pants is dancing on the beach
+1138 0.8157748 A young Asian man is eating food from a bowl
+1139 0.7052585 A video is being taken out of the water in a sunny day
+1140 0.6251466 A man in a white tee shirt and a black baseball cap approaches a fence on a sunny day
+1141 0.5392001 A bride and groom dressed in a wedding gown are standing on a wedding ceremony in the daytime
+1142 0.3344428 A man in a suit is sitting on a sidewalk next to a brick building while another man is watching him
+1143 0.8483277 Two teams are fighting in a boxing ring
+1144 0.5387288 A young man in a blue shirt is standing in front of a building and looking into the camera outside on a sunny day
+1145 0.571125 A man in a suit and a woman in a white dress walks down the aisle in front of a crowd of people
+1146 0.4954943 A young man wearing a grey hoody and grey trousers is sitting on the floor of a room
+1147 0.7370094 A group of people are running on a field in a field
+1148 0.8410609 A group of young men are playing volleyball in a gym
+1149 0.5519382 A group of men are on a stage with red and white flag on the wall
+1150 0.7596807 A group of men are performing in an indoor room
+1151 0.03125 A young white woman in a
+1152 0.6998121 A white car is driving in the street on a sunny day
+1153 0.5593879 A young woman with long brown hair wearing a blue cap is talking on the water on a cloudy day
+1154 0.3479155 A group of men and women are in a room and one of them throws something out of the bag to the other
+1155 0.4998009 A little girl with long brown hair is sitting and talking to a little girl sitting on a bench
+1156 0.7852093 A <UNK> is seen in the desert on a cloudy day
+1157 0.7072421 A man is riding a bike on a bike in the woods
+1158 0.6388067 A group of people are climbing on top of a plane on a sunny day
+1159 0.5324646 A video of a blue and white video is shown in the background on a sunny day
+1160 0.6060703 A woman in a white dress walks around a table in a restaurant at a restaurant table
+1161 0.8955469 A dog is swimming in the water
+1162 0.4867541 A bride and groom dressed in white wedding dress and groom are standing in front of a wedding ceremony on a sunny day
+1163 0.9813226 2 women talk to each other in a room
+1164 0.6401889 A man wearing a helmet and helmet rides his bike down a hill on a sunny day
+1165 0.7528598 A person in a green shirt is sitting at a table inside a room
+1166 0.8270728 2 men are looking at the camera
+1167 0.7548676 A hand is holding a picture of a black marker
+1168 0.8804664 A man is playing a guitar on a stage at night
+1169 0.5721052 A woman in a black dress stands in front of a blackboard and speaks to someone in a room with a white wall
+1170 0.7324857 A man is walking in a room with pictures on the wall
+1171 0.7027903 A young man is walking down a street next to a building on a sunny day
+1172 0.3842369 A young white man with a blue shirt and a blue shirt is sitting on a stage with a blue wall behind him
+1173 0.3782811 A man in a green shirt and blue jeans and a blue shirt is standing in front of a group of people outside on a sunny day
+1174 0.551802 A group of young men stand in front of a camera and one of them is holding a microphone
+1175 0.7446149 A fire truck is being filmed by a truck on a sunny day
+1176 0.5778377 A woman wearing a white shirt and black shorts is talking to another man in a gym
+1177 0.1180302 A young man with a blue shirt and a blue shirt is standing near the edge of a rocky mountain with a small dog on a sunny day
+1178 0.7609914 A man is holding a fish in the water
+1179 0.6383323 A man in a red shirt rides a bicycle down a ramp in a building
+1180 0.4585757 A man in a blue shirt and tan pants sits on a platform in front of a large metal machine
+1181 0.8062296 A woman in a red hat speaks into a camera outside on a sunny day
+1182 0.6355619 A young man in a blue shirt is riding a car in the daytime
+1183 0.6132424 A man in a white shirt and a black hat stands in the woods in the daytime
+1184 0.6762182 A man in a white shirt rides a bicycle down a ramp in a park
+1185 0.5609468 A person is looking through a window with a large mirror in a room
+1186 0.5201118 A woman with long dark hair wearing a black tank top and black pants is singing in a room with a white wall
+1187 0.5425036 A woman with long dark hair and a black dress is looking at a mirror
+1188 0.851524 A group of men are sitting at an indoor location
+1189 0.761297 A man in a black shirt climbs up a rock wall
+1190 0.798919 A young man and a woman are looking at the camera
+1191 0.6699808 A young white woman with long brown hair and a white dress is talking to the camera
+1192 0.487532 A woman in a yellow jacket is moving her hair in a car with snow on a sunny day
+1193 0.6636032 A large bird is moving in a large body of water
+1194 0.4131442 A video of a white building with a lot of it is seen on a cloudy day
+1195 0.4436362 A young man wearing glasses and a red shirt is sitting at a table in a room with a table and a
+1196 0.7272051 A group of young men in a room are talking to each other
+1197 0.3925771 A man with a beard and a woman wearing a red dress and a red jacket is talking in a room
+1198 0.8147162 A man is holding a piece of equipment in his hand
+1199 0.4583804 A young man in a white jacket and a blue jacket points to a group of people on the wall
+1200 0.8429471 A group of bicyclist are riding their bikes on a sunny day
+1201 0.6688607 A man in a white jacket and a hat is walking down the street on a sunny day
+1202 0.8348994 A bride and groom are walking on a sunny day
+1203 0.7147877 A man in a blue baseball cap stands on a lake on a sunny day
+1204 0.4227393 A young boy wearing a green shirt and a backpack walks along a path and walks toward the camera
+1205 0.6631801 A man and a woman are walking in a park in the daytime
+1206 0.7073546 A man in a white shirt and black pants is speaking into the camera
+1207 0.4640127 A young man in a white shirt and blue jeans walks around a large room with a white wall behind him
+1208 0.5175164 A man in a blue shirt walks along a path through a large body of water
+1209 0.3450689 A little boy wearing a yellow apron and a red apron is eating something from a fruit to the camera
+1210 0.6766473 A group of young Asian men are standing in front of a camera
+1211 0.5082727 A woman in a white dress and a hat is standing in front of a statue of water on a sunny day
+1212 0.8209065 A young man is driving a car and talking to the camera
+1213 0.03125 A young man in a red
+1214 0.7009979 a man in a green shirt walks along a path through a forest
+1215 0.821251 A person is holding a bag
+1216 0.6300228 A young black man in a room is holding a cell phone and speaks to the camera
+1217 0.6819723 A person in a white shirt and black pants sits on a desk in a room
+1218 0.6676724 A group of people sitting in front of a large group of students
+1219 0.5588256 A commercial machine is being held by a black and white <UNK> machine
+1220 0.6794684 A young man and a woman are riding their bikes on a road
+1221 0.694935 A man in a straw hat and a straw hat is talking to someone outside on a sunny day
+1222 0.8119464 A group of people are walking in the night
+1223 0.7975914 A group of girls are dancing in the street
+1224 0.6173208 A young woman with long dark hair wearing a black top is walking in the street at night
+1225 0.5881593 A woman in a blue shirt and black pants is walking down a forest on a sunny day
+1226 0.40465 A man in a black suit and a black suit is holding a glass of water in a room
+1227 0.3929481 A man in a suit and a woman in a white shirt walks down a crowded aisle of a large building
+1228 0.9390881 A group of dancers perform on a stage
+1229 0.5068077 A young white woman with long brown hair and a white top and black pants is sitting in a rocky area on a sunny day
+1230 0.5330913 A young man in a blue shirt and a woman in a white t-shirt are talking to someone outside on a sunny day
+1231 0.8167733 A young woman is looking at her cell phone
+1232 0.03125 A man in a blue shirt
+1233 0.1299622 A young man in a blue shirt is standing in front of a large bowl of a bowl of a bowl with a bowl of water
+1234 0.6077065 A man in a black jacket and black pants sits on a railing on a sunny day
+1235 0.7286569 A group of young people are sitting on the floor in a room
+1236 0.7990632 A man is cooking in a kitchen
+1237 0.4422526 A man in a black and white helmet and a red jacket is standing on a snowy mountain on a sunny day
+1238 0.7711252 A man in a red shirt walks down a hill on a sunny day
+1239 0.8075493 A young man with glasses and glasses is looking into the camera
+1240 0.8074418 A group of people are performing in a park on a sunny day
+1241 0.5951824 A man in a blue and white shirt sits in front of a wall and talks to a woman in a room
+1242 0.03125 A man in a blue shirt
+1243 0.7830643 A group of young people sitting on a bench outside on a sunny day
+1244 0.8316497 A group of people are walking around a corner on a sunny day
+1245 0.8112607 A man in a red hat plays a flute on a sunny day
+1246 0.6287483 A man in a band plays on a stage as another man plays guitar and sings into a microphone
+1247 0.68323 A woman in a black and white dress approaches another man in a room
+1248 0.4035045 A woman in a black and white striped top walks up to the floor of a large group of people
+1249 0.5563178 A young woman with long brown hair and a white dress is looking at the mirror in a house
+1250 0.7784366 A man is holding the camera outdoors in the daytime
+1251 0.6987817 A <UNK> field is being fed by a tree
+1252 0.7899241 A group of children playing in a circle on a sunny day
+1253 0.8363193 A group of people is dancing in a circle
+1254 0.8724994 A <UNK> is swimming in the water
+1255 0.6007856 A man in a yellow shirt is mixing something in a pan in a kitchen
+1256 0.9106753 A scuba diver is swimming in the water
+1257 0.3610477 A man in a white tee shirt and sunglasses stands in front of a large metal structure with a white board behind him
+1258 0.03125 A man in a blue shirt
+1259 0.715995 A man in a green shirt walks down a street to a group of people
+1260 0.6943778 A group of men are sitting in a church in a church
+1261 0.5382143 A young man in a blue shirt speaks into the camera in a living room with a yellow walls
+1262 0.7125256 A man in a black suit walks along a wall outside on a sunny day
+1263 0.7510177 A small child rides a red car on a sunny day
+1264 0.6263694 A bride and groom in a wedding gown on the front of a red curtain
+1265 0.6631446 A young woman in a black and white shirt is dancing in a wooded area
+1266 0.5715758 A young man wearing sunglasses and a backpack is sitting on a bench and talking into the camera
+1267 0.6643663 A young man in a red shirt does tricks on a skateboard in the daytime
+1268 0.6664493 A person in a blue jacket is jumping down a snow covered mountain on a sunny day
+1269 0.8671706 A young man is dancing on a stage
+1270 0.5551592 A man in a straw hat plays a guitar and sings into a microphone while another man plays the guitar on a sunny day
+1271 0.5937216 A woman is lying on the floor of a room with a white wall behind her
+1272 0.7343437 A man in a military uniform walks in the daytime
+1273 0.8331513 Two birds are flying in the sky on a cloudy day
+1274 0.5437283 A woman with long dark hair and a black top is dancing in a room with a white wall
+1275 0.7810563 A group of people are walking on a snowy mountain on a sunny day
+1276 0.9062175 2 men sit in a room
+1277 0.5389541 A group of young Asian men are in a large room with a white wall behind them
+1278 0.253116 A man in a yellow shirt walks along a sidewalk in a parking lot while a man in a red shirt walks away
+1279 0.6653072 A man in a white tee shirt is playing a keyboard in a room
+1280 0.6814157 A man in a blue shirt is holding a microphone in his hands outdoors at day time
+1281 0.7764162 A group of people are walking on the sidewalk in the day time
+1282 0.4251434 A man in a white tee shirt and a white tee shirt is standing in a room with writing on the wall
+1283 0.7237192 A young man wearing glasses and a blue plaid shirt is looking at the camera
+1284 0.6255018 A machine is showing a black and white video of a <UNK>
+1285 0.8791014 A man in a black bathing suit swims underwater
+1286 0.6687335 A man is laying down on the floor of a woman in a room
+1287 0.6954286 A woman wearing a blue top is lying on the floor in a room
+1288 0.7898725 A black and white dog is standing on the floor of a room
+1289 0.7473368 A group of people are walking in the middle of the street in the daytime
+1290 0.5935305 A man in a dark suit is seen in the water on a sunny day
+1291 0.8599703 A group of women are dancing in a room
+1292 0.8410644 A group of men are playing instruments in a room
+1293 0.3763158 A young woman in a white sweater is sitting on the ground in a park with her hands over a white wall
+1294 0.5381504 A baby wearing a blue shirt and a blue shirt is holding a baby in his mouth
+1295 0.6252357 A man in a blue shirt is standing at a table in a room with a table
+1296 0.6527917 A man in a blue shirt is talking to a group of people sitting on a table
+1297 0.8292154 A blue sky is flying in the sky
+1298 0.5315146 A man in a suit and a woman in a black dress sit at a table in a room with a white table
+1299 0.8209336 a group of young people are dancing in a large room
+1300 0.3904264 A man in a blue shirt and a woman in a black jacket are walking in a park
+1301 0.3536484 A man in a blue and white helmet and a helmet wearing a helmet is walking down a hill in the daytime
+1302 0.6632763 A group of people are standing on the edge of a rocky mountain on a sunny day
+1303 0.7099744 A young man is talking to a group of men in a kitchen
+1304 0.5260088 Two men and a woman are standing in a room with a large wall behind them
+1305 0.3853071 Outdoors on a sunny day a young boy wearing a blue shirt and blue pants is dancing in a park
+1306 0.5486117 A man in a white tee shirt and a suit walks across a stage with a white board behind him
+1307 0.3045134 In an indoor arena a man in a white shirt and black shorts rides a bicycle down a ramp in an indoor arena
+1308 0.7663134 A young bearded man is holding a book in his hand
+1309 0.3168635 With music playing in the background on a sunny day a man in a blue and white striped shirt is holding a little girl on a
+1310 0.3104997 A woman with long hair is sitting on a table in a room with a white tablecloth and black and white clothes
+1311 0.7230127 A man in a white shirt and black pants is sitting at a desk in a classroom
+1312 0.4921207 A young man wearing a white shirt and black pants is skating on a skateboard on a sunny day
+1313 0.8347893 A young man wearing a blue shirt is talking into the camera
+1314 0.7642253 Two white males in an outdoor setting talking to each other
+1315 0.7282609 On a clear day a group of tourists are shown
+1316 0.585969 A woman with long blonde hair and a black shirt is singing in front of a microphone
+1317 0.4379159 A man is holding a little boy and a little boy with a blue shirt outdoors in the daytime
+1318 0.4641276 A white car is driving in the street and pulls out of the road to the side of the car
+1319 0.6312056 A young woman with long dark hair is standing in front of a large screen in a room
+1320 0.3628794 A man in a white shirt and a woman in a white shirt and a blue cap is standing on a wall
+1321 0.8776721 A bride and groom are dancing outside on a sunny day
+1322 0.4372968 A man in a dark suit walks around a fire in a room with a fire on the wall
+1323 0.693481 A young woman with long dark hair is sitting in a room with a white wall
+1324 0.7539273 The camera moves along the water on a sunny day
+1325 0.7658858 A red car is shown in the day time
+1326 0.6903091 A video of a large building is shown in the daytime
+1327 0.6931493 A young man with a beard and mustache wearing a white shirt is singing
+1328 0.7448719 A person is pouring food from a table inside a restaurant
+1329 0.4977517 A man in a blue shirt and a blue jacket holds a small plane in his hand
+1330 0.7904816 A person is standing in front of a large screen
+1331 0.5917808 A man in a blue shirt holds a bottle of another man in a gym
+1332 0.6385933 Two men in helmets and helmets are riding on a motorcycle outside on a sunny day
+1333 0.7147913 A young man in a bathing suit walks into the water
+1334 0.8117649 A group of people are sitting around a table in a room
+1335 0.6227031 A young woman and a young man stand in the middle of a lake on a cloudy day
+1336 0.5127631 With music playing in the background on a clear sunny day a white man with a beard is walking down the street
+1337 0.6642294 A man in a black and white shirt and sunglasses talks to a group of young men
+1338 0.4609991 A group of people wearing white masks and black pants and white shorts are on a rock wall
+1339 0.748566 A young woman with long dark hair is sitting in a room with a white wall
+1340 0.6747539 A group of people are standing on a beach next to a lake
+1341 0.6207505 A video of a Christmas tree with red and yellow flowers on it
+1342 0.4280801 A group of men are in a room and one of them is taking photos of the camera in the air
+1343 0.5881923 A black man wearing a white shirt and a hat is holding a guitar on the beach
+1344 0.7571032 A man in a bathing suit walks along a beach next to a sea
+1345 0.03125 A black man in a blue
+1346 0.7915129 A group of young men and women are dancing in a room
+1347 0.03125 A black man in a green
+1348 0.6019408 A woman in a red dress stands in front of a white wall and speaks to someone in a room
+1349 0.7407751 A bicycle rider is shown on a dirt road on a sunny day
+1350 0.5947964 A man and a woman sit on a couch in a room with a sofa in the background
+1351 0.8466204 People are standing in the middle of the street at night
+1352 0.4955178 A young Asian woman in a blue dress and a blue dress is walking in the street
+1353 0.6397073 A man in a red shirt and a red cap speaks into the camera in a room
+1354 0.8054912 A group of men are riding horses in a field on a sunny day
+1355 0.5063911 A man in a band plays a guitar and sings into a microphone while another man plays a guitar and sings into a microphone
+1356 0.7227381 A man in a blue shirt plays a piano outside on a sunny day
+1357 0.1752582 A man in a red jacket and a red jacket sits on a bed and talks to a man in a red shirt
+1358 0.7633958 A man in a hat plays a guitar on a city street
+1359 0.7027439 A man in a white shirt climbs a rock face in a wooded area
+1360 0.4128792 A young black man in a white shirt and black pants is sitting in a room with a black and white walls
+1361 0.7716524 A little boy in a blue shirt is talking into the camera
+1362 0.6241314 A group of young people are jumping on a large stage in a large room
+1363 0.7865735 A group of people are sitting at a table in a large room
+1364 0.5967163 A man in a white shirt sits in a chair and talks while a person sits in a chair in the daytime
+1365 0.68455 A man in a white shirt and jeans walks down a narrow street
+1366 0.556333 A man in a blue shirt and blue jeans sits on a bed in front of a bed
+1367 0.700126 A man in a red shirt is climbing a rope in the daytime
+1368 0.6280387 a man is running through a window of an old building
+1369 0.4860467 A young man in a green tee shirt and shorts walks across a field and throws the ball into the camera
+1370 0.5479123 A man dressed in a Santa costume is talking to a group of people on a sunny day
+1371 0.788112 A bride and groom are dancing in a line in the daytime
+1372 0.7787023 A man is holding a book in his hands
+1373 0.2280852 A white man with a blue shirt and a blue shirt is sitting in a chair next to a brick wall with a blue trash can
+1374 0.03125 A man in a black suit
+1375 0.7234645 A group of people are walking down a rocky mountain on a sunny day
+1376 0.6357031 A man in a blue shirt is holding a microphone in front of a camera outside on a sunny day
+1377 0.7961379 A group of people are sitting at a table in a large room
+1378 0.4215562 A man in a white shirt walks along a street with a man in a white shirt on the road
+1379 0.6467686 A piece of equipment is moving fast in a <UNK>
+1380 0.5877624 A woman in a blue and white dog walks along a path toward the camera
+1381 0.4457317 A young boy dressed in a blue shirt and blue pants is playing with toys in a room
+1382 0.896048 A man is playing a saxophone in a room
+1383 0.03125 A woman in a red and
+1384 0.6243441 A woman in a black and white dress is mixing food from a bowl
+1385 0.5476163 With music playing in the background on a clear sunny day in the background a white drone is flying in the distance
+1386 0.03125 With music playing in the background
+1387 0.6294164 A young man in a white shirt and black shorts rides a skateboard on a sunny day
+1388 0.7232823 The camera pans down a mountain on a sunny day
+1389 0.3609995 A hand is drawing a picture of a man in a black and white striped shirt with a black marker
+1390 0.8260108 A group of people are dancing in a large room
+1391 0.461924 A green <UNK> is seen from the top of a green and green and green
+1392 0.5909714 A video of a body of water with a large body of water during the day
+1393 0.7577244 A man is holding a door in a room
+1394 0.8242715 A young black man is playing a guitar outside on a sunny day
+1395 0.4288126 On a sunny day a group of cars are seen from the top of the water on a sunny day
+1396 0.7565731 A video of a water on a cloudy day
+1397 0.7254392 A group of people are sitting in the middle of a church
+1398 0.7673263 A band plays on a stage while another man plays guitar and sings
+1399 0.3075948 A young black woman in a red shirt and black pants is holding a black bag with her hand over her face
+1400 0.4168335 A young man in a red jacket and a blue jacket is climbing a rope in the daytime
+1401 0.6209102 A man in a blue jacket talks to a woman and a man in a yellow jacket on a sunny day
+1402 0.5688513 A man in a white shirt and a black hat is looking at the camera on a sunny day
+1403 0.6676524 A group of women dressed in cultural attire are dancing in the street
+1404 0.757642 A woman dressed in a costume costume sings on a stage
+1405 0.6221635 A man in a black shirt is eating something from a man in a restaurant
+1406 0.8205074 A person is moving around in a room
+1407 0.7242566 A group of young Asian girls are playing a violin
+1408 0.5996394 A man in a black vest and a woman in a white shirt speaks into the camera
+1409 0.6450543 A young white man is using a soda bottle in a room
+1410 0.2260789 On a stage a woman with long hair stands in front of a large screen with a large screen and a man in front of them
+1411 0.03125 A man in a black suit
+1412 0.4232382 A young black woman in a white shirt and a black hat is driving a car in a wooded area
+1413 0.7693714 A woman in a black and white outfit walks down a runway on a sunny day
+1414 0.393055 A young man wearing a white shirt and blue jeans is walking on the sidewalk in front of a brick building in the daytime
+1415 0.4825701 A young man in a plaid shirt walks along a street with other people in the background
+1416 0.71095 A man in a black suit walks down a rocky mountain on a sunny day
+1417 0.5728492 A woman in a red bathing suit and black pants is laying down on a mat on a sunny day
+1418 0.7839117 A group of people are standing in a large room
+1419 0.8214612 A performer on stage in front of an audience
+1420 0.6363897 A person in a blue jacket is holding a parachute on a sunny day
+1421 0.6798133 A man in a black shirt sits in front of a camera and speaks to the camera
+1422 0.6325586 A car is driving a car with the driver on a sunny day
+1423 0.6268896 A man in a blue shirt is riding his bike on a bicycle in the woods on a sunny day
+1424 0.7846092 A boat is moving along a body of water on a sunny day
+1425 0.5402541 A man in a black and white helmet and a black baseball cap is sitting on a motorcycle outside on a sunny day
+1426 0.68483 A video of a large building is looking over a building on a sunny day
+1427 0.5689844 A young man wearing a white shirt and blue jeans is holding a rope in his hand on a sunny day
+1428 0.5841913 Someone is pouring a spoon into a bowl of food in a bowl
+1429 0.5985925 A man wearing a hat and a plaid shirt is talking to someone off camera outside on a sunny day
+1430 0.7801316 A group of people are standing in front of a large building outside on a sunny day
+1431 0.6915963 A mountain is seen in the water in the day time
+1432 0.9484871 A group of people are dancing on a stage
+1433 0.7218477 A man in a winter jacket walks down a snowy hill in the snow
+1434 0.4526774 A woman in a black and white shirt and black pants sits at a desk and speaks to a man in a black shirt
+1435 0.7842653 A brown dog is sitting in a field on a sunny day
+1436 0.7555361 A group of young women dressed in costumes are dancing and singing
+1437 0.7154252 A man is playing a guitar while another man plays the guitar
+1438 0.4271692 A young man in a blue shirt talks to a young woman wearing glasses and a black baseball cap on a sunny day
+1439 0.5702645 With music playing in the background on a sunny day in the daytime a group of hikers is shown in the water
+1440 0.7322744 A black man wearing a red sweater and black pants is dancing in a room
+1441 0.5899918 A man is holding a pipe and talking to someone else in his hand
+1442 0.799657 A woman sits at a table in front of a table and speaks to the camera
+1443 0.4030436 With music playing in the background we see a person is shown from the top of a person holding a camera
+1444 0.3475756 A woman in a white dress and veil stand in front of a church with a man and a woman in a white dress
+1445 0.3958462 A young white woman with black hair in a black and white striped shirt is taking a picture on a cloudy day
+1446 0.4913342 A man in a white shirt and a black and white helmet rides a wave in the ocean on a sunny day
+1447 0.7821933 A man and a woman are talking to each other in a room
+1448 0.4519908 A black man in a white shirt and black pants is holding a black and white object over his head
+1449 0.5819933 A hand is holding a black and white picture of a man in a black shirt
+1450 0.5018317 A man in a blue shirt and a blue shirt throws a ball on a basketball court in a gym
+1451 0.4446212 A young man in a red shirt and black shorts is climbing a large rock wall in the air
+1452 0.454204 A young man wearing a black and white shirt and black pants is walking along a beach next to a beach
+1453 0.6247642 A man in a blue shirt is standing on a large field outside on a sunny day
+1454 0.6160215 a young Asian woman sits in front of a blackboard and plays with her hands
+1455 0.7119861 A hand is holding a picture of a black and white cover
+1456 0.5460346 A man in a blue and white shirt and blue jeans is dancing in front of a group of people
+1457 0.3751832 A little girl in a white dress is sitting on the floor in a room with a mirror on the wall
+1458 0.5907634 A person in a black and white shirt is climbing a rock in the daytime
+1459 0.7598003 A group of young Asian men and women are dancing in a room
+1460 0.4976686 A man in a blue shirt and a woman in a blue boat is talking in the water
+1461 0.8036225 A man is standing in front of a grand piano on a sunny day
+1462 0.6882003 A man in a red and yellow cap is talking to someone off camera
+1463 0.6354843 A black man wearing a blue shirt and a blue shirt is dancing in the street
+1464 0.3528739 In a kitchen a bearded man in a white shirt and a black cap stands next to a sink and talks
+1465 0.7387816 A group of men and women are walking in a field on a sunny day
+1466 0.3166797 A man in a black and white striped shirt walks on a rope and then walks away from the ground
+1467 0.7625283 A man is riding a bicycle on a busy city street
+1468 0.6437519 A woman is sitting on a sofa while another person is sitting on a sofa in a room
+1469 0.7431689 A woman in a white jacket walks along a road in the daytime
+1470 0.3920317 A young woman wearing a black top and black pants is sitting on a bed with her fingers in a dark room
+1471 0.331172 A man in a blue shirt and a woman in a white dress and jeans walk on the ground in front of a brick wall
+1472 0.6269169 A man in a white tee shirt and black shorts rides a skateboard on a sunny day
+1473 0.5614486 A group of men and women in red and white shirts are standing in a field on a sunny day
+1474 0.8143955 A young man in a black shirt speaks in front of a camera
+1475 0.647904 A man in a blue jacket walks along a river in the water
+1476 0.517827 A group of people are standing in a large room with a red and blue flag
+1477 0.3298617 A young man wearing a blue shirt and blue jeans is standing on the floor of a room wearing a blue shirt
+1478 0.6831183 A young woman with long hair is walking in the street in the daytime
+1479 0.628548 A man in a white helmet rides his bicycle up and down a ramp in a gym
+1480 0.7635057 A car is driving a car on a sunny day
+1481 0.9143893 A bride and groom are dancing outside on a sunny day
+1482 0.7621571 A man in a white shirt and sunglasses rides a surf board in the ocean on a sunny day
+1483 0.5290088 A man in a black and white shirt and black pants is sitting in a chair and looking at something in a room
+1484 0.6012796 A group of young people are standing and talking to a group of women in the daytime
+1485 0.3471001 A man in a blue shirt and a black cap stands at a gas station talking to a man in a blue shirt in a room
+1486 0.7534331 A young man in a blue plaid shirt is talking to someone off camera
+1487 0.5024997 A young man in a red shirt walks around a table in a room with a table and chairs
+1488 0.7756522 A brown bear is eating on a sunny day
+1489 0.6294469 A man in a green shirt jumps off a cliff into a pool of water
+1490 0.7294797 A man is sitting on a rock surface outside on a sunny day
+1491 0.5278129 A young boy in a yellow shirt is standing on a large metal structure outside on a sunny day
+1492 0.8468677 A group of young men sitting at a conference table
+1493 0.2999958 A young man wearing a white tee shirt and black hat is dancing in front of a white woman with long black hair on a
+1494 0.7184557 A group of young people are standing in a gym on a sunny day
+1495 0.6753826 A group of young men and women are walking on the sidewalk in the daytime
+1496 0.7232122 A young man and a woman are talking to each other in a store
+1497 0.6532243 A man in a blue shirt is talking to a group of people sitting on a sunny day
+1498 0.6895719 A man in a blue shirt is eating a hot sauce
+1499 0.3387427 A young white male with a black hat on his head is wearing a black hat and a black hat
+1500 0.3955143 A group of young men are walking through a door and one of them is entering the door of a room
+1501 0.7152632 A group of people are riding in a motorcycle on a sunny day
+1502 0.6583376 A person is pouring a liquid into a glass of liquid in a container
+1503 0.73583 A group of people are standing in front of a red banner on a sunny day
+1504 0.4853267 A young man in a blue shirt and black pants is walking down a hill in the woods on a sunny day
+1505 0.2140354 Two young men sit at a table in front of a laptop and one of them holds a laptop and the other one in the other
+1506 0.6102763 A bride and groom dressed in white wedding dress with flowers in her hand
+1507 0.2361891 A man in a blue shirt holds a blue and yellow and blue jeans and another man in a blue shirt and blue jeans on a sunny day
+1508 0.5712173 A woman with long black hair is walking in a room with a black and white walls
+1509 0.3692099 A man in a white shirt and black pants walks with a woman in a white dress and a black car
+1510 0.793486 A man in a blue shirt rides a bicycle down a hill on a sunny day
+1511 0.5140822 A man in a white tee shirt walks out of a door to the door of a building
+1512 0.8557531 A group of musicians are performing on a stage
+1513 0.6848752 A young woman wearing a white shirt and black pants is dancing in a gym
+1514 0.5247411 A young man wearing a white helmet and a blue jacket is jumping over a lake on a sunny day
+1515 0.6387848 A man in a white shirt is moving a piece of equipment in a room
+1516 0.5974206 A young man wearing a white t-shirt and black pants is dancing in the water
+1517 0.03125 A woman in a blue dress
+1518 0.5204559 A hand is being held by a man on a table in a dark room
+1519 0.4783894 A man in a black and white cap and a cap is looking at a picture of a woman looking at the camera
+1520 0.4249915 A man in a red hat walks down the street in front of a car parked cars to a man in a red car
+1521 0.8230759 A man in a room plays a guitar and sings into a microphone
+1522 0.7374423 A bearded man with a beard and mustache is singing in a room
+1523 0.84889 A group of people are standing on a sunny day
+1524 0.5369333 A young woman in a white shirt and black pants is jumping around a tree in the daytime
+1525 0.7982441 A young woman with long black hair wearing a black top is talking into a microphone
+1526 0.4240854 A man in a black and white shirt holding a microphone talks to a group of people in a room with a microphone
+1527 0.5271126 A young woman with long dark hair wearing a black top and sunglasses is sitting in the water on a cloudy day
+1528 0.6943135 A pan is being poured into a pan on a table
+1529 0.5591981 A group of white ducks <UNK> on a green wall
+1530 0.7345678 The video shows the ocean of the ocean on a sunny day
+1531 0.5145768 A man in a black suit and tie speaks into the camera while a man in a black suit and tie
+1532 0.6276825 A Black man in a white shirt and black pants speaks in front of a camera outside on a sunny day
+1533 0.4902205 Two men one wearing a red top and black pants is jumping over a bridge over a bridge
+1534 0.8055014 A man and woman sit in a classroom in the daytime
+1535 0.7674727 2 young Asian women are smiling and smiling
+1536 0.5679527 A man is pouring a hot pot in a laboratory at night
+1537 0.5190945 A young man in a blue shirt and black pants rides a skateboard down a ramp in the daytime
+1538 0.7151033 A man in a white shirt holds a piece of paper in a room
+1539 0.8178306 A man in a blue suit speaks into the camera outside in daytime
+1540 0.03125 A black man in a black
+1541 0.8402438 A man plays a guitar and sings into a microphone
+1542 0.8494313 A black and white dog walks on the floor of a room
+1543 0.8949535 A bride and groom are dancing on a stage
+1544 0.7790873 A large group of people are standing in front of a large building on a sunny day
+1545 0.4994177 A man in a yellow jacket and a yellow jacket walks along the side of a car parked on a sunny day
+1546 0.4814317 A woman in a bathing suit jumps out of the water as another man watches in the water on a sunny day
+1547 0.187069 A person dressed in a black and white helmet and a black hat is standing on a large rock wall in a large room
+1548 0.4208416 A young man in a blue shirt and blue shorts is bouncing a ball to the basket of the basket
+1549 0.4221547 A man in a black suit and a woman in a white dress stands in front of a large screen in a room
+1550 0.4997332 A woman in a yellow jacket and black pants walks down a narrow path between two buildings
+1551 0.852464 A man in a black shirt speaks into the camera
+1552 0.9211052 2 women sing and dance onstage
+1553 0.8323336 A <UNK> is moving in the water on a sunny day
+1554 0.4198038 A young white man with black hair and a beard wearing a white shirt and black pants is sitting on a sofa
+1555 0.5226967 A woman wearing a black top and black pants is walking down a bridge between two buildings on a sunny day
+1556 0.7819127 A group of men are sitting in a large body of water on a sunny day
+1557 0.8145022 A group of bicyclist are riding on a busy street at night
+1558 0.6723837 Two young Asian men walk down the sidewalk in front of a house on a sunny day
+1559 0.4722338 A young man in a blue shirt holds a ball in his hand and throws it up and down
+1560 0.7155894 A young man is holding a black and white liquid in his hand
+1561 0.7714892 A baby is holding a baby and is moving its head
+1562 0.5675417 The video shows a plane of a plane and a plane on a cloudy day
+1563 0.7841074 A parachutist is seen from the ground on a sunny day
+1564 0.7254452 A black dog is sitting on the ground in a room
+1565 0.6628317 A man in a green shirt and black pants stands in a field on a sunny day
+1566 0.3147237 The video shows a woman in a white dress and a white rose dress with flowers on the ground at night
+1567 0.03125 On a stage a man in
+1568 0.7086207 A large group of people are walking in a large building in the daytime
+1569 0.4666055 A group of young men are in a gymnasium and one of them throws a ball out of the basket
+1570 0.4317459 A man in a green shirt walks across a lawn lawn in a large room with a large tree
+1571 0.5513713 A group of men dressed in red and white shirts are walking on a stage outside on a sunny day
+1572 0.8161247 A bearded man is playing a guitar and sings in a room
+1573 0.7091198 A group of dogs are on a snowy road in the snow on a sunny day
+1574 0.66972 A woman with black hair and a black hair is talking to a young man
+1575 0.492819 A man in a blue shirt is standing on the floor in a large room with a wooden wall
+1576 0.6690022 A young woman with long dark hair wearing a black dress is talking to the camera
+1577 0.3957683 A man in a white shirt and a black shirt is standing in front of a white door with a red curtain
+1578 0.4755306 With music in the background in the daytime a white woman in a white jacket and white pants is walking in the woods
+1579 0.8560328 A young man is climbing a rock wall outside on a sunny day
+1580 0.5673898 A young man wearing a white shirt and a blue shirt is dancing in a room with other people
+1581 0.4130045 A man in a blue shirt and blue cap walks down a street with a man in a blue shirt and blue pants
+1582 0.8700602 A man is sitting on a computer screen
+1583 0.5491987 A woman in a red shirt talks to a boy in a classroom on the floor in a classroom
+1584 0.2673064 A woman in a white jacket is walking down a street with a man in a white shirt and a red car
+1585 0.4586647 A young man wearing a white shirt and black pants is riding a bike on a paved area outdoors at day time
+1586 0.03125 A man in a black suit
+1587 0.7160332 A small white car is driving on a mountain road on a sunny day
+1588 0.5968551 A group of people wearing helmets and carrying helmets are carrying a large group of spectators
+1589 0.80788 A woman in a red dress talks to a group of people outside on a sunny day
+1590 0.6709442 A brown and white dog sits on the floor of a living room
+1591 0.7554407 A bride and groom are dancing in the aisle of a church
+1592 0.589445 A group of young men and women are standing in front of a group of people on a sunny day
+1593 0.6430525 A man in a white cowboy hat and a cowboy hat is singing in a room
+1594 0.4611854 A man in a blue shirt and a woman in a white shirt holding a bouquet of flowers on a sunny day
+1595 0.731647 A group of young people are standing around talking outside on a sunny day
+1596 0.6934855 A person in a green costume is looking at the camera
+1597 0.250652 A woman in a blue shirt and a woman in a blue shirt is sitting on a table in a park in a park
+1598 0.8930814 A person is swimming in the water
+1599 0.03125 A man in a white shirt
+1600 0.620162 A woman in a white jacket walks down a narrow path between two buildings on a sunny day
+1601 0.7076344 A roller skater is playing in the background in a game
+1602 0.5655264 A group of people wearing helmets and a helmet are on a field on a sunny day
+1603 0.6270171 A group of young women dressed in black and white shirts are standing in a circle on a sunny day
+1604 0.6024873 A man dressed in black walks down the aisle of a woman in a large room
+1605 0.6176638 A bus bus with a blue bus passes a city street in the daytime
+1606 0.2261709 A man in a yellow shirt and a woman in a black baseball cap is being played by a man in a red shirt on a sunny day
+1607 0.654201 A man in a blue shirt sits at a table in front of him and speaks to someone off camera
+1608 0.5333198 A little boy in a yellow shirt is talking to a group of kids sitting on a bench
+1609 0.4283651 A man in a blue shirt talks to a woman in a blue shirt and a woman in a room
+1610 0.7399027 A group of young Asian men and women are singing and dancing in a room
+1611 0.676674 A woman in a black and white shirt is kissing a tree outside on a sunny day
+1612 0.7460092 A young woman in a red shirt speaks into the camera in a room
+1613 0.3687665 A man in a blue shirt and a woman in a blue shirt sits at a table in a room with a table and another man
+1614 0.4120248 A view of a red and white striped top is seen from the top of a mountain on a sunny day
+1615 0.7488127 A man walks out of a building in front of a brick building
+1616 0.5555753 A young woman wearing a white jacket and black pants is walking in the woods on a sunny day
+1617 0.8143479 A group of women are walking in the street on a sunny day
+1618 0.8664765 A bride and groom are kissing in a room
+1619 0.6016016 A group of people are standing on the edge of a boat into the water on a sunny day
+1620 0.4755797 A young woman with long dark hair is sitting at a table in a room with a white wall behind her
+1621 0.750588 A man in a green shirt is dancing on a stage
+1622 0.7199363 A man sits at a table and speaks to another man in a room
+1623 0.8502914 A large bird is swimming in the water
+1624 0.878112 A young man is looking into the camera
+1625 0.3055358 A black man in a blue shirt and a white baseball cap sits on the floor of a room with a brick wall behind him
+1626 0.7408244 A man in a blue plaid shirt is on a stage
+1627 0.9267247 People are walking in the water on a sunny day
+1628 0.7904203 A person is walking on the side of a room
+1629 0.5207597 A young white woman with long brown hair walks out of a house and walks out of the house
+1630 0.5323107 A young man wearing a white t-shirt and black pants is jumping up and down a ramp in the street
+1631 0.4621781 A young man wearing a black vest and a white tee shirt is dancing in a room
+1632 0.6710363 A man in a red jacket walks in the snow on a sunny day
+1633 0.6337589 A man in a red hat and a black hat are dancing in the snow
+1634 0.2885329 A man in a white shirt and a black man wearing a green shirt and a white shirt and a red shirt is talking in his hand
+1635 0.6741857 A young white woman dressed in a white dress is dancing on a stage
+1636 0.03125 A man in a black suit
+1637 0.357534 A young white woman in a white dress with a blue dress and a blue dress stands in front of a blue and white wall
+1638 0.7609261 A man in a blue shirt rides a bicycle on a sunny day
+1639 0.5081651 A young man in a white shirt and black pants is sitting on the edge of the ocean in the ocean
+1640 0.8303318 A person is holding a bag of liquid
+1641 0.3997097 A woman in a black and white dress approaches another man in a black suit sitting on a chair in a room
+1642 0.7075964 A group of people are standing in front of a large screen on a sunny day
+1643 0.6072977 A blonde woman in a red dress walks toward a house at night
+1644 0.5125134 A group of people are sitting around a table and one of them is talking to someone in a room
+1645 0.4484524 A shirtless man with a beard and a mustache with a beard in a bathroom mirror is singing in a bathroom
+1646 0.5223656 A young man and a woman are sitting at a table in front of a Christmas tree
+1647 0.6691875 A black man wearing a black and white shirt is talking in front of a camera
+1648 0.3626971 With music playing in the background in a sunny day in a grassy area in a sunny day in a sunny day in a park in the daytime
+1649 0.8734748 2 men are sitting at a table inside a room
+1650 0.7456468 A small white dog is lying on a beach on a sunny day
+1651 0.4388036 A woman in a white shirt and black pants is riding a bike down a narrow path between two buildings on a sunny day
+1652 0.5964211 A group of young men are riding their bikes on the street in front of an audience
+1653 0.6378626 A person dressed in a red jacket and black pants walks down a snowy hill on a sunny day
+1654 0.7483043 A group of young men are running around in a circle outside on a sunny day
+1655 0.6834552 A man in a black hat is riding in a car on a sunny day
+1656 0.7022091 A man in a blue shirt walks along a beach next to a lake on a sunny day
+1657 0.4200276 A young woman in a car is talking into the camera while a man in a car is sitting behind him
+1658 0.03125 A woman in a black and
+1659 0.761733 A man is holding a picture of a computer screen
+1660 0.4506751 A man in a black and white helmet and a black and white helmet is seen in the water
+1661 0.7810015 A group of people are sitting around a table in a large room
+1662 0.71694 A man wearing a blue shirt and blue jeans walks down a hill on a sunny day
+1663 0.4437449 A man in a blue helmet and a blue helmet holds up a yellow and blue helmet in the water on a sunny day
+1664 0.9677345 a soccer player scores a goal on a soccer field at daytime
+1665 0.593123 A young man in a green shirt walks out of a lawn in a park on a sunny day
+1666 0.8831056 A person is holding a machine
+1667 0.726255 A man in a white hat walks along a rope outside on a sunny day
+1668 0.5336826 A man in a black suit and a helmet is walking on the sidewalk in the street
+1669 0.59177 A boy in a white shirt and black pants jumps over a ramp and lands on the ground
+1670 0.5401956 A young woman with long brown hair and a white dress is walking in a park on a sunny day
+1671 0.6700926 A man in a blue and white shirt rides a bike up outside on a sunny day
+1672 0.8161975 Two men are on a surf board in the ocean on a sunny day
+1673 0.6507506 A person is pouring in a glass of water
+1674 0.538785 A shirtless man in a black suit is standing on a rope in the water on a cloudy day
+1675 0.4004195 A man in a white tee shirt and a woman in a white tee shirt stands in front of a brick building on a sunny day
+1676 0.9074946 A young man is singing in a dark room
+1677 0.5730242 A person wearing a green shirt is eating a plate of food in a room
+1678 0.814375 A man in a Santa costume sings into the camera
+1679 0.5770703 A young woman is standing on the floor of a car and talking to the camera
+1680 0.5947362 A young white woman with long dark hair and a blue top is talking in a room
+1681 0.7029699 A man in a suit speaks into a microphone while others watch
+1682 0.5480934 In a kitchen a young man in a baseball cap stands in front of a plate of food
+1683 0.7701488 a man and a woman are sitting at a table in a room
+1684 0.4805471 A man in a white shirt and black pants walks along a city street as another man looks on
+1685 0.8387066 A person is holding a black bag
+1686 0.3731641 A little girl sits at a table in front of a table and speaks to a little boy and a girl on the table
+1687 0.9241627 2 men are fighting in a kitchen
+1688 0.8437751 People are walking around on a motorcycle outside on a sunny day
+1689 0.5947259 A group of people sitting in a row of seats seats in front of an audience
+1690 0.526702 A man holds a woman's hand over his face and puts his hand over his face
+1691 0.546608 A man in a yellow jacket and a white helmet walks down a city street in a city street
+1692 0.7438503 A man in a white shirt is talking on a stage
+1693 0.5986686 With music playing in the background a white man in black is holding a black and white object in his hand
+1694 0.5560302 A man in a black jacket and a helmet rides a wave in the snow
+1695 0.7252284 A young man and a young woman sit together and looking at each other
+1696 0.8526685 A person is playing a guitar
+1697 0.9467561 A rock climber is climbing a rock wall
+1698 0.9526885 A group of musicians perform on a stage
+1699 0.4479703 A woman in a blue dress and a white dress is sitting in a room
+1700 0.8970579 A man is holding a cell phone
+1701 0.5504214 With music playing in the background on a sunny day a man in a white shirt is holding a large balloon
+1702 0.4185156 A man in a blue shirt and black pants sits in a large room filled with a <UNK> <UNK>
+1703 0.9035028 A man is sleeping in a bed
+1704 0.8878318 A man is playing a keyboard in a room
+1705 0.6889049 A person is holding a black and white glove on his back
+1706 0.5864006 A white woman wearing a red and white dress is talking to a young white man wearing a red dress in a room
+1707 0.4746258 A man in a blue shirt and a woman in a black jacket stands in front of a crowd of people
+1708 0.6783397 A video of a large room with a wooden roof
+1709 0.5530974 A young man wearing a red and white shirt and red plaid shirt is standing in front of a camera
+1710 0.6894742 A bride and groom are getting married by a man in a suit on a sunny day
+1711 0.4910878 A man in a white shirt and black shorts rides a large ball in a gym
+1712 0.4618061 A man in a white tee shirt and black shorts rides a skateboard up a ramp and lands on the ground
+1713 0.8980104 Two sharks are swimming in the water
+1714 0.3717375 A woman in a black dress and a black woman in a black dress stands in front of a black curtain as another man looks on
+1715 0.6821179 A person is shown on a white board on a table
+1716 0.4647948 A woman in a black and white striped shirt is talking to a young woman with long hair in a room
+1717 0.7504179 A young woman is dancing in a room with white walls
+1718 0.03125 A man in a blue shirt
+1719 0.6972883 A man in a white shirt and jeans rides a bicycle down a hill in a park
+1720 0.1190158 A woman in a white jacket and a man in a black suit and a woman in a white jacket walks down a path in a park
+1721 0.4278162 A man in a yellow jacket and a white jacket is talking to a person sitting on a sidewalk
+1722 0.7699704 A group of people are flying in the air on a sunny day
+1723 0.8898139 With music playing in the background on a sunny day
+1724 0.910675 a man in a kitchen talks to the camera
+1725 0.7568855 A group of young people are walking around in a park on a sunny day
+1726 0.7313652 A bride and groom are walking around a white outside on a sunny day
+1727 0.44713 A man in a yellow shirt and tan shorts walks over a bridge of water
+1728 0.3887888 A young white woman with long brown hair and a white shirt is holding a guitar in her hand
+1729 0.8284242 A young man is playing a keyboard on a stage
+1730 0.4518112 A woman in a black and white dress and a black vest talks to a group of people in a room
+1731 0.6421017 A man in a white shirt and glasses is talking to a woman in a white shirt
+1732 0.03125 A woman in a white dress
+1733 0.79723 A man in a blue shirt rides a wave on a sunny day
+1734 0.6901393 A man in a blue shirt is standing on a boat in the ocean on a sunny day
+1735 0.5040523 A man in a black shirt and a red shirt sits in front of a mirror and talks to the camera
+1736 0.9168932 A young woman plays a guitar
+1737 0.5658908 A young Asian woman in a white blouse is sitting at a desk in a room with a white board behind her
+1738 0.6961811 A woman in a blue dress is sitting on a table outside on a sunny day
+1739 0.7072898 A young man in a black suit is sitting at a desk in an office
+1740 0.6757744 A man in a white shirt and a woman in a black dress plays a keyboard on a stage
+1741 0.4501122 A woman in a blue dress and a white blouse sits on a bench in front of a stone wall
+1742 0.4996147 A man in a white shirt and a woman in a white shirt are standing in front of a stone wall outside on a sunny day
+1743 0.5440607 A young man is holding a stick and is walking down the street
+1744 0.7623795 Four ducks are walking on the ground in the daytime
+1745 0.5764812 A young woman is jumping over a rope and jumping over a wooden fence
+1746 0.5545077 A young man in a white shirt and black pants rides a bicycle down a street in the daytime
+1747 0.5080756 A man in a blue shirt and a white shirt is standing in front of a white van on a sunny day
+1748 0.03125 A man in a red shirt
+1749 0.8164772 A woman in a black dress plays a guitar on a stage
+1750 0.3944669 A young man wearing a white hat and a white hat is kissing a young white woman wearing a red hat outdoors on a sunny day
+1751 0.250551 A man in a black shirt and a black car is talking to a man in a black shirt on the street
+1752 0.5979649 A man in a red shirt is moving around a car outside on a sunny day
+1753 0.8545516 a man plays guitar and sings on a stage
+1754 0.6561393 A video of a black sedan on a white sedan
+1755 0.7869328 A man in a red shirt rides a wave in the water
+1756 0.8689859 A baby is lying on a bed
+1757 0.6352686 A white man with a white helmet is going down a mountain on a sunny day
+1758 0.8399328 A bride and groom are sitting in a church
+1759 0.7369416 A man in a black and white helmet walks across a field outside on a sunny day
+1760 0.668624 A young woman walks by a man in a house and walks away
+1761 0.9246643 A young man is looking into the camera
+1762 0.7457975 A man in a black shirt is sitting at a desk in a room
+1763 0.7398446 A man and a woman are sitting at a table in a room
+1764 0.5727869 A man is sitting in a room with a white wall behind him
+1765 0.9267284 A music plays in the background
+1766 0.59399 A man in a black suit sits at a desk in a room with a computer screen behind him
+1767 0.7268616 A young woman sits on a chair and speaks to another man
+1768 0.7659271 A group of people sitting on a bench in a living room
+1769 0.4176451 A young man in a white shirt and black pants is sitting at a desk in a room with a computer screen
+1770 0.5397488 A woman in a pink dress is standing in front of a large display
+1771 0.3792798 A young man in a bathing suit stands next to a lake and a man in swim trunks jumps into the water
+1772 0.6924975 a woman in a blue dress stands in front of a wall and speaks to the camera
+1773 0.1968578 A man in a black and white shirt and black pants holds a piece of equipment and a hand of a person in a <UNK>
+1774 0.03125 A man in a black shirt
+1775 0.6748649 A young man wearing a white helmet is climbing a rope outside on a sunny day
+1776 0.7066277 A group of men are standing on a stage talking to each other on a stage
+1777 0.555115 A man in a black cap and a black cap is writing in a notebook
+1778 0.5097281 A young woman wearing a blue shirt and blue shorts is standing next to a man in a blue shirt and blue shorts
+1779 0.606069 A man in a blue shirt and white hat walks along a dirt path outside on a sunny day
+1780 0.5281391 A man in a white shirt and a hat is standing on the side of a rocky mountain on a sunny day
+1781 0.6093295 A man is standing in front of a black plastic bag on a sunny day
+1782 0.4225372 A group of men wearing helmets and helmets and a man wearing a helmet are talking in a field
+1783 0.6584695 A man in a black and white shirt is talking to a group of people
+1784 0.7277937 A man in a blue shirt is driving a vehicle on a sunny day
+1785 0.6160241 A man in a blue shirt and glasses sits at a table and speaks to a camera
+1786 0.6843456 A man in a blue shirt is walking on a bridge outside on a sunny day
+1787 0.5922806 a group of men is getting out of a soccer ball in front of an audience
+1788 0.7317886 A group of people are standing on a red mat outside on a sunny day
+1789 0.5851317 in the daytime a man in swim trunks jumps off the beach and waves the waves
+1790 0.5116379 A man wearing a red jacket and a black jacket is moving his hands up and down outdoors
+1791 0.7915046 A surfer on a wave in the ocean on a sunny day
+1792 0.7455026 A man is sitting at a table and talking in front of a screen
+1793 0.4309423 A man in a blue shirt and a blue shirt and blue jeans jumps on the back of another man
+1794 0.6033957 A man in a blue shirt and sunglasses sits in a chair and talks to someone off camera
+1795 0.4808919 A black and white video of a black car is shown from the side of the road
+1796 0.8005615 A group of young men are performing on a stage indoors
+1797 0.5380953 A woman wearing a black top and white dress is standing in front of a house and looking down
+1798 0.7253057 A man is running in the middle of a field
+1799 0.6095917 With music playing in the background in the daytime a group of people are walking in the water on a cloudy day
+1800 0.3185574 A man in a black and white jacket and black pants sits on the ground in front of a black man in a black and white striped shirt
+1801 0.7975587 A small plane is moving in the water on a sunny day
+1802 0.706481 A man with a beard and a beard and a beard is indoors
+1803 0.5691725 A black man with a beard and a mustache wearing a black shirt is holding a camera
+1804 0.85444 A man is talking to another man in a room
+1805 0.6787882 A bearded man wearing a dark jacket and a red jacket is talking into a microphone
+1806 0.4782755 A woman in a red dress and a man in a white shirt looks at a table in a room
+1807 0.618071 A young man in a yellow shirt walks along a beach next to a river on a sunny day
+1808 0.6943741 A person in a yellow kayak paddles over a river of water
+1809 0.2682948 A young woman in a blue plaid shirt and black pants sits on a bed looking out a window and looking at the camera
+1810 0.5724452 A man in a white shirt and glasses is talking into the camera while others are watching
+1811 0.6664098 A black and white bear sits on the ground in the water
+1812 0.4683145 A man in a red shirt opens a car and opens the door of a car and opens the door of a car
+1813 0.6171634 A man in a white shirt and glasses sits at a table in a room with a white wall behind him
+1814 0.3861583 A woman in a white dress stands in front of a large screen in a large room with a large screen in front of an audience
+1815 0.5589933 A group of musicians are playing an accordion and a woman sitting on a stage
+1816 0.5090166 A young man with glasses and a mustache is sitting in front of a white wall with his fingers
+1817 0.7710304 A man rides a bicycle down a hill on a sunny day
+1818 0.5503011 A man in a suit and a white shirt is standing in front of a crowd of people on a sunny day
+1819 0.5124506 A man plays guitar and sings into a microphone while another man plays guitar and sings into a microphone while a woman plays a guitar
+1820 0.8020118 A bride and groom are standing in front of a church
+1821 0.53995 A video of a building with a white fence on a wall outside on a sunny day
+1822 0.6122039 With music playing in the background in the daytime a young man is walking in the water in the day time
+1823 0.6565509 A man in a blue jacket is seen drifting in the air on a sunny day
+1824 0.4798734 A group of young people are in a gym and one of them jumps into the back of a gym
+1825 0.3760226 A man in a white shirt and a woman wearing a white shirt and black pants walks down a hallway
+1826 0.7466998 A group of white ducks are sitting on a table
+1827 0.5332687 A man in a red and black suit and a woman in a black suit speaks into a microphone
+1828 0.9002916 A man is playing a guitar on a stage
+1829 0.5313214 A boy in a yellow shirt and black pants jumps up and down on a wall outside on a sunny day
+1830 0.6518475 A young man in a blue shirt is holding a book in his hands outside on a sunny day
+1831 0.5755045 A group of young men and women are sitting around a table and one of them is eating a cake
+1832 0.5194562 A young white man wearing a white shirt and a blue shirt is standing in front of a building on a sunny day
+1833 0.292779 With music playing in the background on a sunny day a group of young men in white and white paddle are seen in the water
+1834 0.7732746 A man walks into a room and walks away
+1835 0.3666012 A man wearing a blue shirt and a blue shirt is rowing a boat on a river bank by a river boat
+1836 0.6992436 A young white man in a red shirt is standing in front of a white wall
+1837 0.4144973 A young woman in a green shirt and a young man in a black and white shirt are talking to each other in a room
+1838 0.03125 With music playing in the background
+1839 0.5066604 A man in a red hat and a white hat sits in a tent in the woods on a sunny day
+1840 0.8164122 A group of musicians are sitting on a stage
+1841 0.4379058 A group of young people wearing a yellow and blue shirts are standing in a circle on a sunny day
+1842 0.7607747 A man with a beard and mustache is talking to someone
+1843 0.7400862 A group of people are riding their bikes on a bicycle on a sunny day
+1844 0.5078024 A person wearing a yellow and yellow jacket and a white apron is indoors
+1845 0.5169708 A young man in a blue shirt climbs down a hill next to a rock wall
+1846 0.8478222 A man is dancing in front of an audience
+1847 0.6391785 A young woman with long black hair and a blue dress is talking to the camera
+1848 0.4010743 A man in a black suit and a woman in a white dress are standing next to a table in a room with a large table
+1849 0.4216986 A young woman and a young woman with long black hair and a red scarf is taking photos on a cell phone
+1850 0.5189154 A man in black and white jacket and black pants is walking in the water on a sunny day
+1851 0.6699605 A young woman in a white dress is dancing in the water in the daytime
+1852 0.4704943 A man in a white shirt and black shorts is seen in the middle of a waterfall on a sunny day
+1853 0.434967 A man in a black ski suit and a ski ski ski poles down a snowy hill on a sunny day
+1854 0.7312701 A group of people are standing in the middle of the stage at night
+1855 0.6458367 A bicyclist wearing a helmet and a white helmet rides his bike up a hill on a sunny day
+1856 0.03125 A young white woman in a
+1857 0.4076413 A man in a blue and white shirt and blue tie is holding a microphone and kisses his head
+1858 0.7979431 A person is walking on a white board
+1859 0.9071817 A young woman is talking into the camera
+1860 0.6274161 A man in a blue shirt rides a bicycle down a ramp in a playground
+1861 0.6081954 A man is driving a car and the driver pulls out of the car
+1862 0.4306812 A young man in a blue jacket sits on the ground in front of a stone wall as a young man looks on
+1863 0.4726414 A group of young Asian men sitting in chairs in front of a camera and one is talking into the camera
+1864 0.4886217 A young man in a blue shirt is jumping over a red and white board on a gym
+1865 0.6347233 A young man in a blue jacket walks along a lake next to a lake
+1866 0.6687919 A group of people are holding up a large blue and blue sky
+1867 0.5582084 A young woman with long dark hair and a blue shirt is sitting in the ocean on a cloudy day
+1868 0.758667 A man in a blue jacket is driving a car on a sunny day
+1869 0.3282005 A young man wearing a white shirt and black pants is carrying a young white man wearing a white shirt and black pants with a white tee shirt
+1870 0.4562327 A young man in a white shirt and black pants sits on a bench next to a wall in front of a house
+1871 0.5098645 A person with a red and white board is going up in the ocean on a sunny day
+1872 0.6538972 A man in a green shirt is doing a trick on a sunny day
+1873 0.6212285 Two young men sit on the beach with their heads on the beach during the day
+1874 0.6103743 A white bird is driving on a beach in the ocean
+1875 0.3956042 A man in a red shirt lies on the floor as a man in a red shirt and black shorts stands on the floor
+1876 0.5215022 A young man is dancing in a living room with a white curtain and a woman in the background
+1877 0.6207753 A shirtless man with a white shirt and black pants is holding a rope in his hand
+1878 0.6191924 A little girl in a pink jacket is sitting in a stroller on a cloudy day
+1879 0.7471897 A man in a blue shirt is talking to another woman in a room
+1880 0.5799956 A man in a red and white dress opens the door of a car parked in the street
+1881 0.9659075 A scuba diver swims underwater
+1882 0.7483418 A black and white horse is walking across the field
+1883 0.6181338 A man in a blue jacket is talking to a man in a blue shirt outside on a sunny day
+1884 0.2425217 A man in a blue shirt and a woman in a white shirt walks around a low table in a wooded area
+1885 0.2825527 A man in a black shirt and black pants is dancing around a fire with a man sitting on the floor of a
+1886 0.6180389 A group of young men dressed in black are on a rock wall
+1887 0.7221292 A man in a white shirt stands in front of a counter in a kitchen
+1888 0.9030226 a man opens a machine
+1889 0.3041758 On a sunny day in a field a man is moving around a corner of a car parked on a sunny day
+1890 0.8699995 With music playing in the background on a sunny day
+1891 0.4398004 A man in a blue jacket and a woman in a white jacket is standing in front of a large building on a sunny day
+1892 0.7283319 A group of men and women stand in front of a building in the daytime
+1893 0.7977225 A man is sitting in a room in the daytime
+1894 0.1499336 A group of young Asian men and a young boy are working on the floor of a large room with white walls and a
+1895 0.4372543 A large group of young men are standing in a large room with white writing on the other side of them
+1896 0.2642219 A young man in a blue shirt and blue jeans walks down a street with a woman and a man on the sidewalk
+1897 0.1704858 A young man wearing a blue jacket and a black jacket is standing in front of a store and another man is talking to another man
+1898 0.5166816 A person is holding a picture of a woman in a white dress and black pants
+1899 0.4770598 A young man in a blue shirt is talking to another young man in a pink shirt outside on a sunny day
+1900 0.7827186 A man is lying on the floor in a room
+1901 0.03125 A man in a blue shirt
+1902 0.4642649 A group of people are sitting on a bed and one of them is holding a baby in a room
+1903 0.7927361 A large body of water swim in water
+1904 0.7862752 A bride and groom are walking down the aisle of a church
+1905 0.3165353 A young man with a beard and a mustache wearing a red jacket is talking to someone off camera as another man looks at night
+1906 0.6595858 A man and woman sit at a dining table in a restaurant at an outdoor restaurant
+1907 0.6481713 A man is holding a knife and explaining something in a room
+1908 0.4596017 A man in a winter coat and a woman in a black hat is walking in the snow on a sunny day
+1909 0.4619971 A young man wearing a white shirt and black pants is standing in front of a wall of spectators
+1910 0.440182 A man in a white shirt and a woman in a white dress are standing next to a table in a room
+1911 0.4468099 A man in a white shirt walks around a corner with a man in a dark suit
+1912 0.8333464 The camera pans across a bridge during the day
+1913 0.3138313 A man in a white helmet and a woman wearing a white helmet and a white helmet is parasailing in the air
+1914 0.650842 A group of men dressed in black are standing in a large room
+1915 0.620893 Two men sit at a table and one of them holds a book in front of them
+1916 0.7648002 A man is looking at pictures on a screen in a room
+1917 0.3964493 A young man with a beard and a mustache wearing a black jacket is talking to a group of people in a room
+1918 0.7945589 A group of people are walking in the water
+1919 0.376002 A man in a Santa hat walks down a city street with a red and white truck on the street
+1920 0.3334643 A young man in a white shirt and black shorts is sitting on a white wall and a man in the water on a sunny day
+1921 0.8524418 A man is holding a piece of paper
+1922 0.6940427 a man talks to a woman in a white tee shirt outside on a sunny day
+1923 0.4453076 A man is standing in front of a mirror and a man in a room with a white wall behind him
+1924 0.5746295 A group of people are standing in a room with a white board on the wall behind them
+1925 0.7814656 A man is talking to a woman in a room
+1926 0.9987087 A woman is talking into the camera
+1927 0.8322438 A person is sitting at a table in a room
+1928 0.7390557 A group of people dressed in costumes are walking in the street on a sunny day
+1929 0.4944038 A group of young men in white shirts and white shirts are walking in a circle in a room during the day
+1930 0.7592905 A black and white bird is sitting on the ground in a forest at day time
+1931 0.8074517 A man in a blue shirt speaks into the camera in a room
+1932 0.6158358 A young man wearing a red shirt is sitting at a table in a room with a red wall
+1933 0.5074301 Two men sit at a table and one of them throws a paper on the other side of the table
+1934 0.545452 A man dressed in black walks along a city street as another man looks at him
+1935 0.8256992 A man is playing a record machine
+1936 0.5922335 A young man in a blue jacket and a blue jacket is looking at the train of a train station
+1937 0.8107451 A group of kids are playing in a park on a sunny day
+1938 0.7218576 A man in a blue shirt sits in a chair and speaks to a man in a room
+1939 0.8749588 A scuba diver is swimming in the water
+1940 0.3253666 A woman in a red dress holds a bouquet in her hand as a man in a black and white dress and a woman in a red dress
+1941 0.03125 A man wearing a red and
+1942 0.4555364 A young woman in a red dress stands in front of a microphone and speaks to a man in a red and white striped shirt
+1943 0.5900398 A group of men are carrying a large cattle in a forest
+1944 0.4902455 A young man in a blue shirt kicks a ball into a net and catches it in the air
+1945 0.2232086 A car in an open area in front of a large building with a large building in the back of a building during the day
+1946 0.6065748 A man in a yellow shirt is eating a plate of food in a kitchen
+1947 0.6295214 A man in a white tee shirt walks into a street in front of a building on a sunny day
+1948 0.4957378 A group of children are standing around and talking to a little girl standing on the floor
+1949 0.6177689 A man is sitting in a trash bags in a storage area in the daytime
+1950 0.8154487 Two men are fighting in a large room
+1951 0.6277233 A young white man in a blue shirt is sitting in a room in the daytime
+1952 0.7530712 A person is looking at the bottom of a computer screen
+1953 0.7657538 A black and white dog is running on the ground on a sunny day
+1954 0.6007077 A group of young Asian men and women dressed in white costumes are dancing outside on a sunny day
+1955 0.8183138 A group of musicians are performing tricks on a stage
+1956 0.4602272 A man in a room with a blue and white walls is talking to another man
+1957 0.8066206 A baseball player throws a ball on a base field
+1958 0.4338726 With music playing in the background on a sunny day a person in a blue shirt is seen from the top of a rocky mountain
+1959 0.4020494 A woman in a black leather jacket and black pants is taking a picture of a man in a white shirt and black pants
+1960 0.5474636 A man in a black shirt rides a car in front of a car parked in a parking lot during the day
+1961 0.6135604 A group of people stand on a stage lit up and down
+1962 0.7529844 A man in a green shirt rides a bike down a hill on a sunny day
+1963 0.2768176 A young man in a blue cap and a black cap walks up to a rock and picks up a hill on a sunny day
+1964 0.5714639 A man and a woman are sitting on a sofa and talking to a man sitting on a sofa in a room
+1965 0.6514985 A young woman with long hair is walking in the window of a room
+1966 0.5529085 A person is holding a bottle of water and a bottle of water is shown
+1967 0.683202 A man is walking on a busy street in front of a city street
+1968 0.7602655 A view of water is seen in the water
+1969 0.7051312 A man in a blue shirt and a blue baseball cap speaks into the camera
+1970 0.7419838 A man in a red kayak paddles a kayak down a river on a sunny day
+1971 0.4508801 A man in a white shirt and black pants is trying to climb up a rocky area outside on a sunny day
+1972 0.5134222 A woman in a white dress and a white dress is hanging from the camera outside on a sunny day
+1973 0.4745519 A young man in a blue shirt and blue shorts watches an object in an indoor gym
+1974 0.7458908 A person is cooking in a pan
+1975 0.5802943 A person walks into a house and walks out of the house into the house
+1976 0.5822501 A man in a green shirt walks along a road with trees in the background on a sunny day
+1977 0.5826612 A man in a black and white shirt and black pants is holding a piece of paper
+1978 0.7874242 A man is cooking in a kitchen
+1979 0.8050386 People are walking in the street during the day
+1980 0.5988461 A woman in a red dress sits in front of a table in a room with a Christmas tree
+1981 0.7593812 The camera pans across the water in a sunny day
+1982 0.6385006 A young man wearing a white tee shirt and black pants is jumping over a ramp in a park
+1983 0.7609047 A group of people are walking in a park on a sunny day
+1984 0.699585 A small boat is shown in the ocean on a sunny day
+1985 0.4423853 A woman in a white shirt and black pants sits in a chair with a stone wall in the daytime
+1986 0.8246152 A group of people are sitting outside on a sunny day
+1987 0.4674781 A person is holding a red heart and a hand over a red heart
+1988 0.3679983 A young boy in a blue and white striped shirt walks over a lawn and walks away from the house
+1989 0.720921 The video shows the Eiffel of the Eiffel Tower are shown
+1990 0.4433088 A young white woman with brown hair sits on a couch in a living room with a yellow wall behind her
+1991 0.7244078 A video of a person is shown
+1992 0.7263891 A man in a white shirt climbs up a rock wall outside on a sunny day
+1993 0.4541398 A group of men are running on a field and one of them throws the ball to the other
+1994 0.4908562 A small child in a black and white striped shirt and black pants is playing with toys in a gym
+1995 0.2895441 A man in a black jacket with a backpack walks along a street with a motorcycle and a dog as another man looks on
+1996 0.5921606 A group of men wearing red and white uniforms are sitting in a field on a sunny day
+1997 0.8502315 A young man is talking to the camera outdoors at day time
+1998 0.6721387 A view of a plane plane in the air
+1999 0.4318194 A man is driving a car in the passenger seat of a car and a man in the daytime
+2000 0.03125 A man in a white shirt
+2001 0.6351297 A small child wearing a black hat and sunglasses is singing in the street
+2002 0.4940515 a man in a blue plaid shirt and a woman in a blue plaid shirt is talking
+2003 0.1799551 A man in a black and white shirt and a woman in a black dress with a ring wearing a pink dress and a red tie
+2004 0.4080957 A woman in a pink shirt is standing in front of a table with a plastic bag on a sunny day
+2005 0.2978023 A woman in a blue jacket and a white jacket walks up to a man in a black and white shirt and pants
+2006 0.2362536 On a sunny day on a sunny day a man in a white shirt rides a <UNK> car in front of spectators
+2007 0.926459 A bride and groom are outdoors in the daytime
+2008 0.7071144 A person is holding a green bag on a finger
+2009 0.786819 A person is holding a brush hand
+2010 0.7159292 A group of people are standing in a large body of water
+2011 0.569073 A hand is holding a bottle and a bottle of liquid in it
+2012 0.5393217 A young man wearing a blue shirt and jeans is walking down a path in a park on a sunny day
+2013 0.5926044 A group of people are sitting on a stage holding a large screen in a large auditorium
+2014 0.9060227 A bride and groom are standing outside on a sunny day
+2015 0.5288755 A man in a white lab coat and a blue cap is talking to a person sitting on a table
+2016 0.6137781 A woman with long hair is walking in the middle of a road in the daytime
+2017 0.1681288 With music playing in the background in the daytime in the daytime a group of young women are running and the ground is running off the ground
+2018 0.03125 With music playing in the background
+2019 0.6960088 A large white bird is sitting on the ground on a cloudy day
+2020 0.5115489 A woman in a blue dress and a blue dress speaks to a group of people in a room
+2021 0.5938648 A man is sitting in a room with a large screen on it in a room
+2022 0.5412777 A man in a red jacket and a yellow jacket talks to a red car parked on a sunny day
+2023 0.7828963 A woman in a black sweater is talking in front of a wall
+2024 0.4949108 A woman in a black and white dress with black hair and a black and white dress stands in front of a microphone
+2025 0.5867854 A person with dark hair wearing a black jacket is moving his head
+2026 0.7149822 A black man in a black shirt smoking a cigarette and speaks into a microphone
+2027 0.6096228 A young white woman in a black and white swim trunks walks in the water
+2028 0.4787312 A man in a blue shirt and a woman in a blue shirt is standing on a mountain on a sunny day
+2029 0.1595928 A man in a black shirt walks along a city street next to a large fish and another man in a black wet suit
+2030 0.6993697 A group of people are sitting on a table in front of a church
+2031 0.7146133 A young man wearing a white shirt is sitting at a table in a room
+2032 0.775265 A group of young men and women are dancing in a room
+2033 0.4387615 A young man in a white shirt and black pants stands in front of a white wall as he talks to the camera
+2034 0.7096542 A young man wearing a blue jacket is holding a book in his hand
+2035 0.6968045 A man in a blue jacket is riding a bicycle down a mountain on a sunny day
+2036 0.7741428 A man in a band plays a guitar and sings into a microphone
+2037 0.6409953 A man in a white shirt is mixing something on a stove in a kitchen
+2038 0.782223 A man is riding a bike on a mountain outside on a sunny day
+2039 0.7349162 A group of people are standing on a swing on a sunny day
+2040 0.6429067 a group of men and women are walking in the middle of a rodeo
+2041 0.923494 A man is lying on a bed
+2042 0.4278671 A white and white video of a black box and a white woman is shown
+2043 0.6503764 A man in a white shirt and sunglasses stands in front of a boat on a sunny day
+2044 0.7334632 A man in a blue shirt walks across a grassy field on a sunny day
+2045 0.4752084 A man in a white shirt and a blue cap stands in front of a fish in the water
+2046 0.5262945 A woman in a black bathing suit and a black bathing suit sits on the edge of water
+2047 0.8655152 A surfer is swimming in the water
+2048 0.3513264 A man in a black baseball cap and a black baseball cap walks toward the camera and takes a picture of water
+2049 0.6459532 A man is sitting on a chair and looking at the camera in a room
+2050 0.03125 A black and white video of
+2051 0.6607274 at night a group of young people are dancing in a room
+2052 0.4253718 A man in a green shirt walks through a wooded area between two men and a woman in the woods
+2053 0.8446932 Someone is cutting a piece of food
+2054 0.7191981 A man in a black and white shirt sits in front of a cell phone
+2055 0.1843087 A young Asian man in a black jacket is playing with a young Asian man in a black suit and a black vest around his neck
+2056 0.6645605 A person is holding a bag of a bag on a sunny day
+2057 0.7164279 A man in a white shirt walks down a dirt road on a sunny day
+2058 0.6106744 A man and a woman in a white dress are sitting in a pool
+2059 0.9143376 a monkey plays a monkey outdoors at daytime
+2060 0.6786103 A man and a woman are walking in front of a parked cars on a sunny day
+2061 0.8192934 A group of women are walking around outside on a sunny day
+2062 0.6733413 A young white woman with black hair wearing a black sweater is holding a book in her hand
+2063 0.6432171 A man in a black and white shirt is holding a microphone in his hand
+2064 0.6989671 A man in a white helmet rides a bicycle down a street in front of a large building
+2065 0.4025708 A young woman with long hair and a red dress is laying on the floor of a room with pictures on the wall
+2066 0.4564061 A woman in a white shirt and black pants is holding a white cat on her head and a man
+2067 0.9559413 A person plays a guitar
+2068 0.2206725 A man in a blue shirt and a woman in a white dress and veil is <UNK> a <UNK> on a red carpet
+2069 0.5864874 A man with a white beard and a black man is singing
+2070 0.648914 A person is going down the slope of a snow covered mountain on a sunny day
+2071 0.6701624 A man in a suit and tie speaks to a woman in a white dress in a room
+2072 0.651633 A man walks into a room with another man and a woman wearing glasses
+2073 0.5190274 A man in a white shirt is kissing a young white woman in a white shirt outside on a sunny day
+2074 0.8596709 a person is holding a camera
+2075 0.5821834 A man in a blue shirt and a woman in a white shirt is walking in the woods on a sunny day
+2076 0.4013062 A man in a yellow jacket and a green jacket talks to a man in a green shirt and sunglasses on a bicycle
+2077 0.5917329 A woman in a blue dress lies on a bed next to a bed in front of a bed
+2078 0.5349811 A man in a black baseball cap sits on a table in a dark room in the daytime
+2079 0.6701282 A man and a woman stand in a room with a white wall
+2080 0.6216812 A young man in a blue shirt and a baseball cap walks in the woods on a sunny day
+2081 0.03125 A man in a black suit
+2082 0.8020612 A music is playing with music in the background
+2083 0.480743 A woman is taking a picture of a truck with people on the ground outside on a sunny day
+2084 0.451225 A young man in a white shirt and black pants jumps on the floor of a group of people in a gym
+2085 0.6671663 A person wearing a blue jacket walks down a mountain slope on a sunny day
+2086 0.174689 A young man in a red shirt and a blue cap sits in front of a wall with his hands and a flag on the wall
+2087 0.6239737 A man in a black suit and a woman in a black suit speaks into a microphone
+2088 0.9179379 A woman swims underwater in the ocean
+2089 0.6385136 A woman in a red cap and a hat is talking to someone in a room
+2090 0.7502737 A young man is sitting in a chair and speaks to the camera
+2091 0.7546788 A yellow leaves is shown in the water
+2092 0.5951804 A woman in a blue and white striped shirt rides a wave on a sunny day
+2093 0.3178989 A hand is shown in a red dress with a wooden floor in a room with a wooden floor
+2094 0.3322945 a man in a blue shirt and a woman in a white shirt and black pants plays a guitar in front of a white building
+2095 0.4648606 A man in a blue jacket and a hat walks in front of a snow covered in front of him
+2096 0.7105585 A cat is standing on a platform on a sunny day
+2097 0.565472 A man in a band plays a guitar and sings into a microphone while another man plays a guitar and sings in a room
+2098 0.8094889 A group of people dressed in costumes are on a stage
+2099 0.4573211 A man wearing a black and white shirt and a black top is holding a small object on a table
+2100 0.6457488 A young man wearing a white shirt and black pants is riding a bike on a bicycle in a park
+2101 0.4737588 A woman in a black and white striped shirt and a black and white striped shirt talks into a camera
+2102 0.8045745 A young woman is sitting on a couch talking to someone off camera
+2103 0.4750863 A man in a white shirt and a black cap stands on the side of a boat holding a fishing rod
+2104 0.6277524 A view of a large building is being filmed by many people
+2105 0.7525539 A young man and a young woman are kissing each other indoors
+2106 0.826524 A football player is dancing on a football field
+2107 0.7959353 A group of bicyclists are riding their bikes on a sunny day
+2108 0.8129088 The camera pans out of the water
+2109 0.03125 A man in a blue baseball
+2110 0.7739582 A man in a black shirt plays a guitar in a room
+2111 0.4714841 A black and white video of a black man with a mask on his left hand
+2112 0.6969241 A person is eating a plate of food
+2113 0.6864441 Two men are in a room with a large screen behind them
+2114 0.3778805 A young woman with long hair is wearing a white hat and a white shirt is using her fingers
+2115 0.6613592 A group of young men and women stand in front of a large building on a sunny day
+2116 0.5041514 A man with dark hair and a beard wearing a black suit and a tie is talking into the camera
+2117 0.5179013 A man in a white shirt and blue shorts walks across a field in front of an audience
+2118 0.7719538 A woman with long dark hair wearing a black dress is dancing in a room
+2119 0.570009 A hand is pouring over a table with a glass of water
+2120 0.6640345 A woman is smoking a cigarette and blows out of the face
+2121 0.9049142 a group of people dancing on a stage
+2122 0.8695 A young man is talking into the camera
+2123 0.1980758 A man in a black and white shirt and a black vest walks over a black man in a black and white shirt and a black vest
+2124 0.7341727 A <UNK> is moving in the water
+2125 0.8270472 A young man is sitting on a sofa in a living room
+2126 0.5685164 A man in a black shirt and black pants is dancing on a stage while another man watches
+2127 0.7013721 A young woman with long hair is sitting in a park on a cloudy day
+2128 0.5200245 A man in a suit and a woman in a white dress stands in front of a crowd of people
+2129 0.5485867 A man in a white tee shirt and blue jeans is holding a bottle in his hand outside on a sunny day
+2130 0.6332342 A young white woman with black hair and black top is talking to someone outdoors
+2131 0.5769949 A man in a blue suit and a woman walks across a stage in a large room
+2132 0.7913005 A group of people are walking around outside on a sunny day
+2133 0.8071779 A group of people are performing in the air
+2134 0.6309444 A young white woman in a white dress is drinking from a glass of water
+2135 0.693768 A woman in a red and white costume performs on a rope outside on a sunny day
+2136 0.2442283 With music in the background in the daytime a group of white are shown from the top of a black and white bowl
+2137 0.6231704 A little boy in a blue shirt and a blue shirt is dancing in a park on a sunny day
+2138 0.3132168 A young man in a white shirt and black pants and a white shirt is lying down in a bedroom with a white towel
+2139 0.5748038 A man in a suit and a tie is holding a microphone in a room with other people
+2140 0.3092659 A woman in a blue and white helmet and a blue helmet is holding a large <UNK> in the air
+2141 0.5473183 A shirtless man wearing a white shirt and black shorts is holding a large green ball
+2142 0.6354912 With music playing in the background on a sunny day a group of people are walking in the background
+2143 0.8364003 A black and white bird is walking in a field on a sunny day
+2144 0.6279463 A man with black hair and a black beard is looking into the camera
+2145 0.8095202 Two men are riding in a car in the day time
+2146 0.323756 A woman in a blue dress and a black man wearing a blue shirt and black pants is dancing in a room
+2147 0.6529018 A man is narrating in front of a plate of food
+2148 0.6238819 With music playing in the background in a room a young white man is holding a book
+2149 0.58897 A young man wearing a white shirt and a red shirt is sitting on the bed of the bed
+2150 0.6138499 A young man rides his skateboard down a ramp and jumps off of his skateboard outside on a sunny day
+2151 0.6351441 A man in a red jacket and a white helmet stands in front of a snow covered mountain on a sunny day
+2152 0.3483728 A young man is lying on the bed of a sleeping woman who is lying on the bed and looking at the camera
+2153 0.7442546 A pan is cooking on a wooden surface
+2154 0.3864178 The camera pans the camera in the middle of a white wall is shown on a green wall
+2155 0.03125 A young man in a white
+2156 0.496209 A man in a white jacket and a white helmet is standing in the snow on a cloudy day
+2157 0.6452236 A man with a beard wearing a hat is walking in the snow
+2158 0.6812408 A man in a black shirt is talking on a cell phone
+2159 0.6871755 A man in a blue shirt is standing on a rock in the daytime
+2160 0.283052 A young man wearing a white shirt and blue shorts is standing on the sidewalk in the street with his palm trees in the background
+2161 0.8342119 A group of people are walking down the street on a sunny day
+2162 0.8126678 A young man is jumping over a rock outside on a sunny day
+2163 0.560122 A man in a red jacket walks along a city sidewalk in front of a brick wall
+2164 0.7028099 A woman wearing glasses and a white shirt is looking at her cell phone
+2165 0.4457377 A man in a black suit and a woman in a black dress sit in a room with a white wall
+2166 0.8546893 A young woman with long brown hair is singing in a room
+2167 0.5826275 A person in a red apron is cooking a large bowl of food
+2168 0.8913147 Two boys play a game indoors
+2169 0.7340377 A cell phone in front of a cell phone is shown
+2170 0.1849626 A blond haired white man in a white shirt and a white young white woman in a white dress holding a bouquet of flowers in a park
+2171 0.7322675 A view of a plane is flying in the air on a sunny day
+2172 0.8489562 a woman in a kitchen talks to the camera in a kitchen
+2173 0.568453 A man in a red jacket talks to a man in a red jacket and holding a camera
+2174 0.03125 A man wearing a black and
+2175 0.034813 A woman in a red dress and a man in a suit and a woman in a white dress and a man wearing a black suit
+2176 0.6314005 A person in a blue jacket is jumping over a snow covered mountain in the snow
+2177 0.03125 On a city street at night
+2178 0.4905354 A group of people dressed in robes robes robes and blue robes are standing outside on a sunny day
+2179 0.7316825 2 men are sitting at a table in a large room
+2180 0.2533615 A young woman wearing a blue shirt and black shorts is taking a picture of a young boy holding a bouquet of flowers in her hand
+2181 0.70423 A large group of people are gathered in the street in the daytime
+2182 0.4847464 A man in a blue and white shirt is standing on a wooden board on a sunny day
+2183 0.5212612 On a sunny day in a field in the daytime a group of young men in black and white uniforms play with each other
+2184 0.6191105 A man in a white shirt and sunglasses is standing in a boat on a sunny day
+2185 0.2957177 A young man wearing a white shirt and black pants and a white shirt and black pants is holding a ball in the middle of the road
+2186 0.4749303 A large white building is shown with a large metal gate in front of a building in the daytime
+2187 0.551371 on a beach a man and a woman sit on a beach and falls down
+2188 0.7103448 A group of men and women are walking in a field on a sunny day
+2189 0.4722269 A man in a black and white shirt and black pants is holding a black and white object over his head
+2190 0.8405936 A group of people are walking in the street at day time
+2191 0.738113 A person is opening the door of a tunnel
+2192 0.5876154 A young man with a helmet is riding a motorcycle on a motorcycle outside on a sunny day
+2193 0.7080665 A man with black hair and a white shirt is looking into the camera
+2194 0.3641834 A man in a white shirt and a baseball cap and a man in a white shirt are standing outside on a sunny day
+2195 0.8519575 A small plane is driving on a runway on a sunny day
+2196 0.3265084 A young white man with a beard and a black hoodie is walking on the wall of a building during the day
+2197 0.7351208 A bride and groom walk down the aisle of a church
+2198 0.7019179 A group of girls are practicing their own in a park
+2199 0.4161416 A woman in a white dress is shown from the top of a man in a black shirt
+2200 0.8783397 A group of men playing basketball in a gym
+2201 0.3046605 A man in a black and white shirt and black pants is in a room with a table full of machines to the floor
+2202 0.555553 A man in a blue shirt and blue shorts is sitting in the water on a sunny day
+2203 0.3683068 A shirtless man with a beard and a baseball cap backwards on a beach next to a house on a sunny day
+2204 0.499442 A white man with a beard and a mustache wearing a black t-shirt is talking to another man in a room
+2205 0.3143009 A bicyclist wearing a helmet and a helmet wearing a yellow shirt and black pants is standing in front of a bike on a sunny day
+2206 0.6959915 A group of people are standing in a line on a sunny day
+2207 0.6056288 A woman in a white jacket and black pants stands on a large body of water
+2208 0.5947968 A black dog is sitting on the floor of a moving car in the daytime
+2209 0.50527 A man in a white shirt and a woman in a white tee shirt are standing in a parking lot on a city street
+2210 0.7891941 A young man wearing sunglasses and sunglasses is talking to the camera
+2211 0.5681892 A man in a black jacket and a black hat is walking on a snowy mountain
+2212 0.6396701 Two men on a green field on a sunny day
+2213 0.8186607 A young Asian girl is sitting in a park on a sunny day
+2214 0.6761381 A man in a red and white helmet is riding a motorcycle outside on a sunny day
+2215 0.6101773 A man in a white shirt is holding a book in a room with a white wall
+2216 0.491335 A door walks out of a house with the door of the door and a door
+2217 0.5063301 A woman in a white dress and a bouquet of flowers is talking to a group of people outside on a sunny day
+2218 0.7204403 A man in a red hat is talking to someone in the water
+2219 0.6161395 With music playing in the background on a clear sunny day a person is walking in the background
+2220 0.7931715 A group of people are standing in a large church
+2221 0.8078402 A bride and groom are smiling outdoors in the daytime
+2222 0.3547913 A man in a red jacket walks in a <UNK> area with a red and white <UNK> on it
+2223 0.7723858 A young man is sitting at a table in a large room
+2224 0.8200503 A man is jumping over a wall outside on a sunny day
+2225 0.6346123 A skier goes over a snow covered mountain and lands on a sunny day
+2226 0.5306947 With music playing in the background in the daytime in the daytime a group of men are walking in the woods
+2227 0.5977489 A woman wearing a black and white striped shirt and black pants is running on a beach
+2228 0.7632494 A man in a blue shirt is standing in front of a camera on a sunny day
+2229 0.8202999 A helicopter is flying in the sky on a sunny day
+2230 0.5610789 A person in a red shirt is mixing food into a bowl
+2231 0.2707223 A woman in a black dress is standing on the floor in a room with a white wall and chairs to the floor
+2232 0.2885334 A woman in a blue dress and a man in a tan jacket stands next to a man in a boat next to the water
+2233 0.7665503 A woman in a bathing suit walks across a lake on a sunny day
+2234 0.7760453 A young man is sitting on a sofa and talking to someone
+2235 0.8285095 A white male in a kitchen is mixing food in a kitchen
+2236 0.6568735 A young man in a blue shirt rides a bicycle down a street in the daytime
+2237 0.8050587 A gorilla is walking in the woods
+2238 0.69072 A large pot sits on a table in a kitchen
+2239 0.7764411 A man is sitting in a chair with another person
+2240 0.5500127 A man in a white robe and a gold crown is talking in a church
+2241 0.5871307 A woman wearing glasses and a hat is sitting at a table in a restaurant
+2242 0.03125 A woman in a black outfit
+2243 0.6833367 A man in a green kayak paddles down a rocky cliff on a sunny day
+2244 0.4680528 In a gym a boy in black shorts and a blue shirt throws a ball from a basket in a gym
+2245 0.9399563 A man in a black suit speaks into the camera
+2246 0.7065657 A young man in a blue shirt performs on a stage in front of a wall
+2247 0.6889176 A man and a woman are sitting on a wooden bench outside on a sunny day
+2248 0.6239842 A man in a suit and a tie talks to a group of people sitting at a table outside on a sunny day
+2249 0.7648291 A hand is walking on a wooden floor outside on a sunny day
+2250 0.9248335 A man in a black suit speaks into the camera
+2251 0.8547177 A boat is swimming in the water
+2252 0.8965702 Two men wrestle in a ring
+2253 0.5567181 A man in a white shirt and a red boat paddles a boat in the water on a sunny day
+2254 0.8512507 A young man wearing a red shirt is talking to someone in a room
+2255 0.6201329 A small white dog is sitting on the back of a house and looking at the camera
+2256 0.6140777 A group of men wearing black and white shirts are sitting in a circle on a sunny day
+2257 0.560188 Two <UNK> birds are walking in a room with a tree on a sunny day
+2258 0.7942789 A person is painting a black box in a room
+2259 0.3461888 A man in a blue shirt walks along a rocky path with a woman and a man in a green shirt
+2260 0.7198129 A man in a tuxedo walks across the room and speaks to someone off camera
+2261 0.6382368 a man in a blue shirt plays a guitar and sings in front of a group of people
+2262 0.03125 A young white woman in a
+2263 0.6026341 An Asian man is sitting in front of a large pot on a table
+2264 0.6784095 A group of people are standing around a large green ball
+2265 0.5647977 A person is pouring water from a blue plastic spoon in the water
+2266 0.7659358 Two white birds are flying in the sky on a sunny day
+2267 0.7607715 A group of young men and women are singing together indoors
+2268 0.3715271 With music playing in the background a young white man is holding a ball with his head on the side of a
+2269 0.6587076 A hand is holding a knife and a hand is holding a knife
+2270 0.7519688 A group of young men and women are dancing in the street at night
+2271 0.5688605 A woman in a white shirt lies on a bed and holds a baby in a room
+2272 0.795889 A man is driving a large tractor outside on a sunny day
+2273 0.4259008 A young white man with a microphone is talking to a young white woman with a microphone on the table inside a room
+2274 0.8265045 A young woman with long dark hair is talking to the camera
+2275 0.81806 A person is holding a piece of paper
+2276 0.6871919 With music in the background in the daytime a group of people are walking in a field
+2277 0.5053942 A man in a white shirt walks down the street to a woman in the street
+2278 0.8072094 A man is climbing a tree in the woods
+2279 0.6833252 A man in a gray suit walks in front of a large building in the daytime
+2280 0.7091121 a group of young men are sitting at a table in a restaurant
+2281 0.3450862 A white man in a white shirt is standing on a table in front of a large screen in a room with white walls
+2282 0.7204509 A large group of people are walking in the middle of the street in the daytime
+2283 0.5833358 With music in the background in the daytime a person is sitting in a restaurant
+2284 0.5954136 A group of young men and women in bathing suits are jumping up and down on a sunny day
+2285 0.4639164 A woman in a white dress and a white dress is sitting on a platform in a large room
+2286 0.5762186 A person wearing a black and white gloves and black pants is walking around in the snow
+2287 0.4654961 A man in a blue shirt and a woman in a black shirt sitting in a park next to a tree
+2288 0.7686263 A person in a ski jacket walks down a snowy hill on a sunny day
+2289 0.6733615 A video of a boat with a river in the water
+2290 0.4416217 A woman in a white shirt and black pants is holding a hand of a man in a white shirt and black shorts
+2291 0.03125 A car pulls out of a
+2292 0.1714866 A man in a blue shirt and a blue cap walks out of a train station in a large room with a large open window
+2293 0.3792548 A man wearing a black and white jacket is holding a knife on a dirt field
+2294 0.7696757 A man in a white shirt rides a bicycle down a city street at night
+2295 0.5607829 A man in a black and white striped shirt sits in a chair and talks to the camera in a room
+2296 0.247112 People are standing in a large room with people watching and a man with a beard and a red shirt
+2297 0.6347801 A group of people are standing on the edge of a body of water on a sunny day
+2298 0.4272548 A young man wearing a black top and black pants is jumping over a bridge over a ramp and falls down
+2299 0.248328 a man in a blue shirt and grey vest climbs up an escalator to the ground and then starts to the ground
+2300 0.8612394 A young man in a red hat speaks into the camera
+2301 0.7233085 A young white woman with long brown hair and a white top is singing in a room
+2302 0.2071065 A black and white bird is standing on the side of a wooden structure with a lot of white and white walls
+2303 0.3066541 A man in a white shirt and black pants sits on a beach next to a rocky area near a beach next to a
+2304 0.6670305 A group of people are sitting in the back seat of a plane vehicle on a sunny day
+2305 0.5713171 A group of young men are jumping up and down in a large rock formation
+2306 0.5170299 A young woman in a white dress sits on a bed in a room with a white dress and a
+2307 0.6552075 A woman in a blue shirt talks to a man sitting at a table in a room
+2308 0.9113947 A person is holding a cell phone

@@ -1,0 +1,12 @@
+1 0.7477350234985352>0.7 an individual is playing the guitar and singing while sitting in his room
+vsAn Asian man playing an electronic guitar in an indoor setting.
+
+2 0.7979079484939575>0.7 an african american man wearing sunglasses, blue shirt and tan hat is sitting in the driver's seat with his hands on steering wheel
+vsYoungish Man with straw hat wearing sunglasses, a watch, in a blue shirt sitting in the driver's seat in a car wearing seatbelt passing a hill with trees during a cloudy day
+
+3 0.7708775997161865>0.7 the man is looking at his reflection in bathroom mirror
+vsA white man wearing a green robe was picking something up in a bathroom but got scared.
+
+4 0.7038693428039551>0.7 an asian women's soccer team is shown in this video
+vsA crowd of people cheering in an enclosed space.
+
