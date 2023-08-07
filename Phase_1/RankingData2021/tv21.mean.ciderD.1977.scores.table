@@ -1,0 +1,15 @@
+results.RUC_AIM3.RUC_AIM3.vtt.description.run1.primary.txt.json.mean  0.360
+results.RUC_AIM3.RUC_AIM3.vtt.description.run2.txt.json.mean          0.359
+results.RUC_AIM3.RUC_AIM3.vtt.description.run4.txt.json.mean          0.336
+results.RUC_AIM3.RUC_AIM3.vtt.description.run3.txt.json.mean          0.324
+results.RUCMM.run_4.primary.txt.json.mean                             0.288
+results.RUCMM.run_2.txt.json.mean                                     0.255
+results.RUCMM.run_3.txt.json.mean                                     0.254
+results.RUCMM.run_1.txt.json.mean                                     0.253
+results.MMCUniAugsburg.MMCUniAugsburg.run1.primary.json.mean          0.178
+results.MMCUniAugsburg.MMCUniAugsburg.xla.run2.json.mean              0.137
+results.kslab.kslab_result2021.txt.json.mean                          0.060
+results.UEC.run_3.txt.json.mean                                       0.024
+results.UEC.run_4.txt.json.mean                                       0.023
+results.UEC.run_2.txt.json.mean                                       0.021
+results.UEC.run_1_primary.txt.json.mean                               0.019
